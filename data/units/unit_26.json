@@ -1,0 +1,2391 @@
+{
+  "unit_id": 26,
+  "unit_type": "Vocabulary",
+  "title": "Preference and leisure activities",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Preference",
+      "words": [
+        {
+          "word": "addiction",
+          "pos": "n",
+          "definition_en": "a strong need that someone feels to keep taking a drug or doing something harmful",
+          "definition_vi": "sự nghiện ngập",
+          "example": "His addiction to video games is affecting his schoolwork.",
+          "synonyms": ["dependency", "habit"],
+          "collocations": ["drug addiction", "addiction to"]
+        },
+        {
+          "word": "adore",
+          "pos": "v",
+          "definition_en": "to love someone very much and feel very proud of them",
+          "definition_vi": "yêu mến, mê mẩn",
+          "example": "I absolutely adore chocolate.",
+          "synonyms": ["love", "worship"],
+          "collocations": ["adore doing something", "absolutely adore"]
+        },
+        {
+          "word": "anticipation",
+          "pos": "n",
+          "definition_en": "a feeling of excitement about something that is going to happen",
+          "definition_vi": "sự mong đợi, sự dự đoán",
+          "example": "There was a lot of anticipation before the concert.",
+          "synonyms": ["expectation", "excitement"],
+          "collocations": ["in anticipation of", "filled with anticipation"]
+        },
+        {
+          "word": "appeal",
+          "pos": "v, n",
+          "definition_en": "to be attractive or interesting",
+          "definition_vi": "lôi cuốn, hấp dẫn",
+          "example": "The idea of a vacation really appeals to me.",
+          "synonyms": ["attract", "interest"],
+          "collocations": ["appeal to", "mass appeal"]
+        },
+        {
+          "word": "arbitrary",
+          "pos": "adj",
+          "definition_en": "decided without any reason or plan",
+          "definition_vi": "tùy hứng, độc đoán",
+          "example": "The decision was completely arbitrary.",
+          "synonyms": ["random", "chance"],
+          "collocations": ["arbitrary decision", "arbitrary choice"]
+        },
+        {
+          "word": "aspiration",
+          "pos": "n",
+          "definition_en": "something that you hope to achieve",
+          "definition_vi": "nguyện vọng, khát vọng",
+          "example": "Her aspiration is to become a doctor.",
+          "synonyms": ["ambition", "goal"],
+          "collocations": ["aspiration to", "career aspirations"]
+        },
+        {
+          "word": "bear",
+          "pos": "v",
+          "definition_en": "to accept something that is difficult or unpleasant",
+          "definition_vi": "chịu đựng",
+          "example": "I can't bear the heat.",
+          "synonyms": ["stand", "tolerate"],
+          "collocations": ["can't bear", "bear the cost"]
+        },
+        {
+          "word": "compulsory",
+          "pos": "adj",
+          "definition_en": "something that must be done because of a law or rule",
+          "definition_vi": "bắt buộc",
+          "example": "Math is a compulsory subject.",
+          "synonyms": ["mandatory", "obligatory"],
+          "collocations": ["compulsory education", "compulsory subject"]
+        },
+        {
+          "word": "content",
+          "pos": "adj",
+          "definition_en": "happy and satisfied",
+          "definition_vi": "hài lòng",
+          "example": "She was content with her life.",
+          "synonyms": ["satisfied", "happy"],
+          "collocations": ["content with", "perfectly content"]
+        },
+        {
+          "word": "craving",
+          "pos": "n",
+          "definition_en": "a very strong feeling of wanting something",
+          "definition_vi": "sự thèm muốn, khao khát",
+          "example": "I had a sudden craving for ice cream.",
+          "synonyms": ["desire", "urge"],
+          "collocations": ["craving for", "sudden craving"]
+        },
+        {
+          "word": "decline",
+          "pos": "v",
+          "definition_en": "to refuse politely to accept or to do something",
+          "definition_vi": "từ chối",
+          "example": "I offered to help, but she declined.",
+          "synonyms": ["refuse", "reject"],
+          "collocations": ["decline an invitation", "decline an offer"]
+        },
+        {
+          "word": "dedicated",
+          "pos": "adj",
+          "definition_en": "believing that something is very important and giving a lot of time and energy to it",
+          "definition_vi": "tận tâm, cống hiến",
+          "example": "She is a dedicated teacher.",
+          "synonyms": ["committed", "devoted"],
+          "collocations": ["dedicated to", "dedicated teacher"]
+        },
+        {
+          "word": "delight",
+          "pos": "v, n",
+          "definition_en": "to give someone great pleasure or satisfaction",
+          "definition_vi": "làm vui lòng, làm thích thú",
+          "example": "The new toy delighted the children.",
+          "synonyms": ["please", "charm"],
+          "collocations": ["delight someone", "be delighted to"]
+        },
+        {
+          "word": "desire",
+          "pos": "v, n",
+          "definition_en": "a strong hope or wish",
+          "definition_vi": "khao khát",
+          "example": "I have a strong desire to travel.",
+          "synonyms": ["wish", "want"],
+          "collocations": ["desire to do", "have a desire for"]
+        },
+        {
+          "word": "devote",
+          "pos": "v",
+          "definition_en": "to give most of your time, energy, etc. to someone or something",
+          "definition_vi": "cống hiến, dành hết cho",
+          "example": "He devoted his life to helping the poor.",
+          "synonyms": ["dedicate", "commit"],
+          "collocations": ["devote time to", "devote oneself to"]
+        },
+        {
+          "word": "differentiate",
+          "pos": "v",
+          "definition_en": "to recognize or show that two things are not the same",
+          "definition_vi": "phân biệt",
+          "example": "It's hard to differentiate between the two types of wine.",
+          "synonyms": ["distinguish", "discriminate"],
+          "collocations": ["differentiate between", "differentiate from"]
+        },
+        {
+          "word": "envy",
+          "pos": "v, n",
+          "definition_en": "to wish that you had someone else's possessions, abilities, etc.",
+          "definition_vi": "đố kỵ, ghen tị",
+          "example": "I envy your success.",
+          "synonyms": ["jealousy", "resentment"],
+          "collocations": ["envy someone", "green with envy"]
+        },
+        {
+          "word": "fancy",
+          "pos": "v",
+          "definition_en": "to want to have or do something",
+          "definition_vi": "thích, muốn",
+          "example": "Do you fancy going out tonight?",
+          "synonyms": ["desire", "want"],
+          "collocations": ["fancy doing", "fancy a drink"]
+        },
+        {
+          "word": "fascination",
+          "pos": "n",
+          "definition_en": "the state of being very interested in something",
+          "definition_vi": "sự mê hoặc, sự quyến rũ",
+          "example": "He has a fascination with ancient history.",
+          "synonyms": ["interest", "attraction"],
+          "collocations": ["fascination with", "total fascination"]
+        },
+        {
+          "word": "favour",
+          "pos": "v, n",
+          "definition_en": "to prefer someone or something",
+          "definition_vi": "ủng hộ, thiên vị",
+          "example": "The teacher favours the younger students.",
+          "synonyms": ["prefer", "support"],
+          "collocations": ["in favour of", "do someone a favour"]
+        },
+        {
+          "word": "greedy",
+          "pos": "adj",
+          "definition_en": "wanting more of something than you need",
+          "definition_vi": "tham lam",
+          "example": "Don't be greedy, leave some for the others.",
+          "synonyms": ["avaricious", "gluttonous"],
+          "collocations": ["greedy for", "greedy person"]
+        },
+        {
+          "word": "impulse",
+          "pos": "n",
+          "definition_en": "a sudden strong wish to do something",
+          "definition_vi": "sự thúc đẩy, bốc đồng",
+          "example": "I bought the dress on impulse.",
+          "synonyms": ["urge", "whim"],
+          "collocations": ["on impulse", "resist an impulse"]
+        },
+        {
+          "word": "inclined",
+          "pos": "adj",
+          "definition_en": "wanting to do something or likely to do something",
+          "definition_vi": "có khuynh hướng",
+          "example": "I'm inclined to agree with you.",
+          "synonyms": ["disposed", "prone"],
+          "collocations": ["inclined to", "feel inclined"]
+        },
+        {
+          "word": "liking",
+          "pos": "n",
+          "definition_en": "a feeling of enjoying or liking something",
+          "definition_vi": "sự ưa thích",
+          "example": "He has a liking for hot food.",
+          "synonyms": ["fondness", "taste"],
+          "collocations": ["liking for", "take a liking to"]
+        },
+        {
+          "word": "mediocre",
+          "pos": "adj",
+          "definition_en": "not very good; of only average quality",
+          "definition_vi": "tầm thường",
+          "example": "The movie was only mediocre.",
+          "synonyms": ["average", "ordinary"],
+          "collocations": ["mediocre performance", "mediocre quality"]
+        },
+        {
+          "word": "motive",
+          "pos": "n",
+          "definition_en": "the reason for doing something",
+          "definition_vi": "động cơ",
+          "example": "The police are looking for a motive.",
+          "synonyms": ["reason", "incentive"],
+          "collocations": ["motive for", "ulterior motive"]
+        },
+        {
+          "word": "mundane",
+          "pos": "adj",
+          "definition_en": "ordinary and not interesting or exciting",
+          "definition_vi": "tầm thường, vô vị",
+          "example": "I'm tired of my mundane job.",
+          "synonyms": ["dull", "boring"],
+          "collocations": ["mundane task", "mundane existence"]
+        },
+        {
+          "word": "obsessed",
+          "pos": "adj",
+          "definition_en": "thinking about someone or something all the time",
+          "definition_vi": "ám ảnh",
+          "example": "She is obsessed with her weight.",
+          "synonyms": ["preoccupied", "fixated"],
+          "collocations": ["obsessed with"]
+        },
+        {
+          "word": "optional",
+          "pos": "adj",
+          "definition_en": "something that is optional is available but you do not have to do it or use it",
+          "definition_vi": "tự chọn, không bắt buộc",
+          "example": "The course is optional.",
+          "synonyms": ["voluntary", "elective"],
+          "collocations": ["optional subject", "optional extra"]
+        },
+        {
+          "word": "passion",
+          "pos": "n",
+          "definition_en": "a very strong belief or feeling about something",
+          "definition_vi": "niềm đam mê",
+          "example": "Music is her passion.",
+          "synonyms": ["fervour", "enthusiasm"],
+          "collocations": ["passion for", "lifelong passion"]
+        },
+        {
+          "word": "praise",
+          "pos": "v, n",
+          "definition_en": "to say that you admire someone or something",
+          "definition_vi": "khen ngợi",
+          "example": "The teacher praised the student's work.",
+          "synonyms": ["commend", "laud"],
+          "collocations": ["praise someone for", "win praise"]
+        },
+        {
+          "word": "resolve",
+          "pos": "v, n",
+          "definition_en": "to make a firm decision to do something",
+          "definition_vi": "quyết tâm",
+          "example": "I resolved to work harder.",
+          "synonyms": ["determine", "decide"],
+          "collocations": ["resolve to do", "firm resolve"]
+        },
+        {
+          "word": "sacrifice",
+          "pos": "v, n",
+          "definition_en": "to give up something important in order to get something else",
+          "definition_vi": "hy sinh",
+          "example": "He sacrificed his career for his family.",
+          "synonyms": ["surrender", "forgo"],
+          "collocations": ["make a sacrifice", "sacrifice something for"]
+        },
+        {
+          "word": "strive",
+          "pos": "v",
+          "definition_en": "to make a great effort to achieve something",
+          "definition_vi": "phấn đấu, cố gắng",
+          "example": "We must strive for better results.",
+          "synonyms": ["endeavour", "try"],
+          "collocations": ["strive for", "strive to do"]
+        },
+        {
+          "word": "taste",
+          "pos": "n",
+          "definition_en": "the kind of things that you like",
+          "definition_vi": "sở thích, gu",
+          "example": "She has very good taste in clothes.",
+          "synonyms": ["preference", "liking"],
+          "collocations": ["taste in", "acquired taste"]
+        },
+        {
+          "word": "tempting",
+          "pos": "adj",
+          "definition_en": "something that is tempting seems very good and you would like to have it or do it",
+          "definition_vi": "hấp dẫn, cám dỗ",
+          "example": "The cake looks very tempting.",
+          "synonyms": ["attractive", "inviting"],
+          "collocations": ["tempting offer", "find something tempting"]
+        },
+        {
+          "word": "urge",
+          "pos": "v, n",
+          "definition_en": "to strongly suggest that someone does something",
+          "definition_vi": "thúc giục",
+          "example": "I urge you to reconsider.",
+          "synonyms": ["encourage", "press"],
+          "collocations": ["urge someone to", "resist the urge"]
+        },
+        {
+          "word": "welcome",
+          "pos": "v, adj",
+          "definition_en": "to say that you are pleased to accept something",
+          "definition_vi": "chào đón, hoan nghênh",
+          "example": "We welcome your suggestions.",
+          "synonyms": ["accept", "greet"],
+          "collocations": ["welcome a suggestion", "warm welcome"]
+        },
+        {
+          "word": "worthwhile",
+          "pos": "adj",
+          "definition_en": "useful, important, or good enough to be a suitable reward for the money or time spent or the effort made",
+          "definition_vi": "đáng giá",
+          "example": "It's a worthwhile cause.",
+          "synonyms": ["valuable", "beneficial"],
+          "collocations": ["worthwhile activity", "worthwhile project"]
+        },
+        {
+          "word": "yearn",
+          "pos": "v",
+          "definition_en": "to want something very much, especially when it is very difficult to get",
+          "definition_vi": "khao khát, mong mỏi",
+          "example": "I yearn for a quiet life.",
+          "synonyms": ["long", "crave"],
+          "collocations": ["yearn for", "yearn to do"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Leisure activities",
+      "words": [
+        {
+          "word": "absorbing",
+          "pos": "adj",
+          "definition_en": "very interesting and keeping your attention completely",
+          "definition_vi": "hấp dẫn, cuốn hút",
+          "example": "I found the book completely absorbing.",
+          "synonyms": ["captivating", "fascinating"],
+          "collocations": ["absorbing book", "completely absorbing"]
+        },
+        {
+          "word": "casual",
+          "pos": "adj",
+          "definition_en": "relaxed and not formal",
+          "definition_vi": "bình thường, không trịnh trọng",
+          "example": "He was wearing casual clothes.",
+          "synonyms": ["informal", "relaxed"],
+          "collocations": ["casual clothes", "casual atmosphere"]
+        },
+        {
+          "word": "exhilarating",
+          "pos": "adj",
+          "definition_en": "making you feel extremely happy and excited",
+          "definition_vi": "làm phấn chấn, hồ hởi",
+          "example": "Skiing is an exhilarating experience.",
+          "synonyms": ["thrilling", "exciting"],
+          "collocations": ["exhilarating experience", "exhilarating ride"]
+        },
+        {
+          "word": "fatigue",
+          "pos": "n",
+          "definition_en": "a feeling of being extremely tired",
+          "definition_vi": "sự mệt mỏi, kiệt sức",
+          "example": "The soldiers were suffering from fatigue.",
+          "synonyms": ["exhaustion", "tiredness"],
+          "collocations": ["mental fatigue", "chronic fatigue"]
+        },
+        {
+          "word": "idle",
+          "pos": "adj",
+          "definition_en": "not working or being used",
+          "definition_vi": "nhàn rỗi, lười biếng",
+          "example": "The machines have been idle for a week.",
+          "synonyms": ["inactive", "unused"],
+          "collocations": ["idle time", "idle threat"]
+        },
+        {
+          "word": "indulge",
+          "pos": "v",
+          "definition_en": "to allow yourself to have or do something that you enjoy",
+          "definition_vi": "nuông chiều, tận hưởng",
+          "example": "Go on, indulge yourself!",
+          "synonyms": ["pamper", "gratify"],
+          "collocations": ["indulge in", "indulge oneself"]
+        },
+        {
+          "word": "lifestyle",
+          "pos": "n",
+          "definition_en": "the way that you live",
+          "definition_vi": "lối sống",
+          "example": "He has a very healthy lifestyle.",
+          "synonyms": ["way of life"],
+          "collocations": ["healthy lifestyle", "lifestyle choice"]
+        },
+        {
+          "word": "leave",
+          "pos": "n",
+          "definition_en": "time that you are allowed to spend away from work",
+          "definition_vi": "nghỉ phép",
+          "example": "I'm on leave next week.",
+          "synonyms": ["holiday", "vacation"],
+          "collocations": ["on leave", "annual leave"]
+        },
+        {
+          "word": "outing",
+          "pos": "n",
+          "definition_en": "a short trip made by a group of people for pleasure",
+          "definition_vi": "cuộc dã ngoại, chuyến đi chơi",
+          "example": "We went on a family outing to the beach.",
+          "synonyms": ["excursion", "trip"],
+          "collocations": ["family outing", "day outing"]
+        },
+        {
+          "word": "pastime",
+          "pos": "n",
+          "definition_en": "an activity that you enjoy doing when you are not working",
+          "definition_vi": "trò giải trí, tiêu khiển",
+          "example": "Reading is my favourite pastime.",
+          "synonyms": ["hobby", "recreation"],
+          "collocations": ["favourite pastime", "popular pastime"]
+        },
+        {
+          "word": "pursue",
+          "pos": "v",
+          "definition_en": "to follow or try to achieve something over a period of time",
+          "definition_vi": "theo đuổi",
+          "example": "She is pursuing a career in law.",
+          "synonyms": ["follow", "seek"],
+          "collocations": ["pursue a career", "pursue a dream"]
+        },
+        {
+          "word": "recreation",
+          "pos": "n",
+          "definition_en": "activities that you do for pleasure",
+          "definition_vi": "sự giải trí",
+          "example": "The park is used for recreation.",
+          "synonyms": ["leisure", "amusement"],
+          "collocations": ["recreation area", "form of recreation"]
+        },
+        {
+          "word": "respite",
+          "pos": "n",
+          "definition_en": "a short period of rest from something unpleasant or difficult",
+          "definition_vi": "thời gian nghỉ ngơi, tạm hoãn",
+          "example": "The weekend provided a brief respite from work.",
+          "synonyms": ["break", "rest"],
+          "collocations": ["brief respite", "without respite"]
+        },
+        {
+          "word": "sedentary",
+          "pos": "adj",
+          "definition_en": "spending a lot of time sitting down",
+          "definition_vi": "ít vận động, ngồi nhiều",
+          "example": "He has a sedentary job.",
+          "synonyms": ["inactive", "desk-bound"],
+          "collocations": ["sedentary lifestyle", "sedentary occupation"]
+        },
+        {
+          "word": "socialise",
+          "pos": "v",
+          "definition_en": "to spend time with other people in a friendly way",
+          "definition_vi": "giao lưu, kết bạn",
+          "example": "He likes to socialise with his colleagues.",
+          "synonyms": ["mix", "mingle"],
+          "collocations": ["socialise with", "socialise more"]
+        },
+        {
+          "word": "solitude",
+          "pos": "n",
+          "definition_en": "the state of being alone, especially when you find this pleasant",
+          "definition_vi": "sự tĩnh mịch, biệt lập",
+          "example": "She enjoyed the solitude of the forest.",
+          "synonyms": ["privacy", "isolation"],
+          "collocations": ["in solitude", "peaceful solitude"]
+        },
+        {
+          "word": "tedious",
+          "pos": "adj",
+          "definition_en": "boring and continuing for too long",
+          "definition_vi": "tẻ nhạt, chán ngắt",
+          "example": "The lecture was incredibly tedious.",
+          "synonyms": ["dull", "monotonous"],
+          "collocations": ["tedious task", "tedious work"]
+        },
+        {
+          "word": "trivial",
+          "pos": "adj",
+          "definition_en": "not very important, serious, or valuable",
+          "definition_vi": "vụn vặt, không quan trọng",
+          "example": "It was just a trivial matter.",
+          "synonyms": ["minor", "insignificant"],
+          "collocations": ["trivial detail", "trivial problem"]
+        },
+        {
+          "word": "unwind",
+          "pos": "v",
+          "definition_en": "to relax after a period of work or tension",
+          "definition_vi": "thư giãn",
+          "example": "I like to unwind with a good book.",
+          "synonyms": ["relax", "de-stress"],
+          "collocations": ["unwind after work", "unwind with"]
+        },
+        {
+          "word": "venue",
+          "pos": "n",
+          "definition_en": "a place where an organized meeting, concert, etc. takes place",
+          "definition_vi": "địa điểm tổ chức",
+          "example": "The stadium is the perfect venue for the concert.",
+          "synonyms": ["location", "place"],
+          "collocations": ["concert venue", "perfect venue"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "centre around",
+          "pos": "v",
+          "definition_en": "if something centres around someone or something, they are its main subject",
+          "definition_vi": "xoay quanh",
+          "example": "The story centres around a young girl and her dog.",
+          "synonyms": ["revolve around", "focus on"],
+          "collocations": ["centre around someone", "centre around an idea"]
+        },
+        {
+          "word": "get into",
+          "pos": "v",
+          "definition_en": "start enjoying something or become enthusiastic about it",
+          "definition_vi": "bắt đầu thích/đam mê",
+          "example": "I'm really getting into jazz these days.",
+          "synonyms": ["become interested in"],
+          "collocations": ["get into a hobby", "get into music"]
+        },
+        {
+          "word": "go in for",
+          "pos": "v",
+          "definition_en": "enjoy a particular thing or activity",
+          "definition_vi": "thích/theo đuổi sở thích",
+          "example": "I don't go in for team sports.",
+          "synonyms": ["favour", "like"],
+          "collocations": ["go in for a competition", "go in for sports"]
+        },
+        {
+          "word": "go off",
+          "pos": "v",
+          "definition_en": "stop liking someone or something",
+          "definition_vi": "hết thích",
+          "example": "I've gone off coffee lately.",
+          "synonyms": ["lose interest in"],
+          "collocations": ["go off something", "go off someone"]
+        },
+        {
+          "word": "grow on",
+          "pos": "v",
+          "definition_en": "if something or someone grows on you, you start to like them more",
+          "definition_vi": "dần làm cho mình thích",
+          "example": "I didn't like the song at first, but it's growing on me.",
+          "synonyms": ["become more attractive"],
+          "collocations": ["grow on someone"]
+        },
+        {
+          "word": "hang out",
+          "pos": "v",
+          "definition_en": "spend time in a particular place or with particular people",
+          "definition_vi": "đi chơi, dành thời gian tại",
+          "example": "We used to hang out at the mall.",
+          "synonyms": ["spend time", "socialise"],
+          "collocations": ["hang out with friends", "hang out at a place"]
+        },
+        {
+          "word": "keep up",
+          "pos": "v",
+          "definition_en": "continue to do something",
+          "definition_vi": "duy trì, tiếp tục",
+          "example": "You're doing a great job, keep up the good work!",
+          "synonyms": ["maintain", "continue"],
+          "collocations": ["keep up the pace", "keep up with"]
+        },
+        {
+          "word": "laze around",
+          "pos": "v",
+          "definition_en": "relax and enjoy yourself, doing no work",
+          "definition_vi": "nghỉ ngơi lười biếng",
+          "example": "We spent the weekend lazing around the pool.",
+          "synonyms": ["idle", "relax"],
+          "collocations": ["laze around all day", "laze around the house"]
+        },
+        {
+          "word": "mess about/around",
+          "pos": "v",
+          "definition_en": "spend time doing things in a relaxed way",
+          "definition_vi": "làm việc linh tinh, chơi bời",
+          "example": "Stop messing about and do your homework!",
+          "synonyms": ["fool around", "play"],
+          "collocations": ["mess about with", "mess around in the garden"]
+        },
+        {
+          "word": "pick up",
+          "pos": "v",
+          "definition_en": "learn a new skill or start a habit without intending to",
+          "definition_vi": "học lỏm, bắt đầu một thói quen",
+          "example": "I picked up a few words of Spanish while on holiday.",
+          "synonyms": ["learn", "acquire"],
+          "collocations": ["pick up a language", "pick up a skill"]
+        },
+        {
+          "word": "put in",
+          "pos": "v",
+          "definition_en": "spend a particular amount of time or effort doing something",
+          "definition_vi": "dành thời gian/công sức",
+          "example": "She's put in a lot of work on this project.",
+          "synonyms": ["invest", "spend"],
+          "collocations": ["put in time", "put in effort"]
+        },
+        {
+          "word": "seek out",
+          "pos": "v",
+          "definition_en": "find someone or something by looking for them in a determined way",
+          "definition_vi": "tìm kiếm, săn tìm",
+          "example": "I sought out the quietest spot in the park.",
+          "synonyms": ["look for", "search for"],
+          "collocations": ["seek out someone", "seek out information"]
+        },
+        {
+          "word": "take in",
+          "pos": "v",
+          "definition_en": "include something",
+          "definition_vi": "bao gồm",
+          "example": "The tour takes in several historic sites.",
+          "synonyms": ["include", "incorporate"],
+          "collocations": ["take in a show", "take in the sights"]
+        },
+        {
+          "word": "take off",
+          "pos": "v",
+          "definition_en": "have a particular amount of time away from work",
+          "definition_vi": "nghỉ ngơi (khỏi công việc)",
+          "example": "I'm taking two weeks off in July.",
+          "synonyms": ["take a break"],
+          "collocations": ["take a day off", "take time off"]
+        },
+        {
+          "word": "take out",
+          "pos": "v",
+          "definition_en": "take someone to a place like a cinema and usually pay for them",
+          "definition_vi": "mời đi chơi/đi ăn",
+          "example": "He took her out for dinner.",
+          "synonyms": ["entertain"],
+          "collocations": ["take someone out", "take out for a meal"]
+        },
+        {
+          "word": "warm up",
+          "pos": "v",
+          "definition_en": "prepare for a sport or activity by doing gentle exercises",
+          "definition_vi": "khởi động",
+          "example": "It's important to warm up before you exercise.",
+          "synonyms": ["prepare", "loosen up"],
+          "collocations": ["warm up exercises", "a quick warm-up"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrases, patterns and collocations",
+      "words": [
+        {
+          "word": "choice",
+          "pos": "n",
+          "definition_en": "Patterns and collocations for 'choice'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'choice'",
+          "example": "make a choice, exercise choice, have no choice, choice between, choice of, personal/parental/consumer choice, informed choice, wide choice, obvious choice",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "choose",
+          "pos": "v",
+          "definition_en": "Patterns and collocations for 'choose'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'choose'",
+          "example": "choose from, choose between, choose sb/sth as, choose sb/sth out of, choose to do, pick and choose, nothing/little to choose between",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "decide",
+          "pos": "v",
+          "definition_en": "Patterns and collocations for 'decide'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'decide'",
+          "example": "decide to do, decide against/in favour of, decide that, decide between, decide for yourself, decide on",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "delight",
+          "pos": "v, n",
+          "definition_en": "Patterns and collocations for 'delight'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'delight'",
+          "example": "delight in doing, take (great) delight in doing, to sb's delight, with/in delight",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "eager",
+          "pos": "adj",
+          "definition_en": "Patterns and collocations for 'eager'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'eager'",
+          "example": "eager to do, eager for, only too eager to do",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "free",
+          "pos": "adj",
+          "definition_en": "Patterns and collocations for 'free'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'free'",
+          "example": "set sb free, let sb go free, free sb from, walk free, free to do, free from, free and easy, free time",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "impulse",
+          "pos": "n",
+          "definition_en": "Patterns and collocations for 'impulse'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'impulse'",
+          "example": "act on impulse, do sth on impulse, control/resist an impulse, an impulse to do",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "keen",
+          "pos": "adj",
+          "definition_en": "Patterns and collocations for 'keen'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'keen'",
+          "example": "keen (for sb) to do, keen on, keen interest in",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "leisure",
+          "pos": "n",
+          "definition_en": "Patterns and collocations for 'leisure'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'leisure'",
+          "example": "have the leisure to do, at your leisure, leisure centre, leisure pursuits, leisure time",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "like",
+          "pos": "v, prep",
+          "definition_en": "Patterns and collocations for 'like'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'like'",
+          "example": "like (sb) to do, like doing, like it when, just like, anything/nothing like, it's not like sb to do, like crazy/mad, like so, something like",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "need",
+          "pos": "v, n",
+          "definition_en": "Patterns and collocations for 'need'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'need'",
+          "example": "need (sb) to do, need do, need doing, meet a need, have no need of, in need (of)",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "off",
+          "pos": "prep, adv",
+          "definition_en": "Patterns and collocations for 'off'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'off'",
+          "example": "have/take/be given the day off, have/take/be given time off, off work/college, off sick",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "opt",
+          "pos": "v",
+          "definition_en": "Patterns and collocations for 'opt'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'opt'",
+          "example": "opt for, opt to do",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "option",
+          "pos": "n",
+          "definition_en": "Patterns and collocations for 'option'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'option'",
+          "example": "have no option (but to do), consider your options, the option of doing, the option to do, keep/leave your options open",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "play",
+          "pos": "v, n",
+          "definition_en": "Patterns and collocations for 'play'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'play'",
+          "example": "play against/for, play at, play by yourself, play for time, play the fool, play sth by ear, at play",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "praise",
+          "pos": "v, n",
+          "definition_en": "Patterns and collocations for 'praise'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'praise'",
+          "example": "praise sb for doing, win/earn/deserve praise, full of praise for, in praise of",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "prefer",
+          "pos": "v",
+          "definition_en": "Patterns and collocations for 'prefer'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'prefer'",
+          "example": "prefer sth to, prefer (sb) to do, prefer doing, would prefer (that), would prefer it if",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "rest",
+          "pos": "v, n",
+          "definition_en": "Patterns and collocations for 'rest'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'rest'",
+          "example": "rest sth on/against, rest assured that, take/have a rest (from), get some rest, come to rest, at rest",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "taste",
+          "pos": "n",
+          "definition_en": "Patterns and collocations for 'taste'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'taste'",
+          "example": "develop/have a taste for, in good/bad taste, sense of taste, acquired taste",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "want",
+          "pos": "v",
+          "definition_en": "Patterns and collocations for 'want'",
+          "definition_vi": "Các cấu trúc và từ đi kèm với 'want'",
+          "example": "want (sb) to do, want sth done, for want of",
+          "synonyms": [],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "at a loose end",
+          "pos": "idiom",
+          "definition_en": "with nothing in particular to do",
+          "definition_vi": "rảnh rỗi, không có việc gì làm",
+          "example": "If you're at a loose end this weekend, why not come over?",
+          "synonyms": ["idle"],
+          "collocations": ["be at a loose end"]
+        },
+        {
+          "word": "couch potato",
+          "pos": "idiom",
+          "definition_en": "someone who spends a lot of time sitting at home watching television",
+          "definition_vi": "người lười vận động, chỉ thích ngồi xem TV",
+          "example": "He's become a bit of a couch potato since he bought that new TV.",
+          "synonyms": ["lazy person"],
+          "collocations": ["become a couch potato"]
+        },
+        {
+          "word": "do sth on a whim",
+          "pos": "idiom",
+          "definition_en": "do because of a sudden feeling that you must have or do something",
+          "definition_vi": "làm gì đó bộc phát/tùy hứng",
+          "example": "I decided to go to Paris on a whim.",
+          "synonyms": ["on impulse"],
+          "collocations": ["on a whim"]
+        },
+        {
+          "word": "have time on your hands",
+          "pos": "idiom",
+          "definition_en": "have more time available than you need",
+          "definition_vi": "có quá nhiều thời gian rảnh",
+          "example": "Now that the kids are at school, I have a lot of time on my hands.",
+          "synonyms": ["free time"],
+          "collocations": ["time on one's hands"]
+        },
+        {
+          "word": "let your hair down",
+          "pos": "idiom",
+          "definition_en": "relax and enjoy yourself because you are in a comfortable environment",
+          "definition_vi": "xõa, thư giãn hết mình",
+          "example": "It's the weekend, let your hair down!",
+          "synonyms": ["unwind", "relax"],
+          "collocations": ["let one's hair down"]
+        },
+        {
+          "word": "life and soul of the party",
+          "pos": "idiom",
+          "definition_en": "someone who is very lively at social events",
+          "definition_vi": "linh hồn của bữa tiệc",
+          "example": "He's always the life and soul of the party.",
+          "synonyms": ["extrovert"],
+          "collocations": ["be the life and soul of the party"]
+        },
+        {
+          "word": "put your feet up",
+          "pos": "idiom",
+          "definition_en": "sit down and relax, especially with your feet raised off the ground",
+          "definition_vi": "nghỉ ngơi, thư giãn",
+          "example": "Go and put your feet up for a while.",
+          "synonyms": ["rest"],
+          "collocations": ["put one's feet up"]
+        },
+        {
+          "word": "recharge your batteries",
+          "pos": "idiom",
+          "definition_en": "rest after being very busy, so that you will be ready to start working again",
+          "definition_vi": "nạp lại năng lượng",
+          "example": "I need a holiday to recharge my batteries.",
+          "synonyms": ["rest", "recover"],
+          "collocations": ["recharge one's batteries"]
+        },
+        {
+          "word": "set your heart on",
+          "pos": "idiom",
+          "definition_en": "decide that you want something very much",
+          "definition_vi": "quyết tâm đạt được cái gì",
+          "example": "She's set her heart on becoming a doctor.",
+          "synonyms": ["be determined to"],
+          "collocations": ["set one's heart on something"]
+        },
+        {
+          "word": "variety is the spice of life",
+          "pos": "idiom",
+          "definition_en": "used for saying that different experiences and situations make life enjoyable or interesting",
+          "definition_vi": "thay đổi là hương vị của cuộc sống",
+          "example": "I like trying new things – variety is the spice of life!",
+          "synonyms": [],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Word formation",
+      "words": [
+        {
+          "word": "available",
+          "pos": "adj",
+          "definition_en": "Forms of 'available'",
+          "definition_vi": "Các dạng từ của 'available'",
+          "example": "available, (un)availability, unavailable",
+          "synonyms": [],
+          "collocations": ["(un)availability", "unavailable"]
+        },
+        {
+          "word": "choose",
+          "pos": "v",
+          "definition_en": "Forms of 'choose'",
+          "definition_vi": "Các dạng từ của 'choose'",
+          "example": "choose, chose, chosen, choosy",
+          "synonyms": [],
+          "collocations": ["chose", "chosen", "choosy"]
+        },
+        {
+          "word": "desire",
+          "pos": "v, n",
+          "definition_en": "Forms of 'desire'",
+          "definition_vi": "Các dạng từ của 'desire'",
+          "example": "desire, (un)desirable, desirous, desired, (un)desirably",
+          "synonyms": [],
+          "collocations": ["(un)desirable", "desirous", "desired", "(un)desirably"]
+        },
+        {
+          "word": "do",
+          "pos": "v",
+          "definition_en": "Forms of 'do'",
+          "definition_vi": "Các dạng từ của 'do'",
+          "example": "do, overdo, outdo, redo, undo, doing, doings",
+          "synonyms": [],
+          "collocations": ["overdo", "outdo", "redo", "undo", "doing", "doings"]
+        },
+        {
+          "word": "envy",
+          "pos": "v, n",
+          "definition_en": "Forms of 'envy'",
+          "definition_vi": "Các dạng từ của 'envy'",
+          "example": "envy, (un)enviable, (un)enviably, envious(ly)",
+          "synonyms": [],
+          "collocations": ["(un)enviable", "(un)enviably", "envious(ly)"]
+        },
+        {
+          "word": "leisure",
+          "pos": "n",
+          "definition_en": "Forms of 'leisure'",
+          "definition_vi": "Các dạng từ của 'leisure'",
+          "example": "leisure, leisured, leisurely",
+          "synonyms": [],
+          "collocations": ["leisured", "leisurely"]
+        },
+        {
+          "word": "motive",
+          "pos": "n",
+          "definition_en": "Forms of 'motive'",
+          "definition_vi": "Các dạng từ của 'motive'",
+          "example": "motive, (de)motivated, (de)motivator, (de)motivation, (de)motivating, motivational",
+          "synonyms": [],
+          "collocations": ["(de)motivated", "(de)motivator", "(de)motivation", "(de)motivating", "motivational"]
+        },
+        {
+          "word": "obsess",
+          "pos": "v",
+          "definition_en": "Forms of 'obsess'",
+          "definition_vi": "Các dạng từ của 'obsess'",
+          "example": "obsess, obsession, obsessed, obsessive(ly)",
+          "synonyms": [],
+          "collocations": ["obsession", "obsessed", "obsessive(ly)"]
+        },
+        {
+          "word": "play",
+          "pos": "v, n",
+          "definition_en": "Forms of 'play'",
+          "definition_vi": "Các dạng từ của 'play'",
+          "example": "play, replay, overplay, downplay, player, playful(ly)",
+          "synonyms": [],
+          "collocations": ["replay", "overplay", "downplay", "player", "playful(ly)"]
+        },
+        {
+          "word": "prefer",
+          "pos": "v",
+          "definition_en": "Forms of 'prefer'",
+          "definition_vi": "Các dạng từ của 'prefer'",
+          "example": "prefer, preference, preferable, preferred, preferential, preferably",
+          "synonyms": [],
+          "collocations": ["preference", "preferable", "preferred", "preferential", "preferably"]
+        },
+        {
+          "word": "pursue",
+          "pos": "v",
+          "definition_en": "Forms of 'pursue'",
+          "definition_vi": "Các dạng từ của 'pursue'",
+          "example": "pursue, pursuit, pursuer",
+          "synonyms": [],
+          "collocations": ["pursuit", "pursuer"]
+        },
+        {
+          "word": "relax",
+          "pos": "v",
+          "definition_en": "Forms of 'relax'",
+          "definition_vi": "Các dạng từ của 'relax'",
+          "example": "relax, relaxation, relaxing, relaxed",
+          "synonyms": [],
+          "collocations": ["relaxation", "relaxing", "relaxed"]
+        },
+        {
+          "word": "rest",
+          "pos": "v, n",
+          "definition_en": "Forms of 'rest'",
+          "definition_vi": "Các dạng từ của 'rest'",
+          "example": "rest, restlessness, unrest, restive, restful(ly), restless(ly)",
+          "synonyms": [],
+          "collocations": ["restlessness", "unrest", "restive", "restful(ly)", "restless(ly)"]
+        },
+        {
+          "word": "rhythm",
+          "pos": "n",
+          "definition_en": "Forms of 'rhythm'",
+          "definition_vi": "Các dạng từ của 'rhythm'",
+          "example": "rhythm, rhythmic(al), rhythmically",
+          "synonyms": [],
+          "collocations": ["rhythmic(al)", "rhythmically"]
+        },
+        {
+          "word": "satisfy",
+          "pos": "v",
+          "definition_en": "Forms of 'satisfy'",
+          "definition_vi": "Các dạng từ của 'satisfy'",
+          "example": "satisfy, dissatisfy, (un)satisfactory, (dis)satisfied, (un)satisfying(ly), satisfactorily",
+          "synonyms": [],
+          "collocations": ["dissatisfy", "(un)satisfactory", "(dis)satisfied", "(un)satisfying(ly)", "satisfactorily"]
+        },
+        {
+          "word": "select",
+          "pos": "v",
+          "definition_en": "Forms of 'select'",
+          "definition_vi": "Các dạng từ của 'select'",
+          "example": "select, deselect, selection, selective(ly)",
+          "synonyms": [],
+          "collocations": ["deselect", "selection", "selective(ly)"]
+        },
+        {
+          "word": "sport",
+          "pos": "n",
+          "definition_en": "Forms of 'sport'",
+          "definition_vi": "Các dạng từ của 'sport'",
+          "example": "sport, sportsman/woman/person, sportsmanship, sports, sporting, sporty",
+          "synonyms": [],
+          "collocations": ["sportsman/woman/person", "sportsmanship", "sports", "sporting", "sporty"]
+        },
+        {
+          "word": "stimulate",
+          "pos": "v",
+          "definition_en": "Forms of 'stimulate'",
+          "definition_vi": "Các dạng từ của 'stimulate'",
+          "example": "stimulate, stimulation, stimulant, stimulus, stimuli, stimulating, stimulated",
+          "synonyms": [],
+          "collocations": ["stimulation", "stimulant", "stimulus", "stimuli", "stimulating", "stimulated"]
+        },
+        {
+          "word": "tend",
+          "pos": "v",
+          "definition_en": "Forms of 'tend'",
+          "definition_vi": "Các dạng từ của 'tend'",
+          "example": "tend, tendency",
+          "synonyms": [],
+          "collocations": ["tendency"]
+        },
+        {
+          "word": "zeal",
+          "pos": "n",
+          "definition_en": "Forms of 'zeal'",
+          "definition_vi": "Các dạng từ của 'zeal'",
+          "example": "zeal, zealot, zealous(ly)",
+          "synonyms": [],
+          "collocations": ["zealot", "zealous(ly)"]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u26_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Although she would have preferred to carry on working, my mum ___ her career in order to have children.",
+          "options": ["devoted", "repealed", "sacrificed", "abolished"],
+          "answer": "C",
+          "explanation": "To 'sacrifice' a career means to give it up for something else considered more important."
+        },
+        {
+          "number": 2,
+          "sentence": "I find the offer quite ___ , but I think I'd rather study at Oxford.",
+          "options": ["tempting", "desirous", "inclined", "envious"],
+          "answer": "A",
+          "explanation": "A 'tempting' offer is one that is attractive and makes you want to accept it."
+        },
+        {
+          "number": 3,
+          "sentence": "I don't normally like noisy clubs, but I had a sudden ___ to see what the Blue Parrot was like.",
+          "options": ["force", "motive", "pressure", "impulse"],
+          "answer": "D",
+          "explanation": "An 'impulse' is a sudden strong desire to do something without thinking about the results."
+        },
+        {
+          "number": 4,
+          "sentence": "Jerry loves snowboarding so much that it's almost like a drug ___ .",
+          "options": ["passion", "obsession", "addiction", "requirement"],
+          "answer": "C",
+          "explanation": "An 'addiction' is a strong need that someone has to have something or do something, like a drug."
+        },
+        {
+          "number": 5,
+          "sentence": "I don't want to do the course in applied statistics, but it's ___ .",
+          "options": ["compulsory", "inevitable", "bound", "indecisive"],
+          "answer": "A",
+          "explanation": "'Compulsory' means that something must be done because of a rule or law."
+        },
+        {
+          "number": 6,
+          "sentence": "Don't worry about me - I'm quite ___ to sit here and wait for you to come back.",
+          "options": ["ecstatic", "delighted", "joyful", "content"],
+          "answer": "D",
+          "explanation": "To be 'content' means to be happy and satisfied with what you have or with a situation."
+        },
+        {
+          "number": 7,
+          "sentence": "When I was pregnant, I often got a sudden ___ for tinned sardines.",
+          "options": ["preference", "craving", "envy", "greed"],
+          "answer": "B",
+          "explanation": "A 'craving' is a very strong feeling of wanting something, especially a particular type of food."
+        },
+        {
+          "number": 8,
+          "sentence": "Thank you for thinking of us, but I'm afraid we're going to have to ___ your kind invitation.",
+          "options": ["decline", "deny", "condemn", "reject"],
+          "answer": "A",
+          "explanation": "To 'decline' an invitation is a formal and polite way of saying that you cannot accept it."
+        },
+        {
+          "number": 9,
+          "sentence": "I've never seen anyone so ___ to their job as Philip is.",
+          "options": ["eager", "keen", "dedicated", "interested"],
+          "answer": "C",
+          "explanation": "'Dedicated' means spending a lot of time and effort on something because you think it is important."
+        },
+        {
+          "number": 10,
+          "sentence": "Why do you have such a ___ with model railways?",
+          "options": ["desire", "fascination", "love", "preference"],
+          "answer": "B",
+          "explanation": "'Fascination' is the state of being very interested in something or attracted by something."
+        },
+        {
+          "number": 11,
+          "sentence": "I wish you would stop wasting so much time on computer games and do something a little more ___ .",
+          "options": ["welcome", "enviable", "feasible", "worthwhile"],
+          "answer": "D",
+          "explanation": "'Worthwhile' means useful, important, or good enough to be worth the amount of time or money that it costs."
+        },
+        {
+          "number": 12,
+          "sentence": "Olivia has always ___ to return to the country she was born in.",
+          "options": ["favoured", "yearned", "urged", "inclined"],
+          "answer": "B",
+          "explanation": "To 'yearn' means to want something very much, especially when it is very difficult to get."
+        }
+      ]
+    },
+    {
+      "id": "u26_B",
+      "label": "B",
+      "type": "gap_fill",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Trisha suggested going to Indonesia, but the idea didn't really ___ to me.",
+          "answer": "appeal",
+          "explanation": "To 'appeal' to someone means to be attractive or interesting to them."
+        },
+        {
+          "number": 2,
+          "sentence": "Young children seem to ___ in showing things they've made at school to their parents.",
+          "answer": "delight",
+          "explanation": "To 'delight in doing something' means to get a lot of pleasure from doing something."
+        },
+        {
+          "number": 3,
+          "sentence": "Francis obviously ___ his three children and will do anything for them.",
+          "answer": "adores",
+          "explanation": "To 'adore' someone means to love them very much."
+        },
+        {
+          "number": 4,
+          "sentence": "I think I just ___ getting a DVD and staying in tonight.",
+          "answer": "fancy",
+          "explanation": "To 'fancy doing something' means to want to do it."
+        },
+        {
+          "number": 5,
+          "sentence": "The firefighters ___ Mrs Collins for her quick thinking when the fire broke out.",
+          "answer": "praised",
+          "explanation": "To 'praise' someone means to say that they have done something very well."
+        },
+        {
+          "number": 6,
+          "sentence": "We would ___ anyone who values personal freedom to vote against this proposal.",
+          "answer": "urge",
+          "explanation": "To 'urge' someone to do something means to strongly suggest that they should do it."
+        },
+        {
+          "number": 7,
+          "sentence": "The Prime Minister ___ the suggestion from the leader of the opposition and said that the government would consider it carefully.",
+          "answer": "welcomed",
+          "explanation": "To 'welcome' a suggestion means to say that you are pleased about it."
+        },
+        {
+          "number": 8,
+          "sentence": "I don't know how Liz can ___ to work at that place.",
+          "answer": "bear",
+          "explanation": "To 'bear to do something' means to be able to accept or do something unpleasant."
+        },
+        {
+          "number": 9,
+          "sentence": "It's important to have clear goals to ___ towards.",
+          "answer": "strive",
+          "explanation": "To 'strive towards something' means to make a lot of effort to achieve it."
+        },
+        {
+          "number": 10,
+          "sentence": "Parents should try to treat all their children equally and not ___ one over another.",
+          "answer": "favour",
+          "explanation": "To 'favour' someone means to treat them better than others."
+        },
+        {
+          "number": 11,
+          "sentence": "It's quite easy to ___ between margarine and butter because butter has a creamier taste.",
+          "answer": "differentiate",
+          "explanation": "To 'differentiate between' two things means to see or show the difference between them."
+        },
+        {
+          "number": 12,
+          "sentence": "The Board of Directors has ___ to increase sales by at least 20% over the coming year.",
+          "answer": "resolved",
+          "explanation": "To 'resolve' to do something means to make a firm decision to do it."
+        }
+      ]
+    },
+    {
+      "id": "u26_C",
+      "label": "C",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Share your chocolate with your brother and don't be so ___ .",
+          "options": ["greedy", "obsessed"],
+          "answer": "greedy",
+          "explanation": "'Greedy' means wanting more than you need."
+        },
+        {
+          "number": 2,
+          "sentence": "Claudia's completely ___ with Jack and doesn't talk about anything else these days.",
+          "options": ["greedy", "obsessed"],
+          "answer": "obsessed",
+          "explanation": "To be 'obsessed with' someone means to think about them all the time."
+        },
+        {
+          "number": 3,
+          "sentence": "I smiled in ___ as the waiter brought the desserts to our table.",
+          "options": ["anticipation", "aspiration"],
+          "answer": "anticipation",
+          "explanation": "'Anticipation' is a feeling of excitement about something that is going to happen."
+        },
+        {
+          "number": 4,
+          "sentence": "Joining the Air Force has always been an ___ of mine.",
+          "options": ["anticipation", "aspiration"],
+          "answer": "aspiration",
+          "explanation": "An 'aspiration' is something that you want to achieve."
+        },
+        {
+          "number": 5,
+          "sentence": "These two day trips are included in the price of the tour, while the third is ___ and costs 50 euros extra.",
+          "options": ["arbitrary", "optional"],
+          "answer": "optional",
+          "explanation": "'Optional' means that you can choose whether to do it or not."
+        },
+        {
+          "number": 6,
+          "sentence": "We don't have any information about the hotels, so we'll just have to make an ___ decision.",
+          "options": ["arbitrary", "optional"],
+          "answer": "arbitrary",
+          "explanation": "An 'arbitrary' decision is one that is made without any good reason."
+        },
+        {
+          "number": 7,
+          "sentence": "If you look at Madeleine's house, it's obvious she has a lot of ___ .",
+          "options": ["liking", "taste"],
+          "answer": "taste",
+          "explanation": "If someone has 'taste', they have a good judgment of what is attractive."
+        },
+        {
+          "number": 8,
+          "sentence": "I've always had a ___ for Naomi, ever since she moved in next door.",
+          "options": ["liking", "taste"],
+          "answer": "liking",
+          "explanation": "To have a 'liking for' someone means to like them."
+        },
+        {
+          "number": 9,
+          "sentence": "Life in this small town is really quite ___ and I can't wait to move to the big city.",
+          "options": ["mediocre", "mundane"],
+          "answer": "mundane",
+          "explanation": "'Mundane' means ordinary and not interesting or exciting."
+        },
+        {
+          "number": 10,
+          "sentence": "I thought her latest book was ___ compared to the others, which I really enjoyed.",
+          "options": ["mediocre", "mundane"],
+          "answer": "mediocre",
+          "explanation": "'Mediocre' means not very good in quality."
+        },
+        {
+          "number": 11,
+          "sentence": "Eva got everything she had ever ___ when she married a rich businessman.",
+          "options": ["envied", "desired"],
+          "answer": "desired",
+          "explanation": "To 'desire' something means to want it very much."
+        },
+        {
+          "number": 12,
+          "sentence": "I ___ people who can just walk into a room full of strangers and feel at home.",
+          "options": ["envy", "desire"],
+          "answer": "envy",
+          "explanation": "To 'envy' someone means to wish that you had their qualities or possessions."
+        }
+      ]
+    },
+    {
+      "id": "u26_D",
+      "label": "D",
+      "type": "gap_fill",
+      "instruction": "If the word in bold is correct, put a tick. If it is incorrect, replace it with one of the words in bold from the other sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It should be quite a ___ event, so don't dress up too much.",
+          "answer": "casual",
+          "explanation": "'Casual' (from sentence 8) means relaxed and not formal, suitable for an event where you don't need to dress up."
+        },
+        {
+          "number": 2,
+          "sentence": "Without enough leisure time, people begin to suffer from stress and ___ .",
+          "answer": "fatigue",
+          "explanation": "'Fatigue' (from sentence 6) is a feeling of being extremely tired, which often results from stress."
+        },
+        {
+          "number": 3,
+          "sentence": "I get 25 days a year ___ , which is probably about average.",
+          "answer": "leave",
+          "explanation": "'Leave' (from sentence 10) refers to time allowed away from work."
+        },
+        {
+          "number": 4,
+          "sentence": "The new Arts Centre should be a great ___ for concerts.",
+          "answer": "venue",
+          "explanation": "'Venue' (from sentence 3) is a place where an organized event like a concert happens."
+        },
+        {
+          "number": 5,
+          "sentence": "Last time I had a day off, we went on a family ___ to the beach.",
+          "answer": "outing",
+          "explanation": "'Outing' (from sentence 4) is a short pleasure trip."
+        },
+        {
+          "number": 6,
+          "sentence": "Kids just wouldn't fit in with my ___ , so I don't plan to have any at the moment.",
+          "answer": "lifestyle",
+          "explanation": "'Lifestyle' (from sentence 5) is the way you live."
+        },
+        {
+          "number": 7,
+          "sentence": "I like to be quite active when I've got time off because my job is quite ___ .",
+          "answer": "sedentary",
+          "explanation": "'Sedentary' (from sentence 1) means spending a lot of time sitting down."
+        },
+        {
+          "number": 8,
+          "sentence": "I find nothing so relaxing as reading a really ___ book.",
+          "answer": "absorbing",
+          "explanation": "'Absorbing' (from sentence 7) means very interesting and keeping your attention completely."
+        },
+        {
+          "number": 9,
+          "sentence": "Work's so ___ that I can't wait to meet my friends in the evening.",
+          "answer": "tedious",
+          "explanation": "'Tedious' (from sentence 9) is correct; it means boring and continuing for too long."
+        },
+        {
+          "number": 10,
+          "sentence": "The most relaxing things about getting away to the mountains are the peace and ___ .",
+          "answer": "solitude",
+          "explanation": "'Solitude' (from sentence 2) is the state of being completely alone, especially when this is pleasant or relaxing."
+        }
+      ]
+    },
+    {
+      "id": "u26_E",
+      "label": "E",
+      "type": "gap_fill",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "During the first half of the nineteenth century, more and more people were employed in factories, working 14- or 15-hour days that left them little time for hobbies, sport or any other form of (1) ___",
+          "answer": "recreation",
+          "explanation": "'Recreation' refers to things that you do for enjoyment when you are not working."
+        },
+        {
+          "number": 2,
+          "sentence": "___ and meant they weren't able to (2) ___ with friends.",
+          "answer": "socialise",
+          "explanation": "To 'socialise' means to spend time with other people for enjoyment."
+        },
+        {
+          "number": 3,
+          "sentence": "A key breakthrough in Britain came with the Ten Hour Act (1847), which limited the working day and ensured that workers got some (3) ___ from their jobs.",
+          "answer": "respite",
+          "explanation": "'Respite' is a short period of rest from something unpleasant or difficult."
+        },
+        {
+          "number": 4,
+          "sentence": "People now had at least some time to (4) ___ from work at the end of the day",
+          "answer": "unwind",
+          "explanation": "To 'unwind' means to relax after a period of work or tension."
+        },
+        {
+          "number": 5,
+          "sentence": "and (5) ___ themselves.",
+          "answer": "indulge",
+          "explanation": "To 'indulge' oneself means to allow oneself to have or do something that you enjoy."
+        },
+        {
+          "number": 6,
+          "sentence": "Many members of the middle class hated the idea of the workers being (6) ___",
+          "answer": "idle",
+          "explanation": "To be 'idle' means not working or being used."
+        },
+        {
+          "number": 7,
+          "sentence": "and believed that they would waste their time on (7) ___ matters",
+          "answer": "trivial",
+          "explanation": "'Trivial' means not very important, serious, or valuable."
+        },
+        {
+          "number": 8,
+          "sentence": "instead of (8) ___ productive activities, such as education or going to church.",
+          "answer": "pursuing",
+          "explanation": "To 'pursue' an activity means to follow it or be involved in it."
+        },
+        {
+          "number": 9,
+          "sentence": "The workers, however, found the new freedom (9) ___",
+          "answer": "exhilarating",
+          "explanation": "'Exhilarating' means making you feel extremely happy and excited."
+        },
+        {
+          "number": 10,
+          "sentence": "and threw themselves into new (10) ___ with enthusiasm.",
+          "answer": "pastimes",
+          "explanation": "A 'pastime' is an activity that you do for enjoyment when you are not working."
+        }
+      ]
+    },
+    {
+      "id": "u26_F",
+      "label": "F",
+      "type": "matching",
+      "instruction": "Match to make sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I suppose I spend a lot of time just hanging ___",
+          "answer": "E",
+          "explanation": "'hanging out' means spending time in a particular place or with particular people."
+        },
+        {
+          "number": 2,
+          "sentence": "The best thing about camping is just messing ___",
+          "answer": "C",
+          "explanation": "'messing about' means spending time doing things in a relaxed way."
+        },
+        {
+          "number": 3,
+          "sentence": "Since I'm self-employed, I'm able to take ___",
+          "answer": "D",
+          "explanation": "'take ... off' means to have a particular amount of time away from work."
+        },
+        {
+          "number": 4,
+          "sentence": "Drew spends a lot of time seeking ___",
+          "answer": "F",
+          "explanation": "'seeking out' means finding someone or something by looking for them in a determined way."
+        },
+        {
+          "number": 5,
+          "sentence": "Most of my leisure time seems to centre ___",
+          "answer": "G",
+          "explanation": "'centre around' means to have something as the main subject of attention or interest."
+        },
+        {
+          "number": 6,
+          "sentence": "The tour we're going on next week takes ___",
+          "answer": "A",
+          "explanation": "'takes in' means to include something."
+        },
+        {
+          "number": 7,
+          "sentence": "I'm not one of those people who go in ___",
+          "answer": "B",
+          "explanation": "'go in for' means to enjoy a particular thing or activity."
+        },
+        {
+          "number": 8,
+          "sentence": "With a bit of practice, I picked ___",
+          "answer": "H",
+          "explanation": "'picked up' means to learn a new skill without intending to."
+        }
+      ]
+    },
+    {
+      "id": "u26_G",
+      "label": "G",
+      "type": "gap_fill",
+      "instruction": "Complete using a phrasal verb with a word from box A in the right form and a word from box B. You need to use one word from box B more than once.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I don't have much money these days, so it's hard to ___ my music collection.",
+          "answer": "keep up",
+          "explanation": "'Keep up' means to continue to do something or maintain something."
+        },
+        {
+          "number": 2,
+          "sentence": "If you're ___ Amanda ___ this weekend, why don't you go to the Popwave festival?",
+          "answer": "taking ... out",
+          "explanation": "'Take out' means to take someone to a place like a cinema or restaurant and pay for them."
+        },
+        {
+          "number": 3,
+          "sentence": "I didn't like this CD at first, but now I'm really ___ it.",
+          "answer": "getting into",
+          "explanation": "'Get into' means to start enjoying something or become enthusiastic about it."
+        },
+        {
+          "number": 4,
+          "sentence": "Carl and I just spent the whole day ___ listening to music.",
+          "answer": "lazing around",
+          "explanation": "'Laze around' means to relax and enjoy yourself, doing no work."
+        },
+        {
+          "number": 5,
+          "sentence": "I'm still not sure about this track, but I think it's starting to ___ me.",
+          "answer": "grow on",
+          "explanation": "If something 'grows on' you, you start to like it more."
+        },
+        {
+          "number": 6,
+          "sentence": "Before the concert started, we could hear the band ___ off stage.",
+          "answer": "warming up",
+          "explanation": "'Warm up' means to prepare for an activity by practicing just before it starts."
+        },
+        {
+          "number": 7,
+          "sentence": "I used to love this band, but I've ___ them since the lead singer left.",
+          "answer": "gone off",
+          "explanation": "'Go off' means to stop liking someone or something."
+        },
+        {
+          "number": 8,
+          "sentence": "You can tell they've ___ a lot of hard work when you listen to their latest album.",
+          "answer": "put in",
+          "explanation": "'Put in' means to spend a particular amount of time or effort doing something."
+        }
+      ]
+    },
+    {
+      "id": "u26_H",
+      "label": "H",
+      "type": "true_false",
+      "instruction": "The phrasal verb get into has a meaning connected to the idea of becoming involved in an activity or situation. Tick the sentences where the phrasal verb has a meaning connected to a similar idea.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I love watching TV, but it does bite into my free time.",
+          "answer": "NO",
+          "explanation": "'Bite into' here means to use up a part of something, not becoming involved in an activity."
+        },
+        {
+          "number": 2,
+          "sentence": "Jordan was relieved when she finally broke into the music business.",
+          "answer": "TICK",
+          "explanation": "'Break into' here means to become involved in a new type of business or activity."
+        },
+        {
+          "number": 3,
+          "sentence": "When you're flying a model aeroplane, the important thing is not to crash into anything!",
+          "answer": "NO",
+          "explanation": "'Crash into' means a physical collision."
+        },
+        {
+          "number": 4,
+          "sentence": "The council have entered into discussions on building a new sports centre in town.",
+          "answer": "TICK",
+          "explanation": "'Enter into' means to start to become involved in something such as an agreement or a discussion."
+        },
+        {
+          "number": 5,
+          "sentence": "To access the online games network, key your username and password into the box below.",
+          "answer": "NO",
+          "explanation": "'Key into' means to put information into a computer using a keyboard."
+        },
+        {
+          "number": 6,
+          "sentence": "Think carefully before you rush into such a long-term agreement.",
+          "answer": "TICK",
+          "explanation": "'Rush into' means to start doing something without thinking about it enough first."
+        },
+        {
+          "number": 7,
+          "sentence": "Kelly launched into a detailed account of her plans for the summer.",
+          "answer": "TICK",
+          "explanation": "'Launch into' means to start saying or doing something with a lot of energy."
+        },
+        {
+          "number": 8,
+          "sentence": "Pete is always taking up new hobbies and he really throws himself into them.",
+          "answer": "TICK",
+          "explanation": "'Throw oneself into' means to start doing something with a lot of enthusiasm and energy."
+        }
+      ]
+    },
+    {
+      "id": "u26_I",
+      "label": "I",
+      "type": "error_correction",
+      "instruction": "One word in each sentence is incorrect. Underline the incorrect word and write the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's the boss's birthday next Wednesday, and there's a rumour we might be taken the day off.",
+          "answer": "given",
+          "explanation": "The correct passive construction is 'be given the day off'."
+        },
+        {
+          "number": 2,
+          "sentence": "I know you'd rather I took up a sport, but it's not your choice to do.",
+          "answer": "make",
+          "explanation": "The standard collocation is 'make a choice'."
+        },
+        {
+          "number": 3,
+          "sentence": "Some of the courses are compulsory, so we can't just pick and select whatever we like.",
+          "answer": "choose",
+          "explanation": "The fixed idiom is 'pick and choose'."
+        },
+        {
+          "number": 4,
+          "sentence": "If you won't give me a pay rise, then I shall have to think my options.",
+          "answer": "consider",
+          "explanation": "The correct phrase is 'consider your options' or 'think about your options'."
+        },
+        {
+          "number": 5,
+          "sentence": "The council said they had no option apart to close the sports centre.",
+          "answer": "but",
+          "explanation": "The phrase 'have no option but to' is used to show there is no other choice."
+        },
+        {
+          "number": 6,
+          "sentence": "Angela travels a lot and is only very eager to experience new places.",
+          "answer": "too",
+          "explanation": "The intensive phrase is 'only too eager', meaning 'very eager'."
+        },
+        {
+          "number": 7,
+          "sentence": "Jake's been practising as mad to impress the others in the band.",
+          "answer": "like",
+          "explanation": "The idiom is 'like mad' (or 'like crazy')."
+        },
+        {
+          "number": 8,
+          "sentence": "I can't believe the judge just let the accused be free like that.",
+          "answer": "go",
+          "explanation": "The correct phrase is 'let someone go free'."
+        },
+        {
+          "number": 9,
+          "sentence": "I've decided in favour for joining the local swimming team.",
+          "answer": "of",
+          "explanation": "The correct preposition is 'in favour of'."
+        },
+        {
+          "number": 10,
+          "sentence": "You should plan things more carefully and not just act with impulse all the time.",
+          "answer": "on",
+          "explanation": "The phrase is 'act on impulse'."
+        }
+      ]
+    },
+    {
+      "id": "u26_J",
+      "label": "J",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "There is no doubt technology and shorter working hours have (1) got / let / set people free to enjoy their leisure time more than ever before.",
+          "options": ["got", "let", "set"],
+          "answer": "set",
+          "explanation": "The phrase 'set someone free' means to release them from constraints."
+        },
+        {
+          "number": 2,
+          "sentence": "Many people (2) do / have / make the leisure to pursue hobbies and other activities they (3) like / prefer / want to the work routine.",
+          "options": ["do", "have", "make"],
+          "answer": "have",
+          "explanation": "The phrase is 'have the leisure to do something'."
+        },
+        {
+          "number": 3,
+          "sentence": "___activities they (3) like / prefer / want to the work routine.",
+          "options": ["like", "prefer", "want"],
+          "answer": "prefer",
+          "explanation": "The construction 'prefer A to B' is used for comparison."
+        },
+        {
+          "number": 4,
+          "sentence": "What leisure activities will people (4) choose / decide / opt for in the future?",
+          "options": ["choose", "decide", "opt"],
+          "answer": "opt",
+          "explanation": "The phrasal verb is 'opt for'."
+        },
+        {
+          "number": 5,
+          "sentence": "We can expect to see increased personal (5) choice / decision / option.",
+          "options": ["choice", "decision", "option"],
+          "answer": "choice",
+          "explanation": "'Personal choice' is a standard collocation."
+        },
+        {
+          "number": 6,
+          "sentence": "The range of leisure (6) actions / hobbies / pursuits will expand___",
+          "options": ["actions", "hobbies", "pursuits"],
+          "answer": "pursuits",
+          "explanation": "'Leisure pursuits' is the formal term for activities done in free time."
+        },
+        {
+          "number": 7,
+          "sentence": "___and people will have the (7) decision / option / preference of following up an interest in almost any activity.",
+          "options": ["decision", "option", "preference"],
+          "answer": "option",
+          "explanation": "'Have the option of doing something' is a standard phrase."
+        },
+        {
+          "number": 8,
+          "sentence": "Whether at home or at (8) enjoyment / leisure / relaxation centres, there will be an ever-increasing need to provide for people at (9) play / recreation / rest.",
+          "options": ["enjoyment", "leisure", "relaxation"],
+          "answer": "leisure",
+          "explanation": "'Leisure centre' is a standard term for a public building where people can do sports and other activities."
+        },
+        {
+          "number": 9,
+          "sentence": "___there will be an ever-increasing need to provide for people at (9) play / recreation / rest.",
+          "options": ["play", "recreation", "rest"],
+          "answer": "play",
+          "explanation": "'At play' refers to people engaging in games or fun activities."
+        },
+        {
+          "number": 10,
+          "sentence": "If the future is not one of increased leisure, then it won't be for (10) need / desire / want of demand.",
+          "options": ["need", "desire", "want"],
+          "answer": "want",
+          "explanation": "'For want of' is an idiom meaning 'due to a lack of'."
+        }
+      ]
+    },
+    {
+      "id": "u26_K",
+      "label": "K",
+      "type": "word_substitution",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "To our ___, the boss said that we could have an extra day off work. / Martin always takes great ___ in talking to anyone about fishing. / When Erin finally started to move downhill on the skis for the first time, she laughed in ___.",
+          "answer": "delight",
+          "explanation": "The word 'delight' fits in 'to our delight', 'take delight in', and 'laugh in delight'."
+        },
+        {
+          "number": 2,
+          "sentence": "It's important that people feel they can exercise ___ over their leisure activities. / Your fee is so late that I'm afraid we have no ___ but to cancel your membership. / The college offers a wide ___ of evening and weekend classes.",
+          "answer": "choice",
+          "explanation": "The word 'choice' fits in 'exercise choice', 'have no choice but', and 'wide choice'."
+        },
+        {
+          "number": 3,
+          "sentence": "The local council should start a building programme to meet the ___ for leisure facilities. / The Mayor said he had no ___ of advice from people who didn't understand the situation. / This area is badly in ___ of financial investment.",
+          "answer": "need",
+          "explanation": "The word 'need' fits in 'meet the need', 'have no need of', and 'in need of'."
+        },
+        {
+          "number": 4,
+          "sentence": "I had dried frog when I was in Korea, and I would describe the ___ as unforgettable. / I thought that what you said to Erica was in very bad ___. / You might not like sushi the first time you try it - it's a bit of an acquired ___.",
+          "answer": "taste",
+          "explanation": "The word 'taste' fits 'the taste as unforgettable', 'in very bad taste', and 'acquired taste'."
+        },
+        {
+          "number": 5,
+          "sentence": "We're quite ___ for our son to go to Cambridge University when he finishes school. / I enjoy team sports, like basketball and volleyball, and I'm especially ___ on football. / My parents have always taken a ___ interest in my hobbies.",
+          "answer": "keen",
+          "explanation": "The word 'keen' fits 'keen for someone to', 'keen on', and 'keen interest'."
+        },
+        {
+          "number": 6,
+          "sentence": "I was a bit of a loner when I was younger and I spent a lot of time ___ by myself. / The government has been accused of ___ for time because it doesn't know what to do. / Liam never learnt to read music, but he's capable of ___ practically anything by ear.",
+          "answer": "playing",
+          "explanation": "The word 'playing' fits 'playing by myself', 'playing for time', and 'playing by ear'."
+        },
+        {
+          "number": 7,
+          "sentence": "The headmaster was full of ___ for the school cricket team, who had won six matches in a row. / The police officers involved deserve ___ for their bravery in such a difficult situation. / If I read one more newspaper editorial in ___ of the Prime Minister I shall scream.",
+          "answer": "praise",
+          "explanation": "The word 'praise' fits 'full of praise', 'deserve praise', and 'in praise of'."
+        },
+        {
+          "number": 8,
+          "sentence": "When we finally made it out of the forest, we decided to ___ before moving on. / Just ___ your bike against the gate and come inside. / You can ___ assured that I will not stop until I find the person who damaged the school gym.",
+          "answer": "rest",
+          "explanation": "The word 'rest' fits 'decided to rest', 'rest your bike against', and 'rest assured'."
+        }
+      ]
+    },
+    {
+      "id": "u26_L",
+      "label": "L",
+      "type": "gap_fill",
+      "instruction": "Complete using the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "'Oh! I'm exhausted! I've been doing housework all day.' 'Come and put your ___ up for five minutes and I'll make a cup of tea.'",
+          "answer": "feet",
+          "explanation": "The idiom 'put your feet up' means to relax."
+        },
+        {
+          "number": 2,
+          "sentence": "'Do you fancy going to that new jazz club in town?' 'Yes, let's go and let our ___ down a bit, shall we?'",
+          "answer": "hair",
+          "explanation": "The idiom 'let your hair down' means to relax and enjoy yourself."
+        },
+        {
+          "number": 3,
+          "sentence": "'Jamie is so much fun!' 'Yes, he really is the life and soul of the ___.'",
+          "answer": "party",
+          "explanation": "The 'life and soul of the party' is someone very lively at social events."
+        },
+        {
+          "number": 4,
+          "sentence": "'You're not changing jobs again already, are you?' 'Well, they do say that variety is the ___ of life.'",
+          "answer": "spice",
+          "explanation": "The proverb 'variety is the spice of life' means different experiences make life interesting."
+        },
+        {
+          "number": 5,
+          "sentence": "'Roger wasn't pleased to get rejected by the team, was he?' 'No. He really had his ___ set on playing for them.'",
+          "answer": "heart",
+          "explanation": "The idiom 'set your heart on' means to want something very much."
+        },
+        {
+          "number": 6,
+          "sentence": "'You look a bit bored.' 'Well, I've been at a loose ___ since I finished the book I was reading.'",
+          "answer": "end",
+          "explanation": "The idiom 'at a loose end' means having nothing particular to do."
+        },
+        {
+          "number": 7,
+          "sentence": "'You weren't planning to go to Singapore on holiday, were you?' 'No. I got to the travel agent's and just decided to go there on a ___.'",
+          "answer": "whim",
+          "explanation": "Doing something 'on a whim' means doing it because of a sudden feeling."
+        },
+        {
+          "number": 8,
+          "sentence": "'I can't believe you built the Eiffel Tower out of matchsticks!' 'I guess I must have had a lot of ___ on my hands.'",
+          "answer": "time",
+          "explanation": "Having 'time on your hands' means having more time than you need."
+        },
+        {
+          "number": 9,
+          "sentence": "'Does Jenny ever move from in front of the TV?' 'I think she's in danger of becoming a bit of a couch ___.'",
+          "answer": "potato",
+          "explanation": "A 'couch potato' is someone who spends a lot of time sitting and watching TV."
+        },
+        {
+          "number": 10,
+          "sentence": "'You've got a great suntan!' 'I went away for a few days to recharge my ___.'",
+          "answer": "batteries",
+          "explanation": "The idiom 'recharge your batteries' means to rest so you are ready to work again."
+        }
+      ]
+    },
+    {
+      "id": "u26_M",
+      "label": "M",
+      "type": "word_formation",
+      "instruction": "Complete the sentences by changing the form of the word in capitals.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The cricket ground and the theatre make this a very ___ (DESIRE) area to live in.",
+          "answer": "desirable",
+          "explanation": "Adjective form of 'desire'."
+        },
+        {
+          "number": 2,
+          "sentence": "My family have always gone in for traditional country ___ (PURSUE), such as hunting, shooting and fishing.",
+          "answer": "pursuits",
+          "explanation": "Plural noun form of 'pursue', meaning leisure activities."
+        },
+        {
+          "number": 3,
+          "sentence": "What I like about Stravinsky's music is the ___ (RHYTHM) complexity, which has a powerful effect on the listener.",
+          "answer": "rhythmic",
+          "explanation": "Adjective form of 'rhythm' (also 'rhythmical')."
+        },
+        {
+          "number": 4,
+          "sentence": "After ten matches, we had the ___ (ENVY) record of played ten, won none, lost ten.",
+          "answer": "unenviable",
+          "explanation": "The prefix 'un-' is needed because the record is bad, not to be envied."
+        },
+        {
+          "number": 5,
+          "sentence": "I know you'd rather take your holiday in August, but when the boss is offering you extra days off, I don't think you can afford to be so ___ (CHOOSE).",
+          "answer": "choosy",
+          "explanation": "Adjective form of 'choose', meaning difficult to please."
+        },
+        {
+          "number": 6,
+          "sentence": "You don't need to be quite so ___ (ZEAL) in your work, and you might find you enjoy it more if you take a little time off.",
+          "answer": "zealous",
+          "explanation": "Adjective form of 'zeal'."
+        },
+        {
+          "number": 7,
+          "sentence": "You don't have time to do all the sports you'd like to, so you're going to have to be a bit ___ (SELECT).",
+          "answer": "selective",
+          "explanation": "Adjective form of 'select'."
+        },
+        {
+          "number": 8,
+          "sentence": "After dinner, we went for a ___ (LEISURE) stroll along the seafront.",
+          "answer": "leisurely",
+          "explanation": "Adjective/adverb form of 'leisure', meaning relaxed and unhurried."
+        },
+        {
+          "number": 9,
+          "sentence": "We're only two weeks into the school holidays and already my children are ___ (REST).",
+          "answer": "restless",
+          "explanation": "Adjective form of 'rest' meaning unable to stay still or quiet."
+        },
+        {
+          "number": 10,
+          "sentence": "I don't mind Annabel spending time on her computer, but playing this latest game has become almost an ___ (OBSESS).",
+          "answer": "obsession",
+          "explanation": "Noun form of 'obsess'."
+        }
+      ]
+    },
+    {
+      "id": "u26_N",
+      "label": "N",
+      "type": "word_formation",
+      "instruction": "Write a word formed from the words in the box in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's impossible to (1) ___ (PLAY) the importance of getting active as a family.",
+          "answer": "overplay",
+          "explanation": "In this context, it means one cannot exaggerate its importance."
+        },
+        {
+          "number": 2,
+          "sentence": "We all have a (2) ___ (TEND) to start off with good intentions___",
+          "answer": "tendency",
+          "explanation": "Noun form of 'tend'."
+        },
+        {
+          "number": 3,
+          "sentence": "___and then lose our (3) ___ (MOTIVE).",
+          "answer": "motivation",
+          "explanation": "Noun form of 'motive'."
+        },
+        {
+          "number": 4,
+          "sentence": "Playing and exercising together as a family can help you through those moments when you are (4) ___ (SATISFY) with your progress.",
+          "answer": "dissatisfied",
+          "explanation": "Negative adjective form of 'satisfy'."
+        },
+        {
+          "number": 5,
+          "sentence": "Don't (5) ___ (DO) it. Start with gentle exercise and work up to something more strenuous.",
+          "answer": "overdo",
+          "explanation": "Verb meaning to do something in excess."
+        },
+        {
+          "number": 6,
+          "sentence": "Whatever your (6) ___ (PREFER) activity, make sure that you're all comfortable doing it at that level.",
+          "answer": "preferred",
+          "explanation": "Adjective form of 'prefer'."
+        },
+        {
+          "number": 7,
+          "sentence": "If necessary, switch to a more (7) ___ (RELAX) activity until you're all in better shape.",
+          "answer": "relaxing",
+          "explanation": "Adjective form of 'relax' describing an activity."
+        },
+        {
+          "number": 8,
+          "sentence": "Children these days get a lot of (8) ___ (STIMULATE) from the fast-moving worlds of television, the Internet and computer games.",
+          "answer": "stimulation",
+          "explanation": "Noun form of 'stimulate'."
+        },
+        {
+          "number": 9,
+          "sentence": "Contact Marlston Council to find out about the (9) ___ (AVAILABLE) of facilities where you live.",
+          "answer": "availability",
+          "explanation": "Noun form of 'available'."
+        },
+        {
+          "number": 10,
+          "sentence": "Playing a sport together will teach your children about fair play, (10) ___ (SPORT) and working with others.",
+          "answer": "sportsmanship",
+          "explanation": "Noun referring to fair and generous behavior in sports."
+        }
+      ]
+    },
+    {
+      "id": "u26_O",
+      "label": "O",
+      "type": "categorization",
+      "instruction": "Some verbs form nouns using -ence, as in preference. Some form nouns using -ance. Put nouns formed from the following words in the correct category.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "accept",
+          "answer": "acceptance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 2,
+          "sentence": "attend",
+          "answer": "attendance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 3,
+          "sentence": "differ",
+          "answer": "difference",
+          "explanation": "-ence"
+        },
+        {
+          "number": 4,
+          "sentence": "ignore",
+          "answer": "ignorance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 5,
+          "sentence": "allow",
+          "answer": "allowance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 6,
+          "sentence": "avoid",
+          "answer": "avoidance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 7,
+          "sentence": "disturb",
+          "answer": "disturbance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 8,
+          "sentence": "inherit",
+          "answer": "inheritance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 9,
+          "sentence": "annoy",
+          "answer": "annoyance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 10,
+          "sentence": "clear",
+          "answer": "clearance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 11,
+          "sentence": "endure",
+          "answer": "endurance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 12,
+          "sentence": "insist",
+          "answer": "insistence",
+          "explanation": "-ence"
+        },
+        {
+          "number": 13,
+          "sentence": "appear",
+          "answer": "appearance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 14,
+          "sentence": "correspond",
+          "answer": "correspondence",
+          "explanation": "-ence"
+        },
+        {
+          "number": 15,
+          "sentence": "exist",
+          "answer": "existence",
+          "explanation": "-ence"
+        },
+        {
+          "number": 16,
+          "sentence": "insure",
+          "answer": "insurance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 17,
+          "sentence": "assist",
+          "answer": "assistance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 18,
+          "sentence": "depend",
+          "answer": "dependence",
+          "explanation": "-ence"
+        },
+        {
+          "number": 19,
+          "sentence": "guide",
+          "answer": "guidance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 20,
+          "sentence": "interfere",
+          "answer": "interference",
+          "explanation": "-ence"
+        },
+        {
+          "number": 21,
+          "sentence": "occur",
+          "answer": "occurrence",
+          "explanation": "-ence"
+        },
+        {
+          "number": 22,
+          "sentence": "perform",
+          "answer": "performance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 23,
+          "sentence": "persist",
+          "answer": "persistence",
+          "explanation": "-ence"
+        },
+        {
+          "number": 24,
+          "sentence": "reassure",
+          "answer": "reassurance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 25,
+          "sentence": "refer",
+          "answer": "reference",
+          "explanation": "-ence"
+        },
+        {
+          "number": 26,
+          "sentence": "rely",
+          "answer": "reliance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 27,
+          "sentence": "resemble",
+          "answer": "resemblance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 28,
+          "sentence": "resist",
+          "answer": "resistance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 29,
+          "sentence": "tolerate",
+          "answer": "tolerance",
+          "explanation": "-ance"
+        },
+        {
+          "number": 30,
+          "sentence": "utter",
+          "answer": "utterance",
+          "explanation": "-ance"
+        }
+      ]
+    },
+    {
+      "id": "u26_P",
+      "label": "P",
+      "type": "word_formation",
+      "instruction": "Complete the sentences using words formed in exercise O.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Do you think you could help me? I'm having real problems with this and I think I need some ___.",
+          "answer": "assistance",
+          "explanation": "Noun from 'assist'."
+        },
+        {
+          "number": 2,
+          "sentence": "There's such a close ___ between Mikey and his father, don't you think?",
+          "answer": "resemblance",
+          "explanation": "Noun from 'resemble'."
+        },
+        {
+          "number": 3,
+          "sentence": "I use the Internet quite a bit now for looking up information and I don't really use the ___ books on my shelves.",
+          "answer": "reference",
+          "explanation": "Noun from 'refer', used as an adjective here."
+        },
+        {
+          "number": 4,
+          "sentence": "The head teacher was walking past the classroom door when she heard a loud ___ coming from inside.",
+          "answer": "disturbance",
+          "explanation": "Noun from 'disturb'."
+        },
+        {
+          "number": 5,
+          "sentence": "You need to be really fit to be able to complete an ___ race like the marathon.",
+          "answer": "endurance",
+          "explanation": "Noun from 'endure', used as an adjective here."
+        },
+        {
+          "number": 6,
+          "sentence": "You might feel like giving up, but keep practising and you'll be amazed at what a little ___ can achieve.",
+          "answer": "persistence",
+          "explanation": "Noun from 'persist'."
+        },
+        {
+          "number": 7,
+          "sentence": "This football team has a proud tradition and has been in ___ since 1890.",
+          "answer": "existence",
+          "explanation": "Noun from 'exist'."
+        },
+        {
+          "number": 8,
+          "sentence": "There was a lot of ___ from local people to the government's plans to knock down the stadium.",
+          "answer": "resistance",
+          "explanation": "Noun from 'resist'."
+        }
+      ]
+    }
+  ]
+}

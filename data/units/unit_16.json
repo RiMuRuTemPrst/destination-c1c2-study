@@ -1,0 +1,1895 @@
+{
+  "unit_id": 16,
+  "unit_type": "Vocabulary",
+  "title": "Materials and the built environment",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Materials",
+      "words": [
+        {
+          "word": "block",
+          "pos": "v, n",
+          "definition_en": "to stop something from moving through or along something else; a large piece of a solid substance that has flat sides",
+          "definition_vi": "chặn, ngăn chặn; khối, tảng (vật liệu)",
+          "example": "A huge rock blocked the road. / The building is made of concrete blocks.",
+          "synonyms": ["obstruct", "hinder", "chunk", "slab"],
+          "collocations": ["block of flats", "apartment block", "concrete block"]
+        },
+        {
+          "word": "brittle",
+          "pos": "adj",
+          "definition_en": "hard but easily broken",
+          "definition_vi": "giòn, dễ gãy",
+          "example": "As you get older your bones become increasingly brittle.",
+          "synonyms": ["fragile", "breakable"],
+          "collocations": ["brittle bones", "brittle material"]
+        },
+        {
+          "word": "chip",
+          "pos": "v, n",
+          "definition_en": "to break a small piece off something; a small piece of something that has been broken off",
+          "definition_vi": "làm mẻ, bị mẻ; mảnh mẻ, mảnh vỡ nhỏ",
+          "example": "I've chipped a tooth. / There are chips of glass on the floor.",
+          "synonyms": ["nick", "fragment"],
+          "collocations": ["paint chip", "wood chip"]
+        },
+        {
+          "word": "compact",
+          "pos": "v, adj",
+          "definition_en": "to press something together so that it becomes smaller or more solid; smaller than is usual for something of the same kind",
+          "definition_vi": "nén, làm cho đặc lại; nhỏ gọn, cô đọng",
+          "example": "The waste is compacted into blocks. / The device is very compact and portable.",
+          "synonyms": ["compress", "condense", "dense"],
+          "collocations": ["compact car", "compact size"]
+        },
+        {
+          "word": "concentrate",
+          "pos": "v",
+          "definition_en": "to make a liquid stronger by removing water from it",
+          "definition_vi": "cô đặc, làm cho đậm đặc",
+          "example": "The solution is concentrated by boiling it.",
+          "synonyms": ["condense", "intensify"],
+          "collocations": ["concentrated juice", "concentrated solution"]
+        },
+        {
+          "word": "crack",
+          "pos": "v, n",
+          "definition_en": "to damage something so that a line or long narrow hole appears on its surface, but it does not break into pieces; a line on a surface where something is beginning to break",
+          "definition_vi": "làm nứt, bị nứt; vết nứt",
+          "example": "The window cracked when the ball hit it. / There's a crack in the wall.",
+          "synonyms": ["fissure", "split"],
+          "collocations": ["hairline crack", "crack in the ceiling"]
+        },
+        {
+          "word": "crumb",
+          "pos": "n",
+          "definition_en": "a very small piece of bread, cake, or biscuit",
+          "definition_vi": "mẩu vụn (bánh, bánh mì...)",
+          "example": "She brushed the crumbs off the table.",
+          "synonyms": ["morsel", "bit"],
+          "collocations": ["bread crumbs", "cookie crumbs"]
+        },
+        {
+          "word": "crush",
+          "pos": "v, n",
+          "definition_en": "to press something so hard that it is damaged or its shape is changed; a crowd of people pressed together",
+          "definition_vi": "nghiền nát, đè nát; sự chen lấn",
+          "example": "The car was crushed in the accident.",
+          "synonyms": ["squash", "smash"],
+          "collocations": ["crush ice", "crushed stone"]
+        },
+        {
+          "word": "dense",
+          "pos": "adj",
+          "definition_en": "containing a lot of people or things close together; thick",
+          "definition_vi": "dày đặc, đông đúc, có mật độ cao",
+          "example": "The city has a very dense population.",
+          "synonyms": ["thick", "compact"],
+          "collocations": ["dense forest", "dense fog", "densely populated"]
+        },
+        {
+          "word": "dilute",
+          "pos": "v, adj",
+          "definition_en": "to make a liquid weaker by adding water or another liquid to it; (of a liquid) made weaker by adding water",
+          "definition_vi": "pha loãng; loãng",
+          "example": "Dilute the juice with water before drinking it.",
+          "synonyms": ["water down", "thin"],
+          "collocations": ["dilute acid", "dilute solution"]
+        },
+        {
+          "word": "dissolve",
+          "pos": "v",
+          "definition_en": "to mix with a liquid and become part of it",
+          "definition_vi": "hòa tan",
+          "example": "Salt dissolves in water.",
+          "synonyms": ["melt", "liquefy"],
+          "collocations": ["dissolve in water", "dissolve quickly"]
+        },
+        {
+          "word": "fabric",
+          "pos": "n",
+          "definition_en": "cloth used for making clothes, curtains, etc.",
+          "definition_vi": "vải, chất liệu vải",
+          "example": "This fabric is very soft to the touch.",
+          "synonyms": ["cloth", "material", "textile"],
+          "collocations": ["cotton fabric", "synthetic fabric"]
+        },
+        {
+          "word": "firm",
+          "pos": "adj",
+          "definition_en": "not soft, but not completely hard",
+          "definition_vi": "chắc, rắn chắc",
+          "example": "The mattress is nice and firm.",
+          "synonyms": ["solid", "stiff"],
+          "collocations": ["firm ground", "firm grip"]
+        },
+        {
+          "word": "flake",
+          "pos": "v, n",
+          "definition_en": "to come off in small, thin pieces; a small, thin piece of something",
+          "definition_vi": "bong ra từng mảng; mảng, lớp mỏng",
+          "example": "The paint is beginning to flake off. / Snow flakes fell from the sky.",
+          "synonyms": ["chip", "shaving"],
+          "collocations": ["paint flake", "snow flake"]
+        },
+        {
+          "word": "fragile",
+          "pos": "adj",
+          "definition_en": "easily broken or damaged",
+          "definition_vi": "mỏng manh, dễ vỡ",
+          "example": "Be careful with that vase, it's very fragile.",
+          "synonyms": ["delicate", "brittle"],
+          "collocations": ["fragile glass", "fragile state"]
+        },
+        {
+          "word": "friction",
+          "pos": "n",
+          "definition_en": "the force that makes it difficult for one object to slide along the surface of another",
+          "definition_vi": "lực ma sát",
+          "example": "Friction between the tires and the road creates heat.",
+          "synonyms": ["resistance", "rubbing"],
+          "collocations": ["reduce friction", "force of friction"]
+        },
+        {
+          "word": "grain",
+          "pos": "n",
+          "definition_en": "a very small individual piece of a substance such as sand, salt, or sugar",
+          "definition_vi": "hạt (cát, muối...)",
+          "example": "There were grains of sand in my shoes.",
+          "synonyms": ["particle", "speck"],
+          "collocations": ["grain of sand", "grain of salt"]
+        },
+        {
+          "word": "gravity",
+          "pos": "n",
+          "definition_en": "the force that attracts objects towards one another, especially the force that makes things fall to the ground",
+          "definition_vi": "trọng lực",
+          "example": "Newton discovered the law of gravity.",
+          "synonyms": ["attraction", "pull"],
+          "collocations": ["force of gravity", "center of gravity"]
+        },
+        {
+          "word": "grind",
+          "pos": "v",
+          "definition_en": "to break something into very small pieces or powder by rubbing it between two hard surfaces",
+          "definition_vi": "xay, nghiền",
+          "example": "I like to grind my own coffee beans.",
+          "synonyms": ["crush", "mill"],
+          "collocations": ["grind coffee", "grind meat"]
+        },
+        {
+          "word": "hollow",
+          "pos": "adj",
+          "definition_en": "having an empty space inside",
+          "definition_vi": "rỗng, rỗng tuếch",
+          "example": "Bamboo is hollow inside.",
+          "synonyms": ["empty", "void"],
+          "collocations": ["hollow pipe", "hollow sound"]
+        },
+        {
+          "word": "liquid",
+          "pos": "n, adj",
+          "definition_en": "a substance that is not a solid or a gas, for example water or milk",
+          "definition_vi": "chất lỏng; lỏng",
+          "example": "Mercury is a liquid metal at room temperature.",
+          "synonyms": ["fluid"],
+          "collocations": ["liquid form", "liquid soap"]
+        },
+        {
+          "word": "lump",
+          "pos": "v, n",
+          "definition_en": "a piece of something hard or solid, usually without a particular shape",
+          "definition_vi": "cục, tảng (không hình dạng nhất định)",
+          "example": "He put two lumps of sugar in his coffee.",
+          "synonyms": ["chunk", "hunk"],
+          "collocations": ["lump of coal", "lump of sugar"]
+        },
+        {
+          "word": "mineral",
+          "pos": "n",
+          "definition_en": "a natural substance such as coal, salt, oil, or gold that is found in the ground",
+          "definition_vi": "khoáng vật, khoáng chất",
+          "example": "The area is rich in minerals.",
+          "synonyms": ["ore"],
+          "collocations": ["mineral resources", "mineral water"]
+        },
+        {
+          "word": "mould",
+          "pos": "v, n",
+          "definition_en": "to shape a soft substance by pressing it into a container; a container that you pour a liquid or soft substance into so that it becomes solid in the same shape",
+          "definition_vi": "đúc, nặn; khuôn đúc",
+          "example": "The children were moulding clay into animal shapes.",
+          "synonyms": ["shape", "form", "cast"],
+          "collocations": ["clay mould", "jelly mould"]
+        },
+        {
+          "word": "opaque",
+          "pos": "adj",
+          "definition_en": "not allowing light to pass through; difficult to understand",
+          "definition_vi": "đục, không trong suốt; khó hiểu",
+          "example": "The windows were painted with an opaque white film.",
+          "synonyms": ["cloudy", "nontransparent"],
+          "collocations": ["opaque glass", "opaque language"]
+        },
+        {
+          "word": "pat",
+          "pos": "v, n",
+          "definition_en": "to touch someone or something gently and repeatedly with the flat part of your hand",
+          "definition_vi": "vỗ nhẹ",
+          "example": "He patted the dog on the head.",
+          "synonyms": ["tap", "stroke"],
+          "collocations": ["pat on the back"]
+        },
+        {
+          "word": "pile",
+          "pos": "v, n",
+          "definition_en": "a number of things put on top of each other; to put things one on top of another",
+          "definition_vi": "chồng, đống; xếp thành chồng",
+          "example": "There was a pile of books on the floor.",
+          "synonyms": ["stack", "heap"],
+          "collocations": ["pile of clothes", "pile of rubbish"]
+        },
+        {
+          "word": "polish",
+          "pos": "v, n",
+          "definition_en": "to rub something in order to make it shiny; a substance used for making something shiny",
+          "definition_vi": "đánh bóng; xi đánh bóng",
+          "example": "I need to polish my shoes before the wedding.",
+          "synonyms": ["buff", "shine"],
+          "collocations": ["shoe polish", "furniture polish"]
+        },
+        {
+          "word": "scratch",
+          "pos": "v, n",
+          "definition_en": "to pull your nails along your skin, especially because you have an itch; a thin mark on a surface",
+          "definition_vi": "gãi, làm xước; vết xước",
+          "example": "Don't scratch your mosquito bites. / There's a scratch on the car door.",
+          "synonyms": ["scrape", "nick"],
+          "collocations": ["scratch mark", "scratch an itch"]
+        },
+        {
+          "word": "scrub",
+          "pos": "v, n",
+          "definition_en": "to rub something hard, especially with a stiff brush, in order to clean it",
+          "definition_vi": "cọ rửa, chà xát",
+          "example": "I had to scrub the floor to get it clean.",
+          "synonyms": ["scour", "rub"],
+          "collocations": ["scrub the floor", "scrubbing brush"]
+        },
+        {
+          "word": "smash",
+          "pos": "v",
+          "definition_en": "to break into many pieces, especially by hitting or dropping something",
+          "definition_vi": "đập tan, vỡ tan thành mảnh vụn",
+          "example": "The plate smashed when it hit the floor.",
+          "synonyms": ["shatter", "break"],
+          "collocations": ["smash to pieces"]
+        },
+        {
+          "word": "solid",
+          "pos": "n, adj",
+          "definition_en": "a substance that keeps its shape; hard and of a single substance throughout",
+          "definition_vi": "chất rắn; rắn, đặc",
+          "example": "Ice is solid water. / The wall is made of solid oak.",
+          "synonyms": ["hard", "firm"],
+          "collocations": ["solid rock", "solid evidence"]
+        },
+        {
+          "word": "speck",
+          "pos": "n",
+          "definition_en": "a very small spot or mark",
+          "definition_vi": "hạt bụi, vết nhỏ",
+          "example": "There's not a speck of dust in the room.",
+          "synonyms": ["dot", "particle"],
+          "collocations": ["speck of dust", "speck of light"]
+        },
+        {
+          "word": "squash",
+          "pos": "v, n",
+          "definition_en": "to damage something by pressing it flat; to push yourself into a space that is too small",
+          "definition_vi": "đè bẹp, ép; sự chen chúc",
+          "example": "The box was squashed in the mail.",
+          "synonyms": ["crush", "compress"],
+          "collocations": ["squash into a car"]
+        },
+        {
+          "word": "squeeze",
+          "pos": "v, n",
+          "definition_en": "to press something firmly, especially with your hands",
+          "definition_vi": "vắt, ép, bóp",
+          "example": "Squeeze the lemon to get the juice out.",
+          "synonyms": ["compress", "wring"],
+          "collocations": ["squeeze a lemon", "tight squeeze"]
+        },
+        {
+          "word": "stack",
+          "pos": "v, n",
+          "definition_en": "a pile of things arranged one on top of another; to arrange things in a stack",
+          "definition_vi": "chồng, đống (xếp ngăn nắp); xếp thành chồng",
+          "example": "He stacked the boxes in the corner.",
+          "synonyms": ["pile", "heap"],
+          "collocations": ["stack of books", "stack of papers"]
+        },
+        {
+          "word": "stiff",
+          "pos": "adj",
+          "definition_en": "firm and difficult to bend or move",
+          "definition_vi": "cứng, khó uốn",
+          "example": "The new shoes are a bit stiff.",
+          "synonyms": ["rigid", "firm"],
+          "collocations": ["stiff brush", "stiff joint"]
+        },
+        {
+          "word": "stroke",
+          "pos": "v, n",
+          "definition_en": "to move your hand gently over something",
+          "definition_vi": "vuốt ve",
+          "example": "She stroked the cat's fur.",
+          "synonyms": ["pet", "caress"],
+          "collocations": ["stroke a cat"]
+        },
+        {
+          "word": "stuff",
+          "pos": "v, n",
+          "definition_en": "to push something quickly and carelessly into a space; a variety of objects or substances",
+          "definition_vi": "nhồi nhét; đồ đạc, vật liệu",
+          "example": "I stuffed my clothes into the suitcase.",
+          "synonyms": ["pack", "cram"],
+          "collocations": ["stuff a pillow", "all sorts of stuff"]
+        },
+        {
+          "word": "substance",
+          "pos": "n",
+          "definition_en": "a particular type of liquid, solid, or gas",
+          "definition_vi": "chất, vật chất",
+          "example": "The police found a strange substance in the car.",
+          "synonyms": ["material", "matter"],
+          "collocations": ["sticky substance", "illegal substance"]
+        },
+        {
+          "word": "synthetic",
+          "pos": "adj",
+          "definition_en": "made by combining different substances rather than being natural",
+          "definition_vi": "tổng hợp, nhân tạo",
+          "example": "Synthetic fabrics like nylon are very durable.",
+          "synonyms": ["artificial", "man-made"],
+          "collocations": ["synthetic fiber", "synthetic material"]
+        },
+        {
+          "word": "tear",
+          "pos": "v, n",
+          "definition_en": "to pull something so that it separates into two pieces or a hole is created in it",
+          "definition_vi": "xé, làm rách; vết rách",
+          "example": "I tore the letter in half.",
+          "synonyms": ["rip", "split"],
+          "collocations": ["tear in half", "tear a muscle"]
+        },
+        {
+          "word": "texture",
+          "pos": "n",
+          "definition_en": "the way that something feels when you touch it",
+          "definition_vi": "kết cấu, bề mặt (khi chạm vào)",
+          "example": "The fabric has a smooth texture.",
+          "synonyms": ["feel", "surface"],
+          "collocations": ["smooth texture", "rough texture"]
+        },
+        {
+          "word": "transparent",
+          "pos": "adj",
+          "definition_en": "allowing light to pass through so that you can see through it clearly",
+          "definition_vi": "trong suốt",
+          "example": "Glass is transparent.",
+          "synonyms": ["clear", "see-through"],
+          "collocations": ["transparent glass", "transparent process"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: The built environment",
+      "words": [
+        {
+          "word": "built-up",
+          "pos": "adj",
+          "definition_en": "having a lot of buildings close together",
+          "definition_vi": "có mật độ xây dựng cao",
+          "example": "This is a very built-up area with no green spaces.",
+          "synonyms": ["urbanized", "developed"],
+          "collocations": ["built-up area"]
+        },
+        {
+          "word": "bypass",
+          "pos": "v, n",
+          "definition_en": "to avoid something by going around it; a road that goes around a town or city",
+          "definition_vi": "đi vòng qua; đường tránh",
+          "example": "We can bypass the city center by taking the new road.",
+          "synonyms": ["circumvent", "detour"],
+          "collocations": ["city bypass"]
+        },
+        {
+          "word": "construct",
+          "pos": "v",
+          "definition_en": "to build something large such as a house, bridge, or road",
+          "definition_vi": "xây dựng",
+          "example": "The bridge was constructed in the 19th century.",
+          "synonyms": ["build", "erect"],
+          "collocations": ["construct a building", "under construction"]
+        },
+        {
+          "word": "demolish",
+          "pos": "v",
+          "definition_en": "to deliberately destroy a building",
+          "definition_vi": "phá dỡ, đánh sập (tòa nhà)",
+          "example": "The old factory was demolished to make way for a shopping mall.",
+          "synonyms": ["knock down", "destroy"],
+          "collocations": ["demolish a building"]
+        },
+        {
+          "word": "district",
+          "pos": "n",
+          "definition_en": "a particular area of a city or country",
+          "definition_vi": "quận, huyện, khu vực",
+          "example": "The business district is very busy during the day.",
+          "synonyms": ["area", "region", "zone"],
+          "collocations": ["financial district", "residential district"]
+        },
+        {
+          "word": "dwell",
+          "pos": "v",
+          "definition_en": "to live in a particular place",
+          "definition_vi": "trú ngụ, sinh sống",
+          "example": "They dwell in the forest.",
+          "synonyms": ["live", "reside"],
+          "collocations": ["dwell in a place", "city dweller"]
+        },
+        {
+          "word": "estate",
+          "pos": "n",
+          "definition_en": "an area where there are many houses or factories built at the same time",
+          "definition_vi": "khu dân cư, khu công nghiệp",
+          "example": "She lives on a large housing estate.",
+          "synonyms": ["development", "complex"],
+          "collocations": ["housing estate", "industrial estate"]
+        },
+        {
+          "word": "evict",
+          "pos": "v",
+          "definition_en": "to legally force someone to leave the house they are living in",
+          "definition_vi": "đuổi khỏi nơi ở (hợp pháp)",
+          "example": "The family was evicted for not paying the rent.",
+          "synonyms": ["expel", "oust"],
+          "collocations": ["evict a tenant"]
+        },
+        {
+          "word": "high-rise",
+          "pos": "adj",
+          "definition_en": "a very tall building with many floors",
+          "definition_vi": "cao tầng",
+          "example": "Many high-rise blocks were built in the 1960s.",
+          "synonyms": ["skyscraper", "multi-story"],
+          "collocations": ["high-rise block", "high-rise building"]
+        },
+        {
+          "word": "housing",
+          "pos": "n",
+          "definition_en": "buildings for people to live in",
+          "definition_vi": "nhà ở (nói chung)",
+          "example": "The city needs more affordable housing.",
+          "synonyms": ["accommodation", "residences"],
+          "collocations": ["social housing", "housing market"]
+        },
+        {
+          "word": "infrastructure",
+          "pos": "n",
+          "definition_en": "the basic systems and services that a country or organization uses in order to work effectively",
+          "definition_vi": "cơ sở hạ tầng",
+          "example": "The country's infrastructure needs urgent investment.",
+          "synonyms": ["framework", "base"],
+          "collocations": ["transport infrastructure", "basic infrastructure"]
+        },
+        {
+          "word": "inner city",
+          "pos": "n phr",
+          "definition_en": "the part of a city near the center, often where there are social problems",
+          "definition_vi": "khu vực nội thành (thường là khu cũ, nghèo)",
+          "example": "Inner city areas often suffer from poverty.",
+          "synonyms": ["downtown", "city center"],
+          "collocations": ["inner city decay", "inner city school"]
+        },
+        {
+          "word": "occupy",
+          "pos": "v",
+          "definition_en": "to live or work in a room or building",
+          "definition_vi": "chiếm giữ, cư ngụ",
+          "example": "The company occupies the top three floors of the building.",
+          "synonyms": ["inhabit", "tenanted"],
+          "collocations": ["occupy a position", "fully occupied"]
+        },
+        {
+          "word": "populated",
+          "pos": "adj",
+          "definition_en": "having people living there",
+          "definition_vi": "có người sinh sống",
+          "example": "The valley is sparsely populated.",
+          "synonyms": ["inhabited"],
+          "collocations": ["densely populated", "sparsely populated"]
+        },
+        {
+          "word": "skyline",
+          "pos": "n",
+          "definition_en": "the shape made by buildings or mountains against the sky",
+          "definition_vi": "đường chân trời (thành phố)",
+          "example": "The New York skyline is iconic.",
+          "synonyms": ["horizon", "silhouette"],
+          "collocations": ["city skyline"]
+        },
+        {
+          "word": "skyscraper",
+          "pos": "n",
+          "definition_en": "a very tall modern building",
+          "definition_vi": "tòa nhà chọc trời",
+          "example": "Skyscrapers dominate the city center.",
+          "synonyms": ["high-rise"],
+          "collocations": ["modern skyscraper"]
+        },
+        {
+          "word": "structure",
+          "pos": "n",
+          "definition_en": "something that has been built",
+          "definition_vi": "công trình, cấu trúc",
+          "example": "The cathedral is a magnificent structure.",
+          "synonyms": ["building", "construction"],
+          "collocations": ["ancient structure", "structural damage"]
+        },
+        {
+          "word": "suburban",
+          "pos": "adj",
+          "definition_en": "relating to an area where people live that is outside the center of a city",
+          "definition_vi": "thuộc ngoại ô",
+          "example": "They live in a quiet suburban street.",
+          "synonyms": ["residential"],
+          "collocations": ["suburban area", "suburban lifestyle"]
+        },
+        {
+          "word": "surroundings",
+          "pos": "n pi",
+          "definition_en": "the objects and conditions that are around a person or thing",
+          "definition_vi": "môi trường xung quanh",
+          "example": "The house is set in beautiful surroundings.",
+          "synonyms": ["environment", "setting"],
+          "collocations": ["natural surroundings", "pleasant surroundings"]
+        },
+        {
+          "word": "urban",
+          "pos": "adj",
+          "definition_en": "relating to towns and cities",
+          "definition_vi": "thuộc đô thị",
+          "example": "Pollution is a major problem in urban areas.",
+          "synonyms": ["metropolitan", "city"],
+          "collocations": ["urban planning", "urban development"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "board up",
+          "pos": "phr v",
+          "definition_en": "cover a window or door with wooden boards",
+          "definition_vi": "dùng ván gỗ bịt kín (cửa)",
+          "example": "The shop was boarded up after it closed down.",
+          "synonyms": ["close up"],
+          "collocations": []
+        },
+        {
+          "word": "close up",
+          "pos": "phr v",
+          "definition_en": "lock the doors of a building or business",
+          "definition_vi": "đóng cửa, khóa cửa (tòa nhà, doanh nghiệp)",
+          "example": "The manager closed up the shop at 6 PM.",
+          "synonyms": ["shut down"],
+          "collocations": []
+        },
+        {
+          "word": "come out",
+          "pos": "phr v",
+          "definition_en": "be removed from something such as clothing or cloth by washing or rubbing; have a particular result or end in a particular way",
+          "definition_vi": "tẩy sạch (vết bẩn); có kết quả",
+          "example": "The ink stain won't come out. / How did the cake come out?",
+          "synonyms": ["be removed", "result"],
+          "collocations": []
+        },
+        {
+          "word": "cut out",
+          "pos": "phr v",
+          "definition_en": "remove something from a larger piece by cutting; stop eating something or doing something, especially because it is bad for your health",
+          "definition_vi": "cắt ra; cắt giảm, ngừng (thói quen xấu)",
+          "example": "Cut out the pictures and paste them here. / I've cut out sugar from my diet.",
+          "synonyms": ["remove", "stop"],
+          "collocations": []
+        },
+        {
+          "word": "fix up",
+          "pos": "phr v",
+          "definition_en": "clean, repair or decorate something",
+          "definition_vi": "sửa sang, trang trí lại",
+          "example": "We're going to fix up the old house before moving in.",
+          "synonyms": ["renovate", "repair"],
+          "collocations": []
+        },
+        {
+          "word": "knock/pull/tear down",
+          "pos": "phr v",
+          "definition_en": "destroy a building or wall",
+          "definition_vi": "phá dỡ (tòa nhà, tường)",
+          "example": "They are going to knock down the old library.",
+          "synonyms": ["demolish"],
+          "collocations": []
+        },
+        {
+          "word": "pile up",
+          "pos": "phr v",
+          "definition_en": "if something piles up or someone piles it up, the amount of it increases a lot",
+          "definition_vi": "chất đống, tăng lên nhiều",
+          "example": "The work is really beginning to pile up.",
+          "synonyms": ["accumulate", "mount up"],
+          "collocations": []
+        },
+        {
+          "word": "prop up",
+          "pos": "phr v",
+          "definition_en": "stop something from falling by putting something under it or against it; help a government, system, organisation, etc continue to exist, especially by providing financial or military support",
+          "definition_vi": "chống đỡ; hỗ trợ (tài chính, quân sự) để duy trì",
+          "example": "The wall was propped up with wooden beams.",
+          "synonyms": ["support", "shore up"],
+          "collocations": []
+        },
+        {
+          "word": "put in",
+          "pos": "phr v",
+          "definition_en": "fix something such as equipment in the place where it will be used and make it ready to use; make an official request, claim, offer, etc",
+          "definition_vi": "lắp đặt; đưa ra (yêu cầu, đề nghị)",
+          "example": "We're having a new shower put in.",
+          "synonyms": ["install"],
+          "collocations": []
+        },
+        {
+          "word": "put together",
+          "pos": "phr v",
+          "definition_en": "make something by joining all its parts; produce or organize something using many different things; choose people or things to form a team or group",
+          "definition_vi": "lắp ráp; tổ chức, kết hợp",
+          "example": "It took hours to put the IKEA desk together.",
+          "synonyms": ["assemble"],
+          "collocations": []
+        },
+        {
+          "word": "put up",
+          "pos": "phr v",
+          "definition_en": "build something such as a wall, fence or house; let someone stay in your house",
+          "definition_vi": "xây dựng (tường, hàng rào); cho ai ở nhờ",
+          "example": "They've put up a new fence. / Can you put me up for the night?",
+          "synonyms": ["erect", "accommodate"],
+          "collocations": []
+        },
+        {
+          "word": "set up",
+          "pos": "phr v",
+          "definition_en": "build a structure or put it in a particular place; make a piece of equipment ready for use",
+          "definition_vi": "dựng lên; thiết lập, chuẩn bị sử dụng",
+          "example": "We set up the tent in the backyard.",
+          "synonyms": ["establish", "install"],
+          "collocations": []
+        },
+        {
+          "word": "spread out",
+          "pos": "phr v",
+          "definition_en": "if people in a group spread out, they move away from one another so that they cover a large area",
+          "definition_vi": "tản ra, rải rác",
+          "example": "The search party spread out across the field.",
+          "synonyms": ["disperse"],
+          "collocations": []
+        },
+        {
+          "word": "take down",
+          "pos": "phr v",
+          "definition_en": "separate a large structure into pieces; write down information or a statement",
+          "definition_vi": "tháo dỡ; ghi chép lại",
+          "example": "The scaffolding was taken down after the work was finished.",
+          "synonyms": ["dismantle", "record"],
+          "collocations": []
+        },
+        {
+          "word": "water down",
+          "pos": "phr v",
+          "definition_en": "add water to a drink or liquid in order to make it less strong, dilute; make something such as a statement or newspaper article less offensive, powerful or detailed",
+          "definition_vi": "pha loãng; làm cho nhẹ bớt, giảm sức thuyết phục/chi tiết",
+          "example": "The soup was watered down. / The report was watered down before publication.",
+          "synonyms": ["dilute", "weaken"],
+          "collocations": []
+        },
+        {
+          "word": "wear down",
+          "pos": "phr v",
+          "definition_en": "make something gradually disappear or become thinner by using or rubbing it; make someone gradually lose their energy or confidence",
+          "definition_vi": "mòn đi; làm cho ai đó kiệt sức/mất tự tin",
+          "example": "The steps had been worn down by millions of feet.",
+          "synonyms": ["erode", "weaken"],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "a home from home",
+          "pos": "idiom",
+          "definition_en": "a place where you feel as relaxed as you do in your own home",
+          "definition_vi": "nơi thoải mái như ở nhà mình",
+          "example": "The hotel was a real home from home.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "blot on the landscape",
+          "pos": "idiom",
+          "definition_en": "something that makes a place look less attractive, for example an ugly building",
+          "definition_vi": "thứ làm mất vẻ đẹp cảnh quan",
+          "example": "That new factory is a real blot on the landscape.",
+          "synonyms": ["eyesore"],
+          "collocations": []
+        },
+        {
+          "word": "commuter belt",
+          "pos": "idiom",
+          "definition_en": "area surrounding a large city where many people who work in that city live",
+          "definition_vi": "vùng ngoại ô dành cho người đi làm trong thành phố",
+          "example": "Many families prefer living in the commuter belt.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "concrete jungle",
+          "pos": "idiom",
+          "definition_en": "unpleasant part of a city where there are a lot of ugly buildings close together",
+          "definition_vi": "khu rừng bê tông (nơi thành phố ngột ngạt)",
+          "example": "I hate living in this concrete jungle.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "home sweet home",
+          "pos": "idiom",
+          "definition_en": "used for saying that you are happy to be back in your own home",
+          "definition_vi": "không đâu bằng nhà mình",
+          "example": "After a long trip, it's home sweet home.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "in the sticks",
+          "pos": "idiom",
+          "definition_en": "in an area far from the town or city",
+          "definition_vi": "ở vùng hẻo lánh, vùng sâu vùng xa",
+          "example": "They live out in the sticks, miles from anywhere.",
+          "synonyms": ["in the middle of nowhere"],
+          "collocations": []
+        },
+        {
+          "word": "make yourself at home",
+          "pos": "idiom",
+          "definition_en": "feel relaxed and behave in the same way as you do in your own home",
+          "definition_vi": "cứ tự nhiên như ở nhà",
+          "example": "Come in and make yourself at home.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "on the street",
+          "pos": "idiom",
+          "definition_en": "with no place to live",
+          "definition_vi": "sống lang thang trên đường phố",
+          "example": "Many young people end up on the street.",
+          "synonyms": ["homeless"],
+          "collocations": []
+        },
+        {
+          "word": "on the town",
+          "pos": "idiom",
+          "definition_en": "spending the evening enjoying yourself in bars, clubs, theatres, etc",
+          "definition_vi": "đi chơi tối, đi quẩy",
+          "example": "We're going out on the town tonight.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "satellite town",
+          "pos": "idiom",
+          "definition_en": "town or city that is close to and depends on a larger city",
+          "definition_vi": "đô thị vệ tinh",
+          "example": "The town developed as a satellite town of London.",
+          "synonyms": [],
+          "collocations": []
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u16_A",
+      "instruction": "Complete using the correct form of the words in the boxes.",
+      "items": [
+        {
+          "answer": "pile",
+          "explanation": "A 'pile of clothes' refers to a number of clothes put on top of each other.",
+          "number": 1,
+          "sentence": "When are you going to move that ___ of clothes in your bedroom?"
+        },
+        {
+          "answer": "lumps",
+          "explanation": "A 'lump of coal' is a solid piece of coal without a specific shape.",
+          "number": 2,
+          "sentence": "The old man slowly put a few more ___ of coal on the dying fire."
+        },
+        {
+          "answer": "flakes",
+          "explanation": "Paint comes off in small, thin pieces called 'flakes'.",
+          "number": 3,
+          "sentence": "We need to redecorate. Look - there are ___ of paint coming off the walls."
+        },
+        {
+          "answer": "blocks",
+          "explanation": "Concrete is often produced in large pieces with flat sides called 'blocks'.",
+          "number": 4,
+          "sentence": "The building is composed of ___ of concrete held together by metal poles."
+        },
+        {
+          "answer": "speck",
+          "explanation": "A 'speck of dust' is a very small spot or particle.",
+          "number": 5,
+          "sentence": "When I come back, I don't want to find a single ___ of dust in here."
+        },
+        {
+          "answer": "grains",
+          "explanation": "Sand consists of very small individual particles called 'grains'.",
+          "number": 6,
+          "sentence": "How many ___ of sand do you think there are on this beach?"
+        },
+        {
+          "answer": "crumbs",
+          "explanation": "Small pieces of bread or sandwiches are called 'crumbs'.",
+          "number": 7,
+          "sentence": "Eat your sandwich in the kitchen, because I don't want ___ on my new sofa."
+        },
+        {
+          "answer": "chips",
+          "explanation": "Small pieces broken off glass are called 'chips'.",
+          "number": 8,
+          "sentence": "Be careful! I dropped something and there are ___ of glass all over the floor."
+        },
+        {
+          "answer": "scratch",
+          "explanation": "To 'scratch' is to pull nails along the skin to relieve an itch.",
+          "number": 9,
+          "sentence": "Don't ___ your mosquito bites or you'll make them worse."
+        },
+        {
+          "answer": "patted",
+          "explanation": "To 'pat' someone on the back is to touch them gently with a flat hand.",
+          "number": 10,
+          "sentence": "I felt great when the coach ___ me on the back and said, 'Well done'."
+        },
+        {
+          "answer": "polished",
+          "explanation": "To 'polish' shoes is to rub them to make them shiny.",
+          "number": 11,
+          "sentence": "Martin quickly ___ his shoes and walked out the door."
+        },
+        {
+          "answer": "stroke",
+          "explanation": "To 'stroke' fur is to move your hand gently over it.",
+          "number": 12,
+          "sentence": "Don't ___ the dog's fur the wrong way. She doesn't like it."
+        },
+        {
+          "answer": "scrub",
+          "explanation": "To 'scrub' is to rub hard to clean off something like graffiti.",
+          "number": 13,
+          "sentence": "I had to really ___ that wall to get the graffiti off it."
+        },
+        {
+          "answer": "squeeze",
+          "explanation": "To 'squeeze' a T-shirt is to press it to remove water.",
+          "number": 14,
+          "sentence": "You'll have to ___ your T-shirt to get all the water out of it."
+        },
+        {
+          "answer": "crush",
+          "explanation": "To 'crush' ice is to break it into small pieces.",
+          "number": 15,
+          "sentence": "You get the orange juice, and I'll ___ some ice."
+        },
+        {
+          "answer": "grind",
+          "explanation": "Coffee beans are 'ground' (verb: grind) into powder.",
+          "number": 16,
+          "sentence": "I like to ___ my own coffee because it tastes so much better."
+        },
+        {
+          "answer": "squash",
+          "explanation": "To 'squash' a spider is to crush it flat.",
+          "number": 17,
+          "sentence": "Don't ___ that spider! Just put it outside on the grass."
+        },
+        {
+          "answer": "Fold",
+          "explanation": "To 'fold' paper is to bend it so one part covers another.",
+          "number": 18,
+          "sentence": "___ the paper in half and give half to the student next to you."
+        },
+        {
+          "answer": "cracked",
+          "explanation": "A 'crack' is a line on a surface that isn't fully broken.",
+          "number": 19,
+          "sentence": "You haven't broken the window, but you have ___ it."
+        },
+        {
+          "answer": "smashed",
+          "explanation": "To 'smash' is to break something violently into many pieces.",
+          "number": 20,
+          "sentence": "Eva was so angry she ___ a glass against the wall."
+        },
+        {
+          "answer": "fragile",
+          "explanation": "Something 'fragile' is easily damaged or broken.",
+          "number": 21,
+          "sentence": "Be careful with that old wedding dress - it's very ___ ."
+        },
+        {
+          "answer": "transparent",
+          "explanation": "Glass is 'transparent' because you can see through it.",
+          "number": 22,
+          "sentence": "Why can you see through glass, whereas concrete isn't ___ at all?"
+        },
+        {
+          "answer": "stiff",
+          "explanation": "Paper that is 'stiff' is firm and difficult to bend.",
+          "number": 23,
+          "sentence": "This paper isn't ___ enough to make a birthday card out of."
+        },
+        {
+          "answer": "opaque",
+          "explanation": "'Opaque' means not allowing light to pass through; opposite of transparent.",
+          "number": 24,
+          "sentence": "The windows of the limousine were ___ , so I couldn't see who was inside."
+        },
+        {
+          "answer": "brittle",
+          "explanation": "'Brittle' materials are hard but break easily after exposure to sun/heat.",
+          "number": 25,
+          "sentence": "After being out in the sun for a month, the plastic container became ___ ."
+        },
+        {
+          "answer": "dense",
+          "explanation": "Rocks are 'dense' (thick/heavy), which makes them sink.",
+          "number": 26,
+          "sentence": "Rocks sink in water because they are ___ ."
+        },
+        {
+          "answer": "hollow",
+          "explanation": "A 'hollow' object has empty space inside and sounds different when knocked.",
+          "number": 27,
+          "sentence": "This wall appears solid, but when you knock on it, it sounds ___ ."
+        },
+        {
+          "answer": "stuffed",
+          "explanation": "To 'stuff' is to push things quickly into a space like a suitcase.",
+          "number": 28,
+          "sentence": "Alice quickly ___ a few clothes into a suitcase and ran out of the house."
+        },
+        {
+          "answer": "stacking",
+          "explanation": "To 'stack' is to pile things neatly on top of each other.",
+          "number": 29,
+          "sentence": "You could help by ___ those boxes over there."
+        },
+        {
+          "answer": "mould",
+          "explanation": "To 'mould' clay is to shape it into an object.",
+          "number": 30,
+          "sentence": "Try to ___ the clay into the basic shape of a vase."
+        }
+      ],
+      "label": "A",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_B",
+      "instruction": "Complete using the words in bold in the correct form.",
+      "items": [
+        {
+          "answer": "friction, solids, liquid, gravity",
+          "explanation": "Friction stops objects moving; solids are hard objects; ice has a thin liquid layer; gravity makes you fall.",
+          "number": 1,
+          "sentence": "Why do we slip on ice, but not on wood? The answer is ___, the force that stops one object moving against another. When two ___ are in contact, tiny bumps on each surface prevent them from moving easily. The surface of ice is actually covered in ___, so your shoes slide over it. Once you slip, the force of ___ takes over, and you fall down!"
+        },
+        {
+          "answer": "synthetic, fibres (fabric), texture",
+          "explanation": "Nylon is synthetic; fibers make fabric; texture is how it feels.",
+          "number": 2,
+          "sentence": "Nylon was the first ___ material to be produced using coal, water and air. Since its invention in 1935, it has been used to make many products and long thin strands of it can be made into ___ for clothing. Although cheap, many people dislike the plastic ___ of nylon and prefer natural fibres, such as cotton."
+        },
+        {
+          "answer": "compacts, firm, substance, mineral",
+          "explanation": "Pressure compacts rocks making them firm; a pure substance in rock form is a mineral.",
+          "number": 3,
+          "sentence": "Rocks are formed in different ways. One type, metamorphic rocks, are produced by high pressure beneath the Earth's surface, which ___ the rocks and makes them ___ . Most rocks are a mixture of different chemicals. When a ___ occurs in rock form but is not mixed with other chemicals, it is known as a ___ ."
+        },
+        {
+          "answer": "dissolve, dilute, concentrate",
+          "explanation": "Salt dissolves in water; more water makes it dilute; more salt makes it concentrate.",
+          "number": 4,
+          "sentence": "If you take a glass of water and ___ salt in it, you produce what's called a solution. If you add more water, the solution becomes more ___ . You can ___ the solution by adding more salt."
+        }
+      ],
+      "label": "B",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_C",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "items": [
+        {
+          "answer": "bypass",
+          "explanation": "A bypass is a road that goes around a city to avoid traffic.",
+          "number": 1,
+          "sentence": "The proposed (1) ___ around the city of Rushton has run into more controversy."
+        },
+        {
+          "answer": "construct",
+          "explanation": "To construct a road means to build it.",
+          "number": 2,
+          "sentence": "The local council have been attempting to (2) ___ the road for five years now..."
+        },
+        {
+          "answer": "inner city",
+          "explanation": "The inner city is the central part of a city where traffic is heavy.",
+          "number": 3,
+          "sentence": "...in order to ease traffic in the (3) ___ ,"
+        },
+        {
+          "answer": "populated",
+          "explanation": "Densely populated means many people live in the area.",
+          "number": 4,
+          "sentence": "...which is amongst the most densely (4) ___ areas in the country."
+        },
+        {
+          "answer": "suburban",
+          "explanation": "Suburban areas are residential districts on the outskirts of a city.",
+          "number": 5,
+          "sentence": "However, residents in (5) ___ areas, on the outskirts of the city, are up in arms..."
+        },
+        {
+          "answer": "surroundings",
+          "explanation": "Surroundings refer to the environment around a house.",
+          "number": 6,
+          "sentence": "...about the plan, which they claim would spoil the (6) ___ ."
+        },
+        {
+          "answer": "occupies",
+          "explanation": "A house occupies a position or space.",
+          "number": 7,
+          "sentence": "'We live in beautiful (7) ___ here,' commented Ada Fowler, one of those whose house (8) ___ a position next to the proposed route..."
+        },
+        {
+          "answer": "urban",
+          "explanation": "Urban planning is the technical and political process concerned with the use of land and design of the urban environment.",
+          "number": 9,
+          "sentence": "'The council have no real concept of (9) ___ planning.'"
+        },
+        {
+          "answer": "dwell",
+          "explanation": "To dwell means to live in a certain place.",
+          "number": 10,
+          "sentence": "Many of those who (10) ___ in the area agree."
+        }
+      ],
+      "label": "C",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_D",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "answer": "built-up",
+          "explanation": "A built-up area has many buildings.",
+          "number": 1,
+          "sentence": "I'd hate to live in such a ___ area as this."
+        },
+        {
+          "answer": "high-rise",
+          "explanation": "A high-rise block is a tall building with many floors.",
+          "number": 2,
+          "sentence": "My grandparents have just moved into a ___ block and they seem to like it."
+        },
+        {
+          "answer": "skyscraper",
+          "explanation": "A skyscraper is an exceptionally tall building.",
+          "number": 3,
+          "sentence": "The first ___ was made possible by advances in the use of metal and glass..."
+        },
+        {
+          "answer": "skyline",
+          "explanation": "The skyline is the outline of buildings against the sky.",
+          "number": 4,
+          "sentence": "I love to look at the ___ of London at night, don't you?"
+        },
+        {
+          "answer": "housing",
+          "explanation": "Housing refers to buildings for living in provided by the government.",
+          "number": 5,
+          "sentence": "The government is planning to provide low-cost ___ for people on low incomes."
+        },
+        {
+          "answer": "estate",
+          "explanation": "A local estate is a housing development area.",
+          "number": 6,
+          "sentence": "I grew up on a local ___ , so I know the area quite well."
+        },
+        {
+          "answer": "demolish",
+          "explanation": "To demolish a building is to destroy it.",
+          "number": 7,
+          "sentence": "They're going to ___ the old Town Hall today."
+        },
+        {
+          "answer": "evict",
+          "explanation": "To evict is to force someone out of their home legally.",
+          "number": 8,
+          "sentence": "You can't ___ a poor old woman like that and just leave her homeless!"
+        },
+        {
+          "answer": "structure",
+          "explanation": "A structure is a building or construction.",
+          "number": 9,
+          "sentence": "St Paul's Cathedral is a really impressive ___ ."
+        },
+        {
+          "answer": "infrastructure",
+          "explanation": "Infrastructure refers to the basic systems like transport and communications.",
+          "number": 10,
+          "sentence": "This country just doesn't have the ___ to host the Olympic Games."
+        }
+      ],
+      "label": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "id": "u16_E",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "answer": "up",
+          "explanation": "boarded up: covered with boards.",
+          "number": 1,
+          "sentence": "...it's not unusual to see buildings which have been boarded (1) ___ ."
+        },
+        {
+          "answer": "up",
+          "explanation": "closed up: locked and finished for the day.",
+          "number": 2,
+          "sentence": "After businesses have closed (2) ___ for the day..."
+        },
+        {
+          "answer": "up",
+          "explanation": "piling up: increasing in amount.",
+          "number": 3,
+          "sentence": "The problems of decay have been piling (3) ___ for years..."
+        },
+        {
+          "answer": "up",
+          "explanation": "fix up: repair and decorate.",
+          "number": 4,
+          "sentence": "...councils are finally deciding to fix inner city areas (4) ___ to attract residents..."
+        },
+        {
+          "answer": "down",
+          "explanation": "knocking down: destroying/demolishing.",
+          "number": 5,
+          "sentence": "The process begins by knocking (5) ___ old, ugly buildings..."
+        },
+        {
+          "answer": "up",
+          "explanation": "putting up: building.",
+          "number": 6,
+          "sentence": "...and putting (6) ___ attractive office and apartment blocks."
+        },
+        {
+          "answer": "down",
+          "explanation": "taken down: removed from a position.",
+          "number": 7,
+          "sentence": "Advertising hoardings are taken (7) ___..."
+        },
+        {
+          "answer": "in",
+          "explanation": "put in: installed or established.",
+          "number": 8,
+          "sentence": "...and facilities... are put (8) ___ ."
+        }
+      ],
+      "label": "E",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_F",
+      "instruction": "Complete using a phrasal verb with a word from box A in the right form and a word from box B. You need to use some words from box B more than once.",
+      "items": [
+        {
+          "answer": "set up",
+          "explanation": "Set up means to build or assemble a structure like a tent.",
+          "number": 1,
+          "sentence": "The fair must be happening in town because they've ___ tents."
+        },
+        {
+          "answer": "Cut out",
+          "explanation": "Cut out means to remove a shape from a larger piece of material.",
+          "number": 2,
+          "sentence": "___ a circle ___ of the first piece of card and stick it on the second piece."
+        },
+        {
+          "answer": "water down",
+          "explanation": "Water down means to dilute a liquid.",
+          "number": 3,
+          "sentence": "If the juice is too strong for you, why don't you ___ it ___ ?"
+        },
+        {
+          "answer": "propped up",
+          "explanation": "Prop up means to support something to stop it from falling.",
+          "number": 4,
+          "sentence": "That wall would fall over if it wasn't ___ with planks of wood."
+        },
+        {
+          "answer": "come out",
+          "explanation": "Come out means to be removed (as in a stain).",
+          "number": 5,
+          "sentence": "You've got blood on your collar. It won't ___ , you know."
+        },
+        {
+          "answer": "spread out",
+          "explanation": "Spread out means to cover a large area by moving away from each other.",
+          "number": 6,
+          "sentence": "I've got a large family, but they've all ___ across the whole country."
+        },
+        {
+          "answer": "put together",
+          "explanation": "Put together means to assemble parts.",
+          "number": 7,
+          "sentence": "I hate buying furniture from that place because you have to ___ it ___ yourself."
+        },
+        {
+          "answer": "worn down",
+          "explanation": "Wear down means to become thinner due to use.",
+          "number": 8,
+          "sentence": "The steps were ___ after many years of use."
+        }
+      ],
+      "label": "F",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_G",
+      "instruction": "The phrasal verb pile up has a meaning connected to 'increase'. Tick the sentences where the phrasal verb means something like 'increase'.",
+      "items": [
+        {
+          "answer": "Yes",
+          "explanation": "put up = increase (prices)",
+          "number": 1,
+          "sentence": "I see the supermarket has put its prices up again ."
+        },
+        {
+          "answer": "Yes",
+          "explanation": "speed up = increase (speed)",
+          "number": 2,
+          "sentence": "Speed up, or we're never going to get there!"
+        },
+        {
+          "answer": "No",
+          "explanation": "wipe up = clean a spill",
+          "number": 3,
+          "sentence": "Pass me a cloth and I'll just wipe up that water on the table ."
+        },
+        {
+          "answer": "Yes",
+          "explanation": "mount up = increase in amount",
+          "number": 4,
+          "sentence": "Work is really beginning to mount up, so I'll have to go into the office this weekend ."
+        },
+        {
+          "answer": "No",
+          "explanation": "cough up = pay/produce something unwillingly",
+          "number": 5,
+          "sentence": "Marianne had something stuck in her throat, but she finally coughed it up ."
+        },
+        {
+          "answer": "Yes",
+          "explanation": "speak up = increase (volume)",
+          "number": 6,
+          "sentence": "You'll have to speak up because I'm a little deaf, you know ."
+        },
+        {
+          "answer": "Yes",
+          "explanation": "build up = increase (strength)",
+          "number": 7,
+          "sentence": "You need to build up your strength if you're going to take part in the marathon ."
+        },
+        {
+          "answer": "Yes",
+          "explanation": "turn up = increase (volume)",
+          "number": 8,
+          "sentence": "Oh, I wanted to watch this programme. Turn the TV up ."
+        },
+        {
+          "answer": "No",
+          "explanation": "made up = reconciled after an argument",
+          "number": 9,
+          "sentence": "Jill and I had a terrible row, but we soon made up ."
+        },
+        {
+          "answer": "Yes",
+          "explanation": "fatten up = increase (weight)",
+          "number": 10,
+          "sentence": "Honestly, I couldn't eat another thing! What are you trying to do - fatten me up?"
+        }
+      ],
+      "label": "G",
+      "type": "matching"
+    },
+    {
+      "id": "u16_H",
+      "instruction": "Complete using the phrases in the box.",
+      "items": [
+        {
+          "answer": "smooth sailing",
+          "explanation": "Smooth sailing means a process without problems.",
+          "number": 1,
+          "sentence": "We had a few difficulties at first, but it was pretty ___ after that."
+        },
+        {
+          "answer": "on the house",
+          "explanation": "On the house means provided for free by the establishment.",
+          "number": 2,
+          "sentence": "Don't worry - these drinks are ___ ."
+        },
+        {
+          "answer": "raw materials",
+          "explanation": "Raw materials are basic substances used to create something.",
+          "number": 3,
+          "sentence": "Lance built a log cabin in a Canadian forest, using ___ that were all around him."
+        },
+        {
+          "answer": "the town of",
+          "explanation": "Collocation: the town of [Name].",
+          "number": 4,
+          "sentence": "Isambard Kingdom Brunel, the great engineer, was born in ___ Portsmouth in 1806."
+        },
+        {
+          "answer": "on the table",
+          "explanation": "On the table means being offered for consideration.",
+          "number": 5,
+          "sentence": "The offer ___ is far too low and I'm going to ask them to increase it."
+        },
+        {
+          "answer": "bricks and mortar",
+          "explanation": "Bricks and mortar refers to physical property/investment.",
+          "number": 6,
+          "sentence": "I would invest in ___ , because property is usually a safe investment."
+        },
+        {
+          "answer": "out of shape",
+          "explanation": "Out of shape means not physically fit.",
+          "number": 7,
+          "sentence": "Charles was so ___ that he was exhausted after just half a day on the building site."
+        },
+        {
+          "answer": "precious metal",
+          "explanation": "Precious metals are rare metals like gold or silver.",
+          "number": 8,
+          "sentence": "A ___ such as silver is valuable because of its rarity."
+        }
+      ],
+      "label": "H",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_I",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "answer": "on",
+          "explanation": "keep a sharp eye on: watch carefully.",
+          "number": 1,
+          "sentence": "I've always kept a sharp eye (1) ___ developments in building..."
+        },
+        {
+          "answer": "my",
+          "explanation": "block someone's way: obstruct.",
+          "number": 2,
+          "sentence": "There are rules and regulations everywhere that seem to block (2) ___ way..."
+        },
+        {
+          "answer": "make",
+          "explanation": "to make matters worse: used to say a bad situation is even worse.",
+          "number": 3,
+          "sentence": "...and, to (3) ___ matters worse, not everyone agrees..."
+        },
+        {
+          "answer": "into",
+          "explanation": "a window into/onto: an opportunity to understand something.",
+          "number": 4,
+          "sentence": "It certainly gave me a window (4) ___ the world of architecture..."
+        },
+        {
+          "answer": "matter",
+          "explanation": "a matter of opinion: something people have different opinions about.",
+          "number": 5,
+          "sentence": "Perhaps I was crazy (that's a (5) ___ of opinion!)..."
+        },
+        {
+          "answer": "under",
+          "explanation": "under/beneath the surface: below the outward appearance.",
+          "number": 6,
+          "sentence": "...but (6) ___ the surface I wanted it to be high-tech..."
+        },
+        {
+          "answer": "way",
+          "explanation": "smooth the way for: make something easier.",
+          "number": 7,
+          "sentence": "...and that certainly smoothed the (7) ___ for what was to come."
+        },
+        {
+          "answer": "into",
+          "explanation": "bend something into shape.",
+          "number": 8,
+          "sentence": "...putting up walls and bending things (8) ___ shape..."
+        },
+        {
+          "answer": "to",
+          "explanation": "erect a monument to someone.",
+          "number": 9,
+          "sentence": "...and I'd like to erect a monument (9) ___ the person who invented solar-powered heating."
+        },
+        {
+          "answer": "had",
+          "explanation": "have no foundation: not based on facts.",
+          "number": 10,
+          "sentence": "In the end, my architect's predictions of doom (10) ___ no foundation..."
+        }
+      ],
+      "label": "I",
+      "type": "gap_fill"
+    },
+    {
+      "id": "u16_J",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "answer": "foundation",
+          "explanation": "without foundation (no proof); foundation stone (first stone of building); foundation course (prep course).",
+          "number": 1,
+          "sentence": "These accusations are completely without ___ . / The ___ stone for the new hospital was laid by the Mayor. / You have to do a ___ course before you can start your degree."
+        },
+        {
+          "answer": "tough",
+          "explanation": "tough guy (strong/aggressive); get tough with (strict); tough on Amanda (difficult for).",
+          "number": 2,
+          "sentence": "Joshua looks aggressive, but he's not such a ___ guy once you get to know him. / It's time this government got ___ with people exceeding the speed limit. / The last few years have been quite ___ on Amanda..."
+        },
+        {
+          "answer": "matter",
+          "explanation": "a matter of months (short time); no matter what (regardless); a matter of urgency (important).",
+          "number": 3,
+          "sentence": "The building collapsed only a ___ of months after construction was completed. / ...this month, no ___ what. / ...as a ___ of some urgency."
+        },
+        {
+          "answer": "floor",
+          "explanation": "take the floor (start speaking); ground floor (level); floor show (entertainment).",
+          "number": 4,
+          "sentence": "There was a hush in Parliament as the Minister took the ___ . / I'd be afraid of burglars if I lived in a ground ___ flat. / ...I thought the ___ show was terrible."
+        },
+        {
+          "answer": "mark",
+          "explanation": "quick off the mark (fast to react); hit the mark (correct); leave a mark (lasting effect).",
+          "number": 5,
+          "sentence": "The Smiths were pretty quick off the ___ to sell... / ...really hit the ___ . / ...have certainly left a ___ on this area."
+        },
+        {
+          "answer": "fold",
+          "explanation": "businesses fold (fail/close); fold paper (bend); fold arms (cross arms).",
+          "number": 6,
+          "sentence": "A record number of businesses are predicted to ___ in the next 12 months. / Now carefully ___ the paper in two... / Don't ___ your arms and talk to me in that tone of voice!"
+        }
+      ],
+      "label": "J",
+      "type": "gap_fill"
+    },
+    {
+      "id": "u16_K",
+      "instruction": "Complete using the words in the box. You have to use some words more than once.",
+      "items": [
+        {
+          "answer": "landscape",
+          "explanation": "blot on the landscape: ugly thing in a beautiful place.",
+          "number": 1,
+          "sentence": "That awful new office block is a real blot on the ___ ."
+        },
+        {
+          "answer": "jungle",
+          "explanation": "concrete jungle: city with many ugly buildings.",
+          "number": 2,
+          "sentence": "The crime rate is soaring! It's becoming a real concrete ___ out there."
+        },
+        {
+          "answer": "home",
+          "explanation": "make yourself at home: feel relaxed.",
+          "number": 3,
+          "sentence": "Make yourself at ___ while I just put the kettle on..."
+        },
+        {
+          "answer": "town",
+          "explanation": "go out on the town: enjoy evening entertainment.",
+          "number": 4,
+          "sentence": "It's my birthday, so I'm planning to go out on the ___ with my friends..."
+        },
+        {
+          "answer": "belt",
+          "explanation": "commuter belt: area around city where workers live.",
+          "number": 5,
+          "sentence": "Living in the commuter ___ is okay, but I'd love to move back into the city."
+        },
+        {
+          "answer": "sticks",
+          "explanation": "in the sticks: far from town.",
+          "number": 6,
+          "sentence": "I don't know how Nicole survives, living all the way out in the ___ ."
+        },
+        {
+          "answer": "town",
+          "explanation": "satellite town: small town near large city.",
+          "number": 7,
+          "sentence": "We couldn't afford to live in London, so we ended up living in a satellite ___ about half an hour away."
+        },
+        {
+          "answer": "home",
+          "explanation": "home from home: place you feel comfortable.",
+          "number": 8,
+          "sentence": "I love this hotel, and it's always been a kind of ___ from home for me."
+        },
+        {
+          "answer": "street",
+          "explanation": "out on the street: homeless.",
+          "number": 9,
+          "sentence": "...it seemed only a matter of time before Anthony was out on the ___ ."
+        },
+        {
+          "answer": "home",
+          "explanation": "home sweet home: happy to be home.",
+          "number": 10,
+          "sentence": "It's fine to travel, but there's nothing better than ___ sweet home."
+        }
+      ],
+      "label": "K",
+      "type": "fill_blank"
+    },
+    {
+      "id": "u16_L",
+      "instruction": "Each of the words in bold is in the wrong form. Rewrite them correctly.",
+      "items": [
+        {
+          "answer": "manufacturing",
+          "explanation": "Manufacturing industries (industry of making products).",
+          "number": 1,
+          "sentence": "The manufacturer (manufacturing) industries are a major employer in this area ."
+        },
+        {
+          "answer": "surrounding",
+          "explanation": "Surrounding areas (areas nearby).",
+          "number": 2,
+          "sentence": "Dunscar and the roundness (surrounding) areas have seen a sharp increase in house prices ."
+        },
+        {
+          "answer": "solidify",
+          "explanation": "To solidify (become solid).",
+          "number": 3,
+          "sentence": "When the mixture starts to solidity (solidify), put it in the freezer ."
+        },
+        {
+          "answer": "household",
+          "explanation": "A household (people living in a house).",
+          "number": 4,
+          "sentence": "Each housing (household) is responsible for maintaining the area in front of their house ."
+        },
+        {
+          "answer": "softly",
+          "explanation": "Adverb: softly (in a soft voice).",
+          "number": 5,
+          "sentence": "'I'll always be here for you,' Brittany said soften (softly) ."
+        },
+        {
+          "answer": "slippery",
+          "explanation": "Adjective: slippery (causing someone to slip).",
+          "number": 6,
+          "sentence": "Be careful - the floor's wet and it's a bit slippage (slippery) ."
+        },
+        {
+          "answer": "metallic",
+          "explanation": "Adjective: metallic (sounding like metal).",
+          "number": 7,
+          "sentence": "I dropped a spanner and it made a loud, metallurgy (metallic) sound ."
+        },
+        {
+          "answer": "substantial",
+          "explanation": "Adjective: substantial (large/significant).",
+          "number": 8,
+          "sentence": "There have been substance (substantial) improvements to the local area ."
+        },
+        {
+          "answer": "rigidity",
+          "explanation": "Noun: with rigidity (stiffness). Correct usage here would be 'rigidly' as an adverb or 'with rigidity'. The sentence says 'quite rigidity', should be 'quite rigidly'.",
+          "number": 9,
+          "sentence": "The council apply the rules on building quite rigidity (rigidly) ."
+        },
+        {
+          "answer": "structural",
+          "explanation": "Structural damage (damage to the building's structure).",
+          "number": 10,
+          "sentence": "After the earthquake, all the buildings were checked for structure (structural) damage ."
+        }
+      ],
+      "label": "L",
+      "type": "word_form"
+    },
+    {
+      "id": "u16_M",
+      "instruction": "Use the word given in capitals at the end of the line to form a word that fits in the space in the same line.",
+      "items": [
+        {
+          "answer": "analysts",
+          "explanation": "Noun (plural): people who analyze.",
+          "number": 1,
+          "sentence": "In the late 30s, (1) ___ knew that the centre... needed to be redeveloped. (ANALYSE)"
+        },
+        {
+          "answer": "shelved",
+          "explanation": "Verb (past participle): put on hold/delayed.",
+          "number": 2,
+          "sentence": "Plans had to be (2) ___ when the Second World War started in 1939. (SHELF)"
+        },
+        {
+          "answer": "materialised",
+          "explanation": "Verb: happened/became real.",
+          "number": 3,
+          "sentence": "However, the architects' opportunity (3) ___ when the city centre was practically destroyed... (MATERIAL)"
+        },
+        {
+          "answer": "irreparably",
+          "explanation": "Adverb: in a way that cannot be repaired.",
+          "number": 4,
+          "sentence": "Many buildings were (4) ___ damaged and demolition work began. (REPAIR)"
+        },
+        {
+          "answer": "spacious",
+          "explanation": "Adjective: having lots of space.",
+          "number": 5,
+          "sentence": "Aiming to create a much more (5) ___ area... (SPACE)"
+        },
+        {
+          "answer": "residents",
+          "explanation": "Noun: people who live there.",
+          "number": 6,
+          "sentence": "...for (6) ___ to work and shop in... (RESIDE)"
+        },
+        {
+          "answer": "inhabitable",
+          "explanation": "Adjective: suitable for living in.",
+          "number": 7,
+          "sentence": "They would make the city more (7) ___ by pedestrianising the centre... (INHABIT)"
+        },
+        {
+          "answer": "objections",
+          "explanation": "Noun: expressions of disagreement.",
+          "number": 8,
+          "sentence": "There were (8) ___ from local shopkeepers... (OBJECT)"
+        },
+        {
+          "answer": "densely",
+          "explanation": "Adverb: with a high density.",
+          "number": 9,
+          "sentence": "What was once a (9) ___ populated area became a pleasant... (DENSE)"
+        },
+        {
+          "answer": "architectural",
+          "explanation": "Adjective: relating to architecture.",
+          "number": 10,
+          "sentence": "It was a real (10) ___ achievement... (ARCHITECT)"
+        }
+      ],
+      "label": "M",
+      "type": "word_form"
+    },
+    {
+      "id": "u16_N",
+      "instruction": "The suffix -en can be added to nouns or adjectives to form verbs. Tick the ones below which can take -en.",
+      "items": [
+        {
+          "answer": "blacken",
+          "number": 1,
+          "sentence": "black"
+        },
+        {
+          "answer": "brighten",
+          "number": 2,
+          "sentence": "bright"
+        },
+        {
+          "answer": "broaden",
+          "number": 3,
+          "sentence": "broad"
+        },
+        {
+          "answer": "no",
+          "number": 4,
+          "sentence": "brown"
+        },
+        {
+          "answer": "dampen",
+          "number": 5,
+          "sentence": "damp"
+        },
+        {
+          "answer": "deepen",
+          "number": 6,
+          "sentence": "deep"
+        },
+        {
+          "answer": "frighten",
+          "number": 7,
+          "sentence": "fright"
+        },
+        {
+          "answer": "harden",
+          "number": 8,
+          "sentence": "hard"
+        },
+        {
+          "answer": "lengthen",
+          "number": 9,
+          "sentence": "length"
+        },
+        {
+          "answer": "loosen",
+          "number": 10,
+          "sentence": "loose"
+        },
+        {
+          "answer": "no",
+          "number": 11,
+          "sentence": "narrow"
+        },
+        {
+          "answer": "redden",
+          "number": 12,
+          "sentence": "red"
+        },
+        {
+          "answer": "shorten",
+          "number": 13,
+          "sentence": "short"
+        },
+        {
+          "answer": "strengthen",
+          "number": 14,
+          "sentence": "strength"
+        },
+        {
+          "answer": "no",
+          "number": 15,
+          "sentence": "tall"
+        },
+        {
+          "answer": "tighten",
+          "number": 16,
+          "sentence": "tight"
+        },
+        {
+          "answer": "weaken",
+          "number": 17,
+          "sentence": "weak"
+        },
+        {
+          "answer": "widen",
+          "number": 18,
+          "sentence": "wide"
+        }
+      ],
+      "label": "N",
+      "type": "word_form"
+    },
+    {
+      "id": "u16_O",
+      "instruction": "Complete the sentences using words formed in exercise N in the correct form.",
+      "items": [
+        {
+          "answer": "widen",
+          "explanation": "Widen means to make wider.",
+          "number": 1,
+          "sentence": "Apparently, they're going to ___ the road here so that it can cope with the heavy traffic."
+        },
+        {
+          "answer": "strengthens",
+          "explanation": "Strengthen means to make stronger.",
+          "number": 2,
+          "sentence": "This decision by the authorities only ___ our determination to fight on."
+        },
+        {
+          "answer": "blackened",
+          "explanation": "Blacken means to become black.",
+          "number": 3,
+          "sentence": "Ryan's face ___ as he realised what a terrible mistake he'd made."
+        },
+        {
+          "answer": "shorten",
+          "explanation": "Shorten means to make shorter.",
+          "number": 4,
+          "sentence": "The dress suits you, but it's a bit long. You can always ___ it."
+        },
+        {
+          "answer": "loosen",
+          "explanation": "Loosen means to make less tight.",
+          "number": 5,
+          "sentence": "Could you help me ___ my seat belt? It's a bit loose."
+        },
+        {
+          "answer": "brighten",
+          "explanation": "Brighten up means to make a place more cheerful.",
+          "number": 6,
+          "sentence": "Some flowers in here would certainly ___ the place up, wouldn't they?"
+        },
+        {
+          "answer": "harden",
+          "explanation": "Harden means to become hard.",
+          "number": 7,
+          "sentence": "They leave the clay in the sun to ___ and use the bricks to build houses."
+        },
+        {
+          "answer": "weaken",
+          "explanation": "Weaken means to become less strong.",
+          "number": 8,
+          "sentence": "We must remain strong and not ___ if we're going to stop this bypass being built."
+        }
+      ],
+      "label": "O",
+      "type": "fill_blank"
+    }
+  ]
+}

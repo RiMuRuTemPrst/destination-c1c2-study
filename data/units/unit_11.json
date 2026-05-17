@@ -1,0 +1,881 @@
+{
+  "unit_id": 11,
+  "unit_type": "Grammar",
+  "title": "Conditionals",
+  "grammar_topics": [
+    {
+      "topic": "First conditional",
+      "explanation_en": "Used for real conditions in the present or future and their results in the present or future. Form: if + present tense, will + bare infinitive / imperative.",
+      "explanation_vi": "Dùng cho các điều kiện có thật ở hiện tại hoặc tương lai và kết quả của chúng. Cấu trúc: if + thì hiện tại, will + động từ nguyên mẫu / câu mệnh lệnh.",
+      "rules": [
+        "Other modals (can, could, may, might, shall, should, have to, ought to) and 'be going to' can be used instead of 'will' in the result clause."
+      ],
+      "examples": [
+        {
+          "sentence": "If we continue to pollute our planet, future generations will suffer.",
+          "translation": "Nếu chúng ta tiếp tục làm ô nhiễm hành tinh, các thế hệ tương lai sẽ phải gánh chịu hậu quả."
+        },
+        {
+          "sentence": "If the people from Greenpeace call, tell them I'll call them back later.",
+          "translation": "Nếu người từ Greenpeace gọi, hãy bảo họ tôi sẽ gọi lại sau."
+        }
+      ],
+      "watch_out": []
+    },
+    {
+      "topic": "Second conditional",
+      "explanation_en": "Used for hypothetical conditions in the present or future and their hypothetical results in the present or future. Form: if + past simple, would + bare infinitive.",
+      "explanation_vi": "Dùng cho các điều kiện giả định (không có thật) ở hiện tại hoặc tương lai và kết quả giả định của chúng. Cấu trúc: if + thì quá khứ đơn, would + động từ nguyên mẫu.",
+      "rules": [
+        "Other modals (might, could) can be used instead of 'would' in the result clause.",
+        "In formal English, 'were' is often used instead of 'was' after 'if' for all persons.",
+        "The phrase 'If I were you' is standard for giving advice."
+      ],
+      "examples": [
+        {
+          "sentence": "What would the local government do if there was an earthquake in the area?",
+          "translation": "Chính quyền địa phương sẽ làm gì nếu có một trận động đất trong khu vực?"
+        },
+        {
+          "sentence": "If I were a gambler, I'd put money on Jim being late.",
+          "translation": "Nếu tôi là một người thích cá cược, tôi sẽ đặt tiền vào việc Jim sẽ đến muộn."
+        }
+      ],
+      "watch_out": []
+    },
+    {
+      "topic": "Third conditional",
+      "explanation_en": "Used for hypothetical conditions in the past and their results in the past. Form: if + past perfect, would + have + past participle.",
+      "explanation_vi": "Dùng cho các điều kiện giả định không có thật trong quá khứ và kết quả của chúng trong quá khứ. Cấu trúc: if + thì quá khứ hoàn thành, would + have + quá khứ phân từ (V3).",
+      "rules": [
+        "Other modals (might, could, should) can be used instead of 'would' in the result clause."
+      ],
+      "examples": [
+        {
+          "sentence": "A lot more people would have been trapped by the flood if there hadn't been a warning.",
+          "translation": "Sẽ có nhiều người hơn bị mắc kẹt bởi trận lũ nếu không có lời cảnh báo."
+        }
+      ],
+      "watch_out": []
+    },
+    {
+      "topic": "Mixed conditionals",
+      "explanation_en": "Used to connect a hypothetical past condition with a present result, or a hypothetical present condition with a past result.",
+      "explanation_vi": "Dùng để kết nối một điều kiện giả định trong quá khứ với kết quả ở hiện tại, hoặc một điều kiện giả định ở hiện tại với kết quả trong quá khứ.",
+      "rules": [
+        "Past condition -> Present result: If + past perfect, would + bare infinitive.",
+        "Present condition -> Past result: If + past simple, would + have + past participle."
+      ],
+      "examples": [
+        {
+          "sentence": "You might not be in so much trouble if you hadn't started gambling.",
+          "translation": "Bạn có lẽ đã không gặp nhiều rắc rối như vậy nếu bạn không bắt đầu đánh bạc (quá khứ không bắt đầu -> hiện tại không rắc rối)."
+        },
+        {
+          "sentence": "If I were you, I would have made Paula buy her own lottery ticket.",
+          "translation": "Nếu tôi là bạn, tôi đã bắt Paula tự mua vé số cho cô ấy rồi (hiện tại là tôi -> quá khứ đã làm)."
+        }
+      ],
+      "watch_out": []
+    },
+    {
+      "topic": "Inverted conditionals",
+      "explanation_en": "More formal forms of conditionals where 'if' is omitted and the verb is inverted.",
+      "explanation_vi": "Các hình thức trang trọng hơn của câu điều kiện, trong đó 'if' bị lược bỏ và động từ được đảo lên trước chủ ngữ.",
+      "rules": [
+        "First conditional: Should + subject + bare infinitive...",
+        "Second conditional: Were + subject + to-infinitive...",
+        "Third conditional: Had + subject + past participle...",
+        "Negative inversion: Put 'not' after the subject (e.g., Had we not...)."
+      ],
+      "examples": [
+        {
+          "sentence": "Should the drought continue, many people will be forced to leave their villages.",
+          "translation": "Nếu đợt hạn hán này tiếp tục, nhiều người sẽ buộc phải rời bỏ làng mạc của mình."
+        },
+        {
+          "sentence": "Had Charles Darwin not visited the Galapagos Islands, he might never have developed his theory of evolution.",
+          "translation": "Nếu Charles Darwin không đến thăm quần đảo Galapagos, ông ấy có lẽ đã không bao giờ phát triển được thuyết tiến hóa của mình."
+        }
+      ],
+      "watch_out": []
+    },
+    {
+      "topic": "Other conditional structures",
+      "explanation_en": "Various phrases and words that express conditional meanings.",
+      "explanation_vi": "Các cụm từ và từ ngữ khác nhau dùng để diễn đạt ý nghĩa điều kiện.",
+      "rules": [
+        "As/so long as, Provided/Providing (that), On condition (that): 'miễn là', 'với điều kiện là'.",
+        "Suppose/Supposing: 'giả sử'.",
+        "If it wasn't/weren't for, Were it not for, But for, If it hadn't been for, Had it not been for: 'nếu không vì/nếu không nhờ'.",
+        "If... (should) happen to: 'nếu tình cờ'.",
+        "Otherwise: 'nếu không thì'.",
+        "Unless: 'trừ khi' (if not).",
+        "In case (of): 'phòng khi', 'trong trường hợp'."
+      ],
+      "examples": [
+        {
+          "sentence": "Unless governments act now, the environment is really going to suffer.",
+          "translation": "Trừ khi các chính phủ hành động ngay bây giờ, nếu không môi trường sẽ thực sự phải gánh chịu hậu quả."
+        },
+        {
+          "sentence": "But for your help, I wouldn't have been able to quit gambling.",
+          "translation": "Nếu không có sự giúp đỡ của bạn, tôi đã không thể bỏ cờ bạc được."
+        }
+      ],
+      "watch_out": []
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u11_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Match to make sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If you stay with us for three days, ___",
+          "options": [
+            "we'll have enough time to see a few sights.",
+            "give us a call and we'll come to pick you up.",
+            "you wouldn't get hiccups, would you?",
+            "more areas of natural beauty will be destroyed."
+          ],
+          "answer": "we'll have enough time to see a few sights.",
+          "explanation": "Condition: staying for 3 days. Result: having time to see sights. This is a first conditional (real possibility)."
+        },
+        {
+          "number": 2,
+          "sentence": "If you decide not to vote in the election, ___",
+          "options": [
+            "they have to go through a complicated procedure.",
+            "you can't really complain about the government.",
+            "very few people would obey the law.",
+            "we might get served a bit more quickly."
+          ],
+          "answer": "you can't really complain about the government.",
+          "explanation": "The logical consequence of not voting is losing the moral right to complain about the government."
+        },
+        {
+          "number": 3,
+          "sentence": "If you didn't eat your lunch so fast, ___",
+          "options": [
+            "you wouldn't get hiccups, would you?",
+            "very few people would obey the law.",
+            "we'd be happy to give you a good reference.",
+            "I'm pretty sure they won't let you check in."
+          ],
+          "answer": "you wouldn't get hiccups, would you?",
+          "explanation": "Second conditional: hypothetical present. Eating fast causes hiccups."
+        },
+        {
+          "number": 4,
+          "sentence": "If there were a few more people working, ___",
+          "options": [
+            "we might get served a bit more quickly.",
+            "very few people would obey the law.",
+            "more areas of natural beauty will be destroyed.",
+            "they have to go through a complicated procedure."
+          ],
+          "answer": "we might get served a bit more quickly.",
+          "explanation": "Second conditional: hypothetical present. More staff would lead to faster service."
+        },
+        {
+          "number": 5,
+          "sentence": "If you forget to take your passport, ___",
+          "options": [
+            "I'm pretty sure they won't let you check in.",
+            "they have to go through a complicated procedure.",
+            "give us a call and we'll come to pick you up.",
+            "very few people would obey the law."
+          ],
+          "answer": "I'm pretty sure they won't let you check in.",
+          "explanation": "First conditional: a real potential problem at check-in."
+        },
+        {
+          "number": 6,
+          "sentence": "If the hire car isn't there when you arrive, ___",
+          "options": [
+            "give us a call and we'll come to pick you up.",
+            "you can't really complain about the government.",
+            "more areas of natural beauty will be destroyed.",
+            "they have to go through a complicated procedure."
+          ],
+          "answer": "give us a call and we'll come to pick you up.",
+          "explanation": "First conditional / Imperative result: instructions for a specific situation."
+        },
+        {
+          "number": 7,
+          "sentence": "If the city continues to expand, ___",
+          "options": [
+            "more areas of natural beauty will be destroyed.",
+            "very few people would obey the law.",
+            "we'd be happy to give you a good reference.",
+            "they have to go through a complicated procedure."
+          ],
+          "answer": "more areas of natural beauty will be destroyed.",
+          "explanation": "First conditional: a future result of a current trend."
+        },
+        {
+          "number": 8,
+          "sentence": "If the police didn't fine people, ___",
+          "options": [
+            "very few people would obey the law.",
+            "you wouldn't get hiccups, would you?",
+            "they have to go through a complicated procedure.",
+            "we might get served a bit more quickly."
+          ],
+          "answer": "very few people would obey the law.",
+          "explanation": "Second conditional: hypothetical consequence of no fines."
+        },
+        {
+          "number": 9,
+          "sentence": "If you did decide to leave the company, ___",
+          "options": [
+            "we'd be happy to give you a good reference.",
+            "they have to go through a complicated procedure.",
+            "very few people would obey the law.",
+            "I'm pretty sure they won't let you check in."
+          ],
+          "answer": "we'd be happy to give you a good reference.",
+          "explanation": "Second conditional (more formal with 'did decide'): hypothetical future result."
+        },
+        {
+          "number": 10,
+          "sentence": "If MPs wish to resign, ___",
+          "options": [
+            "they have to go through a complicated procedure.",
+            "you can't really complain about the government.",
+            "we'll have enough time to see a few sights.",
+            "we might get served a bit more quickly."
+          ],
+          "answer": "they have to go through a complicated procedure.",
+          "explanation": "Zero/First conditional: expressing a general rule or fact about the resignation process."
+        }
+      ]
+    },
+    {
+      "id": "u11_B",
+      "label": "B",
+      "type": "transformation",
+      "instruction": "Rewrite using an appropriate conditional form, starting with the words given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Sue didn't get me a birthday present, which is why I didn't get her one. -> If Sue ___.",
+          "answer": "had got me a birthday present, I would have got her one",
+          "explanation": "Third conditional: hypothetical past condition and result."
+        },
+        {
+          "number": 2,
+          "sentence": "We didn't pay them on time because they made a mistake with our order. -> If they ___.",
+          "answer": "hadn't made a mistake with our order, we would have paid them on time",
+          "explanation": "Third conditional: hypothetical past."
+        },
+        {
+          "number": 3,
+          "sentence": "The climate is undergoing such radical changes that scientists are worried. -> If ___.",
+          "answer": "the climate wasn't/weren't undergoing such radical changes, scientists wouldn't be worried",
+          "explanation": "Second conditional: hypothetical present situation."
+        },
+        {
+          "number": 4,
+          "sentence": "Did California become an important area because they found gold there? -> Would ___?",
+          "answer": "California have become an important area if they hadn't found gold there",
+          "explanation": "Third conditional question: hypothetical past."
+        },
+        {
+          "number": 5,
+          "sentence": "It's the sunset that attracts tourists to that place. -> If it ___.",
+          "answer": "wasn't/weren't for the sunset, tourists wouldn't be attracted to that place",
+          "explanation": "Second conditional: 'If it weren't for' + noun."
+        },
+        {
+          "number": 6,
+          "sentence": "There was a traffic jam on the motorway so I was late for my interview. -> If there ___.",
+          "answer": "hadn't been a traffic jam on the motorway, I wouldn't have been late for my interview",
+          "explanation": "Third conditional: hypothetical past."
+        },
+        {
+          "number": 7,
+          "sentence": "I suggest you use a sunblock, and then you won't go red. -> If I were ___.",
+          "answer": "you, I would use a sunblock (and then you wouldn't go red)",
+          "explanation": "Second conditional: 'If I were you' for advice."
+        },
+        {
+          "number": 8,
+          "sentence": "The accident happened as a result of the driver's not paying attention to the road. -> If the driver ___.",
+          "answer": "had been paying attention to the road, the accident wouldn't have happened",
+          "explanation": "Third conditional: hypothetical past."
+        }
+      ]
+    },
+    {
+      "id": "u11_C",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Complete using the correct form of the verbs in bold. Add any other words you need.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If I (1) ___ (do) that then, I never (2) ___ (have) so many fantastic experiences.",
+          "answer": "hadn't done",
+          "explanation": "Third conditional: hypothetical past condition."
+        },
+        {
+          "number": 2,
+          "sentence": "If I (1) hadn't done that then, I never (2) ___ (have) so many fantastic experiences.",
+          "answer": "would have had",
+          "explanation": "Third conditional: hypothetical past result."
+        },
+        {
+          "number": 3,
+          "sentence": "If you (3) ___ (ask) me now, I would say that I knew nothing when I started, but I've learnt a huge amount.",
+          "answer": "asked / were to ask",
+          "explanation": "Second conditional: hypothetical present/future."
+        },
+        {
+          "number": 4,
+          "sentence": "In a typical day, I'll deal with complaints, check on the running of the park and lead guided tours, if any (4) ___ (book).",
+          "answer": "are booked",
+          "explanation": "First conditional: real present/future possibility. Passive voice used."
+        },
+        {
+          "number": 5,
+          "sentence": "If it's low season, I (5) ___ (have) time to check on forest management and fire control measures.",
+          "answer": "have / will have",
+          "explanation": "Zero/First conditional: habitual action or real possibility."
+        },
+        {
+          "number": 6,
+          "sentence": "It can get stressful at times, especially if visitors to the park (6) ___ (get) lost or injured.",
+          "answer": "get",
+          "explanation": "Zero conditional: general truth/habit."
+        },
+        {
+          "number": 7,
+          "sentence": "We had a case last week, which wouldn't (7) ___ (happen) if the woman involved (8) ___ (be) a bit more careful.",
+          "answer": "have happened",
+          "explanation": "Third conditional result clause."
+        },
+        {
+          "number": 8,
+          "sentence": "We had a case last week, which wouldn't have happened if the woman involved (8) ___ (be) a bit more careful.",
+          "answer": "had been",
+          "explanation": "Third conditional 'if' clause."
+        },
+        {
+          "number": 9,
+          "sentence": "You see, if you (9) ___ (wander) around a large National Park like this without a map, you're bound to get lost.",
+          "answer": "wander",
+          "explanation": "First conditional: general consequence."
+        },
+        {
+          "number": 10,
+          "sentence": "This particular case might (10) ___ (be) so bad if it (11) ___ (start) raining.",
+          "answer": "not have been",
+          "explanation": "Third conditional: hypothetical past result with 'might'."
+        },
+        {
+          "number": 11,
+          "sentence": "This particular case might not have been so bad if it (11) ___ (start) raining.",
+          "answer": "hadn't started",
+          "explanation": "Third conditional: hypothetical past condition."
+        },
+        {
+          "number": 12,
+          "sentence": "I dread to think what might (12) ___ (happen) if we hadn't!",
+          "answer": "have happened",
+          "explanation": "Third conditional: hypothetical past result."
+        }
+      ]
+    },
+    {
+      "id": "u11_D",
+      "label": "D",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If we hadn't taken a wrong turning back there, we wouldn't ___ in this mess now.",
+          "options": ["be", "have been"],
+          "answer": "be",
+          "explanation": "Mixed conditional: Past condition (hadn't taken) -> Present result (now)."
+        },
+        {
+          "number": 2,
+          "sentence": "___ you need any further assistance, please don't hesitate to ask.",
+          "options": ["Should", "Would"],
+          "answer": "Should",
+          "explanation": "Inverted first conditional: 'Should you need' = 'If you should need'."
+        },
+        {
+          "number": 3,
+          "sentence": "___ warned people in time, a lot more lives could have been lost.",
+          "options": ["Had they not", "Hadn't they"],
+          "answer": "Had they not",
+          "explanation": "Inverted third conditional: 'Had they not' is correct. In inversion, 'not' comes after the subject."
+        },
+        {
+          "number": 4,
+          "sentence": "If you ___ last weekend when the boss asked you, then you wouldn't have to work this weekend.",
+          "options": ["worked", "had worked"],
+          "answer": "had worked",
+          "explanation": "Mixed conditional: Past condition (had worked last weekend) -> Present result (wouldn't have to work now)."
+        },
+        {
+          "number": 5,
+          "sentence": "Were all the members of staff to attend the conference, would the hotel ___ enough rooms for everyone?",
+          "options": ["have", "have had"],
+          "answer": "have",
+          "explanation": "Inverted second conditional: 'Were... to attend' = 'If they attended'. Result is 'would have'."
+        },
+        {
+          "number": 6,
+          "sentence": "Had the government acted sooner, the general public wouldn't ___ so much about the current situation.",
+          "options": ["be worrying", "have worried"],
+          "answer": "be worrying",
+          "explanation": "Mixed conditional: Past condition (had acted) -> Present result (wouldn't be worrying now)."
+        },
+        {
+          "number": 7,
+          "sentence": "Tom Cruise wouldn't be the star he is today ___ made a good impression in his early films.",
+          "options": ["had he not", "should he not have"],
+          "answer": "had he not",
+          "explanation": "Mixed conditional: Present result (wouldn't be) -> Past condition (had he not made)."
+        },
+        {
+          "number": 8,
+          "sentence": "___ build more roads, the traffic system would collapse by 2020.",
+          "options": ["Weren't we", "Were we not"],
+          "answer": "Were we not",
+          "explanation": "Inverted second conditional. 'Not' comes after the subject."
+        },
+        {
+          "number": 9,
+          "sentence": "It would be hard enough to pass the exam tomorrow even if you ___ to all the lectures this year.",
+          "options": ["went", "had gone"],
+          "answer": "had gone",
+          "explanation": "Mixed conditional: Past condition (had gone to lectures earlier this year) -> Future/Present result (would be hard tomorrow)."
+        },
+        {
+          "number": 10,
+          "sentence": "You can contact the hotel manager on extension 142 ___ you need to.",
+          "options": ["should", "could"],
+          "answer": "should",
+          "explanation": "Inverted first conditional (omitted 'if'): 'should you need to'."
+        },
+        {
+          "number": 11,
+          "sentence": "___ receive confirmation of your flight by e-mail, please click the link below.",
+          "options": ["Shouldn't you", "Should you not"],
+          "answer": "Should you not",
+          "explanation": "Inverted first conditional negative form: 'Should + subject + not'."
+        },
+        {
+          "number": 12,
+          "sentence": "I would have asked the person for ID before I let him in, if I ___ you.",
+          "options": ["were", "have been"],
+          "answer": "were",
+          "explanation": "Mixed conditional: Present condition (if I were you - constant state) -> Past result (would have asked)."
+        }
+      ]
+    },
+    {
+      "id": "u11_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Do you want a highly-paid career, and, if ___ , are you prepared to retrain? Contact us.",
+          "answer": "so",
+          "explanation": "'If so' replaces 'if you want a highly-paid career'."
+        },
+        {
+          "number": 2,
+          "sentence": "I'm quite happy to lend you money, as ___ as you make sure I get it back.",
+          "answer": "long",
+          "explanation": "'As long as' means 'miễn là'."
+        },
+        {
+          "number": 3,
+          "sentence": "The village fair should be a great success, ___ we don't have the same problems with the weather as last year.",
+          "answer": "provided",
+          "explanation": "'Provided (that)' means 'với điều kiện là'."
+        },
+        {
+          "number": 4,
+          "sentence": "It'd be great to see you on Saturday evening, ___ you've already got other plans.",
+          "answer": "unless",
+          "explanation": "'Unless' means 'trừ khi' (if you don't have other plans)."
+        },
+        {
+          "number": 5,
+          "sentence": "Could you go to the shop for me? I have to stay in in ___ the courier comes.",
+          "answer": "case",
+          "explanation": "'In case' means 'phòng khi/trong trường hợp'."
+        },
+        {
+          "number": 6,
+          "sentence": "Your idea sounds fine in theory, but just ___ something goes wrong. What then?",
+          "answer": "suppose",
+          "explanation": "'Suppose' is used to suggest a hypothetical situation."
+        },
+        {
+          "number": 7,
+          "sentence": "Write your name at the top of your essay, ___ I won't know which one's yours.",
+          "answer": "otherwise",
+          "explanation": "'Otherwise' means 'nếu không thì'."
+        },
+        {
+          "number": 8,
+          "sentence": "The judge allowed the accused to stay at home on ___ she reported to the police every morning.",
+          "answer": "condition",
+          "explanation": "'On condition (that)' means 'với điều kiện là'."
+        }
+      ]
+    },
+    {
+      "id": "u11_F",
+      "label": "F",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I would never be able to afford a new house if ___ wasn't for all the overtime I've been doing.",
+          "answer": "it",
+          "explanation": "Structure: 'If it wasn't/weren't for'."
+        },
+        {
+          "number": 2,
+          "sentence": "If it hadn't ___ for the fact that his uncle was a partner in the business, Angus would never have got the job.",
+          "answer": "been",
+          "explanation": "Structure: 'If it hadn't been for'."
+        },
+        {
+          "number": 3,
+          "sentence": "How do you think you'd feel if someone happened ___ damage your car like that?",
+          "answer": "to",
+          "explanation": "Structure: 'happen to do something'."
+        },
+        {
+          "number": 4,
+          "sentence": "___ for the kindness of a complete stranger, I would never have found the hotel.",
+          "answer": "But",
+          "explanation": "'But for' + noun means 'nếu không nhờ/nếu không vì'."
+        },
+        {
+          "number": 5,
+          "sentence": "I don't think I'd be surprised in the slightest ___ Paul were to suddenly announce that he was moving abroad.",
+          "answer": "if",
+          "explanation": "Standard second conditional with 'were to'."
+        },
+        {
+          "number": 6,
+          "sentence": "Don't forget to mention the new schedule to Veronica if you ___ happen to see her this evening.",
+          "answer": "should",
+          "explanation": "Structure: 'if you should happen to' (very unlikely/polite)."
+        },
+        {
+          "number": 7,
+          "sentence": "Football matches would be ideal family outings ___ it not for the danger of violence.",
+          "answer": "were",
+          "explanation": "Inverted second conditional: 'Were it not for' = 'If it weren't for'."
+        },
+        {
+          "number": 8,
+          "sentence": "If it hadn't been ___ the children, I'm sure Trisha would have left Tom a long time ago.",
+          "answer": "for",
+          "explanation": "Structure: 'If it hadn't been for'."
+        },
+        {
+          "number": 9,
+          "sentence": "I would have lost the game ___ it not been for some quick thinking.",
+          "answer": "had",
+          "explanation": "Inverted third conditional: 'Had it not been for'."
+        },
+        {
+          "number": 10,
+          "sentence": "If you ___ find the book I was asking you about, give me a call.",
+          "answer": "should",
+          "explanation": "'If you should find' means 'nếu tình cờ tìm thấy'."
+        }
+      ]
+    },
+    {
+      "id": "u11_G",
+      "label": "G",
+      "type": "transformation",
+      "instruction": "Rewrite the sentences, starting with the words given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The only reason we won the contract was Debbie's fantastic presentation. -> We wouldn't have ___.",
+          "answer": "won the contract if it hadn't been for Debbie's fantastic presentation",
+          "explanation": "Third conditional using 'if it hadn't been for'."
+        },
+        {
+          "number": 2,
+          "sentence": "The eventual arrival of the ferry prevented a fight from breaking out amongst the passengers. -> If it hadn't been for ___.",
+          "answer": "the eventual arrival of the ferry, a fight would have broken out amongst the passengers",
+          "explanation": "Third conditional: hypothetical past."
+        },
+        {
+          "number": 3,
+          "sentence": "None of the passengers was injured because of the driver's quick reaction. -> But ___.",
+          "answer": "for the driver's quick reaction, some of the passengers would have been injured",
+          "explanation": "'But for' + noun construction."
+        },
+        {
+          "number": 4,
+          "sentence": "We'll have to cancel the meeting if Wendy doesn't turn up soon. -> Unless ___.",
+          "answer": "Wendy turns up soon, we'll have to cancel the meeting",
+          "explanation": "'Unless' replaces 'if... not'."
+        },
+        {
+          "number": 5,
+          "sentence": "Mr Jones would be quite lonely if he didn't have his daughter's visits. -> Were it ___.",
+          "answer": "not for his daughter's visits, Mr Jones would be quite lonely",
+          "explanation": "Inverted second conditional: 'Were it not for'."
+        },
+        {
+          "number": 6,
+          "sentence": "Here's my phone number, because you might need it. -> In case ___.",
+          "answer": "you need it, here's my phone number",
+          "explanation": "'In case' for precaution."
+        },
+        {
+          "number": 7,
+          "sentence": "Agree to be back by midnight and you can go. -> Providing ___.",
+          "answer": "you agree to be back by midnight, you can go",
+          "explanation": "'Providing' expresses a condition."
+        },
+        {
+          "number": 8,
+          "sentence": "Officer Hughes prevented the robbers from escaping. -> Had it ___.",
+          "answer": "not been for Officer Hughes, the robbers would have escaped",
+          "explanation": "Inverted third conditional: 'Had it not been for'."
+        }
+      ]
+    },
+    {
+      "id": "u11_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If you saw another student cheating in an exam, ___ somebody?",
+          "options": ["did you tell", "do you tell", "would you tell", "have you told"],
+          "answer": "would you tell",
+          "explanation": "Second conditional question (hypothetical present/future)."
+        },
+        {
+          "number": 2,
+          "sentence": "Make sure you mix the ingredients well, ___ you might get lumps in your cake.",
+          "options": ["unless", "otherwise", "provided", "supposing"],
+          "answer": "otherwise",
+          "explanation": "'Otherwise' means 'nếu không thì'."
+        },
+        {
+          "number": 3,
+          "sentence": "Were ___ my dad, I would never have started playing tennis in the first place.",
+          "options": ["it for", "it hadn't been for", "it to be for", "it not for"],
+          "answer": "it not for",
+          "explanation": "Inverted second conditional structure: 'Were it not for'."
+        },
+        {
+          "number": 4,
+          "sentence": "If I ___ hear from Nigel, I'll tell him you were asking after him.",
+          "options": ["happened", "should happen to", "should to", "will happen to"],
+          "answer": "should happen to",
+          "explanation": "'If I should happen to' is a polite/less likely first conditional form."
+        },
+        {
+          "number": 5,
+          "sentence": "The book would have been perfect ___ the ending.",
+          "options": ["had it not been for", "it had not been for", "it hadn't been for", "hadn't it been for"],
+          "answer": "had it not been for",
+          "explanation": "Inverted third conditional: 'Had it not been for'."
+        },
+        {
+          "number": 6,
+          "sentence": "If you hadn't taken the money, you ___ in prison now.",
+          "options": ["wouldn't have been", "hadn't been", "haven't been", "wouldn't be"],
+          "answer": "wouldn't be",
+          "explanation": "Mixed conditional: Past condition (hadn't taken) -> Present result (now)."
+        },
+        {
+          "number": 7,
+          "sentence": "Do you think that if we ___ earlier we might not have missed the coach?",
+          "options": ["have been leaving", "left", "had left", "have left"],
+          "answer": "had left",
+          "explanation": "Third conditional: hypothetical past."
+        },
+        {
+          "number": 8,
+          "sentence": "Unless Ray ___ here soon, I'm going to leave because I'm getting bored.",
+          "options": ["doesn't get", "gets", "won't get", "will get"],
+          "answer": "gets",
+          "explanation": "'Unless' is followed by an affirmative verb (Unless Ray gets = If Ray doesn't get)."
+        },
+        {
+          "number": 9,
+          "sentence": "What if I ___ you that there's a good chance I can get tickets for the concert?",
+          "options": ["were to tell", "were telling", "have told", "would to tell"],
+          "answer": "were to tell",
+          "explanation": "'What if' + second conditional 'were to tell' (hypothetical suggestion)."
+        },
+        {
+          "number": 10,
+          "sentence": "If there ___ happen to be any reason for late delivery, please inform our Accounts Department.",
+          "options": ["might", "could", "would", "should"],
+          "answer": "should",
+          "explanation": "'If there should happen to be' is a formal way to express a possibility."
+        }
+      ]
+    },
+    {
+      "id": "u11_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Had (1) ___ not been for the invention of CFCs in the 1920s, at least one environmental problem might have been avoided.",
+          "answer": "it",
+          "explanation": "Inverted third conditional: 'Had it not been for'."
+        },
+        {
+          "number": 2,
+          "sentence": "In fact, (2) ___ they to be invented today, they (3) ___ no doubt be immediately banned.",
+          "answer": "were",
+          "explanation": "Inverted second conditional: 'Were they to be'."
+        },
+        {
+          "number": 3,
+          "sentence": "In fact, were they to be invented today, they (3) ___ no doubt be immediately banned.",
+          "answer": "would",
+          "explanation": "Second conditional result clause."
+        },
+        {
+          "number": 4,
+          "sentence": "For fifty years, though, if you bought an air conditioner or a spray, there (4) ___ a good chance that it contained CFCs.",
+          "answer": "was",
+          "explanation": "Past real condition: 'If you bought... there was a chance'."
+        },
+        {
+          "number": 5,
+          "sentence": "If you (5) ___ able to travel into the upper layers of the atmosphere, you (6) ___ see the chlorine and fluorine...",
+          "answer": "were",
+          "explanation": "Second conditional: hypothetical present/future."
+        },
+        {
+          "number": 6,
+          "sentence": "If you were able to travel into the upper layers of the atmosphere, you (6) ___ see the chlorine and fluorine...",
+          "answer": "would / could",
+          "explanation": "Second conditional result clause."
+        },
+        {
+          "number": 7,
+          "sentence": "Ozone could damage your lungs (7) ___ you were to breathe it...",
+          "answer": "if",
+          "explanation": "Conditional linking word."
+        },
+        {
+          "number": 8,
+          "sentence": "rays which can cause skin cancer if you (8) ___ exposed to them.",
+          "answer": "are / were",
+          "explanation": "'Are' for general fact (First conditional) or 'were' for hypothetical (Second)."
+        },
+        {
+          "number": 9,
+          "sentence": "We might (9) ___ have known about the process (10) ___ it not been for the work of two American scientists.",
+          "answer": "never",
+          "explanation": "Negative adverb needed for the sense of the sentence."
+        },
+        {
+          "number": 10,
+          "sentence": "We might never have known about the process (10) ___ it not been for the work of two American scientists.",
+          "answer": "had",
+          "explanation": "Inverted third conditional: 'Had it not been for'."
+        },
+        {
+          "number": 11,
+          "sentence": "and might have won (11) ___ the evidence not been so clear.",
+          "answer": "had",
+          "explanation": "Inverted third conditional: 'Had the evidence not been'."
+        },
+        {
+          "number": 12,
+          "sentence": "but (12) ___ which we might today be facing an even greater problem.",
+          "answer": "without",
+          "explanation": "'Without which' refers to the work of the scientists."
+        }
+      ]
+    },
+    {
+      "id": "u11_J",
+      "label": "J",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Without this new diet, Henry would never have lost so much weight. (it) -> Had ___ this new diet, Henry would never have lost so much weight.",
+          "answer": "it not been for",
+          "explanation": "Inverted third conditional: 'Had it not been for'."
+        },
+        {
+          "number": 2,
+          "sentence": "Unless the plans change, we'll see you on the 19th. (no) -> Provided ___ the plans, we'll see you on the 19th.",
+          "answer": "there are no changes to",
+          "explanation": "Using 'provided' and 'no changes to' to mirror 'unless the plans change'."
+        },
+        {
+          "number": 3,
+          "sentence": "If you applied now, there's a good chance you would get the job. (apply) -> Were ___ , there's a good chance you would get the job.",
+          "answer": "you to apply now",
+          "explanation": "Inverted second conditional: 'Were you to apply'."
+        },
+        {
+          "number": 4,
+          "sentence": "I didn't know about your problem so I didn't offer to help. (have) -> If I'd known about your problem, ___ to help.",
+          "answer": "I would have offered",
+          "explanation": "Third conditional result clause."
+        },
+        {
+          "number": 5,
+          "sentence": "It could get cold at night, so take some warm clothes. (in) -> Take some warm clothes ___ cold at night.",
+          "answer": "in case it gets",
+          "explanation": "Precaution using 'in case'."
+        },
+        {
+          "number": 6,
+          "sentence": "I'd love to travel the world if I didn't have to pay off my mortgage. (having) -> Were ___ to pay off my mortgage, I'd love to travel the world.",
+          "answer": "it not for having",
+          "explanation": "Inverted second conditional with 'having' as a gerund."
+        },
+        {
+          "number": 7,
+          "sentence": "Ten years ago, people would have complained at seeing this film. (seen) -> Had ___ , they would have complained.",
+          "answer": "they seen this film",
+          "explanation": "Inverted third conditional: 'Had they seen'."
+        },
+        {
+          "number": 8,
+          "sentence": "Drivers are allowed to park here if they display a local resident permit. (condition) -> Drivers are allowed to park here ___ they display a local resident permit.",
+          "answer": "on condition (that)",
+          "explanation": "Using 'on condition (that)' as a conditional linker."
+        }
+      ]
+    }
+  ]
+}

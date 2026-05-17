@@ -1,0 +1,885 @@
+{
+  "unit_id": 13,
+  "unit_type": "Grammar",
+  "title": "Unreal time",
+  "grammar_topics": [
+    {
+      "topic": "Overview of Unreal Time",
+      "explanation_en": "Sometimes we use the past simple and continuous to refer to the present, the future, or a general situation that is hypothetical or unlikely. We use the past perfect simple and continuous to refer to a hypothetical past that didn't actually happen.",
+      "explanation_vi": "Đôi khi chúng ta sử dụng thì quá khứ đơn và quá khứ tiếp diễn để nói về hiện tại, tương lai hoặc một tình huống chung mang tính giả định hoặc ít có khả năng xảy ra. Chúng ta sử dụng thì quá khứ hoàn thành đơn và tiếp diễn để nói về một quá khứ giả định, không có thật.",
+      "rules": [
+        "Use past simple/continuous for hypothetical present/future situations.",
+        "Use past perfect for hypothetical past situations.",
+        "With 'I/he/she/it', both 'was' and 'were' are possible in unreal time, but 'were' is more formal."
+      ],
+      "examples": [
+        {
+          "sentence": "I wish I were rich.",
+          "translation": "Ước gì tôi giàu."
+        },
+        {
+          "sentence": "If I had known, I would have taken some dollars with me.",
+          "translation": "Nếu tôi biết, tôi đã mang theo một ít đô la rồi."
+        }
+      ],
+      "watch_out": [
+        "In the phrase 'If I were you...', 'were' is always used."
+      ]
+    },
+    {
+      "topic": "Conditionals",
+      "explanation_en": "Unreal time is used in second conditionals (for current/future/general hypothetical situations) and third conditionals (for past hypothetical situations).",
+      "explanation_vi": "Thời gian giả định được sử dụng trong câu điều kiện loại 2 (cho các tình huống giả định ở hiện tại/tương lai/chung) và câu điều kiện loại 3 (cho các tình huống giả định trong quá khứ).",
+      "rules": [
+        "Second conditional: If + past simple/continuous, would + bare infinitive.",
+        "Third conditional: If + past perfect, would + have + past participle."
+      ],
+      "examples": [
+        {
+          "sentence": "I wouldn't accept a job unless I was absolutely sure.",
+          "translation": "Tôi sẽ không chấp nhận một công việc trừ khi tôi hoàn toàn chắc chắn."
+        }
+      ]
+    },
+    {
+      "topic": "imagine / what if / suppose / supposing",
+      "explanation_en": "These words are used to consider hypothetical or unlikely situations. We can also use a present tense instead of a past tense to indicate the situation is more likely to happen.",
+      "explanation_vi": "Các từ này được dùng để xem xét các tình huống giả định hoặc ít có khả năng xảy ra. Chúng ta cũng có thể dùng thì hiện tại thay vì quá khứ để chỉ ra rằng tình huống đó có nhiều khả năng xảy ra hơn.",
+      "rules": [
+        "Past simple/continuous for present/future hypotheticals.",
+        "Past perfect for past hypotheticals.",
+        "Present tense for more likely situations."
+      ],
+      "examples": [
+        {
+          "sentence": "Supposing you were given ten million euros, what would you spend it on?",
+          "translation": "Giả sử bạn được cho mười triệu euro, bạn sẽ tiêu vào việc gì?"
+        },
+        {
+          "sentence": "Suppose you had won the lottery last night.",
+          "translation": "Giả sử tối qua bạn trúng số."
+        }
+      ]
+    },
+    {
+      "topic": "as if / as though",
+      "explanation_en": "Used for untrue or hypothetical comparisons. If the comparison is possible or likely to be true, we use a present or present perfect tense.",
+      "explanation_vi": "Dùng cho các so sánh không có thật hoặc giả định. Nếu phép so sánh có khả năng xảy ra hoặc có thể đúng, chúng ta sử dụng thì hiện tại hoặc hiện tại hoàn thành.",
+      "rules": [
+        "Use past tense for untrue comparisons in the present.",
+        "Use past perfect for untrue comparisons in the past.",
+        "Use present tense for possible/likely comparisons."
+      ],
+      "examples": [
+        {
+          "sentence": "She acts as if she were a millionaire.",
+          "translation": "Cô ấy hành động như thể mình là triệu phú vậy (nhưng cô ấy không phải)."
+        },
+        {
+          "sentence": "She looks as if she's really wealthy.",
+          "translation": "Cô ấy trông có vẻ rất giàu (có khả năng cô ấy giàu thật)."
+        }
+      ]
+    },
+    {
+      "topic": "Questions and requests",
+      "explanation_en": "Using the past tense can make questions and requests more polite and indirect.",
+      "explanation_vi": "Sử dụng thì quá khứ có thể làm cho các câu hỏi và yêu cầu trở nên lịch sự và gián tiếp hơn.",
+      "rules": [
+        "Use past simple or past continuous to increase politeness."
+      ],
+      "examples": [
+        {
+          "sentence": "How much money did you want to spend, madam?",
+          "translation": "Bà muốn chi bao nhiêu tiền ạ?"
+        },
+        {
+          "sentence": "I was wondering whether you might be able to give me some advice.",
+          "translation": "Tôi đang tự hỏi liệu bạn có thể cho tôi một vài lời khuyên không."
+        }
+      ]
+    },
+    {
+      "topic": "it's (high/about) time",
+      "explanation_en": "Suggests that something should be done now or in the immediate future. It is followed by a past tense or a full infinitive (only with 'It's time').",
+      "explanation_vi": "Gợi ý rằng một việc gì đó nên được thực hiện ngay bây giờ hoặc trong tương lai gần. Theo sau là thì quá khứ hoặc động từ nguyên mẫu có 'to' (chỉ với 'It's time').",
+      "rules": [
+        "It's (high/about) time + subject + past simple/continuous.",
+        "It's time + to + infinitive."
+      ],
+      "examples": [
+        {
+          "sentence": "It's time I went home.",
+          "translation": "Đến lúc tôi phải về nhà rồi."
+        },
+        {
+          "sentence": "It's time to think about getting a loan.",
+          "translation": "Đến lúc nghĩ về việc vay vốn rồi."
+        }
+      ],
+      "watch_out": [
+        "We cannot use a full infinitive after 'It's high/about time'."
+      ]
+    },
+    {
+      "topic": "would rather / sooner",
+      "explanation_en": "Used to express preference. When the subject changes, we use a past tense for current/future preference and past perfect for past preference.",
+      "explanation_vi": "Dùng để diễn tả sự ưu tiên. Khi có sự thay đổi về chủ ngữ, chúng ta sử dụng thì quá khứ cho sự ưu tiên hiện tại/tương lai và quá khứ hoàn thành cho sự ưu tiên trong quá khứ.",
+      "rules": [
+        "Change of subject: would rather + subject + past tense.",
+        "Same subject: would rather + bare infinitive."
+      ],
+      "examples": [
+        {
+          "sentence": "I'd rather you didn't tell anyone.",
+          "translation": "Tôi thà rằng bạn đừng nói với ai."
+        },
+        {
+          "sentence": "She'd rather not borrow any money.",
+          "translation": "Cô ấy thà không mượn tiền còn hơn."
+        }
+      ]
+    },
+    {
+      "topic": "wish / if only",
+      "explanation_en": "Used to express wishes about current, future, or past situations.",
+      "explanation_vi": "Dùng để diễn tả những mong ước về các tình huống hiện tại, tương lai hoặc quá khứ.",
+      "rules": [
+        "Wish about now/future: past simple/continuous.",
+        "Wish about past: past perfect.",
+        "Wish to criticize or change a situation: would + infinitive.",
+        "Wish about ability/permission: could + infinitive."
+      ],
+      "examples": [
+        {
+          "sentence": "Do you wish you had a bigger house?",
+          "translation": "Bạn có ước mình có một ngôi nhà lớn hơn không?"
+        },
+        {
+          "sentence": "I wish they would offer me a pay rise.",
+          "translation": "Tôi ước gì họ sẽ đề nghị tăng lương cho tôi."
+        }
+      ],
+      "watch_out": [
+        "Do not use 'wish' to express desires about a real, possible future. Use 'hope' instead."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u13_a",
+      "label": "A",
+      "type": "word_form",
+      "instruction": "Write the verbs in brackets in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If the Romans ___ (have) all the technology we have today, why would they not have been able to get to the moon?",
+          "answer": "had",
+          "explanation": "Second conditional for a hypothetical general situation."
+        },
+        {
+          "number": 2,
+          "sentence": "___ (we / be) to think about this logically, we would probably be unable to come up with a satisfactory reason.",
+          "answer": "Were we",
+          "explanation": "Inversion of 'If we were to think', expressing a hypothetical condition."
+        },
+        {
+          "number": 3,
+          "sentence": "___ (the Romans / be) as technologically advanced as we are, they would indeed be stuck here on Earth.",
+          "answer": "Were the Romans",
+          "explanation": "Inversion of 'If the Romans were', expressing a hypothetical condition."
+        },
+        {
+          "number": 4,
+          "sentence": "Why? Because if, 2,000 years ago, they ___ (employ) a Roman centurion to count down their Roman space rocket, he would have started at ten...",
+          "answer": "had employed",
+          "explanation": "Third conditional for a hypothetical past situation."
+        },
+        {
+          "number": 5,
+          "sentence": "Of course, the truth is that if these hypothetical Romans ___ (have) the number 'zero', it would be impossible for them to have all our technology.",
+          "answer": "had had",
+          "explanation": "Hypothetical past condition (Third conditional)."
+        },
+        {
+          "number": 6,
+          "sentence": "If the concept of zero ___ (develop), we would not have computers today.",
+          "answer": "hadn't developed",
+          "explanation": "Mixed conditional: past hypothetical action with present result."
+        },
+        {
+          "number": 7,
+          "sentence": "'If nothing ___ (be) a number, then it would be something.'",
+          "answer": "were",
+          "explanation": "Hypothetical present condition."
+        },
+        {
+          "number": 8,
+          "sentence": "'And if it ___ (do) become something, then it would no longer be nothing.'",
+          "answer": "did",
+          "explanation": "Hypothetical present condition (did is used for emphasis or to match the 'would' result)."
+        },
+        {
+          "number": 9,
+          "sentence": "If it ___ (be) for an Indian mathematician called Brahmagupta, who knows what would have happened?",
+          "answer": "hadn't been",
+          "explanation": "Standard structure 'If it hadn't been for...' for hypothetical past."
+        },
+        {
+          "number": 10,
+          "sentence": "If he ___ (do), we might not have set foot on the moon either.",
+          "answer": "hadn't done",
+          "explanation": "Referring to the past action of stating zero was a number."
+        }
+      ]
+    },
+    {
+      "id": "u13_b",
+      "label": "B",
+      "type": "word_form",
+      "instruction": "Write the verbs in brackets in the correct form in each gap to make hypothetical situations.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Supposing you ___ (have) the chance to spend a year in space, would you take it?",
+          "answer": "had",
+          "explanation": "Hypothetical present/future situation after 'Supposing'."
+        },
+        {
+          "number": 2,
+          "sentence": "What if we ___ (decide) to run away right now and never come back?",
+          "answer": "decided",
+          "explanation": "Hypothetical present/future situation after 'What if'."
+        },
+        {
+          "number": 3,
+          "sentence": "Suppose all your friends ___ (say) bad things about you behind your back and you found out.",
+          "answer": "said",
+          "explanation": "Hypothetical present/future situation after 'Suppose'."
+        },
+        {
+          "number": 4,
+          "sentence": "Imagine you ___ (have) any money or any means of getting any.",
+          "answer": "didn't have",
+          "explanation": "Hypothetical present situation after 'Imagine'."
+        },
+        {
+          "number": 5,
+          "sentence": "What if the Internet ___ (invent)? Wouldn't that be weird?",
+          "answer": "hadn't been invented",
+          "explanation": "Hypothetical past situation (passive voice)."
+        },
+        {
+          "number": 6,
+          "sentence": "Supposing the sun ___ (stop) shining right now, how long would it take for us to realise?",
+          "answer": "stopped",
+          "explanation": "Hypothetical present situation."
+        },
+        {
+          "number": 7,
+          "sentence": "Imagine we ___ (just / tell) that a huge meteor was on its way to Earth.",
+          "answer": "had just been told",
+          "explanation": "Hypothetical past/immediate past (passive voice)."
+        },
+        {
+          "number": 8,
+          "sentence": "Suppose you ___ (can) travel back in time. Where would you go?",
+          "answer": "could",
+          "explanation": "Hypothetical ability in the present/future."
+        },
+        {
+          "number": 9,
+          "sentence": "What if everyone in the world ___ (speak) the same language?",
+          "answer": "spoke",
+          "explanation": "Hypothetical general situation."
+        },
+        {
+          "number": 10,
+          "sentence": "Suppose it ___ (prove) that aliens existed and were living among us!",
+          "answer": "was proved / were proved",
+          "explanation": "Hypothetical present/future situation (passive voice)."
+        },
+        {
+          "number": 11,
+          "sentence": "I do realise it'll probably never happen but imagine her song ___ (become) really popular!",
+          "answer": "became",
+          "explanation": "Hypothetical future situation."
+        },
+        {
+          "number": 12,
+          "sentence": "What if you ___ (give) three wishes by a genie in a bottle?",
+          "answer": "were given",
+          "explanation": "Hypothetical present/future situation (passive voice)."
+        },
+        {
+          "number": 13,
+          "sentence": "Supposing you ___ (wake) up one morning and found you'd gone back in time, how would you feel?",
+          "answer": "woke",
+          "explanation": "Hypothetical future situation."
+        },
+        {
+          "number": 14,
+          "sentence": "I know we can't travel faster than the speed of light but suppose for a moment that we ___ (be) able to.",
+          "answer": "were",
+          "explanation": "Hypothetical present ability."
+        },
+        {
+          "number": 15,
+          "sentence": "Imagine that humans ___ (can) speak. How do you think we'd communicate?",
+          "answer": "couldn't",
+          "explanation": "Hypothetical opposite of a current reality (humans can speak)."
+        }
+      ]
+    },
+    {
+      "id": "u13_c",
+      "label": "C",
+      "type": "multiple_choice",
+      "instruction": "Look at the questions that follow each sentence and circle the answer, A, B or C which is not correct.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Why do you always act as if you were better than everyone else, John? Is John better than everyone else?",
+          "options": ["Yes, he is.", "No, he isn't.", "He might think he is."],
+          "answer": "Yes, he is.",
+          "explanation": "'As if you were' implies that he is not actually better."
+        },
+        {
+          "number": 2,
+          "sentence": "Rod often acts as if he had lots of brothers and sisters. Does Rod have lots of brothers and sisters?",
+          "options": ["Yes, he does.", "No, he doesn't.", "He could have but we don't know."],
+          "answer": "Yes, he does.",
+          "explanation": "'As if he had' suggests that he doesn't actually have them."
+        },
+        {
+          "number": 3,
+          "sentence": "They look as if they've been running fast. Have they been running fast?",
+          "options": ["Yes, they're probably sweating.", "No, they haven't.", "They could well have been."],
+          "answer": "No, they haven't.",
+          "explanation": "Using present perfect after 'as if' indicates the comparison is likely true."
+        },
+        {
+          "number": 4,
+          "sentence": "There's no need to be frightened of him. Just treat him as if you didn't know he'd spent some time in prison. Do you know about the time he spent in prison?",
+          "options": ["Yes, you do.", "No, you know nothing about it.", "You probably do."],
+          "answer": "No, you know nothing about it.",
+          "explanation": "'As if you didn't know' implies that you actually do know."
+        },
+        {
+          "number": 5,
+          "sentence": "It was scary! At one point, it felt like we weren't ever going to get out of that jungle alive. How did you feel in the jungle?",
+          "options": ["You would get out of it easily.", "You would possibly die in the jungle.", "You didn't know if you would survive the jungle or not."],
+          "answer": "You would get out of it easily.",
+          "explanation": "The speaker felt they were in danger of dying."
+        },
+        {
+          "number": 6,
+          "sentence": "Sara looked as if she had just woken up. How did Sara look?",
+          "options": ["She looked tired and she wasn't wearing her make-up.", "She certainly hadn't just woken up then.", "She could possibly just have looked tired but got up a lot earlier."],
+          "answer": "She certainly hadn't just woken up then.",
+          "explanation": "When the main verb is past, 'as if + past perfect' can be true or hypothetical."
+        }
+      ]
+    },
+    {
+      "id": "u13_d",
+      "label": "D",
+      "type": "word_form",
+      "instruction": "Write the verbs in brackets in the correct form in each gap. When a situation is hypothetical or unlikely, use unreal tenses.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Dave talks as though he ___ (grow up) in the UK, but he actually only moved here three months ago.",
+          "answer": "had grown up",
+          "explanation": "Hypothetical past comparison (he didn't grow up there)."
+        },
+        {
+          "number": 2,
+          "sentence": "I was such a mess when I got home I looked as if I ___ (drag) through a hedge backwards!",
+          "answer": "had been dragged",
+          "explanation": "Hypothetical past comparison (passive)."
+        },
+        {
+          "number": 3,
+          "sentence": "It was such a bad case of flu that I honestly felt as if I ___ (go) to die.",
+          "answer": "was going / were going",
+          "explanation": "Hypothetical feeling in the past."
+        },
+        {
+          "number": 4,
+          "sentence": "When I saw Corin on TV last night, it felt as if he ___ (do) chat shows for ages. I can't believe this was his first one!",
+          "answer": "had been doing",
+          "explanation": "Hypothetical past continuous comparison."
+        },
+        {
+          "number": 5,
+          "sentence": "Hardip looked as if he ___ (have) the worst possible news. In fact, he'd failed his finals.",
+          "answer": "had had",
+          "explanation": "Comparison that is actually true (he did have bad news)."
+        },
+        {
+          "number": 6,
+          "sentence": "Don't you think Maria sometimes looks as though she ___ (wish) she'd been born in another century?",
+          "answer": "wishes",
+          "explanation": "Possible present state."
+        },
+        {
+          "number": 7,
+          "sentence": "Rupert often dresses as though he ___ (roll) in money but he's actually on the dole.",
+          "answer": "was rolling / were rolling",
+          "explanation": "Hypothetical present comparison."
+        },
+        {
+          "number": 8,
+          "sentence": "You kids are behaving as if it ___ (be) a school night. It is, you know!",
+          "answer": "is",
+          "explanation": "The comparison is true, so we use the present tense."
+        },
+        {
+          "number": 9,
+          "sentence": "How can you sit there as if nothing ___ (happen)?",
+          "answer": "has happened",
+          "explanation": "Refers to things that have possibly happened."
+        }
+      ]
+    },
+    {
+      "id": "u13_e",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Make each of these statements or questions as polite as possible by using past tenses.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "What time ___ (you, want) to be woken tomorrow morning?",
+          "answer": "did you want",
+          "explanation": "Past simple used for politeness."
+        },
+        {
+          "number": 2,
+          "sentence": "I ___ (look) for an engagement present for a young couple.",
+          "answer": "was looking",
+          "explanation": "Past continuous used for politeness."
+        },
+        {
+          "number": 3,
+          "sentence": "We ___ (wonder) whether you ___ (want) to go out this evening.",
+          "answer": "were wondering ... wanted",
+          "explanation": "Past tenses used for a polite invitation."
+        },
+        {
+          "number": 4,
+          "sentence": "Excuse me, sir. ___ (you, plan) to park there for long?",
+          "answer": "were you planning",
+          "explanation": "Past continuous used for a polite inquiry."
+        },
+        {
+          "number": 5,
+          "sentence": "___ (you, wish) to see me about something, Mr Patel?",
+          "answer": "Did you wish",
+          "explanation": "Past simple used for politeness."
+        },
+        {
+          "number": 6,
+          "sentence": "___ (you, look) for anything in particular?",
+          "answer": "Were you looking",
+          "explanation": "Past continuous used for politeness."
+        },
+        {
+          "number": 7,
+          "sentence": "___ (you, want) milk and sugar in your tea?",
+          "answer": "Did you want",
+          "explanation": "Past simple used for politeness."
+        },
+        {
+          "number": 8,
+          "sentence": "I ___ (hope) you ___ (give) me a hand tomorrow.",
+          "answer": "was hoping ... would give",
+          "explanation": "Past continuous and 'would' used for a polite request."
+        },
+        {
+          "number": 9,
+          "sentence": "How long ___ (you, intend) to stay here?",
+          "answer": "did you intend",
+          "explanation": "Past simple used for politeness."
+        },
+        {
+          "number": 10,
+          "sentence": "I ___ (wonder) if you ___ (pay) by credit card, madam.",
+          "answer": "was wondering ... were paying / would be paying",
+          "explanation": "Past continuous used for a very polite request."
+        }
+      ]
+    },
+    {
+      "id": "u13_f",
+      "label": "F",
+      "type": "fill_blank",
+      "instruction": "Write a verb from the box in the correct form in each gap. (allow, buy, call, do, get up, give, go, learn, look, make, start, stop)",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's high time you ___ smoking. It's a disgusting habit!",
+          "answer": "stopped",
+          "explanation": "It's high time + past simple."
+        },
+        {
+          "number": 2,
+          "sentence": "It's time you ___ for a job, young man!",
+          "answer": "looked",
+          "explanation": "It's time + past simple."
+        },
+        {
+          "number": 3,
+          "sentence": "I think it's time we ___ a new carpet. This one's got holes in it!",
+          "answer": "bought",
+          "explanation": "It's time + past simple."
+        },
+        {
+          "number": 4,
+          "sentence": "It's time for you kids ___ your homework.",
+          "answer": "to do",
+          "explanation": "It's time for someone + to infinitive."
+        },
+        {
+          "number": 5,
+          "sentence": "It's about time the government ___ listening to the views of ordinary people.",
+          "answer": "started",
+          "explanation": "It's about time + past simple."
+        },
+        {
+          "number": 6,
+          "sentence": "Wake up, Bonnie. It's time ___ now.",
+          "answer": "to get up",
+          "explanation": "It's time + to infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "Don't you think it's time you ___ a pay rise?",
+          "answer": "were given",
+          "explanation": "It's time + past simple (passive)."
+        },
+        {
+          "number": 8,
+          "sentence": "It's time for you ___ a partner in the firm; you've been with them for over eight years, after all.",
+          "answer": "to be made",
+          "explanation": "It's time for someone + to infinitive (passive)."
+        },
+        {
+          "number": 9,
+          "sentence": "It's definitely time I ___ to stay out after ten o'clock at night.",
+          "answer": "was allowed / were allowed",
+          "explanation": "It's time + past simple (passive)."
+        },
+        {
+          "number": 10,
+          "sentence": "It's time for us ___ now, Sammy. Are you ready?",
+          "answer": "to go",
+          "explanation": "It's time for someone + to infinitive."
+        },
+        {
+          "number": 11,
+          "sentence": "Isn't it about time you ___ to drive?",
+          "answer": "learned / learnt",
+          "explanation": "It's about time + past simple."
+        },
+        {
+          "number": 12,
+          "sentence": "Is it a good time ___ Aunty Audrey? What time is it in Australia?",
+          "answer": "to call",
+          "explanation": "Is it time + to infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u13_g",
+      "label": "G",
+      "type": "transformation",
+      "instruction": "Write a word or short phrase in each gap so that each second sentence has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We'd prefer the successful candidate to have previous experience in the field.\nWe'd rather the successful candidate ___ previous experience in the field.",
+          "answer": "had",
+          "explanation": "'Would rather' + subject + past simple for preference about someone else."
+        },
+        {
+          "number": 2,
+          "sentence": "Would you prefer me to come back later?\nWould you rather ___ later?",
+          "answer": "I came back",
+          "explanation": "'Would rather' + subject + past simple."
+        },
+        {
+          "number": 3,
+          "sentence": "To be honest, I'd prefer you not to tell anyone about this.\nTo be honest, I'd rather ___ anyone about this.",
+          "answer": "you didn't tell",
+          "explanation": "'Would rather' + subject + past simple negative."
+        },
+        {
+          "number": 4,
+          "sentence": "I'd prefer us to get a new kitchen rather than go on an expensive holiday.\nI'd sooner ___ a new kitchen than ___ on an expensive holiday.",
+          "answer": "we got ... went",
+          "explanation": "'Would sooner' + subject + past simple."
+        },
+        {
+          "number": 5,
+          "sentence": "Dad said he'd prefer Brian to be living nearer home and I agree with him.\nDad said he'd rather Brian ___ nearer home and I agree with him.",
+          "answer": "was living / were living",
+          "explanation": "'Would rather' + subject + past continuous."
+        },
+        {
+          "number": 6,
+          "sentence": "I would prefer her to be sent on a training course rather than sacked.\nI would rather ___ on a training course than sacked.",
+          "answer": "she was sent / she were sent",
+          "explanation": "'Would rather' + subject + past simple passive."
+        },
+        {
+          "number": 7,
+          "sentence": "I'd prefer us not to talk about this right now, if you don't mind.\nI'd sooner ___ about this right now, if you don't mind.",
+          "answer": "we didn't talk",
+          "explanation": "'Would sooner' + subject + past simple negative."
+        },
+        {
+          "number": 8,
+          "sentence": "Of course I would have preferred you to tell me the truth!\nOf course I would rather ___ me the truth!",
+          "answer": "you had told",
+          "explanation": "'Would rather' + subject + past perfect for past preference."
+        },
+        {
+          "number": 9,
+          "sentence": "I think Jeanne would definitely prefer to have a traditional wedding.\nI think Jeanne would definitely rather ___ a traditional wedding.",
+          "answer": "have",
+          "explanation": "Same subject: 'would rather' + bare infinitive."
+        },
+        {
+          "number": 10,
+          "sentence": "We would have preferred them not to have stayed so long, that's true.\nWe would sooner ___ so long, that's true.",
+          "answer": "they hadn't stayed",
+          "explanation": "'Would sooner' + subject + past perfect for past preference."
+        }
+      ]
+    },
+    {
+      "id": "u13_h",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "All of my friends have got mobiles. I wish I ___ one too!",
+          "options": ["have", "had"],
+          "answer": "had",
+          "explanation": "Wish about a current situation uses the past simple."
+        },
+        {
+          "number": 2,
+          "sentence": "Don't you sometimes wish you ___ this company?",
+          "options": ["ran", "were running"],
+          "answer": "both",
+          "explanation": "Both past simple and past continuous can be used for current wishes."
+        },
+        {
+          "number": 3,
+          "sentence": "If only we ___ the map at home!",
+          "options": ["didn't leave", "hadn't left"],
+          "answer": "hadn't left",
+          "explanation": "Wish about a past situation uses the past perfect."
+        },
+        {
+          "number": 4,
+          "sentence": "If only we ___ have to go to school tomorrow!",
+          "options": ["don't", "didn't"],
+          "answer": "didn't",
+          "explanation": "Wish about a future situation uses the past simple."
+        },
+        {
+          "number": 5,
+          "sentence": "I do wish the bus ___ . I'm going to be late.",
+          "options": ["came", "would come"],
+          "answer": "would come",
+          "explanation": "Wish for a situation to change or a criticism."
+        },
+        {
+          "number": 6,
+          "sentence": "Do you ever wish that you ___ really well?",
+          "options": ["sang", "could sing"],
+          "answer": "could sing",
+          "explanation": "Wish about ability uses 'could'."
+        },
+        {
+          "number": 7,
+          "sentence": "There's only really one thing I regret. I wish I ___ to university but of course, in those days, it just wasn't possible.",
+          "options": ["could go", "have gone"],
+          "answer": "could have gone",
+          "explanation": "Wish about past ability/opportunity (perfect infinitive)."
+        },
+        {
+          "number": 8,
+          "sentence": "Excuse me, I wish ___ to the person in charge.",
+          "options": ["spoke", "to speak"],
+          "answer": "to speak",
+          "explanation": "'Wish + full infinitive' is a formal way to express desire."
+        },
+        {
+          "number": 9,
+          "sentence": "I ___ it snows tomorrow!",
+          "options": ["wish", "hope"],
+          "answer": "hope",
+          "explanation": "Use 'hope' for possible future desires."
+        },
+        {
+          "number": 10,
+          "sentence": "Why on earth does Geoffrey wish ___ a knighthood?",
+          "options": ["he would be given", "they would give him"],
+          "answer": "they would give him",
+          "explanation": "Do not use 'would' when the subject of 'wish' is the same as the subject of 'would'."
+        },
+        {
+          "number": 11,
+          "sentence": "Well, I don't think it's a very sensible business venture, but I do wish you ___ .",
+          "options": ["luck", "lucky"],
+          "answer": "luck",
+          "explanation": "'Wish + noun' to wish someone something."
+        },
+        {
+          "number": 12,
+          "sentence": "My grandfather always wished that he ___ taller.",
+          "options": ["was", "had been"],
+          "answer": "was",
+          "explanation": "When 'wish' is in past simple, follow it with past simple for general wishes during that time."
+        },
+        {
+          "number": 13,
+          "sentence": "If only ___ watching Thomas instead of checking your e-mail. He wouldn't have fallen off the slide then.",
+          "options": ["you were", "you'd been"],
+          "answer": "you'd been",
+          "explanation": "Hypothetical past continuous situation (Third conditional)."
+        },
+        {
+          "number": 14,
+          "sentence": "I do wish the taxi driver ___ so slowly. We're never going to get there!",
+          "options": ["didn't go", "wasn't going"],
+          "answer": "wasn't going",
+          "explanation": "Wish for a current situation to be different."
+        },
+        {
+          "number": 15,
+          "sentence": "If only Peggy ___ sent off. I'm sure we'd have won the match.",
+          "options": ["wasn't", "hadn't been"],
+          "answer": "hadn't been",
+          "explanation": "Hypothetical past situation (Third conditional)."
+        }
+      ]
+    },
+    {
+      "id": "u13_i",
+      "label": "I",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Imagine ___ when the ancient Egyptians built the pyramids. How would your life have been different?",
+          "options": ["you'd been living", "you're living", "you live", "you've been living"],
+          "answer": "you'd been living",
+          "explanation": "Hypothetical past situation after 'Imagine'."
+        },
+        {
+          "number": 2,
+          "sentence": "What if your cat suddenly ___ to you right now? How would you react?",
+          "options": ["had started talking", "is starting to talk", "starts talking", "started talking"],
+          "answer": "started talking",
+          "explanation": "Hypothetical present situation after 'What if'."
+        },
+        {
+          "number": 3,
+          "sentence": "Would Rubik have become rich if he ___ the Rubik's Cube?",
+          "options": ["hadn't invented", "hadn't been inventing", "didn't invent", "wasn't inventing"],
+          "answer": "hadn't invented",
+          "explanation": "Third conditional (hypothetical past)."
+        },
+        {
+          "number": 4,
+          "sentence": "It's high time ___ rid of this old sofa.",
+          "options": ["we got", "we get", "for us to get", "to get"],
+          "answer": "we got",
+          "explanation": "It's high time + subject + past simple."
+        },
+        {
+          "number": 5,
+          "sentence": "It's amazing how Jenny acts as though she and Darren ___ serious problems at the moment.",
+          "options": ["aren't having", "weren't having", "hadn't had", "hadn't been having"],
+          "answer": "weren't having",
+          "explanation": "Hypothetical present comparison (they are having problems)."
+        },
+        {
+          "number": 6,
+          "sentence": "___ either of you want some more dessert?",
+          "options": ["Had", "Would", "Did", "Were"],
+          "answer": "Did",
+          "explanation": "Past simple used for a polite question."
+        },
+        {
+          "number": 7,
+          "sentence": "If you ___ to attend the wedding, would you still have to reply to the invitation?",
+          "options": ["aren't planning", "don't plan", "weren't planning", "hadn't been planning"],
+          "answer": "weren't planning",
+          "explanation": "Hypothetical current/future plan (Second conditional)."
+        },
+        {
+          "number": 8,
+          "sentence": "Apparently, Lewis would rather we ___ anything special for his 18th birthday next month.",
+          "options": ["don't organise", "didn't organise", "haven't organised", "aren't going to organise"],
+          "answer": "didn't organise",
+          "explanation": "Would rather + subject + past simple for future preference."
+        }
+      ]
+    },
+    {
+      "id": "u13_j",
+      "label": "J",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Pauline doesn't want to be given a main part in the school play.\nPauline ___ a main part in the school play. (rather)",
+          "answer": "would rather not be given",
+          "explanation": "Expressing preference about oneself (passive)."
+        },
+        {
+          "number": 2,
+          "sentence": "We didn't get to meet the Minister and that was a great shame.\nIf ___ to meet the Minister! (only)",
+          "answer": "only we had been able / only we had got",
+          "explanation": "Expressing a wish about a past situation."
+        },
+        {
+          "number": 3,
+          "sentence": "Why don't they stop making so much noise downstairs?\nI ___ making so much noise downstairs! (wish)",
+          "answer": "wish they would stop",
+          "explanation": "Wishing for a change in someone else's behavior."
+        },
+        {
+          "number": 4,
+          "sentence": "What a shame I didn't see his face when you told him the news.\nI wish ___ his face when you told him the news. (could)",
+          "answer": "I could have seen",
+          "explanation": "Wishing for a past ability/opportunity."
+        },
+        {
+          "number": 5,
+          "sentence": "Don't you think they should bring out a new version of MatchPlayer?\nDon't you think it's ___ out a new version of MatchPlayer? (about)",
+          "answer": "about time they brought",
+          "explanation": "It's about time + subject + past simple."
+        },
+        {
+          "number": 6,
+          "sentence": "I only knew about the meeting because Cynthia rang me.\nI wouldn't have known about the meeting ___ me. (if)",
+          "answer": "if Cynthia hadn't rung",
+          "explanation": "Third conditional (hypothetical past)."
+        }
+      ]
+    }
+  ]
+}

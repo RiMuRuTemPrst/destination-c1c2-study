@@ -1,0 +1,1025 @@
+{
+  "unit_id": 17,
+  "unit_type": "Grammar",
+  "title": "Clauses",
+  "grammar_topics": [
+    {
+      "topic": "Relative pronouns in relative clauses",
+      "explanation_en": "Relative pronouns are used to connect a relative clause to a main clause. They refer back to a noun or pronoun mentioned previously.",
+      "explanation_vi": "Đại từ quan hệ được sử dụng để kết nối mệnh đề quan hệ với mệnh đề chính. Chúng thay thế cho danh từ hoặc đại từ đã được đề cập trước đó.",
+      "rules": [
+        "who: to refer to people (and animals when given a personality).",
+        "which: to refer to things, concepts, and animals without a personality.",
+        "whom: formal version of 'who', used as an object; must follow a preposition.",
+        "that: informal for who/which/when/where/why; only in defining clauses.",
+        "when: refers to time (= in/on which).",
+        "where: refers to place or situation (= in/at which).",
+        "why: refers to reason (= the reason for which); only in defining clauses.",
+        "whose: possessive of 'who' and 'which'.",
+        "what: = 'the thing(s) which'; only in defining clauses."
+      ],
+      "examples": [
+        {
+          "sentence": "There are a lot of people who hate having injections.",
+          "translation": "Có rất nhiều người ghét việc bị tiêm."
+        },
+        {
+          "sentence": "This is the prescription which the doctor gave me.",
+          "translation": "Đây là đơn thuốc mà bác sĩ đã đưa cho tôi."
+        },
+        {
+          "sentence": "Harley Street, where she was born, is famous for its clinics.",
+          "translation": "Phố Harley, nơi cô ấy sinh ra, nổi tiếng với các phòng khám."
+        }
+      ],
+      "watch_out": [
+        "Prepositions: It is more formal to put the preposition before the pronoun (e.g., 'to which').",
+        "'Which' can refer to the whole preceding clause, not just the preceding noun."
+      ]
+    },
+    {
+      "topic": "Defining and non-defining relative clauses",
+      "explanation_en": "Relative clauses provide information about a noun. They are categorized based on whether the information is essential for identification.",
+      "explanation_vi": "Mệnh đề quan hệ cung cấp thông tin về một danh từ. Chúng được phân loại dựa trên việc thông tin đó có thiết yếu để xác định đối tượng hay không.",
+      "rules": [
+        "Defining: Essential information; no commas; 'that' can replace who/which; pronoun can be omitted if it's the object.",
+        "Non-defining: Extra information; uses commas; 'that' cannot be used; pronoun cannot be omitted; 'why' is not used."
+      ],
+      "examples": [
+        {
+          "sentence": "That's the doctor who did Karen's operation. (Defining)",
+          "translation": "Đó là vị bác sĩ đã phẫu thuật cho Karen. (Xác định)"
+        },
+        {
+          "sentence": "Dr Lake, who has been working here for years, is a surgeon. (Non-defining)",
+          "translation": "Bác sĩ Lake, người đã làm việc ở đây nhiều năm, là một bác sĩ phẫu thuật. (Không xác định)"
+        }
+      ]
+    },
+    {
+      "topic": "Participle clauses",
+      "explanation_en": "Participle clauses (using -ing or past participle) can replace relative clauses, explain reasons, or talk about simultaneous or sequential actions.",
+      "explanation_vi": "Mệnh đề phân từ (sử dụng V-ing hoặc quá khứ phân từ) có thể thay thế mệnh đề quan hệ, giải thích lý do, hoặc nói về các hành động xảy ra đồng thời hoặc nối tiếp nhau.",
+      "rules": [
+        "Present participle (-ing): replaces active relative clauses or describes simultaneous actions.",
+        "Past participle: replaces passive relative clauses or acts as a conditional/passive form.",
+        "Perfect participle (Having + V3): describes actions completed before the main verb's action.",
+        "Subject consistency: The participle clause and main clause must usually share the same subject."
+      ],
+      "examples": [
+        {
+          "sentence": "Sitting in the waiting room, I could hear the dentist.",
+          "translation": "Khi đang ngồi trong phòng chờ, tôi có thể nghe thấy tiếng nha sĩ."
+        },
+        {
+          "sentence": "Having found an optician, I made an appointment.",
+          "translation": "Sau khi tìm được bác sĩ nhãn khoa, tôi đã đặt lịch hẹn."
+        }
+      ]
+    },
+    {
+      "topic": "Concession clauses",
+      "explanation_en": "Concession clauses show a contrast between two ideas, where one fact makes another seem surprising.",
+      "explanation_vi": "Mệnh đề nhượng bộ chỉ ra sự tương phản giữa hai ý tưởng, trong đó một sự thật làm cho sự thật kia có vẻ gây ngạc nhiên.",
+      "rules": [
+        "although / though / even though: followed by a clause.",
+        "in spite of / despite: followed by a noun or -ing.",
+        "while / whereas: used to compare two facts.",
+        "however: used to start a new sentence or contrast within a sentence.",
+        "even if: used to emphasize that a situation remains the same regardless of an event."
+      ],
+      "examples": [
+        {
+          "sentence": "Even though she'd put on sun cream, Tamsin got burnt.",
+          "translation": "Mặc dù đã bôi kem chống nắng, Tamsin vẫn bị cháy nắng."
+        },
+        {
+          "sentence": "Despite the sun cream, Tamsin still got burnt.",
+          "translation": "Mặc kệ kem chống nắng, Tamsin vẫn bị cháy nắng."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u17_A",
+      "label": "A",
+      "type": "fill_blank",
+      "instruction": "Write a relative pronoun in each gap. Do not use the word that.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Davina, ___ kids you met last weekend, works for Cooper's in the high street.",
+          "answer": "whose",
+          "explanation": "'Whose' is used to show possession (the kids of Davina)."
+        },
+        {
+          "number": 2,
+          "sentence": "I'll never understand the reason ___ you decided to join the army.",
+          "answer": "why",
+          "explanation": "'Why' is used after the word 'reason' to explain the cause."
+        },
+        {
+          "number": 3,
+          "sentence": "The village ___ Alan grew up in is only a few miles from here.",
+          "answer": "which",
+          "explanation": "'Which' is used here as the object of the preposition 'in' (in which = where)."
+        },
+        {
+          "number": 4,
+          "sentence": "Have you spoken to that guy ___ daughter might be able to help you with the contract?",
+          "answer": "whose",
+          "explanation": "'Whose' indicates possession (the daughter of the guy)."
+        },
+        {
+          "number": 5,
+          "sentence": "Back in the 1970s, ___ I was a teenager, no one ___ I knew had a computer.",
+          "answer": "when; whom/who",
+          "explanation": "'When' refers to the time (1970s); 'whom' or 'who' refers to people as the object of 'knew'."
+        },
+        {
+          "number": 6,
+          "sentence": "They've just announced that Beddington youth club, ___ we all used to hang out after school, is going to be turned into a casino.",
+          "answer": "where",
+          "explanation": "'Where' refers to a place (youth club)."
+        },
+        {
+          "number": 7,
+          "sentence": "Chicago's a city ___ I've always wanted to visit.",
+          "answer": "which",
+          "explanation": "'Which' is used for a thing (city) as the object of 'visit'."
+        },
+        {
+          "number": 8,
+          "sentence": "Do you remember the time ___ we got totally lost?",
+          "answer": "when",
+          "explanation": "'When' refers to a time."
+        },
+        {
+          "number": 9,
+          "sentence": "The cows ___ are in that field over there are Friesians.",
+          "answer": "which",
+          "explanation": "'Which' refers to animals when we don't give them personality."
+        },
+        {
+          "number": 10,
+          "sentence": "Our cat Tibby, ___ loves being stroked all the time, is 16 years old today!",
+          "answer": "who",
+          "explanation": "'Who' is used for pets when we give them personality/name."
+        },
+        {
+          "number": 11,
+          "sentence": "Bob wants to become a pop star, ___ seems like a totally unrealistic ambition to me.",
+          "answer": "which",
+          "explanation": "'Which' refers to the whole preceding clause (Bob wanting to be a pop star)."
+        },
+        {
+          "number": 12,
+          "sentence": "The official to ___ you need to address your enquiry is temporarily unavailable.",
+          "answer": "whom",
+          "explanation": "'Whom' is used after a preposition (to) in a formal context."
+        },
+        {
+          "number": 13,
+          "sentence": "___ spoils the film for me is the ending, ___ is just ridiculous.",
+          "answer": "What; which",
+          "explanation": "'What' means 'the thing which'; 'which' adds extra info about the ending (non-defining)."
+        },
+        {
+          "number": 14,
+          "sentence": "Julian was the prefect ___ we all liked the best.",
+          "answer": "whom/who",
+          "explanation": "Refers to a person as the object of 'liked'."
+        }
+      ]
+    },
+    {
+      "id": "u17_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Tick the relative pronouns in exercise A which can be replaced by that.",
+      "items": [
+        {
+          "number": 2,
+          "sentence": "the reason ___ (why)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace 'why'."
+        },
+        {
+          "number": 3,
+          "sentence": "The village ___ (which)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace 'which'."
+        },
+        {
+          "number": 4,
+          "sentence": "that guy ___ (whose) - ERROR: 'that' cannot replace 'whose'.",
+          "answer": "N/A",
+          "explanation": "'That' can never replace 'whose'."
+        },
+        {
+          "number": 5,
+          "sentence": "no one ___ (whom/who)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace who/whom."
+        },
+        {
+          "number": 7,
+          "sentence": "a city ___ (which)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace 'which'."
+        },
+        {
+          "number": 8,
+          "sentence": "the time ___ (when)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace 'when'."
+        },
+        {
+          "number": 9,
+          "sentence": "The cows ___ (which)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace 'which'."
+        },
+        {
+          "number": 14,
+          "sentence": "the prefect ___ (whom/who)",
+          "answer": "that",
+          "explanation": "Defining clause; 'that' can replace 'who/whom'."
+        }
+      ]
+    },
+    {
+      "id": "u17_C",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Circle the relative pronouns in exercise A which can be omitted.",
+      "items": [
+        {
+          "number": 2,
+          "sentence": "the reason (why) ___",
+          "answer": "omitted",
+          "explanation": "'Why' can be omitted in defining clauses."
+        },
+        {
+          "number": 3,
+          "sentence": "The village (which) ___",
+          "answer": "omitted",
+          "explanation": "The relative pronoun is the object of 'in' and it's a defining clause."
+        },
+        {
+          "number": 5,
+          "sentence": "no one (whom/who) ___",
+          "answer": "omitted",
+          "explanation": "Object of 'knew' in a defining clause."
+        },
+        {
+          "number": 7,
+          "sentence": "a city (which) ___",
+          "answer": "omitted",
+          "explanation": "Object of 'visit' in a defining clause."
+        },
+        {
+          "number": 8,
+          "sentence": "the time (when) ___",
+          "answer": "omitted",
+          "explanation": "'When' can be omitted in defining clauses."
+        },
+        {
+          "number": 14,
+          "sentence": "the prefect (whom/who) ___",
+          "answer": "omitted",
+          "explanation": "Object of 'liked' in a defining clause."
+        }
+      ]
+    },
+    {
+      "id": "u17_D",
+      "label": "D",
+      "type": "error_correction",
+      "instruction": "If a word or phrase in bold is correct, put a tick. If it is incorrect, rewrite it correctly on the line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We took the dog *who we'd found it* abandoned in the street straight to the vet.",
+          "answer": "which/that we'd found / who we'd found",
+          "explanation": "We don't use 'it' when the object is replaced by a relative pronoun. 'Which' is better for dogs."
+        },
+        {
+          "number": 2,
+          "sentence": "Would any boys *who's* surnames begin with M please raise your hands?",
+          "answer": "whose",
+          "explanation": "Need the possessive 'whose', not 'who is' (who's)."
+        },
+        {
+          "number": 3,
+          "sentence": "The day *which* I first met your mother was the best day of my life.",
+          "answer": "when / on which",
+          "explanation": "'Which' requires a preposition for time (on which), or use 'when'."
+        },
+        {
+          "number": 4,
+          "sentence": "Alfredo thought for a second, and then began to write: '*To Whom It May Concern*...'",
+          "answer": "✓",
+          "explanation": "Correct formal opening."
+        },
+        {
+          "number": 5,
+          "sentence": "The woman *who I spoke to* was extremely helpful.",
+          "answer": "✓",
+          "explanation": "Correct defining relative clause with 'who' as object."
+        },
+        {
+          "number": 6,
+          "sentence": "The film *which I really want to see it* is the new one with Johnny Depp.",
+          "answer": "which I really want to see",
+          "explanation": "Remove 'it' as 'which' already represents the film."
+        },
+        {
+          "number": 7,
+          "sentence": "No, the hospital *where you were born there* was closed down quite a while ago.",
+          "answer": "where you were born",
+          "explanation": "Remove 'there' as 'where' already represents the place."
+        },
+        {
+          "number": 8,
+          "sentence": "Could you just give me one reason *why you would say something like that*?",
+          "answer": "✓",
+          "explanation": "Correct use of 'reason why'."
+        },
+        {
+          "number": 9,
+          "sentence": "The table *where we sat at* had a lovely view of the Acropolis.",
+          "answer": "which we sat at / where we sat",
+          "explanation": "Don't use 'at' with 'where'. Use 'which ... at' or just 'where'."
+        },
+        {
+          "number": 10,
+          "sentence": "*That bothers me* is why the police took so long to charge them.",
+          "answer": "What bothers me",
+          "explanation": "'What' is used to mean 'the thing that'."
+        },
+        {
+          "number": 11,
+          "sentence": "The guy *whose car you just hit it* is a traffic warden!",
+          "answer": "whose car you just hit",
+          "explanation": "Remove 'it' because 'car' is already indicated by 'whose car'."
+        }
+      ]
+    },
+    {
+      "id": "u17_E",
+      "label": "E",
+      "type": "error_correction",
+      "instruction": "Add commas to the sentences where necessary.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We were staying at the hotel that you recommended to us.",
+          "answer": "✓",
+          "explanation": "Defining clause (using 'that'), no commas needed."
+        },
+        {
+          "number": 2,
+          "sentence": "The film, which was directed by Mel Gibson, is actually in Hebrew.",
+          "answer": "The film, which was directed by Mel Gibson, is actually in Hebrew.",
+          "explanation": "Non-defining clause providing extra info about the film."
+        },
+        {
+          "number": 3,
+          "sentence": "The person who I look up to more than anyone else is my Uncle Geoffrey.",
+          "answer": "✓",
+          "explanation": "Defining clause identifying the person, no commas."
+        },
+        {
+          "number": 4,
+          "sentence": "I bumped into Katherine the other day, which was a strange coincidence.",
+          "answer": "I bumped into Katherine the other day, which was a strange coincidence.",
+          "explanation": "Non-defining clause referring to the whole preceding event."
+        },
+        {
+          "number": 5,
+          "sentence": "Is that the book which you were telling me about the other day?",
+          "answer": "✓",
+          "explanation": "Defining clause identifying the book, no commas."
+        },
+        {
+          "number": 6,
+          "sentence": "The best man at my wedding, who used to live in Germany, has just moved to China.",
+          "answer": "The best man at my wedding, who used to live in Germany, has just moved to China.",
+          "explanation": "Non-defining clause providing extra info about the best man."
+        },
+        {
+          "number": 7,
+          "sentence": "Have you got a suggestion which doesn't involve spending a lot of money?",
+          "answer": "✓",
+          "explanation": "Defining clause specifying the type of suggestion, no commas."
+        },
+        {
+          "number": 8,
+          "sentence": "Warwick University, where I spent three wonderful years, is one of the top ten universities in the country.",
+          "answer": "Warwick University, where I spent three wonderful years, is one of the top ten universities in the country.",
+          "explanation": "Non-defining clause providing extra info about a specific university."
+        }
+      ]
+    },
+    {
+      "id": "u17_F",
+      "label": "F",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Do you really think the month ___ which you're born affects your character?",
+          "answer": "in",
+          "explanation": "'In which' refers to time (months)."
+        },
+        {
+          "number": 2,
+          "sentence": "They declared war on Austria, the reason ___ which completely escapes me now.",
+          "answer": "for",
+          "explanation": "'The reason for which' is the full phrase."
+        },
+        {
+          "number": 3,
+          "sentence": "There are five slices of pizza left, two ___ which we'd better save for Justin.",
+          "answer": "of",
+          "explanation": "'Two of which' refers to a portion of a group."
+        },
+        {
+          "number": 4,
+          "sentence": "Is the day ___ which you arrive a Friday?",
+          "answer": "on",
+          "explanation": "'On which' refers to a specific day."
+        },
+        {
+          "number": 5,
+          "sentence": "Josephine came to the rescue, of course, ___ which I'm eternally grateful.",
+          "answer": "for",
+          "explanation": "'Grateful for something' -> 'for which'."
+        },
+        {
+          "number": 6,
+          "sentence": "There were 20 people at the meeting, some ___ whom I'd never met before.",
+          "answer": "of",
+          "explanation": "'Some of whom' refers to a portion of the people."
+        },
+        {
+          "number": 7,
+          "sentence": "The law needs to be strengthened, ___ which I mean the police need to be given new powers.",
+          "answer": "by",
+          "explanation": "'By which I mean' is a common phrase to clarify meaning."
+        },
+        {
+          "number": 8,
+          "sentence": "To ___ whom did you speak?",
+          "answer": "whom",
+          "explanation": "Wait, the gap is before 'whom'. Correct: 'To'."
+        },
+        {
+          "number": 9,
+          "sentence": "I looked at several possible presents, none ___ which were appropriate.",
+          "answer": "of",
+          "explanation": "'None of which' refers to none of the presents."
+        },
+        {
+          "number": 10,
+          "sentence": "She studied in Berlin from 1916 to 1923, ___ which time many people still believed...",
+          "answer": "by",
+          "explanation": "'By which time' means 'at that time' or 'by that point'."
+        },
+        {
+          "number": 11,
+          "sentence": "The region ___ which most of the wine is produced is to the south.",
+          "answer": "in",
+          "explanation": "'In which' refers to a location (region)."
+        },
+        {
+          "number": 12,
+          "sentence": "Jackson directed over 30 westerns, many ___ which are now available on DVD.",
+          "answer": "of",
+          "explanation": "'Many of which' refers to many of the westerns."
+        }
+      ]
+    },
+    {
+      "id": "u17_G",
+      "label": "G",
+      "type": "transformation",
+      "instruction": "Rewrite as one sentence using a relative clause.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "That tree is an oak. My grandfather planted it 60 years ago.",
+          "answer": "That tree, which my grandfather planted 60 years ago, is an oak.",
+          "explanation": "Non-defining clause adds info about 'that tree'."
+        },
+        {
+          "number": 2,
+          "sentence": "Tina and Charlie are having a party this Saturday. They're identical twins.",
+          "answer": "Tina and Charlie, who are identical twins, are having a party this Saturday.",
+          "explanation": "Non-defining clause adds info about Tina and Charlie."
+        },
+        {
+          "number": 3,
+          "sentence": "On the Friday, we spent most of the day sitting in the port. On the Friday, the ferry was delayed.",
+          "answer": "On the Friday, when the ferry was delayed, we spent most of the day sitting in the port.",
+          "explanation": "Non-defining clause specifying the day."
+        },
+        {
+          "number": 4,
+          "sentence": "Barbara used to work in the Personnel Department. You met her at Libby's last Thursday.",
+          "answer": "Barbara, whom you met at Libby's last Thursday, used to work in the Personnel Department.",
+          "explanation": "Non-defining clause; 'whom' is the object."
+        },
+        {
+          "number": 5,
+          "sentence": "Let's go to da Vinci's. They do a great pepper steak there.",
+          "answer": "Let's go to da Vinci's, where they do a great pepper steak.",
+          "explanation": "'Where' replaces the place 'da Vinci's'."
+        },
+        {
+          "number": 6,
+          "sentence": "This book was once owned by Sir Francis Drake. It was given to me by my great aunt.",
+          "answer": "This book, which was given to me by my great aunt, was once owned by Sir Francis Drake.",
+          "explanation": "Non-defining clause adds info about 'this book'."
+        },
+        {
+          "number": 7,
+          "sentence": "Why did Danny decide to enter the marathon? Danny's totally unfit.",
+          "answer": "Why did Danny, who's totally unfit, decide to enter the marathon?",
+          "explanation": "Non-defining clause adds info about Danny."
+        },
+        {
+          "number": 8,
+          "sentence": "Guy is now engaged to my sister. His sister is married to my brother.",
+          "answer": "Guy, whose sister is married to my brother, is now engaged to my sister.",
+          "explanation": "Possessive relative clause using 'whose'."
+        }
+      ]
+    },
+    {
+      "id": "u17_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "___ three hamburgers, it's no wonder you feel sick!",
+          "options": ["After eating", "having eaten"],
+          "answer": "both",
+          "explanation": "Both express an action completed before the feeling of sickness."
+        },
+        {
+          "number": 2,
+          "sentence": "___ exactly what to do, I was pretty confident I wouldn't embarrass myself.",
+          "options": ["Having been told", "Telling"],
+          "answer": "Having been told",
+          "explanation": "Passive meaning: after I was told."
+        },
+        {
+          "number": 3,
+          "sentence": "___ the opportunity, would you like to spend a year abroad?",
+          "options": ["Given", "Giving"],
+          "answer": "Given",
+          "explanation": "Passive participle clause meaning 'If you were given'."
+        },
+        {
+          "number": 4,
+          "sentence": "Philip was the only person ___ the committee on track.",
+          "options": ["keeping", "who was keeping"],
+          "answer": "both",
+          "explanation": "Participle clause and relative clause can both replace each other here."
+        },
+        {
+          "number": 5,
+          "sentence": "___ an advert in the paper, we decided to write off for more information.",
+          "options": ["Having seen", "Seen"],
+          "answer": "Having seen",
+          "explanation": "Active meaning: after we saw. 'Seen' is passive."
+        },
+        {
+          "number": 6,
+          "sentence": "The zoo-keeper ___ in the incident is now in a stable condition.",
+          "options": ["injured", "having injured"],
+          "answer": "injured",
+          "explanation": "Passive participle clause (who was injured)."
+        },
+        {
+          "number": 7,
+          "sentence": "___ a US citizen, Eleni knew it would be difficult to get a visa.",
+          "options": ["Not being", "Not to be"],
+          "answer": "Not being",
+          "explanation": "Participle clause explaining the reason (Because she wasn't)."
+        },
+        {
+          "number": 8,
+          "sentence": "After ___ a statement, I was allowed to leave.",
+          "options": ["made", "having made"],
+          "answer": "having made",
+          "explanation": "'After' is followed by -ing or a perfect participle."
+        },
+        {
+          "number": 9,
+          "sentence": "___ how to use the software, Adrian quickly started designing his logo.",
+          "options": ["Shown", "Having been shown"],
+          "answer": "both",
+          "explanation": "Both work as passive explanations for sequential actions."
+        },
+        {
+          "number": 10,
+          "sentence": "___ from the top of the stairs, Jill and I could hear raised voices.",
+          "options": ["Listening", "Having listened"],
+          "answer": "Listening",
+          "explanation": "Simultaneous action: listening while hearing."
+        },
+        {
+          "number": 11,
+          "sentence": "___ onto the property ladder is the aim of most young couples.",
+          "options": ["To get", "Getting"],
+          "answer": "both",
+          "explanation": "Both infinitive and gerund can act as the subject of a sentence."
+        },
+        {
+          "number": 12,
+          "sentence": "I was told that I was ___ sure that the press would be there.",
+          "options": ["to make", "making"],
+          "answer": "to make",
+          "explanation": "'Was/were to' is used to talk about instructions or obligations."
+        }
+      ]
+    },
+    {
+      "id": "u17_I",
+      "label": "I",
+      "type": "word_form",
+      "instruction": "Write the verb in brackets in the correct form. Write only one or two words in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I'd love to get some work experience in an office, ___ (give) the chance.",
+          "answer": "given",
+          "explanation": "Passive meaning: if I were given."
+        },
+        {
+          "number": 2,
+          "sentence": "After ___ (get) so bad a school report, you can't blame your parents for being angry.",
+          "answer": "getting",
+          "explanation": "Gerund after 'after'."
+        },
+        {
+          "number": 3,
+          "sentence": "The three men ___ (arrest) have not been named.",
+          "answer": "arrested",
+          "explanation": "Past participle clause (who were arrested)."
+        },
+        {
+          "number": 4,
+          "sentence": "We were only given a room with a balcony after ___ (complain) to the manager.",
+          "answer": "complaining",
+          "explanation": "Gerund after 'after'."
+        },
+        {
+          "number": 5,
+          "sentence": "___ (see) Arctic Monkeys play live before, Josh was desperate to get tickets to their next gig.",
+          "answer": "Having seen",
+          "explanation": "Perfect participle showing an action completed before."
+        },
+        {
+          "number": 6,
+          "sentence": "___ (swim) along the seabed, the divers were shocked to find a sunken car.",
+          "answer": "Swimming",
+          "explanation": "Simultaneous action."
+        },
+        {
+          "number": 7,
+          "sentence": "___ (apply) for the job, I forgot all about it until the letter came.",
+          "answer": "Having applied",
+          "explanation": "Perfect participle for a prior action."
+        },
+        {
+          "number": 8,
+          "sentence": "Is Bentley's the only department store ___ (start) its sale on Boxing Day?",
+          "answer": "to start",
+          "explanation": "Infinitive clause after 'the only + noun'."
+        },
+        {
+          "number": 9,
+          "sentence": "___ (want) to create trouble, Dad didn't raise any objections.",
+          "answer": "Not wanting",
+          "explanation": "Participle clause for reason (Because he didn't want)."
+        },
+        {
+          "number": 10,
+          "sentence": "It's Sophie's role ___ (wait) at the entrance on Tuesday evening to welcome the guests.",
+          "answer": "to wait",
+          "explanation": "Infinitive clause acting as the real subject after dummy 'It'."
+        },
+        {
+          "number": 11,
+          "sentence": "___ (shoot) in the arm, the man ran bleeding into the undergrowth.",
+          "answer": "Shot",
+          "explanation": "Passive past participle clause (Having been shot)."
+        },
+        {
+          "number": 12,
+          "sentence": "___ (make) mistakes is only human!",
+          "answer": "Making / To make",
+          "explanation": "Both infinitive and gerund work as a subject."
+        }
+      ]
+    },
+    {
+      "id": "u17_J",
+      "label": "J",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "___ most scientists dismiss tales...",
+          "options": ["Despite", "While", "However", "In spite"],
+          "answer": "While",
+          "explanation": "Contrast clause. 'Despite' requires a noun."
+        },
+        {
+          "number": 2,
+          "sentence": "There were serious complications, ___ , and her heart stopped beating.",
+          "options": ["whereas", "although", "however", "despite"],
+          "answer": "however",
+          "explanation": "Used as a connector in the middle of a sentence."
+        },
+        {
+          "number": 3,
+          "sentence": "Try ___ they might, the surgeon...",
+          "options": ["as", "for", "with", "so"],
+          "answer": "as",
+          "explanation": "Phrase: 'Try as he/they might'."
+        },
+        {
+          "number": 4,
+          "sentence": "___ having been clinically dead, Margaret suffered no brain damage...",
+          "options": ["However", "Whereas", "Although", "Despite"],
+          "answer": "Despite",
+          "explanation": "'Despite' + -ing showing contrast."
+        },
+        {
+          "number": 5,
+          "sentence": "The story doesn't stop there, ___ .",
+          "options": ["even if", "even though", "although", "though"],
+          "answer": "though",
+          "explanation": "'Though' can be used at the end of a sentence for contrast."
+        },
+        {
+          "number": 6,
+          "sentence": "And ___ her never having been conscious...",
+          "options": ["in spite of", "although", "however", "while"],
+          "answer": "in spite of",
+          "explanation": "'In spite of' + noun phrase/gerund."
+        },
+        {
+          "number": 7,
+          "sentence": "She said that ___ three of the walls were bright white, one was dark grey.",
+          "options": ["nevertheless", "whereas", "in spite of", "however"],
+          "answer": "whereas",
+          "explanation": "Used to compare two different facts."
+        },
+        {
+          "number": 8,
+          "sentence": "___ the anaesthetist didn't - and couldn't - believe her, she checked.",
+          "options": ["In spite", "However", "Even though", "Despite"],
+          "answer": "Even though",
+          "explanation": "'Even though' + clause for strong contrast."
+        },
+        {
+          "number": 9,
+          "sentence": "___ as they tried, no one at the hospital could explain...",
+          "options": ["Most", "More", "Much", "Many"],
+          "answer": "Much",
+          "explanation": "Phrase: 'Much as they tried'."
+        },
+        {
+          "number": 10,
+          "sentence": "Even ___ one does not believe in a 'soul'...",
+          "options": ["so", "if", "though", "that"],
+          "answer": "if",
+          "explanation": "'Even if' to describe a hypothetical contrast."
+        }
+      ]
+    },
+    {
+      "id": "u17_K",
+      "label": "K",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Despite having looked for it everywhere, Donald never found his contact lens.",
+          "options": ["he"],
+          "answer": "Even though he had looked",
+          "explanation": "'Even though' + clause replaces 'Despite' + -ing."
+        },
+        {
+          "number": 2,
+          "sentence": "The stadium won't be ready for the Olympics whether they start building tomorrow or not.",
+          "options": ["even"],
+          "answer": "even if they start",
+          "explanation": "'Even if' covers the 'whether or not' meaning."
+        },
+        {
+          "number": 3,
+          "sentence": "The electricians are on strike but the BBC is still broadcasting.",
+          "options": ["spite"],
+          "answer": "in spite of the fact that",
+          "explanation": "Phrase: 'in spite of the fact that' + clause."
+        },
+        {
+          "number": 4,
+          "sentence": "Although no one gave us an invitation, we were still able to get into the club.",
+          "options": ["given"],
+          "answer": "in spite of not being given",
+          "explanation": "Contrast using 'in spite of' + negative passive gerund."
+        },
+        {
+          "number": 5,
+          "sentence": "Dom couldn't finish the crossword despite really trying hard.",
+          "options": ["might"],
+          "answer": "Try as he might",
+          "explanation": "The phrase 'Try as one might' expresses concession."
+        },
+        {
+          "number": 6,
+          "sentence": "Although Sarah shouted loudly, she wasn't able to get the audience to pay attention.",
+          "options": ["might"],
+          "answer": "However loudly she might have shouted",
+          "explanation": "'However + adverb + subject + might + verb' expresses concession."
+        },
+        {
+          "number": 7,
+          "sentence": "I couldn't persuade Tim in spite of my begging him to come with us.",
+          "options": ["as"],
+          "answer": "Much as I begged him",
+          "explanation": "'Much as' expresses concession."
+        },
+        {
+          "number": 8,
+          "sentence": "Despite our being late, we didn't think for a second we wouldn't make it on time.",
+          "options": ["though"],
+          "answer": "Late though/as we were",
+          "explanation": "'Adjective + though/as + subject + verb' expresses concession."
+        }
+      ]
+    },
+    {
+      "id": "u17_L",
+      "label": "L",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "More than 80 people came to the exhibition, many of ___ children had pictures on the walls.",
+          "options": ["who", "whom", "whose", "which"],
+          "answer": "whose",
+          "explanation": "Possessive: the children of the people."
+        },
+        {
+          "number": 2,
+          "sentence": "The man ___ to safety was in his forties.",
+          "options": ["who was lifting", "lifting", "lifted", "having been lifted"],
+          "answer": "lifted",
+          "explanation": "Passive participle clause: who was lifted."
+        },
+        {
+          "number": 3,
+          "sentence": "Who was the receptionist ___ the phone at the time?",
+          "options": ["answering", "was answering", "having answered", "to answer"],
+          "answer": "answering",
+          "explanation": "Present participle clause: who was answering."
+        },
+        {
+          "number": 4,
+          "sentence": "___ a scholarship, I entered the frightening and unknown territory of private education.",
+          "options": ["To award", "To be awarded", "Having awarded", "Having been awarded"],
+          "answer": "Having been awarded",
+          "explanation": "Perfect passive participle: after I had been awarded."
+        },
+        {
+          "number": 5,
+          "sentence": "___ half a chance, I'd be there in a flash!",
+          "options": ["Giving", "Given", "Being given", "To be given"],
+          "answer": "Given",
+          "explanation": "Passive conditional participle clause: If I were given."
+        },
+        {
+          "number": 6,
+          "sentence": "___ quickly we ran, we just couldn't catch up with the van.",
+          "options": ["Although", "Even", "Much", "However"],
+          "answer": "However",
+          "explanation": "'However + adverb' expresses concession."
+        }
+      ]
+    },
+    {
+      "id": "u17_M",
+      "label": "M",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Most of us will suffer from a 'fracture', ___ is the medical term...",
+          "answer": "which",
+          "explanation": "Non-defining clause referring to 'fracture'."
+        },
+        {
+          "number": 2,
+          "sentence": "A patient ___ arm, let's say, is suspected of being broken...",
+          "answer": "whose",
+          "explanation": "Possessive: the arm of the patient."
+        },
+        {
+          "number": 3,
+          "sentence": "___ determined the extent of the fracture, the orthopaedic surgeon...",
+          "answer": "Having",
+          "explanation": "Perfect participle (Having determined) for prior action."
+        },
+        {
+          "number": 4,
+          "sentence": "For a fracture ___ manipulation is required...",
+          "answer": "where",
+          "explanation": "Refers to a situation/case."
+        },
+        {
+          "number": 5,
+          "sentence": "___ may involve the patient being given a general anaesthetic...",
+          "answer": "which",
+          "explanation": "Refers to the whole preceding situation."
+        },
+        {
+          "number": 6,
+          "sentence": "Patients ___ have more serious fractures...",
+          "answer": "who",
+          "explanation": "Refers to people (patients)."
+        },
+        {
+          "number": 7,
+          "sentence": "'fracture fixation', ___ which pins and rods are connected...",
+          "answer": "in",
+          "explanation": "'In which' describes the process."
+        },
+        {
+          "number": 8,
+          "sentence": "___ , for simple fractures, a cast...",
+          "answer": "However",
+          "explanation": "Contrast connector."
+        },
+        {
+          "number": 9,
+          "sentence": "often ___ out of plaster of Paris...",
+          "answer": "made",
+          "explanation": "Past participle clause (which is made)."
+        },
+        {
+          "number": 10,
+          "sentence": "___ a broken upper leg can take anything up to twelve weeks...",
+          "answer": "While",
+          "explanation": "Contrast/comparison clause."
+        },
+        {
+          "number": 11,
+          "sentence": "Their plaster cast ___ off, the patient will...",
+          "answer": "taken/coming",
+          "explanation": "Participle clause (With their cast taken/coming off)."
+        },
+        {
+          "number": 12,
+          "sentence": "exercise a limb ___ has been inactive...",
+          "answer": "which/that",
+          "explanation": "Refers to a thing (limb)."
+        },
+        {
+          "number": 13,
+          "sentence": "___ advances in medical technology...",
+          "answer": "Despite / In spite of",
+          "explanation": "Contrast before a noun phrase."
+        },
+        {
+          "number": 14,
+          "sentence": "___ get a frail elderly person's fracture to heal is still...",
+          "answer": "to",
+          "explanation": "Infinitive clause as the subject."
+        },
+        {
+          "number": 15,
+          "sentence": "Even ___ the fracture has been treated...",
+          "answer": "if",
+          "explanation": "'Even if' describes a hypothetical situation."
+        }
+      ]
+    }
+  ]
+}

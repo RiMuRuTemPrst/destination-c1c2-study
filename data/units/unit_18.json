@@ -1,0 +1,2099 @@
+{
+  "unit_id": 18,
+  "unit_type": "Vocabulary",
+  "title": "Reactions and health",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Reactions",
+      "words": [
+        {
+          "word": "acknowledge",
+          "pos": "v",
+          "definition_en": "to admit or accept that something is true or that a situation exists",
+          "definition_vi": "thừa nhận, công nhận sự tồn tại hoặc tính xác thực của điều gì đó",
+          "example": "He acknowledged that there was a problem.",
+          "synonyms": ["admit", "concede", "recognize"],
+          "collocations": ["acknowledge receipt of", "acknowledge that", "widely acknowledged"]
+        },
+        {
+          "word": "agonise",
+          "pos": "v",
+          "definition_en": "to spend a long time worrying and upsetting yourself about something",
+          "definition_vi": "trăn trở, đau khổ, suy nghĩ cực nhọc về một quyết định",
+          "example": "I've been agonising over this decision for weeks.",
+          "synonyms": ["worry", "fret", "brood"],
+          "collocations": ["agonise over something"]
+        },
+        {
+          "word": "apathy",
+          "pos": "n",
+          "definition_en": "a feeling of having no interest in or enthusiasm about anything",
+          "definition_vi": "sự thờ ơ, sự vô cảm, không quan tâm",
+          "example": "There is a growing apathy among young people towards politics.",
+          "synonyms": ["indifference", "detachment", "lethargy"],
+          "collocations": ["political apathy", "widespread apathy"]
+        },
+        {
+          "word": "avoid",
+          "pos": "v",
+          "definition_en": "to stay away from someone or something, or prevent something from happening",
+          "definition_vi": "tránh, né tránh điều gì đó hoặc ngăn nó xảy ra",
+          "example": "Try to avoid the city centre during rush hour.",
+          "synonyms": ["evade", "shun", "bypass"],
+          "collocations": ["avoid doing something", "avoid contact with"]
+        },
+        {
+          "word": "behaviour",
+          "pos": "n",
+          "definition_en": "the way that someone acts, especially towards other people",
+          "definition_vi": "hành vi, cách đối nhân xử thế",
+          "example": "The students were on their best behaviour during the visit.",
+          "synonyms": ["conduct", "manner", "actions"],
+          "collocations": ["antisocial behaviour", "pattern of behaviour", "good/bad behaviour"]
+        },
+        {
+          "word": "chuckle",
+          "pos": "v, n",
+          "definition_en": "to laugh quietly, especially in a private or amused way",
+          "definition_vi": "cười thầm, cười nhẹ một mình",
+          "example": "He chuckled to himself as he read the funny letter.",
+          "synonyms": ["giggle", "snicker", "titter"],
+          "collocations": ["chuckle at something", "give a chuckle"]
+        },
+        {
+          "word": "comfort",
+          "pos": "v, n",
+          "definition_en": "to make someone feel less worried, unhappy, or upset",
+          "definition_vi": "an ủi, dỗ dành; sự an ủi",
+          "example": "We tried to comfort her after she lost her job.",
+          "synonyms": ["console", "soothe", "reassure"],
+          "collocations": ["take comfort in", "word of comfort"]
+        },
+        {
+          "word": "conduct",
+          "pos": "v, n",
+          "definition_en": "v: to organize and perform a particular activity; n: the way someone behaves",
+          "definition_vi": "v: thực hiện, tiến hành; n: hạnh kiểm, tư cách đạo đức",
+          "example": "The senator's conduct was questioned by the committee.",
+          "synonyms": ["behave", "carry out", "manage"],
+          "collocations": ["code of conduct", "conduct an experiment", "unprofessional conduct"]
+        },
+        {
+          "word": "consequence",
+          "pos": "n",
+          "definition_en": "something that happens as a result of a particular action or set of conditions",
+          "definition_vi": "hậu quả, kết quả (thường là tiêu cực)",
+          "example": "You must accept the consequences of your actions.",
+          "synonyms": ["result", "outcome", "aftermath"],
+          "collocations": ["dire consequences", "as a consequence", "face the consequences"]
+        },
+        {
+          "word": "contentment",
+          "pos": "n",
+          "definition_en": "the state of being happy and satisfied",
+          "definition_vi": "sự mãn nguyện, sự hài lòng",
+          "example": "He found great contentment in his new life in the country.",
+          "synonyms": ["satisfaction", "happiness", "complacency"],
+          "collocations": ["peace and contentment", "look of contentment"]
+        },
+        {
+          "word": "cross",
+          "pos": "adj",
+          "definition_en": "annoyed or quite angry",
+          "definition_vi": "bực mình, cáu gắt",
+          "example": "My mother was very cross with me for being late.",
+          "synonyms": ["angry", "annoyed", "irate"],
+          "collocations": ["get cross with someone", "cross about something"]
+        },
+        {
+          "word": "dignity",
+          "pos": "n",
+          "definition_en": "the quality of being serious, calm, and deserving respect",
+          "definition_vi": "phẩm giá, lòng tự trọng, sự tôn nghiêm",
+          "example": "She handled her resignation with great dignity.",
+          "synonyms": ["self-respect", "stateliness", "nobility"],
+          "collocations": ["with dignity", "lose one's dignity", "human dignity"]
+        },
+        {
+          "word": "disgust",
+          "pos": "v, n",
+          "definition_en": "a strong feeling of dislike for something that looks, smells, or tastes unpleasant",
+          "definition_vi": "sự ghê tởm, sự phẫn nộ; làm ghê tởm",
+          "example": "The smell of the garbage filled me with disgust.",
+          "synonyms": ["reverence", "loathing", "repulsion"],
+          "collocations": ["to someone's disgust", "in disgust", "utter disgust"]
+        },
+        {
+          "word": "disillusioned",
+          "pos": "adj",
+          "definition_en": "disappointed because you have discovered that someone or something is not as good as you believed",
+          "definition_vi": "vỡ mộng, chán nản vì nhận ra sự thật không như mong đợi",
+          "example": "Many voters are disillusioned with the government's performance.",
+          "synonyms": ["disenchanted", "disappointed", "let down"],
+          "collocations": ["disillusioned with", "become disillusioned"]
+        },
+        {
+          "word": "fed up",
+          "pos": "adj",
+          "definition_en": "annoyed or bored with something that you have experienced for too long",
+          "definition_vi": "chán ngấy, hết chịu nổi",
+          "example": "I'm fed up with this rainy weather.",
+          "synonyms": ["bored", "annoyed", "tired of"],
+          "collocations": ["fed up with", "sick and fed up"]
+        },
+        {
+          "word": "giggle",
+          "pos": "v, n",
+          "definition_en": "to laugh repeatedly in a quiet but uncontrolled way, often because you are nervous or embarrassed",
+          "definition_vi": "cười khúc khích",
+          "example": "The girls were giggling in the back of the classroom.",
+          "synonyms": ["chuckle", "titter", "snigger"],
+          "collocations": ["fit of giggles", "giggle at something"]
+        },
+        {
+          "word": "glance",
+          "pos": "v, n",
+          "definition_en": "to look quickly at someone or something",
+          "definition_vi": "liếc nhìn, nhìn lướt qua",
+          "example": "He glanced at his watch and realized he was late.",
+          "synonyms": ["peek", "glimpse", "scan"],
+          "collocations": ["at a glance", "glance at", "steal a glance"]
+        },
+        {
+          "word": "glimpse",
+          "pos": "v, n",
+          "definition_en": "to see someone or something for a very short time and not clearly",
+          "definition_vi": "nhìn thoáng qua, loáng thấy",
+          "example": "I caught a glimpse of the celebrity as she left the hotel.",
+          "synonyms": ["sight", "spot", "glance"],
+          "collocations": ["catch a glimpse of", "first glimpse"]
+        },
+        {
+          "word": "gloat",
+          "pos": "v",
+          "definition_en": "to show that you are happy about your own success or someone else's failure in an unpleasant way",
+          "definition_vi": "hả hê, tự mãn (thường dựa trên thất bại của người khác)",
+          "example": "I'm not here to gloat over your misfortune.",
+          "synonyms": ["relish", "triumph", "exult"],
+          "collocations": ["gloat over/about something"]
+        },
+        {
+          "word": "glum",
+          "pos": "adj",
+          "definition_en": "sad and quiet",
+          "definition_vi": "ủ rũ, buồn rầu",
+          "example": "You look a bit glum today. What's wrong?",
+          "synonyms": ["gloomy", "miserable", "morose"],
+          "collocations": ["look glum"]
+        },
+        {
+          "word": "grimace",
+          "pos": "v, n",
+          "definition_en": "to make an expression of pain, strong dislike, etc. in which the face twists in an ugly way",
+          "definition_vi": "nhăn mặt, làm mặt xấu vì đau đớn hoặc khó chịu",
+          "example": "She grimaced at the bitter taste of the medicine.",
+          "synonyms": ["scowl", "wince", "frown"],
+          "collocations": ["grimace with pain", "grimace at"]
+        },
+        {
+          "word": "grin",
+          "pos": "v, n",
+          "definition_en": "to smile widely",
+          "definition_vi": "cười toe toét",
+          "example": "He was grinning from ear to ear after winning the race.",
+          "synonyms": ["smile", "beam"],
+          "collocations": ["grin and bear it", "wide grin"]
+        },
+        {
+          "word": "handle",
+          "pos": "v",
+          "definition_en": "to deal with, have responsibility for, or be in charge of",
+          "definition_vi": "xử lý, giải quyết, điều khiển",
+          "example": "I don't know how she handles such a stressful job.",
+          "synonyms": ["manage", "deal with", "cope with"],
+          "collocations": ["handle with care", "handle a situation"]
+        },
+        {
+          "word": "impatient",
+          "pos": "adj",
+          "definition_en": "easily annoyed by someone's mistakes or because you have to wait",
+          "definition_vi": "thiếu kiên nhẫn, nôn nóng",
+          "example": "Don't be so impatient! We'll be there in five minutes.",
+          "synonyms": ["restless", "eager", "irritable"],
+          "collocations": ["grow impatient", "impatient for something"]
+        },
+        {
+          "word": "inertia",
+          "pos": "n",
+          "definition_en": "lack of energy; lack of desire or ability to move or change",
+          "definition_vi": "sự trì trệ, tính quán tính",
+          "example": "The company's failure was due to bureaucratic inertia.",
+          "synonyms": ["inactivity", "apathy", "stagnation"],
+          "collocations": ["bureaucratic inertia", "overcome inertia"]
+        },
+        {
+          "word": "manners",
+          "pos": "n",
+          "definition_en": "the way that you behave towards other people, especially when you are being polite",
+          "definition_vi": "cách cư xử, lễ tiết",
+          "example": "It's bad manners to talk with your mouth full.",
+          "synonyms": ["etiquette", "courtesy", "politeness"],
+          "collocations": ["table manners", "good/bad manners"]
+        },
+        {
+          "word": "manoeuvre",
+          "pos": "v, n",
+          "definition_en": "a movement or set of movements needing skill and care",
+          "definition_vi": "thao tác, sự vận động khéo léo; diễn tập",
+          "example": "Reversing round a corner is a difficult manoeuvre.",
+          "synonyms": ["movement", "tactic", "operation"],
+          "collocations": ["parking manoeuvre", "military manoeuvre"]
+        },
+        {
+          "word": "moan",
+          "pos": "v, n",
+          "definition_en": "to complain in an annoying way, especially in a low voice",
+          "definition_vi": "rên rỉ, than vãn, phàn nàn",
+          "example": "Stop moaning about the cold and put a sweater on.",
+          "synonyms": ["complain", "groan", "whine"],
+          "collocations": ["have a moan", "moan about something"]
+        },
+        {
+          "word": "mock",
+          "pos": "v",
+          "definition_en": "to laugh at someone or something in an unkind way",
+          "definition_vi": "chế nhạo, nhạo báng",
+          "example": "It's not nice to mock other people's accents.",
+          "synonyms": ["ridicule", "tease", "deride"],
+          "collocations": ["mock someone's efforts", "mock exam"]
+        },
+        {
+          "word": "neglect",
+          "pos": "v, n",
+          "definition_en": "to fail to take care of someone or something properly",
+          "definition_vi": "thờ ơ, bỏ mặc, xao nhãng",
+          "example": "The garden had been neglected for years.",
+          "synonyms": ["ignore", "disregard", "abandon"],
+          "collocations": ["neglect one's duties", "gross neglect"]
+        },
+        {
+          "word": "peep",
+          "pos": "v, n",
+          "definition_en": "to look quickly and secretly at something, especially through a small opening",
+          "definition_vi": "nhìn trộm, hé nhìn",
+          "example": "He peeped through the keyhole to see who was in the room.",
+          "synonyms": ["peek", "glance"],
+          "collocations": ["peep at something", "take a peep"]
+        },
+        {
+          "word": "peer",
+          "pos": "v",
+          "definition_en": "to look carefully or with difficulty at something",
+          "definition_vi": "nhìn chăm chú, nhìn kỹ (do khó thấy)",
+          "example": "She peered through the mist, trying to find the path.",
+          "synonyms": ["gaze", "squint", "stare"],
+          "collocations": ["peer into the distance", "peer through spectacles"]
+        },
+        {
+          "word": "prevent",
+          "pos": "v",
+          "definition_en": "to stop something from happening or someone from doing something",
+          "definition_vi": "ngăn chặn, phòng ngừa",
+          "example": "The police tried to prevent the protestors from entering the building.",
+          "synonyms": ["hinder", "stop", "block"],
+          "collocations": ["prevent someone from doing something"]
+        },
+        {
+          "word": "rejoice",
+          "pos": "v",
+          "definition_en": "to feel or show great happiness about something",
+          "definition_vi": "vui mừng, hân hoan",
+          "example": "The whole country rejoiced at the news of the victory.",
+          "synonyms": ["celebrate", "exult", "glory"],
+          "collocations": ["rejoice in/at something"]
+        },
+        {
+          "word": "resent",
+          "pos": "v",
+          "definition_en": "to feel angry or upset about a situation or about something that someone has done, especially because you think it is unfair",
+          "definition_vi": "phẫn nộ, bực tức, không bằng lòng",
+          "example": "She resents the fact that she is paid less than her colleagues.",
+          "synonyms": ["begrudge", "grudge", "dislike"],
+          "collocations": ["deeply resent", "resent being told what to do"]
+        },
+        {
+          "word": "resolute",
+          "pos": "adj",
+          "definition_en": "determined not to change your mind or not to give up a course of action",
+          "definition_vi": "kiên quyết, quả quyết",
+          "example": "She remained resolute in her belief that the project would succeed.",
+          "synonyms": ["determined", "steadfast", "adamant"],
+          "collocations": ["resolute action", "remain resolute"]
+        },
+        {
+          "word": "smirk",
+          "pos": "v, n",
+          "definition_en": "to smile in a way that shows you are pleased with yourself or know something that someone else does not know",
+          "definition_vi": "cười nhếch mép, cười mỉa",
+          "example": "What are you smirking at?",
+          "synonyms": ["sneer", "simper"],
+          "collocations": ["smirk with satisfaction", "wiping the smirk off one's face"]
+        },
+        {
+          "word": "snap",
+          "pos": "v",
+          "definition_en": "to say something quickly in an angry way",
+          "definition_vi": "quát mắng, nói gắt gỏng",
+          "example": "'Don't just stand there!' he snapped.",
+          "synonyms": ["bark", "snarl"],
+          "collocations": ["snap at someone"]
+        },
+        {
+          "word": "tactic",
+          "pos": "n",
+          "definition_en": "a planned way of doing something in order to achieve what you want",
+          "definition_vi": "chiến thuật, thủ đoạn",
+          "example": "The team's defensive tactics worked perfectly.",
+          "synonyms": ["strategy", "manoeuvre", "approach"],
+          "collocations": ["delaying tactics", "underhand tactics"]
+        },
+        {
+          "word": "terror",
+          "pos": "n",
+          "definition_en": "extreme fear",
+          "definition_vi": "sự kinh hoàng, sự khiếp sợ",
+          "example": "The sound of the explosion filled everyone with terror.",
+          "synonyms": ["dread", "horror", "panic"],
+          "collocations": ["reign of terror", "sheer terror", "scream in terror"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Health",
+      "words": [
+        {
+          "word": "administer",
+          "pos": "v",
+          "definition_en": "to give someone a drug or medical treatment",
+          "definition_vi": "cung cấp, đưa thuốc hoặc điều trị y tế cho ai đó",
+          "example": "The nurse administered the medication.",
+          "synonyms": ["dispense", "give"],
+          "collocations": ["administer a drug", "administer first aid"]
+        },
+        {
+          "word": "admit",
+          "pos": "v",
+          "definition_en": "to take someone into a hospital for treatment",
+          "definition_vi": "cho nhập viện",
+          "example": "He was admitted to hospital with chest pains.",
+          "synonyms": ["hospitalize"],
+          "collocations": ["be admitted to", "admit a patient"]
+        },
+        {
+          "word": "agony",
+          "pos": "n",
+          "definition_en": "extreme physical or mental pain",
+          "definition_vi": "sự đau đớn tột cùng (thể xác hoặc tinh thần)",
+          "example": "She lay on the floor in agony.",
+          "synonyms": ["suffering", "torture", "distress"],
+          "collocations": ["in agony", "scream in agony"]
+        },
+        {
+          "word": "antidote",
+          "pos": "n",
+          "definition_en": "a substance that stops the effects of a poison",
+          "definition_vi": "thuốc giải độc",
+          "example": "There is no known antidote to this snake's venom.",
+          "synonyms": ["cure", "remedy"],
+          "collocations": ["antidote to/for"]
+        },
+        {
+          "word": "consultant",
+          "pos": "n",
+          "definition_en": "a senior doctor in a hospital who specializes in a particular area of medicine",
+          "definition_vi": "bác sĩ tư vấn, bác sĩ chuyên khoa cấp cao",
+          "example": "The consultant recommended surgery.",
+          "synonyms": ["specialist"],
+          "collocations": ["medical consultant"]
+        },
+        {
+          "word": "diagnosis",
+          "pos": "n",
+          "definition_en": "a statement about what disease or problem someone has",
+          "definition_vi": "sự chẩn đoán",
+          "example": "The doctors are still waiting for a final diagnosis.",
+          "synonyms": ["identification"],
+          "collocations": ["preliminary diagnosis", "confirm a diagnosis"]
+        },
+        {
+          "word": "inoculate",
+          "pos": "v",
+          "definition_en": "to protect someone from a disease by giving them a vaccine",
+          "definition_vi": "tiêm chủng",
+          "example": "All children should be inoculated against measles.",
+          "synonyms": ["vaccinate", "immunize"],
+          "collocations": ["inoculate against"]
+        },
+        {
+          "word": "irritation",
+          "pos": "n",
+          "definition_en": "a painful or uncomfortable feeling in a part of the body",
+          "definition_vi": "sự kích ứng, sự ngứa ngáy",
+          "example": "The lotion can cause skin irritation in some people.",
+          "synonyms": ["inflammation", "itchiness"],
+          "collocations": ["skin irritation", "minor irritation"]
+        },
+        {
+          "word": "numb",
+          "pos": "adj",
+          "definition_en": "unable to feel anything in a particular part of your body",
+          "definition_vi": "tê, tê liệt (cảm giác)",
+          "example": "My fingers were numb with cold.",
+          "synonyms": ["insensate", "deadened"],
+          "collocations": ["go numb", "numb with shock"]
+        },
+        {
+          "word": "nursing home",
+          "pos": "n phr",
+          "definition_en": "a place where very old or ill people live and are looked after",
+          "definition_vi": "viện dưỡng lão",
+          "example": "She decided to move into a nursing home.",
+          "synonyms": ["care home", "retirement home"],
+          "collocations": ["private nursing home"]
+        },
+        {
+          "word": "paralysis",
+          "pos": "n",
+          "definition_en": "the loss of the ability to move your body or a part of it",
+          "definition_vi": "sự tê liệt",
+          "example": "The accident left him with permanent paralysis of the legs.",
+          "synonyms": ["immobility"],
+          "collocations": ["total paralysis", "sleep paralysis"]
+        },
+        {
+          "word": "plaster",
+          "pos": "n",
+          "definition_en": "a white substance that is used for protecting a broken bone; a small piece of sticky cloth to cover a cut",
+          "definition_vi": "băng dán (cá nhân); thạch cao (bó bột)",
+          "example": "His leg was in plaster for six weeks.",
+          "synonyms": ["bandage", "cast"],
+          "collocations": ["in plaster", "sticking plaster"]
+        },
+        {
+          "word": "prescribe",
+          "pos": "v",
+          "definition_en": "to tell someone what medicine they should take",
+          "definition_vi": "kê đơn thuốc",
+          "example": "The doctor prescribed some antibiotics for my throat infection.",
+          "synonyms": ["order", "recommend"],
+          "collocations": ["prescribe medication", "prescribe a treatment"]
+        },
+        {
+          "word": "prevent(at)ive medicine",
+          "pos": "n phr",
+          "definition_en": "medical treatment or advice that is intended to stop you from becoming ill",
+          "definition_vi": "y học dự phòng",
+          "example": "Preventive medicine is more cost-effective than curing diseases.",
+          "synonyms": ["prophylaxis"],
+          "collocations": ["practise preventive medicine"]
+        },
+        {
+          "word": "prognosis",
+          "pos": "n",
+          "definition_en": "a doctor's opinion about the likely progress of a disease or illness",
+          "definition_vi": "tiên lượng (bệnh)",
+          "example": "The prognosis for her recovery is very good.",
+          "synonyms": ["forecast", "prediction"],
+          "collocations": ["grim prognosis", "excellent prognosis"]
+        },
+        {
+          "word": "sick leave",
+          "pos": "n phr",
+          "definition_en": "time away from work because you are ill",
+          "definition_vi": "nghỉ ốm",
+          "example": "He's been on sick leave for three weeks.",
+          "synonyms": ["medical leave"],
+          "collocations": ["take sick leave", "paid sick leave"]
+        },
+        {
+          "word": "side effect",
+          "pos": "n phr",
+          "definition_en": "an unwanted effect that a drug has on your body in addition to curing illness",
+          "definition_vi": "tác dụng phụ",
+          "example": "Nausea is a common side effect of this drug.",
+          "synonyms": ["adverse reaction"],
+          "collocations": ["experience side effects", "long-term side effects"]
+        },
+        {
+          "word": "syringe",
+          "pos": "n",
+          "definition_en": "a medical instrument used for injecting or removing liquids",
+          "definition_vi": "ống tiêm",
+          "example": "The doctor filled the syringe with the vaccine.",
+          "synonyms": ["needle", "hypodermic"],
+          "collocations": ["disposable syringe"]
+        },
+        {
+          "word": "vaccine",
+          "pos": "n",
+          "definition_en": "a substance put into the body to prevent a specific disease",
+          "definition_vi": "vắc xin",
+          "example": "Scientists are developing a new vaccine for the virus.",
+          "synonyms": ["immunization"],
+          "collocations": ["flu vaccine", "vaccine development"]
+        },
+        {
+          "word": "ward",
+          "pos": "n",
+          "definition_en": "a large room in a hospital where patients with similar conditions stay",
+          "definition_vi": "khoa, phòng bệnh (trong bệnh viện)",
+          "example": "He's on the children's ward.",
+          "synonyms": ["unit", "room"],
+          "collocations": ["maternity ward", "emergency ward"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "black out",
+          "pos": "phr v",
+          "definition_en": "suddenly become unconscious; make a place dark by turning off all the lights",
+          "definition_vi": "bất tỉnh; cắt điện, làm tối om",
+          "example": "I blacked out for a few seconds after the hit.",
+          "synonyms": ["faint", "pass out"],
+          "collocations": ["complete blackout"]
+        },
+        {
+          "word": "come out in",
+          "pos": "phr v",
+          "definition_en": "become covered in spots or a rash",
+          "definition_vi": "nổi ban, nổi mụn trên da",
+          "example": "I've come out in a rash after eating those strawberries.",
+          "synonyms": ["break out in"],
+          "collocations": ["come out in spots"]
+        },
+        {
+          "word": "come round",
+          "pos": "phr v",
+          "definition_en": "become conscious again; happen again; visit someone; change your opinion",
+          "definition_vi": "tỉnh lại; lặp lại; ghé thăm; thay đổi ý kiến",
+          "example": "She came round about an hour after the operation.",
+          "synonyms": ["recover consciousness", "come over"],
+          "collocations": ["come round to an idea"]
+        },
+        {
+          "word": "cotton on",
+          "pos": "phr v",
+          "definition_en": "begin to realise or understand something",
+          "definition_vi": "bắt đầu hiểu ra, nhận thức được",
+          "example": "It took me a while to cotton on to what he meant.",
+          "synonyms": ["catch on", "realise"],
+          "collocations": ["cotton on to something"]
+        },
+        {
+          "word": "crease up",
+          "pos": "phr v",
+          "definition_en": "laugh a lot, or make someone laugh a lot",
+          "definition_vi": "cười nắc nẻ, làm ai đó cười ngất",
+          "example": "The whole audience creased up at his jokes.",
+          "synonyms": ["crack up"],
+          "collocations": ["make someone crease up"]
+        },
+        {
+          "word": "follow up",
+          "pos": "phr v",
+          "definition_en": "check the health of someone; try to find out more about something",
+          "definition_vi": "theo dõi (sức khỏe); tìm hiểu thêm, bám sát",
+          "example": "The doctor will follow up with another appointment next month.",
+          "synonyms": ["investigate", "pursue"],
+          "collocations": ["follow-up study", "follow-up treatment"]
+        },
+        {
+          "word": "get down",
+          "pos": "phr v",
+          "definition_en": "make someone feel sad or lose hope",
+          "definition_vi": "làm ai đó buồn chán, thất vọng",
+          "example": "This rainy weather is really getting me down.",
+          "synonyms": ["depress", "sadden"],
+          "collocations": ["it gets me down"]
+        },
+        {
+          "word": "get over",
+          "pos": "phr v",
+          "definition_en": "start to feel happy or well again after something bad; solve or deal with a problem",
+          "definition_vi": "hồi phục, vượt qua (khó khăn, bệnh tật)",
+          "example": "It took him a long time to get over the flu.",
+          "synonyms": ["recover from", "overcome"],
+          "collocations": ["get over an illness", "get over a break-up"]
+        },
+        {
+          "word": "go down",
+          "pos": "phr v",
+          "definition_en": "produce a particular reaction (well/badly) with someone",
+          "definition_vi": "được đón nhận (tốt/xấu) bởi ai đó",
+          "example": "The news didn't go down very well with the employees.",
+          "synonyms": ["be received"],
+          "collocations": ["go down well with"]
+        },
+        {
+          "word": "lash out",
+          "pos": "phr v",
+          "definition_en": "try to hit or attack someone suddenly; speak angrily to or against someone",
+          "definition_vi": "tấn công bất ngờ; quát tháo, xỉ vả",
+          "example": "He lashed out at his critics in a speech yesterday.",
+          "synonyms": ["attack", "criticize"],
+          "collocations": ["lash out at someone"]
+        },
+        {
+          "word": "pass away/on",
+          "pos": "phr v",
+          "definition_en": "die (a polite way to say 'die')",
+          "definition_vi": "qua đời, mất (nói giảm nói tránh)",
+          "example": "My grandfather passed away peacefully in his sleep.",
+          "synonyms": ["die", "expire"],
+          "collocations": ["pass away in one's sleep"]
+        },
+        {
+          "word": "play up",
+          "pos": "phr v",
+          "definition_en": "cause difficulties or pain for someone; behave badly",
+          "definition_vi": "gây rắc rối, làm đau; giở quẻ, cư xử tệ",
+          "example": "My back is playing up again.",
+          "synonyms": ["malfunction", "misbehave"],
+          "collocations": ["knee playing up"]
+        },
+        {
+          "word": "pull through",
+          "pos": "phr v",
+          "definition_en": "manage to stay alive after being very ill; succeed in a difficult situation",
+          "definition_vi": "hồi phục sau cơn bạo bệnh; vượt qua khó khăn",
+          "example": "The doctors think he will pull through.",
+          "synonyms": ["recover", "survive"],
+          "collocations": ["pull through an operation"]
+        },
+        {
+          "word": "shrivel up",
+          "pos": "phr v",
+          "definition_en": "become smaller and thinner; become weaker",
+          "definition_vi": "héo hon, teo lại, khô héo",
+          "example": "The leaves shrivelled up in the heat.",
+          "synonyms": ["wither", "shrink"],
+          "collocations": ["shrivel up and die"]
+        },
+        {
+          "word": "summon up",
+          "pos": "phr v",
+          "definition_en": "manage to produce a quality or reaction that helps you deal with a situation",
+          "definition_vi": "thu hết (can đảm, sức lực), huy động",
+          "example": "I finally summoned up the courage to ask her out.",
+          "synonyms": ["muster", "gather"],
+          "collocations": ["summon up the courage", "summon up energy"]
+        },
+        {
+          "word": "ward off",
+          "pos": "phr v",
+          "definition_en": "do something to prevent someone or something from harming you",
+          "definition_vi": "ngăn chặn, đẩy lùi (nguy hiểm, bệnh tật)",
+          "example": "She take vitamin C to ward off colds.",
+          "synonyms": ["repel", "fend off"],
+          "collocations": ["ward off evil spirits", "ward off a cold"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrases, patterns and collocations",
+      "words": [
+        {
+          "word": "act",
+          "pos": "v, n",
+          "definition_en": "to do something for a particular purpose",
+          "definition_vi": "hành động, đóng vai",
+          "example": "He was acting on his lawyer's advice.",
+          "synonyms": ["perform", "behave"],
+          "collocations": ["act in good/bad faith", "act out of desperation", "get your act together"]
+        },
+        {
+          "word": "behaviour",
+          "pos": "n",
+          "definition_en": "manner of acting",
+          "definition_vi": "hành vi",
+          "example": "His behaviour towards his staff is unacceptable.",
+          "synonyms": ["conduct"],
+          "collocations": ["exemplary behaviour", "on your best behaviour"]
+        },
+        {
+          "word": "consequence",
+          "pos": "n",
+          "definition_en": "result of an action",
+          "definition_vi": "hậu quả",
+          "example": "The decision could have serious consequences.",
+          "synonyms": ["result"],
+          "collocations": ["of no consequence", "face the consequences"]
+        },
+        {
+          "word": "cry",
+          "pos": "v, n",
+          "definition_en": "to produce tears",
+          "definition_vi": "khóc",
+          "example": "The baby started to cry for help.",
+          "synonyms": ["weep"],
+          "collocations": ["cry for help", "cry yourself to sleep", "a far cry from"]
+        },
+        {
+          "word": "dead",
+          "pos": "adj, adv",
+          "definition_en": "no longer alive; completely",
+          "definition_vi": "chết; hoàn toàn",
+          "example": "There was dead silence in the room.",
+          "synonyms": ["deceased"],
+          "collocations": ["dead tired", "dead against", "in dead trouble"]
+        },
+        {
+          "word": "effect",
+          "pos": "n",
+          "definition_en": "a change that is caused by something",
+          "definition_vi": "ảnh hưởng, tác động",
+          "example": "The new law comes into effect next month.",
+          "synonyms": ["impact"],
+          "collocations": ["have an effect on", "come into effect", "for effect"]
+        },
+        {
+          "word": "feel",
+          "pos": "v, n",
+          "definition_en": "to experience an emotion or physical sensation",
+          "definition_vi": "cảm thấy",
+          "example": "I feel strongly about this issue.",
+          "synonyms": ["sense"],
+          "collocations": ["feel at home", "feel like doing", "feel your way"]
+        },
+        {
+          "word": "health",
+          "pos": "n",
+          "definition_en": "the state of being well",
+          "definition_vi": "sức khỏe",
+          "example": "Smoking is bad for your health.",
+          "synonyms": ["well-being"],
+          "collocations": ["in poor health", "health hazard", "health and safety"]
+        },
+        {
+          "word": "ill",
+          "pos": "adj",
+          "definition_en": "not feeling well; sick",
+          "definition_vi": "ốm, bệnh",
+          "example": "He was taken ill during the meeting.",
+          "synonyms": ["sick"],
+          "collocations": ["fall ill", "critically ill", "terminally ill"]
+        },
+        {
+          "word": "kind",
+          "pos": "adj, n",
+          "definition_en": "caring about others; a group of things with the same features",
+          "definition_vi": "tử tế; loại",
+          "example": "It was very kind of you to help.",
+          "synonyms": ["generous", "type"],
+          "collocations": ["kind regards", "respond in kind", "kind of"]
+        },
+        {
+          "word": "laugh",
+          "pos": "v, n",
+          "definition_en": "to make sounds showing you are happy or think something is funny",
+          "definition_vi": "cười",
+          "example": "We had a good laugh about it later.",
+          "synonyms": ["chuckle"],
+          "collocations": ["laugh in someone's face", "a laugh a minute"]
+        },
+        {
+          "word": "life",
+          "pos": "n",
+          "definition_en": "the period between birth and death",
+          "definition_vi": "cuộc sống, sinh mạng",
+          "example": "The doctor saved his life.",
+          "synonyms": ["existence"],
+          "collocations": ["put life at risk", "not on your life", "quality of life"]
+        },
+        {
+          "word": "live",
+          "pos": "v",
+          "definition_en": "to be alive; to have your home in a place",
+          "definition_vi": "sống",
+          "example": "You have to live within your means.",
+          "synonyms": ["reside"],
+          "collocations": ["live and learn", "live in hope", "live a lie"]
+        },
+        {
+          "word": "medicine",
+          "pos": "n",
+          "definition_en": "a substance used to treat an illness",
+          "definition_vi": "thuốc; y học",
+          "example": "Don't forget to take your medicine.",
+          "synonyms": ["drug"],
+          "collocations": ["alternative medicine", "medicine cabinet"]
+        },
+        {
+          "word": "polite",
+          "pos": "adj",
+          "definition_en": "behaving in a way that is socially correct and shows respect",
+          "definition_vi": "lịch sự",
+          "example": "It's polite to say thank you.",
+          "synonyms": ["courteous"],
+          "collocations": ["polite conversation", "polite society"]
+        },
+        {
+          "word": "react",
+          "pos": "v",
+          "definition_en": "to behave in a particular way because of something that has happened",
+          "definition_vi": "phản ứng",
+          "example": "How did he react to the news?",
+          "synonyms": ["respond"],
+          "collocations": ["react by doing", "react against"]
+        },
+        {
+          "word": "reaction",
+          "pos": "n",
+          "definition_en": "the way someone acts or feels in response to something",
+          "definition_vi": "sự phản ứng",
+          "example": "What was his immediate reaction?",
+          "synonyms": ["response"],
+          "collocations": ["chain reaction", "gut reaction"]
+        },
+        {
+          "word": "response",
+          "pos": "n",
+          "definition_en": "an answer or reaction",
+          "definition_vi": "sự phản hồi, câu trả lời",
+          "example": "I'm still waiting for a response to my email.",
+          "synonyms": ["reply"],
+          "collocations": ["in response to", "response time"]
+        },
+        {
+          "word": "sick",
+          "pos": "adj",
+          "definition_en": "physically or mentally ill; wanting to vomit",
+          "definition_vi": "ốm; buồn nôn; chán ngấy",
+          "example": "I'm sick and tired of your complaining.",
+          "synonyms": ["ill"],
+          "collocations": ["call in sick", "worried sick", "sick as a parrot"]
+        },
+        {
+          "word": "treat",
+          "pos": "v",
+          "definition_en": "to behave towards someone in a particular way; to give medical care",
+          "definition_vi": "đối xử; điều trị; chiêu đãi",
+          "example": "They treat their animals cruelly.",
+          "synonyms": ["handle"],
+          "collocations": ["treat someone for an illness", "treat someone to dinner"]
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "cry over spilt milk",
+          "pos": "idiom",
+          "definition_en": "waste time feeling upset about something bad that has happened and cannot be changed",
+          "definition_vi": "tốn thời gian buồn bã vì những chuyện đã rồi, không thể cứu vãn",
+          "example": "It's a shame we lost the match, but there's no point crying over spilt milk.",
+          "synonyms": ["regret"],
+          "collocations": []
+        },
+        {
+          "word": "fly off the handle",
+          "pos": "idiom",
+          "definition_en": "suddenly become extremely angry without a good reason",
+          "definition_vi": "mất bình tĩnh, đùng đùng nổi giận không rõ lý do",
+          "example": "He tends to fly off the handle when things don't go his way.",
+          "synonyms": ["lose one's temper"],
+          "collocations": []
+        },
+        {
+          "word": "give sb a taste/dose of their own medicine",
+          "pos": "idiom",
+          "definition_en": "treat someone in the same bad way they treat other people",
+          "definition_vi": "gậy ông đập lưng ông, đối xử tệ với ai đó y như cách họ đã làm",
+          "example": "He's always late, so I'm going to give him a taste of his own medicine today.",
+          "synonyms": ["retaliate"],
+          "collocations": []
+        },
+        {
+          "word": "give sth a miss",
+          "pos": "idiom",
+          "definition_en": "decide not to do something that you usually do",
+          "definition_vi": "bỏ qua, không làm việc gì đó thường làm",
+          "example": "I think I'll give the gym a miss tonight; I'm too tired.",
+          "synonyms": ["skip"],
+          "collocations": []
+        },
+        {
+          "word": "grin and bear it",
+          "pos": "idiom",
+          "definition_en": "accept a difficult situation without complaining or showing how you feel",
+          "definition_vi": "cắn răng chịu đựng, chấp nhận hoàn cảnh khó khăn mà không phàn nàn",
+          "example": "We just have to grin and bear it until the repairs are finished.",
+          "synonyms": ["endure"],
+          "collocations": []
+        },
+        {
+          "word": "keep a straight face",
+          "pos": "idiom",
+          "definition_en": "remain serious and not laugh",
+          "definition_vi": "giữ vẻ mặt nghiêm túc, không cười",
+          "example": "It was hard to keep a straight face when he started singing.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "keep your hair on",
+          "pos": "idiom",
+          "definition_en": "used for telling someone not to get angry or upset",
+          "definition_vi": "khuyên ai đó hãy bình tĩnh, đừng nổi nóng",
+          "example": "Keep your hair on! I'm almost ready.",
+          "synonyms": ["calm down"],
+          "collocations": []
+        },
+        {
+          "word": "kick yourself",
+          "pos": "idiom",
+          "definition_en": "be very annoyed because you have made a mistake, missed an opportunity, etc.",
+          "definition_vi": "tự dằn vặt mình, hối tiếc vì sai lầm",
+          "example": "I'm kicking myself for not buying that house when I had the chance.",
+          "synonyms": ["regret"],
+          "collocations": []
+        },
+        {
+          "word": "let off steam",
+          "pos": "idiom",
+          "definition_en": "shout or do something that allows you to get rid of anger",
+          "definition_vi": "xả hơi, giải tỏa cơn giận",
+          "example": "I went for a run to let off some steam.",
+          "synonyms": ["vent"],
+          "collocations": []
+        },
+        {
+          "word": "let sleeping dogs lie",
+          "pos": "idiom",
+          "definition_en": "leave a person or situation alone if they might cause you trouble",
+          "definition_vi": "chuyện cũ hãy để nó qua đi, đừng bới móc rắc rối",
+          "example": "I thought about bringing up the argument again, but decided to let sleeping dogs lie.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "never/don't look a gift horse in the mouth",
+          "pos": "idiom",
+          "definition_en": "if you are given something good, you should not complain about it or try to find things that are wrong with it",
+          "definition_vi": "đừng đòi hỏi ở những món quà được tặng, được tặng thì đừng có chê",
+          "example": "The car is old, but it was free. Don't look a gift horse in the mouth.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "up in arms about",
+          "pos": "idiom",
+          "definition_en": "angry and complaining about something",
+          "definition_vi": "phẫn nộ, biểu tình phản đối kịch liệt",
+          "example": "The local residents are up in arms about the new road project.",
+          "synonyms": ["protesting"],
+          "collocations": []
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u18_A",
+      "label": "A",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the boxes in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's not very good ___ to eat with your mouth open, Timothy.",
+          "options": ["behaviour", "manners"],
+          "answer": "manners",
+          "explanation": "'Manners' refers to social etiquette, like table manners."
+        },
+        {
+          "number": 2,
+          "sentence": "I expect very good ___ from all of you while I'm out of the classroom.",
+          "options": ["behaviour", "manners"],
+          "answer": "behaviour",
+          "explanation": "'Behaviour' refers to the way people act or conduct themselves in a specific situation."
+        },
+        {
+          "number": 3,
+          "sentence": "There's no way you can ___ me from seeing my friends!",
+          "options": ["avoid", "prevent"],
+          "answer": "prevent",
+          "explanation": "'Prevent' means to stop someone from doing something."
+        },
+        {
+          "number": 4,
+          "sentence": "Let's ___ the city centre as there'll be loads of traffic.",
+          "options": ["avoid", "prevent"],
+          "answer": "avoid",
+          "explanation": "'Avoid' means to stay away from a place."
+        },
+        {
+          "number": 5,
+          "sentence": "The girls were ___ excitedly in their room - it was extremely irritating!",
+          "options": ["chuckle", "giggle"],
+          "answer": "giggling",
+          "explanation": "'Giggle' describes high-pitched, repeated laughing often associated with children or nervousness."
+        },
+        {
+          "number": 6,
+          "sentence": "He occasionally ___ quietly to himself as he read the letter.",
+          "options": ["chuckle", "giggle"],
+          "answer": "chuckled",
+          "explanation": "'Chuckle' is a quiet, low-toned laugh of amusement."
+        },
+        {
+          "number": 7,
+          "sentence": "The boys were ___ after the film so I think they had a good time.",
+          "options": ["grin", "smirk"],
+          "answer": "grinning",
+          "explanation": "'Grin' is a wide, happy smile."
+        },
+        {
+          "number": 8,
+          "sentence": "Stop ___ in such an unpleasant way. Just because you won the game doesn't make you better than me, you know!",
+          "options": ["grin", "smirk"],
+          "answer": "smirking",
+          "explanation": "'Smirk' is an unpleasant smile showing self-satisfaction or mocking."
+        },
+        {
+          "number": 9,
+          "sentence": "I ___ something through the window but I've got no idea what it was.",
+          "options": ["glance", "glimpse"],
+          "answer": "glimpsed",
+          "explanation": "'Glimpse' means to see something for a very short time and not clearly."
+        },
+        {
+          "number": 10,
+          "sentence": "Terry ___ at the clock and realised he was late.",
+          "options": ["glance", "glimpse"],
+          "answer": "glanced",
+          "explanation": "'Glance' is to look quickly at something intentionally."
+        },
+        {
+          "number": 11,
+          "sentence": "The window was so dirty we had to ___ through it to see inside.",
+          "options": ["peep", "peer"],
+          "answer": "peer",
+          "explanation": "'Peer' means to look closely or with difficulty."
+        },
+        {
+          "number": 12,
+          "sentence": "Don't ___! Keep your eyes closed or it'll ruin the surprise.",
+          "options": ["peep", "peer"],
+          "answer": "peep",
+          "explanation": "'Peep' means to look quickly and secretly."
+        },
+        {
+          "number": 13,
+          "sentence": "I'm ___. It's boring just sitting here. Let's go out for a walk.",
+          "options": ["cross", "fed up"],
+          "answer": "fed up",
+          "explanation": "'Fed up' means bored or annoyed with a situation that has lasted too long."
+        },
+        {
+          "number": 14,
+          "sentence": "Mr Jenkins was so ___ when he heard the news he went red with anger.",
+          "options": ["cross", "fed up"],
+          "answer": "cross",
+          "explanation": "'Cross' is a word for being angry or annoyed."
+        },
+        {
+          "number": 15,
+          "sentence": "Reversing round a corner is a difficult ___.",
+          "options": ["manoeuvre", "tactic"],
+          "answer": "manoeuvre",
+          "explanation": "'Manoeuvre' refers to a skilled movement, especially with a vehicle."
+        },
+        {
+          "number": 16,
+          "sentence": "I'm going to have to use some underhand ___ to get Adam to agree.",
+          "options": ["manoeuvre", "tactic"],
+          "answer": "tactics",
+          "explanation": "'Tactics' refers to planned methods (sometimes dishonest) used to achieve an aim."
+        }
+      ]
+    },
+    {
+      "id": "u18_B",
+      "label": "B",
+      "type": "gap_fill",
+      "instruction": "Each of the words in bold, except one, is in the wrong place. Write the correct words on the lines.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "In the playground, they often (1) ___ and ridicule the 'weaker' children...",
+          "answer": "mock",
+          "explanation": "'Mock' fits because it means to ridicule or make fun of."
+        },
+        {
+          "number": 2,
+          "sentence": "...they (2) ___ openly.",
+          "answer": "grin",
+          "explanation": "'Grin' (smile widely) fits the reaction to success."
+        },
+        {
+          "number": 3,
+          "sentence": "When they're taking horrible medicine, they (3) ___ in a way that adults rarely do.",
+          "answer": "grimace",
+          "explanation": "'Grimace' (twist face in dislike/pain) fits taking horrible medicine."
+        },
+        {
+          "number": 4,
+          "sentence": "When they're (4) ___, you know about it immediately.",
+          "answer": "impatient",
+          "explanation": "'Impatient' describes the state of children wanting something now."
+        },
+        {
+          "number": 5,
+          "sentence": "The (5) ___ a young child can experience during a nightmare...",
+          "answer": "terror",
+          "explanation": "'Terror' (extreme fear) fits the context of nightmares."
+        },
+        {
+          "number": 6,
+          "sentence": "When something angers them, they (6) ___ instantly.",
+          "answer": "snap",
+          "explanation": "'Snap' (speak angrily) fits a quick reaction to anger."
+        },
+        {
+          "number": 7,
+          "sentence": "A young child can go from peaceful (7) ___ to extreme anger...",
+          "answer": "contentment",
+          "explanation": "'Contentment' (happiness/satisfaction) is the opposite of anger."
+        },
+        {
+          "number": 8,
+          "sentence": "...but then they might completely (8) ___ it.",
+          "answer": "neglect",
+          "explanation": "'Neglect' fits the idea of failing to care for a pet."
+        },
+        {
+          "number": 9,
+          "sentence": "Firstly, humans have to learn how to (9) ___ and control their emotions.",
+          "answer": "conduct",
+          "explanation": "'Conduct' (behave/manage) oneself is the goal here."
+        },
+        {
+          "number": 10,
+          "sentence": "Secondly, humans have to learn how to (10) ___ themselves within a society.",
+          "answer": "handle",
+          "explanation": "'Handle' (deal with/manage) themselves fits the social context."
+        }
+      ]
+    },
+    {
+      "id": "u18_C",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the boxes in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I've been ___ over this decision for ages but I've definitely made my mind up now.",
+          "answer": "agonising",
+          "explanation": "'Agonise over' means to worry intensely about a decision."
+        },
+        {
+          "number": 2,
+          "sentence": "The whole country was out on the streets ___ when they won the World Cup.",
+          "answer": "rejoicing",
+          "explanation": "'Rejoice' means to show great happiness."
+        },
+        {
+          "number": 3,
+          "sentence": "Do you at least ___ that not everyone thinks about things the same way you do?",
+          "answer": "acknowledge",
+          "explanation": "'Acknowledge' means to admit that something is true."
+        },
+        {
+          "number": 4,
+          "sentence": "I was in such pain I just lay in bed ___.",
+          "answer": "moaning",
+          "explanation": "'Moan' refers to making low sounds of pain."
+        },
+        {
+          "number": 5,
+          "sentence": "I'm ___ with the way this company's dealt with this problem. I'm going to complain.",
+          "answer": "disgusted",
+          "explanation": "'Disgusted' shows strong disapproval/dislike."
+        },
+        {
+          "number": 6,
+          "sentence": "I do ___ the fact that Josh was promoted and I wasn't, yes.",
+          "answer": "resent",
+          "explanation": "'Resent' means to feel angry because of perceived unfairness."
+        },
+        {
+          "number": 7,
+          "sentence": "We all need to ___ Joyce at such a difficult time for her.",
+          "answer": "comfort",
+          "explanation": "'Comfort' means to soothe or reassure someone."
+        },
+        {
+          "number": 8,
+          "sentence": "Monica's absolutely determined to get this law changed. I've never seen her so ___ about anything before.",
+          "answer": "resolute",
+          "explanation": "'Resolute' means determined."
+        },
+        {
+          "number": 9,
+          "sentence": "You look a bit ___ today. Is anything the matter?",
+          "answer": "glum",
+          "explanation": "'Glum' means sad and quiet."
+        },
+        {
+          "number": 10,
+          "sentence": "Joe said he's so ___ with his job he's thinking of quitting.",
+          "answer": "disillusioned",
+          "explanation": "'Disillusioned' means disappointed by something believed to be better."
+        },
+        {
+          "number": 11,
+          "sentence": "No one knows exactly what the ___ of this action will be.",
+          "answer": "consequences",
+          "explanation": "'Consequences' are the results of an action."
+        },
+        {
+          "number": 12,
+          "sentence": "I thought the Prime Minister handled her resignation speech with great ___.",
+          "answer": "dignity",
+          "explanation": "'Dignity' is a calm, serious manner that commands respect."
+        },
+        {
+          "number": 13,
+          "sentence": "The bureaucratic system in this country is suffering from extreme ___. Nothing ever gets done!",
+          "answer": "inertia",
+          "explanation": "'Inertia' in this context means a lack of movement or change."
+        },
+        {
+          "number": 14,
+          "sentence": "There's just so much ___ from young people these days when it comes to politics. They're just not interested.",
+          "answer": "apathy",
+          "explanation": "'Apathy' is a complete lack of interest."
+        }
+      ]
+    },
+    {
+      "id": "u18_D",
+      "label": "D",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If he's been bitten by a snake, we'll have to get him to a hospital to get the ___ immediately.",
+          "options": ["vaccine", "antidote"],
+          "answer": "antidote",
+          "explanation": "An antidote stops the effects of poison (venom)."
+        },
+        {
+          "number": 2,
+          "sentence": "They give most children a number of ___ these days to stop them getting serious diseases.",
+          "options": ["vaccines", "antidotes"],
+          "answer": "vaccines",
+          "explanation": "Vaccines prevent diseases."
+        },
+        {
+          "number": 3,
+          "sentence": "Have you been ___ against tetanus?",
+          "options": ["inoculated", "injected"],
+          "answer": "inoculated",
+          "explanation": "Inoculate is specifically for giving a vaccine to protect against disease."
+        },
+        {
+          "number": 4,
+          "sentence": "The symptoms are small red spots and slight skin ___.",
+          "options": ["irritation", "annoyance"],
+          "answer": "irritation",
+          "explanation": "'Irritation' is the medical term for skin discomfort."
+        },
+        {
+          "number": 5,
+          "sentence": "I've cut my finger. Have you got ___?",
+          "options": ["plaster", "a plaster"],
+          "answer": "a plaster",
+          "explanation": "'A plaster' refers to the individual sticky strip."
+        },
+        {
+          "number": 6,
+          "sentence": "Richie's broken his leg and it's in ___.",
+          "options": ["plaster", "a plaster"],
+          "answer": "plaster",
+          "explanation": "'In plaster' (uncountable) refers to the thạch cao (cast) for broken bones."
+        },
+        {
+          "number": 7,
+          "sentence": "My ___ is that you're suffering from stress.",
+          "options": ["diagnosis", "prognosis"],
+          "answer": "diagnosis",
+          "explanation": "Diagnosis is identifying the current illness."
+        },
+        {
+          "number": 8,
+          "sentence": "If you carry on taking the tablets, then your ___ is excellent.",
+          "options": ["diagnosis", "prognosis"],
+          "answer": "prognosis",
+          "explanation": "Prognosis is the forecast of future recovery."
+        },
+        {
+          "number": 9,
+          "sentence": "___ medicine's all about not getting diseases rather than curing them after you've got them, isn't it?",
+          "options": ["Preventive", "Protective"],
+          "answer": "Preventive",
+          "explanation": "The term is 'preventive medicine'."
+        },
+        {
+          "number": 10,
+          "sentence": "My grandmother spent the last two years of her life in a nursing ___.",
+          "options": ["house", "home"],
+          "answer": "home",
+          "explanation": "The term is 'nursing home'."
+        }
+      ]
+    },
+    {
+      "id": "u18_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the box in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I woke up in (1) ___.",
+          "answer": "agony",
+          "explanation": "'In agony' means in extreme pain."
+        },
+        {
+          "number": 2,
+          "sentence": "I immediately arranged to go on sick (2) ___ from work.",
+          "answer": "leave",
+          "explanation": "'Sick leave' is time off work when ill."
+        },
+        {
+          "number": 3,
+          "sentence": "Then I called the doctor, who came that morning and (3) ___ some medicine for me.",
+          "answer": "prescribed",
+          "explanation": "Doctors 'prescribe' medicine."
+        },
+        {
+          "number": 4,
+          "sentence": "He said I'd have to be (4) ___ to hospital.",
+          "answer": "admitted",
+          "explanation": "Patients are 'admitted' to hospital."
+        },
+        {
+          "number": 5,
+          "sentence": "...and put me in a (5) ___ with about 20 other people.",
+          "answer": "ward",
+          "explanation": "A 'ward' is a room for patients in a hospital."
+        },
+        {
+          "number": 6,
+          "sentence": "In the afternoon, the (6) ___ came to see me.",
+          "answer": "consultant",
+          "explanation": "A senior specialist doctor."
+        },
+        {
+          "number": 7,
+          "sentence": "Her (7) ___ was that I'd got some kind of ulcer...",
+          "answer": "diagnosis",
+          "explanation": "Identification of the problem."
+        },
+        {
+          "number": 8,
+          "sentence": "...she said they'd have to (8) ___ antibiotics via an intravenous drip.",
+          "answer": "administer",
+          "explanation": "To give a drug to a patient."
+        },
+        {
+          "number": 9,
+          "sentence": "...I had a big (9) ___ sticking into my arm...",
+          "answer": "syringe",
+          "explanation": "Instrument for injection."
+        },
+        {
+          "number": 10,
+          "sentence": "One problem, though, was that the drugs did produce one strange (10) ___ effect.",
+          "answer": "side",
+          "explanation": "'Side effect' is an unwanted reaction to medicine."
+        },
+        {
+          "number": 11,
+          "sentence": "The whole of the left side of my face went (11) ___.",
+          "answer": "numb",
+          "explanation": "Losing the ability to feel."
+        },
+        {
+          "number": 12,
+          "sentence": "It wasn't exactly (12) ___ because I could still move my cheek...",
+          "answer": "paralysis",
+          "explanation": "Paralysis is the inability to move."
+        }
+      ]
+    },
+    {
+      "id": "u18_F",
+      "label": "F",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I don't know how I'm going to summon ___ the courage to tell Dad.",
+          "options": ["up", "back"],
+          "answer": "up",
+          "explanation": "'Summon up' means to gather courage/strength."
+        },
+        {
+          "number": 2,
+          "sentence": "It really got me ___ when the doctor said I'd have to be off work for eight weeks.",
+          "options": ["out", "down"],
+          "answer": "down",
+          "explanation": "'Get someone down' means to make them feel sad."
+        },
+        {
+          "number": 3,
+          "sentence": "Grandpa says his leg's playing ___ again so he's not going to come for a walk with us.",
+          "options": ["up", "around"],
+          "answer": "up",
+          "explanation": "'Play up' means to cause pain or function poorly."
+        },
+        {
+          "number": 4,
+          "sentence": "Did it take June a long time to get ___ her glandular fever?",
+          "options": ["over", "by"],
+          "answer": "over",
+          "explanation": "'Get over' an illness means to recover from it."
+        },
+        {
+          "number": 5,
+          "sentence": "We all creased ___ when Nick walked in wearing a skirt.",
+          "options": ["up", "off"],
+          "answer": "up",
+          "explanation": "'Crease up' means to laugh a lot."
+        },
+        {
+          "number": 6,
+          "sentence": "Antony says he felt a little dizzy when he came ___ from the anaesthetic.",
+          "options": ["round", "back"],
+          "answer": "round",
+          "explanation": "'Come round' means to regain consciousness."
+        },
+        {
+          "number": 7,
+          "sentence": "These carrots have shrivelled ___ a bit so I think I'll throw them out.",
+          "options": ["up", "down"],
+          "answer": "up",
+          "explanation": "'Shrivel up' means to become dry and wrinkled."
+        },
+        {
+          "number": 8,
+          "sentence": "Jerry's come ___ in spots all over his face.",
+          "options": ["out", "over"],
+          "answer": "out",
+          "explanation": "'Come out in' means to have spots/rash appear on the skin."
+        }
+      ]
+    },
+    {
+      "id": "u18_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Write a phrasal verb from the box in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Mr Deacon next door had a very serious operation. Apparently, it's a miracle he ___.",
+          "answer": "pulled through",
+          "explanation": "'Pull through' means to survive a serious illness/operation."
+        },
+        {
+          "number": 2,
+          "sentence": "The first comedian didn't ___ well with the audience at all and he was booed off the stage.",
+          "answer": "go down",
+          "explanation": "'Go down well/badly' refers to how something is received."
+        },
+        {
+          "number": 3,
+          "sentence": "It took Terry a while to ___ to the fact I was joking.",
+          "answer": "cotton on",
+          "explanation": "'Cotton on' means to begin to understand."
+        },
+        {
+          "number": 4,
+          "sentence": "There's no point ___ at Dr Barker. She's not responsible for what's happened.",
+          "answer": "lashing out",
+          "explanation": "'Lash out' means to attack with words or hits."
+        },
+        {
+          "number": 5,
+          "sentence": "I don't know what happened. I was just sitting at my desk and I suddenly ___ for a few minutes.",
+          "answer": "blacked out",
+          "explanation": "'Black out' means to lose consciousness."
+        },
+        {
+          "number": 6,
+          "sentence": "In some cultures, they wear jewellery to ___ evil spirits.",
+          "answer": "ward off",
+          "explanation": "'Ward off' means to prevent something harmful."
+        },
+        {
+          "number": 7,
+          "sentence": "The researchers ___ a number of patients who had taken the drug to determine what side effects they had experienced.",
+          "answer": "followed up",
+          "explanation": "'Follow up' means to check further/later."
+        },
+        {
+          "number": 8,
+          "sentence": "Susie, I'm afraid I've got some bad news. Your grandmother ___ peacefully during the night.",
+          "answer": "passed away",
+          "explanation": "'Pass away' is a polite term for 'die'."
+        }
+      ]
+    },
+    {
+      "id": "u18_H",
+      "label": "H",
+      "type": "matching",
+      "instruction": "Tick the phrasal verbs in these sentences which contain the idea of completing something successfully.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's going to be tough but we'll muddle through somehow, you'll see.",
+          "answer": "✓",
+          "explanation": "'Muddle through' means to succeed despite difficulties/lack of plan."
+        },
+        {
+          "number": 2,
+          "sentence": "I was going through my wardrobe when I found these jeans.",
+          "answer": "",
+          "explanation": "'Going through' here means searching or examining."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm determined to see this through to the bitter end.",
+          "answer": "✓",
+          "explanation": "'See through' means to continue until something is finished."
+        },
+        {
+          "number": 4,
+          "sentence": "Eliot did well in physics, but he only just scraped through his chemistry exam.",
+          "answer": "✓",
+          "explanation": "'Scrape through' means to pass/succeed by a narrow margin."
+        },
+        {
+          "number": 5,
+          "sentence": "Truth and justice will win through in the end - they always do.",
+          "answer": "✓",
+          "explanation": "'Win through' means to succeed after a struggle."
+        },
+        {
+          "number": 6,
+          "sentence": "The government's totally committed to carrying through these reforms.",
+          "answer": "✓",
+          "explanation": "'Carry through' means to complete/implement successfully."
+        }
+      ]
+    },
+    {
+      "id": "u18_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I want you kids to be ___ your best behaviour tonight.",
+          "answer": "on",
+          "explanation": "Collocation: 'on your best behaviour'."
+        },
+        {
+          "number": 2,
+          "sentence": "My father's been ___ poor health for a while now.",
+          "answer": "in",
+          "explanation": "Collocation: 'in poor health'."
+        },
+        {
+          "number": 3,
+          "sentence": "You shouldn't have reacted ___ getting so annoyed.",
+          "answer": "by",
+          "explanation": "Collocation: 'react by doing something'."
+        },
+        {
+          "number": 4,
+          "sentence": "We were always polite ___ our teachers when I was at school.",
+          "answer": "to",
+          "explanation": "Collocation: 'polite to someone'."
+        },
+        {
+          "number": 5,
+          "sentence": "I don't think I'll ever be rich, but you live ___ hope, don't you?",
+          "answer": "in",
+          "explanation": "Collocation: 'live in hope'."
+        },
+        {
+          "number": 6,
+          "sentence": "I hope I live to the grand old age ___ 94!",
+          "answer": "of",
+          "explanation": "Collocation: 'live to the age of'."
+        },
+        {
+          "number": 7,
+          "sentence": "I am writing ___ response to your letter of 13th July.",
+          "answer": "in",
+          "explanation": "Collocation: 'in response to'."
+        },
+        {
+          "number": 8,
+          "sentence": "So ___ effect what you're saying is that I'm being made redundant.",
+          "answer": "in",
+          "explanation": "Collocation: 'in effect' (basically)."
+        },
+        {
+          "number": 9,
+          "sentence": "Sue left and, ___ a consequence, I was promoted to Senior Nurse!",
+          "answer": "as",
+          "explanation": "Collocation: 'as a consequence'."
+        },
+        {
+          "number": 10,
+          "sentence": "I know I did the wrong thing, but I was acting ___ good faith, you know.",
+          "answer": "in",
+          "explanation": "Collocation: 'acting in good faith'."
+        }
+      ]
+    },
+    {
+      "id": "u18_J",
+      "label": "J",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the box in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Do you know what time the ___ centre opens in the morning?",
+          "answer": "health",
+          "explanation": "'Health centre' is a facility for medical care."
+        },
+        {
+          "number": 2,
+          "sentence": "What we do here is ensure that our terminally ill patients get the best ___ of life possible.",
+          "answer": "quality",
+          "explanation": "'Quality of life' refers to well-being."
+        },
+        {
+          "number": 3,
+          "sentence": "Of course hitting someone's an example of ___ behaviour!",
+          "answer": "aggressive",
+          "explanation": "'Aggressive behaviour' involves physical or verbal attack."
+        },
+        {
+          "number": 4,
+          "sentence": "There shouldn't be any ___ effects with these pills, but if there are, let me know.",
+          "answer": "adverse",
+          "explanation": "'Adverse effects' are harmful side effects."
+        },
+        {
+          "number": 5,
+          "sentence": "I hate the thought of standing there making ___ conversation to strangers.",
+          "answer": "polite",
+          "explanation": "'Polite conversation' is social small talk."
+        },
+        {
+          "number": 6,
+          "sentence": "The consequences could be ___ if you don't start eating properly and get some exercise.",
+          "answer": "dire",
+          "explanation": "'Dire consequences' are very serious or terrible."
+        },
+        {
+          "number": 7,
+          "sentence": "Some doctors think there's a lot to be said for ___ medicine.",
+          "answer": "alternative",
+          "explanation": "'Alternative medicine' refers to non-traditional treatments."
+        }
+      ]
+    },
+    {
+      "id": "u18_K",
+      "label": "K",
+      "type": "triple_gap",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I used to be ___ against plastic surgery... / There was ___ silence throughout the room... / ...you'll be in ___ trouble!",
+          "answer": "dead",
+          "explanation": "Dead against (strongly), dead silence (complete), in dead trouble (serious)."
+        },
+        {
+          "number": 2,
+          "sentence": "...they usually respond in ___ . / I didn't say anything of the ___ ! / That was very ___ of you to help...",
+          "answer": "kind",
+          "explanation": "Respond in kind (similarly), anything of the kind (like that), kind of you (polite/helpful)."
+        },
+        {
+          "number": 3,
+          "sentence": "The play really came to ___ in the second act. / 'Not on your ___ !' / ...putting your ___ at risk by smoking...",
+          "answer": "life",
+          "explanation": "Come to life (become active), Not on your life (certainly not), life at risk (danger)."
+        },
+        {
+          "number": 4,
+          "sentence": "...just makes me ___ . / We were worried ___ because... / ...call in ___ this morning.",
+          "answer": "sick",
+          "explanation": "Makes me sick (disgusts), worried sick (extremely), call in sick (notify absence)."
+        },
+        {
+          "number": 5,
+          "sentence": "We only went there for a ___ ... / ...have the last ___ , don't you? / It's a ___ a minute when Daniel's around.",
+          "answer": "laugh",
+          "explanation": "For a laugh (fun), have the last laugh (ultimate success), laugh a minute (very funny)."
+        },
+        {
+          "number": 6,
+          "sentence": "She only said that for ___ ... / ...come into ___ from midnight... / Caffeine has very little ___ on me...",
+          "answer": "effect",
+          "explanation": "For effect (to impress), come into effect (active), little effect (impact)."
+        }
+      ]
+    },
+    {
+      "id": "u18_L",
+      "label": "L",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Spending two weeks in hospital was very different from lying on the beach! (cry) -> Spending two weeks in hospital was ___ lying on the beach!",
+          "answer": "a far cry from",
+          "explanation": "'A far cry from' means very different from."
+        },
+        {
+          "number": 2,
+          "sentence": "The medicine should start working soon. (benefits) -> You should ___ soon.",
+          "answer": "feel the benefits of the medicine",
+          "explanation": "To 'feel the benefits' of something means it starts working/helping."
+        },
+        {
+          "number": 3,
+          "sentence": "I just did what the sergeant ordered me to do, sir. (acting) -> I ___ , sir.",
+          "answer": "was acting on the sergeant's orders",
+          "explanation": "'Act on orders' means to do what commanded."
+        },
+        {
+          "number": 4,
+          "sentence": "I had no idea everyone would react so violently to my suggestion. (cause) -> I had no idea I ___ by suggesting that.",
+          "answer": "would cause such a violent reaction",
+          "explanation": "To 'cause a reaction' links to the violent response."
+        },
+        {
+          "number": 5,
+          "sentence": "Don't you think you should be a bit more respectful to them, Edward? (treat) -> Don't you think you should ___ , Edward?",
+          "answer": "treat them with a bit more respect",
+          "explanation": "To 'treat someone with respect' is the collocation."
+        },
+        {
+          "number": 6,
+          "sentence": "Alan's got food poisoning. (taken) -> Alan ___ food poisoning.",
+          "answer": "has been taken ill with",
+          "explanation": "'Be taken ill with' is a formal way to say someone has become sick."
+        }
+      ]
+    },
+    {
+      "id": "u18_M",
+      "label": "M",
+      "type": "gap_fill",
+      "instruction": "Each of the words in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I think I'll give it a ___ (leave), if you don't mind.",
+          "answer": "miss",
+          "explanation": "Idiom: 'give something a miss'."
+        },
+        {
+          "number": 2,
+          "sentence": "I could have ___ (hit) myself when I invited Claudia...",
+          "answer": "kicked",
+          "explanation": "Idiom: 'kick yourself' (regret)."
+        },
+        {
+          "number": 3,
+          "sentence": "...just going to have to ___ (smile) and bear it.",
+          "answer": "grin",
+          "explanation": "Idiom: 'grin and bear it'."
+        },
+        {
+          "number": 4,
+          "sentence": "Hold (keep) your ___ (hair) on!",
+          "answer": "Keep",
+          "explanation": "Idiom: 'Keep your hair on' (stay calm)."
+        },
+        {
+          "number": 5,
+          "sentence": "...no need to fly off the ___ (doorknob) like that.",
+          "answer": "handle",
+          "explanation": "Idiom: 'fly off the handle' (get angry)."
+        },
+        {
+          "number": 6,
+          "sentence": "...just to let off ___ (air).",
+          "answer": "steam",
+          "explanation": "Idiom: 'let off steam'."
+        },
+        {
+          "number": 7,
+          "sentence": "...give them a taste of their own ___ (tablets).",
+          "answer": "medicine",
+          "explanation": "Idiom: 'dose/taste of their own medicine'."
+        },
+        {
+          "number": 8,
+          "sentence": "...everyone round here is up in ___ (guns) about it.",
+          "answer": "arms",
+          "explanation": "Idiom: 'up in arms' (complaining loudly)."
+        },
+        {
+          "number": 9,
+          "sentence": "...never look a gift ___ (cow) in the mouth.",
+          "answer": "horse",
+          "explanation": "Idiom: 'never look a gift horse in the mouth'."
+        },
+        {
+          "number": 10,
+          "sentence": "...probably better just to let sleeping ___ (cats) lie.",
+          "answer": "dogs",
+          "explanation": "Idiom: 'let sleeping dogs lie'."
+        },
+        {
+          "number": 11,
+          "sentence": "...no point crying over spilt ___ (liquid).",
+          "answer": "milk",
+          "explanation": "Idiom: 'crying over spilt milk'."
+        },
+        {
+          "number": 12,
+          "sentence": "...hard to keep a ___ (plain) face when...",
+          "answer": "straight",
+          "explanation": "Idiom: 'keep a straight face'."
+        }
+      ]
+    },
+    {
+      "id": "u18_N",
+      "label": "N",
+      "type": "word_form",
+      "instruction": "Complete the sentences by changing the form of the word in capitals.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Colin became a political ___ when he was at university.",
+          "options": ["ACT"],
+          "answer": "activist",
+          "explanation": "Noun for a person who campaigns for change."
+        },
+        {
+          "number": 2,
+          "sentence": "Do you know the ___ of the word 'handsome'?",
+          "options": ["DERIVE"],
+          "answer": "derivation",
+          "explanation": "Noun for the origin of a word."
+        },
+        {
+          "number": 3,
+          "sentence": "I know it's a bit annoying but there's no need to ___ to such an extent.",
+          "options": ["ACT"],
+          "answer": "overreact",
+          "explanation": "Verb meaning to react too strongly."
+        },
+        {
+          "number": 4,
+          "sentence": "Have you got any ___ in your toes at all, Mr Babcock?",
+          "options": ["SENSE"],
+          "answer": "sensation",
+          "explanation": "Noun meaning physical feeling."
+        },
+        {
+          "number": 5,
+          "sentence": "We stood there watching the ___ drama with shock on our faces.",
+          "options": ["FOLD"],
+          "answer": "unfolding",
+          "explanation": "Adjective describing a drama that is developing."
+        },
+        {
+          "number": 6,
+          "sentence": "In medicine, ___ is always better than cure.",
+          "options": ["PREVENT"],
+          "answer": "prevention",
+          "explanation": "Noun for the act of stopping something from happening."
+        },
+        {
+          "number": 7,
+          "sentence": "If one of our nurses has acted ___ , you can be assured we will take the strongest possible action...",
+          "options": ["NEGLECT"],
+          "answer": "negligently",
+          "explanation": "Adverb meaning failing to take proper care."
+        },
+        {
+          "number": 8,
+          "sentence": "It's ___ even trying. We'll never get to the hospital in time.",
+          "options": ["FRUIT"],
+          "answer": "fruitless",
+          "explanation": "Adjective meaning pointless or unsuccessful."
+        },
+        {
+          "number": 9,
+          "sentence": "We were all jumping around ___ in the corridor...",
+          "options": ["PATIENT"],
+          "answer": "impatiently",
+          "explanation": "Adverb meaning without patience."
+        },
+        {
+          "number": 10,
+          "sentence": "Do you really think your plans are going to come to ___?",
+          "options": ["FRUIT"],
+          "answer": "fruition",
+          "explanation": "Noun meaning the successful result of a plan."
+        },
+        {
+          "number": 11,
+          "sentence": "...there was widespread ___ for the proposed changes...",
+          "options": ["APPROVE"],
+          "answer": "disapproval",
+          "explanation": "Noun for the feeling of not agreeing with something."
+        },
+        {
+          "number": 12,
+          "sentence": "...then ___ set in when I reached my early thirties.",
+          "options": ["ILLUSION"],
+          "answer": "disillusionment",
+          "explanation": "Noun for the loss of belief or disappointment."
+        },
+        {
+          "number": 13,
+          "sentence": "You're so ___ sometimes!",
+          "options": ["NEGLECT"],
+          "answer": "neglectful",
+          "explanation": "Adjective describing someone who fails to give enough attention."
+        },
+        {
+          "number": 14,
+          "sentence": "She told me she's not ___ in the slightest for what she said.",
+          "options": ["REGRET"],
+          "answer": "regretful",
+          "explanation": "Adjective meaning feeling sorry."
+        },
+        {
+          "number": 15,
+          "sentence": "The whole incident was extremely ___.",
+          "options": ["REGRET"],
+          "answer": "regrettable",
+          "explanation": "Adjective describing a situation that is unfortunate/sad."
+        },
+        {
+          "number": 16,
+          "sentence": "There's a lot of ___ with the government at the moment.",
+          "options": ["CONTENT"],
+          "answer": "discontent",
+          "explanation": "Noun for a feeling of being unhappy with a situation."
+        },
+        {
+          "number": 17,
+          "sentence": "...she was completely ___ , so I had no idea at all what she was thinking.",
+          "options": ["RESPOND"],
+          "answer": "unresponsive",
+          "explanation": "Adjective meaning not reacting or answering."
+        }
+      ]
+    },
+    {
+      "id": "u18_O",
+      "label": "O",
+      "type": "word_form",
+      "instruction": "Use the word given in capitals at the end of the line to form a word that fits in the space in the same line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "There are many moral issues which remain (1) ___ to this day.",
+          "options": ["RESOLVE"],
+          "answer": "unresolved",
+          "explanation": "Not yet decided or answered."
+        },
+        {
+          "number": 2,
+          "sentence": "All possible treatments known to science are (2) ___.",
+          "options": ["EFFECT"],
+          "answer": "ineffectual",
+          "explanation": "Not producing the desired effect (usually used for treatments/actions)."
+        },
+        {
+          "number": 3,
+          "sentence": "The patient's death from this disease... is (3) ___.",
+          "options": ["AVOID"],
+          "answer": "unavoidable",
+          "explanation": "Impossible to stop from happening."
+        },
+        {
+          "number": 4,
+          "sentence": "They cannot live (4) ___ of machines and 24-hour care.",
+          "options": ["DEPEND"],
+          "answer": "independently",
+          "explanation": "Without needing help from others."
+        },
+        {
+          "number": 5,
+          "sentence": "What if the patient (5) ___ and continually asks...",
+          "options": ["RESOLVE"],
+          "answer": "resolutely",
+          "explanation": "In a determined way."
+        },
+        {
+          "number": 6,
+          "sentence": "But from a moral point of view, we have to (6) ___ that there is a problem.",
+          "options": ["KNOW"],
+          "answer": "acknowledge",
+          "explanation": "Verb: to admit the truth of something."
+        },
+        {
+          "number": 7,
+          "sentence": "Do the doctors really have the right to be (7) ___ to the patient's wishes?",
+          "options": ["SENSE"],
+          "answer": "insensitive",
+          "explanation": "Not noticing or caring about someone's feelings."
+        },
+        {
+          "number": 8,
+          "sentence": "...opponents of voluntary euthanasia argue that scientific (8) ___ is increasing...",
+          "options": ["KNOW"],
+          "answer": "knowledge",
+          "explanation": "Noun: understanding of a subject."
+        },
+        {
+          "number": 9,
+          "sentence": "...the (9) ___ situation would put doctors in a much worse position.",
+          "options": ["RESULT"],
+          "answer": "resultant",
+          "explanation": "Happening as a result of something."
+        },
+        {
+          "number": 10,
+          "sentence": "Do we... expect doctors to (10) ___ such a difficult and complex issue?",
+          "options": ["HAND"],
+          "answer": "handle",
+          "explanation": "Verb: to deal with or manage."
+        }
+      ]
+    }
+  ]
+}

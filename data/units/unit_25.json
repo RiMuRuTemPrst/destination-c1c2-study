@@ -1,0 +1,825 @@
+{
+  "unit_id": 25,
+  "unit_type": "Grammar",
+  "title": "Reporting",
+  "grammar_topics": [
+    {
+      "topic": "Reported speech: tense changes",
+      "explanation_en": "When we report what someone said, we usually use a reporting verb in the past (e.g., said, told). This often triggers a 'backshift' in the tenses of the original words.",
+      "explanation_vi": "Khi chúng ta tường thuật lại lời nói của ai đó, chúng ta thường sử dụng động từ tường thuật ở thì quá khứ (ví dụ: said, told). Điều này thường dẫn đến việc 'lùi thì' (backshift) trong các câu được tường thuật.",
+      "rules": [
+        "Present simple becomes Past simple.",
+        "Present continuous becomes Past continuous.",
+        "Present perfect becomes Past perfect.",
+        "Past simple/continuous usually becomes Past perfect simple/continuous.",
+        "When something is still true, we can change the tense but we don't have to.",
+        "When reporting scientific or historical facts, we don't usually change the tense.",
+        "We cannot leave out 'that' after the verbs reply and shout."
+      ],
+      "examples": [
+        {
+          "sentence": "Sam said that he didn't play hockey very often.",
+          "translation": "Sam nói rằng anh ấy không chơi khúc côn cầu thường xuyên."
+        },
+        {
+          "sentence": "The article said that fishing is the most popular sport in Britain.",
+          "translation": "Bài báo nói rằng câu cá là môn thể thao phổ biến nhất ở Anh (vẫn còn đúng)."
+        }
+      ]
+    },
+    {
+      "topic": "Reported speech: modal and semi-modal changes",
+      "explanation_en": "Modals often change in reported speech when the reporting verb is in the past, though some remain the same.",
+      "explanation_vi": "Các động từ khuyết thiếu thường thay đổi trong lời nói gián tiếp khi động từ tường thuật ở quá khứ, mặc dù một số từ vẫn giữ nguyên.",
+      "rules": [
+        "Will/shall → would; can → could; may → might; am/is/are going to → was/were going to.",
+        "Must (obligation) → had to, be to, or should.",
+        "Mustn't (obligation) → mustn't, be not to, or shouldn't.",
+        "Must (probability) → does not change.",
+        "Could, would, should, ought to, had better, and need do not change."
+      ],
+      "examples": [
+        {
+          "sentence": "Lizzie said that she could swim when she was three.",
+          "translation": "Lizzie nói rằng cô ấy đã có thể bơi khi mới lên ba."
+        },
+        {
+          "sentence": "The coach said that we had to do what the referee told us.",
+          "translation": "Huấn luyện viên nói rằng chúng tôi phải làm theo những gì trọng tài bảo."
+        }
+      ]
+    },
+    {
+      "topic": "Reported speech: pronoun, determiner, time and place changes",
+      "explanation_en": "Pronouns, determiners, and words referring to time and place must be updated to reflect the new perspective of the reporter.",
+      "explanation_vi": "Đại từ, từ chỉ định và các từ chỉ thời gian, địa điểm phải được cập nhật để phản ánh góc nhìn mới của người tường thuật.",
+      "rules": [
+        "this/that (noun) → the/that; this/that (verb) → it/that; these/those (noun) → the/those; these/those (verb) → they/them.",
+        "here → there; now → then/at that moment; tonight → that night.",
+        "tomorrow → the following/next day; yesterday → the day before/the previous day.",
+        "last week → the week before; next week → the following week.",
+        "ago → before/previously."
+      ],
+      "examples": [
+        {
+          "sentence": "Tony said it was a great game.",
+          "translation": "Tony nói rằng đó là một trận đấu tuyệt vời."
+        },
+        {
+          "sentence": "Linda said she'd bought the fishing rod the day before.",
+          "translation": "Linda nói rằng cô ấy đã mua cần câu vào ngày hôm trước."
+        }
+      ]
+    },
+    {
+      "topic": "Reported questions",
+      "explanation_en": "Reported questions follow the word order of a statement (subject before verb) and do not use question marks or 'do/does/did'.",
+      "explanation_vi": "Câu hỏi gián tiếp tuân theo trật tự từ của một câu trần thuật (chủ ngữ trước động từ) và không sử dụng dấu chấm hỏi hoặc trợ động từ 'do/does/did'.",
+      "rules": [
+        "Use 'if' or 'whether' for yes/no questions.",
+        "Use the question word (who, what, where, etc.) for wh- questions.",
+        "The structure 'question word + infinitive' is common (e.g., asked how to do something)."
+      ],
+      "examples": [
+        {
+          "sentence": "Cheryl asked if we wanted to play Monopoly.",
+          "translation": "Cheryl hỏi liệu chúng tôi có muốn chơi Cờ tỷ phú không."
+        },
+        {
+          "sentence": "Jimmy asked Andrea what time the match had started.",
+          "translation": "Jimmy hỏi Andrea trận đấu đã bắt đầu lúc mấy giờ."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u25_A",
+      "label": "A",
+      "type": "transformation",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "'___,' said Jimmy.",
+          "answer": "I'm definitely not going to the match on Saturday / I definitely won't go to the match on Saturday",
+          "explanation": "Past continuous 'wasn't going' or 'wouldn't go' in reported speech shifts back from 'am not going' or 'won't go'."
+        },
+        {
+          "number": 2,
+          "sentence": "'___, Ben!' said Alison.",
+          "answer": "You've forgotten to do the washing-up",
+          "explanation": "Past perfect 'had forgotten' shifts back from present perfect 'have forgotten'."
+        },
+        {
+          "number": 3,
+          "sentence": "'Actually, I ___,' admitted Jason.",
+          "answer": "was lying when I said I had nothing to do with the breakages / had been lying when I said I had nothing to do with the breakages",
+          "explanation": "Past perfect continuous 'had been lying' can shift back from past continuous 'was lying' or remain the same."
+        },
+        {
+          "number": 4,
+          "sentence": "'___,' said Paul.",
+          "answer": "Dawn wasn't particularly hard-working when she was at university",
+          "explanation": "Past perfect 'hadn't been' usually shifts back from past simple 'wasn't'."
+        },
+        {
+          "number": 5,
+          "sentence": "'___!' shouted Sharon.",
+          "answer": "I haven't finished yet",
+          "explanation": "Past perfect 'hadn't finished' shifts back from present perfect 'haven't finished'."
+        },
+        {
+          "number": 6,
+          "sentence": "'___,' said Rudy.",
+          "answer": "I'll meet you all at the cafe in half an hour",
+          "explanation": "Would ('he'd meet') shifts back from will ('I'll meet')."
+        },
+        {
+          "number": 7,
+          "sentence": "'___, Belinda,' said her mum.",
+          "answer": "You don't have to eat your sprouts if you don't want to",
+          "explanation": "Past simple 'didn't have to/didn't want to' shifts back from present simple."
+        },
+        {
+          "number": 8,
+          "sentence": "'Tristan ___,' announced Sebastian.",
+          "answer": "and I are going to set up a website",
+          "explanation": "'He and Tristan were going to' shifts back from 'Tristan and I are going to'."
+        },
+        {
+          "number": 9,
+          "sentence": "'___, Diana?' asked Karen.",
+          "answer": "When did you get married",
+          "explanation": "Past perfect 'had got married' in a reported question shifts back from past simple 'did you get married'."
+        },
+        {
+          "number": 10,
+          "sentence": "'Bjorn, ___?' asked Freda.",
+          "answer": "could I borrow your bike for a couple of hours / can I borrow your bike for a couple of hours",
+          "explanation": "'Could' in reported questions shifts back from 'can' or 'could' (request)."
+        }
+      ]
+    },
+    {
+      "id": "u25_B",
+      "label": "B",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "When I told Mr Peters that the dog ___ eaten my homework, he didn't believe me.",
+          "options": ["has", "had"],
+          "answer": "had",
+          "explanation": "Tense shift from present perfect to past perfect because the reporting verb 'told' is in the past."
+        },
+        {
+          "number": 2,
+          "sentence": "Adam told me that his girlfriend ___ eat meat at all.",
+          "options": ["doesn't", "didn't"],
+          "answer": "doesn't / didn't",
+          "explanation": "Both are correct because the fact might still be true at the time of reporting."
+        },
+        {
+          "number": 3,
+          "sentence": "When I saw Ed yesterday morning, he told me that he ___ going to look at a flat in the afternoon.",
+          "options": ["is", "was"],
+          "answer": "was",
+          "explanation": "The reporting verb 'told' is in the past, and the event was in the past relative to now ('yesterday morning')."
+        },
+        {
+          "number": 4,
+          "sentence": "Roger told me about the pop quiz. He said his team ___ doing well in the first few rounds, but that it all ___ wrong with the round about dance music.",
+          "options": ["were/had been", "went/had all gone"],
+          "answer": "had been / had all gone",
+          "explanation": "Past perfect is used to indicate events that happened before the reporting time 'said'."
+        },
+        {
+          "number": 5,
+          "sentence": "When we watched Death Watch III, Paul said he ___ never seen a worse movie in his life!",
+          "options": ["has", "had"],
+          "answer": "had",
+          "explanation": "Tense shift from 'I have never seen' to 'he had never seen'."
+        },
+        {
+          "number": 6,
+          "sentence": "Did Galileo say that the Earth ___ round the sun?",
+          "options": ["goes", "went"],
+          "answer": "goes / went",
+          "explanation": "Both are correct as it is a scientific fact."
+        },
+        {
+          "number": 7,
+          "sentence": "Phil told me on Friday that he ___ just bumped into Wally Deacon!",
+          "options": ["has", "had"],
+          "answer": "had",
+          "explanation": "Tense shift from present perfect to past perfect."
+        },
+        {
+          "number": 8,
+          "sentence": "Babs announced to us all last night that she ___ finally giving up smoking.",
+          "options": ["is", "was"],
+          "answer": "is / was",
+          "explanation": "Both are correct if Babs is still in the process of giving up smoking."
+        },
+        {
+          "number": 9,
+          "sentence": "Did you say that you ___ want sugar in your coffee or not?",
+          "options": ["do", "did"],
+          "answer": "do / did",
+          "explanation": "Both are correct if the choice is still relevant at the moment."
+        },
+        {
+          "number": 10,
+          "sentence": "I told Brian last week that the office ___ opening on Tuesday so I don't know why he showed up yesterday morning.",
+          "options": ["isn't", "wasn't"],
+          "answer": "isn't / wasn't",
+          "explanation": "Both are correct as it reports a scheduled event that may still be true or was true."
+        }
+      ]
+    },
+    {
+      "id": "u25_C",
+      "label": "C",
+      "type": "error_correction",
+      "instruction": "If the word or phrase in bold is correct, put a tick. If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Bob did tell me that he *probably wouldn't be* coming in today.",
+          "answer": "tick",
+          "explanation": "Correct use of 'wouldn't be' to report 'I probably won't be'."
+        },
+        {
+          "number": 2,
+          "sentence": "Last week he told us that we *don't have to* do that exercise and then yesterday he said he'd made a mistake.",
+          "answer": "didn't have to",
+          "explanation": "Needs backshift because the reporting happened last week and the situation changed."
+        },
+        {
+          "number": 3,
+          "sentence": "Did you say *these* bills had to be paid before tomorrow?",
+          "answer": "tick",
+          "explanation": "'These' is acceptable if the speaker is holding the bills or they are present."
+        },
+        {
+          "number": 4,
+          "sentence": "Steve said he *could* play guitar when he was two years old. Do you believe that?",
+          "answer": "tick",
+          "explanation": "'Could' does not change in reported speech."
+        },
+        {
+          "number": 5,
+          "sentence": "Pauline told my mum that she'd *had better* get a lawyer. I think she's right.",
+          "answer": "tick",
+          "explanation": "'Had better' does not change in reported speech."
+        },
+        {
+          "number": 6,
+          "sentence": "When we went to the party, Claudia told me that I *must* be on my best behaviour all evening.",
+          "answer": "tick",
+          "explanation": "'Must' can remain 'must' when reporting obligation."
+        },
+        {
+          "number": 7,
+          "sentence": "Darren said that Mr Taylor *was to have forgotten* about the meeting, but I'm not so sure.",
+          "answer": "must have forgotten",
+          "explanation": "When expressing probability, 'must' (must have forgotten) is used and doesn't change."
+        },
+        {
+          "number": 8,
+          "sentence": "When I was a teenager, my dad always told me that I *am not to stay* out later than ten o'clock.",
+          "answer": "was not to stay / wasn't to stay",
+          "explanation": "The reporting verb 'told' is in the past, so 'am not to' must shift to 'was not to'."
+        },
+        {
+          "number": 9,
+          "sentence": "I was pleased when Jilly told us that she *can* help us paint the flat.",
+          "answer": "could",
+          "explanation": "Standard backshift from 'can' to 'could'."
+        },
+        {
+          "number": 10,
+          "sentence": "When I was at school, my English teacher always told us that we *don't have to* pay attention but we do have to be quiet.",
+          "answer": "didn't have to",
+          "explanation": "The reporting verb 'told' is in the past, so present simple must shift to past simple."
+        },
+        {
+          "number": 11,
+          "sentence": "The letter they sent six months ago said that they *shall* be in touch again soon.",
+          "answer": "would",
+          "explanation": "'Shall' in reported speech usually changes to 'would' (future) or 'should' (offer/suggestion)."
+        },
+        {
+          "number": 12,
+          "sentence": "Seven years ago, the Prime Minister stated that his government *will* be corruption-free.",
+          "answer": "would",
+          "explanation": "Tense shift from 'will' to 'would' after the past reporting verb 'stated'."
+        }
+      ]
+    },
+    {
+      "id": "u25_D",
+      "label": "D",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Maureen told me ___ didn't go with the suit I was planning to wear.",
+          "answer": "they",
+          "explanation": "Refers back to 'these shoes' (plural)."
+        },
+        {
+          "number": 2,
+          "sentence": "Susan told us in no uncertain terms that ___ play was rubbish.",
+          "answer": "that",
+          "explanation": "Determiner 'this' shifts to 'that' in reported speech."
+        },
+        {
+          "number": 3,
+          "sentence": "Why did Derek say that ___ sister's called Chloe?",
+          "answer": "his",
+          "explanation": "Possessive pronoun 'my' shifts to 'his'."
+        },
+        {
+          "number": 4,
+          "sentence": "Mike told the waiter that ___ wasn't what he'd ordered.",
+          "answer": "it / that",
+          "explanation": "'This' as a subject shifts to 'it' or 'that'."
+        },
+        {
+          "number": 5,
+          "sentence": "My mum said that ___ trainers were too expensive.",
+          "answer": "those / the",
+          "explanation": "Determiner 'these' shifts to 'those' or 'the'."
+        },
+        {
+          "number": 6,
+          "sentence": "She did actually tell me ___ number but I stupidly forgot to write it down.",
+          "answer": "her",
+          "explanation": "Possessive pronoun 'my' shifts to 'her'."
+        },
+        {
+          "number": 7,
+          "sentence": "Mum asked me to put ___ on the table.",
+          "answer": "them",
+          "explanation": "Object pronoun 'these' (without a noun) shifts to 'them'."
+        },
+        {
+          "number": 8,
+          "sentence": "Angus and James told me that ___ house was broken into last night.",
+          "answer": "their",
+          "explanation": "Possessive pronoun 'our' (implied from 'to us') shifts to 'their'."
+        }
+      ]
+    },
+    {
+      "id": "u25_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap based on the dialogue provided.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Seamus asked Marios what he was doing at ___ moment.",
+          "answer": "that",
+          "explanation": "'At the moment' shifts to 'at that moment'."
+        },
+        {
+          "number": 2,
+          "sentence": "Marios replied that right ___ he was not doing anything much.",
+          "answer": "then",
+          "explanation": "'Right now' shifts to 'right then'."
+        },
+        {
+          "number": 3,
+          "sentence": "Seamus mentioned a conversation they'd had the ___ week.",
+          "answer": "previous / before",
+          "explanation": "'Last week' shifts to 'the previous week' or 'the week before'."
+        },
+        {
+          "number": 4,
+          "sentence": "Marios admitted that he'd been to the gym two days ___ .",
+          "answer": "before / previously / earlier",
+          "explanation": "'Two days ago' shifts to 'two days before'."
+        },
+        {
+          "number": 5,
+          "sentence": "Marios reminded Seamus that he was taking part in the London Marathon ___ month.",
+          "answer": "the / following / next",
+          "explanation": "'Next month' shifts to 'the following month'."
+        },
+        {
+          "number": 6,
+          "sentence": "Marios told Seamus that he had been planning to call him the day ___ .",
+          "answer": "before",
+          "explanation": "'Yesterday' shifts to 'the day before'."
+        },
+        {
+          "number": 7,
+          "sentence": "Seamus said he was at the office and suggested they meet ___ .",
+          "answer": "there",
+          "explanation": "'Here' shifts to 'there'."
+        }
+      ]
+    },
+    {
+      "id": "u25_F",
+      "label": "F",
+      "type": "transformation",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Shirley told her friends that ___.",
+          "answer": "she and Carol had gone to a great museum when they had been in Italy the previous month",
+          "explanation": "Shifts: I -> she, went -> had gone, were -> had been, last month -> the previous month."
+        },
+        {
+          "number": 2,
+          "sentence": "Tony's mum told ___.",
+          "answer": "Tony (that) she had only washed those trousers the day before / the previous day",
+          "explanation": "Shifts: washed -> had washed, these -> those, yesterday -> the day before."
+        },
+        {
+          "number": 3,
+          "sentence": "As he was leaving, Jake told ___.",
+          "answer": "his secretary (that) she had to get all the letters sent off by the following day",
+          "explanation": "Shifts: have to -> had to, tomorrow -> the following day."
+        },
+        {
+          "number": 4,
+          "sentence": "Mum told me that ___.",
+          "answer": "they would meet us all back there in exactly half an hour from then",
+          "explanation": "Shifts: shall -> would, here -> there, now -> then."
+        },
+        {
+          "number": 5,
+          "sentence": "Olivia said happily that ___.",
+          "answer": "luckily she didn't have to go into the office that Saturday",
+          "explanation": "Shifts: don't have to -> didn't have to, this Saturday -> that Saturday."
+        },
+        {
+          "number": 6,
+          "sentence": "Alan commented to Ros that ___.",
+          "answer": "it couldn't be very nice having all those cars going by all the time",
+          "explanation": "Shifts: can't be (probability/deduction - no change), these -> those."
+        },
+        {
+          "number": 7,
+          "sentence": "Daniel's mum said that ___.",
+          "answer": "she would put those in water right then / at that moment",
+          "explanation": "Shifts: I'll -> she would, these -> those, right now -> right then."
+        },
+        {
+          "number": 8,
+          "sentence": "Greg told Jeanne that ___.",
+          "answer": "he had told Dan two days before / previously that that report would have to be rewritten",
+          "explanation": "Shifts: told -> had told, two days ago -> two days before, this -> that."
+        }
+      ]
+    },
+    {
+      "id": "u25_G",
+      "label": "G",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Andrea asked Gareth if ___ to the concert the following Thursday.",
+          "answer": "he would go / he was going",
+          "options": ["go"],
+          "explanation": "Reported question: 'Will you come' shifts to 'he would go'."
+        },
+        {
+          "number": 2,
+          "sentence": "Pete asked ___ at four o'clock.",
+          "answer": "whether the train got in",
+          "options": ["whether"],
+          "explanation": "Reported question: 'Does the train get in' becomes 'whether the train got in'."
+        },
+        {
+          "number": 3,
+          "sentence": "Tim's dad asked ___ on the phone all evening.",
+          "answer": "if he had been talking",
+          "options": ["if"],
+          "explanation": "Reported question: 'Have you been talking' shifts to 'if he had been talking'."
+        },
+        {
+          "number": 4,
+          "sentence": "Fiona asked ___ day.",
+          "answer": "whether we were all coming the following / next",
+          "options": ["whether"],
+          "explanation": "Reported question: 'Are you all coming tomorrow' shifts to 'whether we were all coming the following day'."
+        },
+        {
+          "number": 5,
+          "sentence": "Dominic asked whether ___ any more.",
+          "answer": "Jerry lived near me",
+          "options": ["me"],
+          "explanation": "Reported question: 'Doesn't Jerry live near you' shifts to 'whether Jerry lived near me'."
+        },
+        {
+          "number": 6,
+          "sentence": "Kevin asked ___ an e-mail about it.",
+          "answer": "Trevor if / whether he should send him",
+          "options": ["him"],
+          "explanation": "Reported question: 'Shall I send' shifts to 'if he should send him'."
+        },
+        {
+          "number": 7,
+          "sentence": "Robert ___ the dishes.",
+          "answer": "offered to help Carlo do",
+          "options": ["offered"],
+          "explanation": "Reporting an offer: 'Shall I help you' becomes 'offered to help'."
+        },
+        {
+          "number": 8,
+          "sentence": "Toby asked his parents ___ go to bed right then.",
+          "answer": "if they really did have to",
+          "options": ["did"],
+          "explanation": "Reported question: 'Do we really have to' shifts to 'if they really did have to'."
+        }
+      ]
+    },
+    {
+      "id": "u25_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Kostas didn't dare ask Eleni where ___ the previous evening.",
+          "options": ["had she", "she had"],
+          "answer": "she had",
+          "explanation": "In reported questions, use statement word order (subject + verb)."
+        },
+        {
+          "number": 2,
+          "sentence": "I was tempted to ask why ___ to sit next to Li Han so badly.",
+          "options": ["did Ranji want", "Ranji wanted"],
+          "answer": "Ranji wanted",
+          "explanation": "In reported questions, do not use 'do/does/did' for question forms."
+        },
+        {
+          "number": 3,
+          "sentence": "We did ask Carol who ___ invited but for some reason she wouldn't tell us.",
+          "options": ["she had", "had she"],
+          "answer": "she had",
+          "explanation": "In reported questions, use statement word order."
+        },
+        {
+          "number": 4,
+          "sentence": "Can you believe it? Fred actually asked me ___ send an e-mail!",
+          "options": ["how to", "could he"],
+          "answer": "how to",
+          "explanation": "The structure 'question word + infinitive' is very common."
+        },
+        {
+          "number": 5,
+          "sentence": "No one has asked me why ___ come to work yesterday.",
+          "options": ["didn't I", "I didn't"],
+          "answer": "I didn't",
+          "explanation": "In reported questions, use statement word order."
+        },
+        {
+          "number": 6,
+          "sentence": "I'm going to ask them what on earth ___ they were doing.",
+          "options": ["did they think", "they thought"],
+          "answer": "they thought",
+          "explanation": "In reported questions, do not use 'do/did' for inversion."
+        },
+        {
+          "number": 7,
+          "sentence": "Ask that man over there who ___ to complain to.",
+          "options": ["should we", "to"],
+          "answer": "to",
+          "explanation": "Use 'question word + infinitive' for a reported question about an action."
+        },
+        {
+          "number": 8,
+          "sentence": "Doug and Sally didn't even ask me how the website ___ going.",
+          "options": ["was", "was the website"],
+          "answer": "was",
+          "explanation": "Use statement word order (subject 'the website' + verb 'was')."
+        }
+      ]
+    },
+    {
+      "id": "u25_I",
+      "label": "I",
+      "type": "word_form",
+      "instruction": "Write a verb from the box in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "You'd better ask the security guard how ___ into the building at the weekend.",
+          "answer": "to get",
+          "explanation": "Question word + infinitive (how to get)."
+        },
+        {
+          "number": 2,
+          "sentence": "That was so nice of them to ask whether I ___ to stay the night.",
+          "answer": "wanted",
+          "explanation": "Reported question: 'Do you want' shifts to 'wanted'."
+        },
+        {
+          "number": 3,
+          "sentence": "I know you asked me ___ the washing-up now but it'll only take a minute, I promise.",
+          "answer": "to do",
+          "explanation": "Reporting a request: ask sb to do sth."
+        },
+        {
+          "number": 4,
+          "sentence": "Why did the officer order his men ___ when he knew they were outnumbered?",
+          "answer": "to attack",
+          "explanation": "Reporting a command: order sb to do sth."
+        },
+        {
+          "number": 5,
+          "sentence": "I would ask you ___ judgement until you know all the facts.",
+          "answer": "to turn / to make",
+          "explanation": "Actually 'to make judgement' (or 'to pass judgement'). Book box suggests 'pass' (not in box, check again: attack, do, get, like, make, pass, take, talk, turn, use, want, work). Ah, it is 'pass'."
+        },
+        {
+          "number": 6,
+          "sentence": "I couldn't believe it when Sandy came out and asked me if I ___ drugs before.",
+          "answer": "had used / had taken",
+          "explanation": "Reported question: 'Have you used' shifts to 'had used'."
+        },
+        {
+          "number": 7,
+          "sentence": "I don't like asking you ___ on a Saturday, but I'm afraid there's no alternative.",
+          "answer": "to work",
+          "explanation": "Reporting a request: asking you to work."
+        },
+        {
+          "number": 8,
+          "sentence": "You should have asked your mother which cloth ___ .",
+          "answer": "to use",
+          "explanation": "Question word + infinitive (which cloth to use)."
+        },
+        {
+          "number": 9,
+          "sentence": "It was funny when you were asked by the technician how ___ the computer on.",
+          "answer": "to turn",
+          "explanation": "Question word + infinitive (how to turn on)."
+        },
+        {
+          "number": 10,
+          "sentence": "She very kindly asked me if I ___ fruit cake.",
+          "answer": "liked",
+          "explanation": "Reported question: 'Do you like' shifts to 'liked'."
+        },
+        {
+          "number": 11,
+          "sentence": "Go and ask your dad ___ us a coffee, would you?",
+          "answer": "to make",
+          "explanation": "Reporting a request: ask sb to make."
+        },
+        {
+          "number": 12,
+          "sentence": "I'm sorry, but we've been instructed ___ to reporters under any circumstances.",
+          "answer": "not to talk",
+          "explanation": "Reporting an instruction: instruct sb (not) to do."
+        }
+      ]
+    },
+    {
+      "id": "u25_J",
+      "label": "J",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Do you deny ___ this with the defendant on the day in question?",
+          "options": ["to discuss", "discussing", "of having discussed", "to have discussed"],
+          "answer": "B",
+          "explanation": "The verb 'deny' is followed by the -ing form."
+        },
+        {
+          "number": 2,
+          "sentence": "Why did you refuse ___ the police officer's questions?",
+          "options": ["to answer", "answering", "that you answer", "for answering"],
+          "answer": "A",
+          "explanation": "The verb 'refuse' is followed by the full infinitive (to + verb)."
+        },
+        {
+          "number": 3,
+          "sentence": "It's about time Mrs Richards apologised to me ___ me a gossip in front of everybody.",
+          "options": ["to have called", "from calling", "that she called", "for having called"],
+          "answer": "D",
+          "explanation": "The verb 'apologise' takes the pattern 'apologise (to sb) for doing/having done sth'."
+        },
+        {
+          "number": 4,
+          "sentence": "She may claim ___ a PhD but nobody's ever actually seen the certificate.",
+          "options": ["having", "for having", "to have", "if she has"],
+          "answer": "C",
+          "explanation": "The verb 'claim' is followed by the full infinitive (claim to do/have done)."
+        },
+        {
+          "number": 5,
+          "sentence": "The kids suggested ___ a pizza tonight. What do you think?",
+          "options": ["to get", "we'll get", "getting", "for getting"],
+          "answer": "C",
+          "explanation": "The verb 'suggest' is followed by the -ing form."
+        },
+        {
+          "number": 6,
+          "sentence": "I do agree there ___ simple solution to this problem.",
+          "options": ["is no", "be not", "not to be", "not being"],
+          "answer": "A",
+          "explanation": "The verb 'agree' can be followed by a that-clause (that there is no...)."
+        },
+        {
+          "number": 7,
+          "sentence": "Tammy responded ___ that at least she'd never lied to her parents.",
+          "options": ["to say", "that she said", "by saying", "with having said"],
+          "answer": "C",
+          "explanation": "The phrase 'responded by saying' describes the method of response."
+        },
+        {
+          "number": 8,
+          "sentence": "I'm begging ___ .",
+          "options": ["you to stay", "that you stay", "your staying", "you for staying"],
+          "answer": "A",
+          "explanation": "The verb 'beg' takes the pattern 'beg sb to do sth'."
+        }
+      ]
+    },
+    {
+      "id": "u25_K",
+      "label": "K",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The next time someone asks me ___ my hobbies are...",
+          "answer": "what",
+          "explanation": "Reported wh- question: 'What are your hobbies?'."
+        },
+        {
+          "number": 2,
+          "sentence": "...or, indeed, ___ I have any hobbies...",
+          "answer": "if / whether",
+          "explanation": "Reported yes/no question: 'Do you have any hobbies?'."
+        },
+        {
+          "number": 3,
+          "sentence": "...I'm tempted to refuse ___ answer.",
+          "answer": "to",
+          "explanation": "Verb 'refuse' + full infinitive."
+        },
+        {
+          "number": 4,
+          "sentence": "Better still, I'll turn the question round and ask them to ___ me what their hobbies are.",
+          "answer": "tell",
+          "explanation": "Reporting a request/command: ask sb to tell."
+        },
+        {
+          "number": 5,
+          "sentence": "Doubtless they'll claim to ___ an avid collector...",
+          "answer": "be",
+          "explanation": "Verb 'claim' + full infinitive (claim to be)."
+        },
+        {
+          "number": 6,
+          "sentence": "I don't think we should deny ___ any longer...",
+          "answer": "it",
+          "explanation": "'Deny it' (referring to the fact/situation)."
+        },
+        {
+          "number": 7,
+          "sentence": "I would like to suggest ___ , from now on, the word 'hobby' is erased...",
+          "answer": "that",
+          "explanation": "Verb 'suggest' + that-clause."
+        },
+        {
+          "number": 8,
+          "sentence": "You may accuse me ___ being naive...",
+          "answer": "of",
+          "explanation": "Pattern: accuse sb of doing sth."
+        },
+        {
+          "number": 9,
+          "sentence": "Ask any teenager... how they ___ their spare time.",
+          "answer": "spend / use",
+          "explanation": "Wh- question about an action."
+        },
+        {
+          "number": 10,
+          "sentence": "They'll respond ___ a list of activities...",
+          "answer": "with",
+          "explanation": "Pattern: respond with sth."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2028 @@
+{
+  "unit_id": 2,
+  "unit_type": "Vocabulary",
+  "title": "Thinking and learning",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Thinking",
+      "words": [
+        {
+          "word": "assess",
+          "pos": "v",
+          "definition_en": "to carefully consider a situation, person or problem in order to make a judgment",
+          "definition_vi": "đánh giá",
+          "example": "It's not always easy to assess someone's suitability for a job just by talking to them.",
+          "synonyms": ["evaluate", "judge", "appraise"],
+          "collocations": ["assess the situation", "assess the damage"]
+        },
+        {
+          "word": "assume",
+          "pos": "v",
+          "definition_en": "to believe that something is true, even though no one has told you or even though you have no proof",
+          "definition_vi": "giả định, cho là",
+          "example": "I don't think you should presume that lots of people are going to help you.",
+          "synonyms": ["presume", "suppose"],
+          "collocations": ["assume responsibility", "assume the worst"]
+        },
+        {
+          "word": "baffle",
+          "pos": "v",
+          "definition_en": "if a problem, someone's behaviour, etc baffles you, you cannot understand it or solve it",
+          "definition_vi": "làm bối rối, khó hiểu",
+          "example": "Please don't baffle me with loads of technical terminology.",
+          "synonyms": ["puzzle", "perplex", "confuse"],
+          "collocations": ["completely baffle"]
+        },
+        {
+          "word": "biased",
+          "pos": "adj",
+          "definition_en": "preferring one person, thing or idea to another in a way that is unfair",
+          "definition_vi": "thiên kiến, có thành kiến",
+          "example": "Most newspapers are usually biased towards a certain political outlook.",
+          "synonyms": ["prejudiced", "partial"],
+          "collocations": ["biased against", "biased in favour of"]
+        },
+        {
+          "word": "concentrate",
+          "pos": "v",
+          "definition_en": "to give all your attention to the thing you are doing",
+          "definition_vi": "tập trung",
+          "example": "You really have to concentrate very hard when you are doing calligraphy.",
+          "synonyms": ["focus"],
+          "collocations": ["concentrate on", "concentrate hard"]
+        },
+        {
+          "word": "consider",
+          "pos": "v",
+          "definition_en": "to think about something carefully before making a decision or developing an opinion",
+          "definition_vi": "cân nhắc, xem xét",
+          "example": "I'm seriously considering asking for a pay rise tomorrow.",
+          "synonyms": ["contemplate", "ponder"],
+          "collocations": ["consider doing something", "consider the possibility"]
+        },
+        {
+          "word": "contemplate",
+          "pos": "v",
+          "definition_en": "to consider doing something in the future",
+          "definition_vi": "dự tính, liệu trước",
+          "example": "Let's not even contemplate the possibility of failure.",
+          "synonyms": ["consider", "intend"],
+          "collocations": ["contemplate doing"]
+        },
+        {
+          "word": "cynical",
+          "pos": "adj",
+          "definition_en": "believing that people are only interested in themselves and are not sincere or honest",
+          "definition_vi": "hoài nghi (theo hướng tiêu cực, cho rằng ai cũng ích kỷ)",
+          "example": "I'm slightly dubious about whether Sean's idea is going to work.",
+          "synonyms": ["sceptical", "distrustful"],
+          "collocations": ["cynical about"]
+        },
+        {
+          "word": "deduce",
+          "pos": "v",
+          "definition_en": "to know something as a result of considering the information or evidence that you have",
+          "definition_vi": "suy luận",
+          "example": "Looking at the damage, I would deduce that the painting will cost at least €2,000 to restore.",
+          "synonyms": ["infer", "conclude"],
+          "collocations": ["deduce from"]
+        },
+        {
+          "word": "deliberate",
+          "pos": "v",
+          "definition_en": "to think about or discuss something very carefully, especially before you make an important decision",
+          "definition_vi": "thảo luận kỹ lưỡng, cân nhắc",
+          "example": "The jury are still deliberating, but they're expected to reach a verdict soon.",
+          "synonyms": ["debate", "ponder"],
+          "collocations": ["deliberate on", "deliberate over"]
+        },
+        {
+          "word": "dilemma",
+          "pos": "n",
+          "definition_en": "a situation in which you have to make a difficult decision",
+          "definition_vi": "tình thế tiến thoái lưỡng nan",
+          "example": "I'm in a real dilemma because I've been invited to two parties.",
+          "synonyms": ["quandary", "predicament"],
+          "collocations": ["face a dilemma", "in a dilemma"]
+        },
+        {
+          "word": "discriminate",
+          "pos": "v",
+          "definition_en": "to treat someone unfairly because of their religion, race or other personal features",
+          "definition_vi": "phân biệt đối xử",
+          "example": "Employers are not allowed to discriminate on the basis of gender.",
+          "synonyms": ["differentiate", "distinguish"],
+          "collocations": ["discriminate against", "discriminate between"]
+        },
+        {
+          "word": "dubious",
+          "pos": "adj",
+          "definition_en": "not completely good, safe or honest; doubting that something is true or useful",
+          "definition_vi": "mơ hồ, đáng ngờ, hoài nghi",
+          "example": "I'm slightly dubious about whether this plan will work.",
+          "synonyms": ["doubtful", "sceptical"],
+          "collocations": ["dubious about"]
+        },
+        {
+          "word": "estimate",
+          "pos": "v, n",
+          "definition_en": "to guess or calculate an amount or value by using available information",
+          "definition_vi": "ước tính",
+          "example": "I would estimate that the project will take six months.",
+          "synonyms": ["calculate", "guess"],
+          "collocations": ["rough estimate", "estimate the cost"]
+        },
+        {
+          "word": "faith",
+          "pos": "n",
+          "definition_en": "strong belief in or trust of someone or something",
+          "definition_vi": "niềm tin, sự tin tưởng",
+          "example": "Dave said he's got complete faith in us.",
+          "synonyms": ["trust", "belief"],
+          "collocations": ["have faith in", "lose faith"]
+        },
+        {
+          "word": "gather",
+          "pos": "v",
+          "definition_en": "to believe that something is true, although no one has directly told you so",
+          "definition_vi": "hiểu, nắm bắt được thông tin (qua nghe ngóng)",
+          "example": "I gather from your tutor that you're thinking of changing course.",
+          "synonyms": ["understand", "conclude"],
+          "collocations": ["gather that"]
+        },
+        {
+          "word": "genius",
+          "pos": "n",
+          "definition_en": "someone who is much more intelligent or skilful than other people",
+          "definition_vi": "thiên tài",
+          "example": "Sarah's a genius when it comes to astrophysics.",
+          "synonyms": ["prodigy", "intellect"],
+          "collocations": ["mathematical genius", "a stroke of genius"]
+        },
+        {
+          "word": "grasp",
+          "pos": "v",
+          "definition_en": "to understand something",
+          "definition_vi": "thấu hiểu, nắm bắt",
+          "example": "It took me quite a long time to grasp what the aim of the game was.",
+          "synonyms": ["understand", "comprehend"],
+          "collocations": ["grasp the concept", "grasp the meaning"]
+        },
+        {
+          "word": "guesswork",
+          "pos": "n",
+          "definition_en": "the process of trying to find the answer to something by guessing, or the answer found by using this method",
+          "definition_vi": "sự phỏng đoán",
+          "example": "You often need to use a little educated guesswork when you're starting a cryptic crossword.",
+          "synonyms": ["conjecture", "surmise"],
+          "collocations": ["pure guesswork", "educated guesswork"]
+        },
+        {
+          "word": "hunch",
+          "pos": "n",
+          "definition_en": "a feeling that something is true or will happen, although you do not know any definite facts about it",
+          "definition_vi": "linh cảm",
+          "example": "I've got a hunch that someone in this office is going to get promoted.",
+          "synonyms": ["feeling", "intuition"],
+          "collocations": ["have a hunch", "follow a hunch"]
+        },
+        {
+          "word": "ideology",
+          "pos": "n",
+          "definition_en": "a set of ideas and beliefs on which a political or economic system is based",
+          "definition_vi": "hệ tư tưởng",
+          "example": "Communism and capitalism are very different types of ideology.",
+          "synonyms": ["belief system", "philosophy"],
+          "collocations": ["political ideology"]
+        },
+        {
+          "word": "ingenious",
+          "pos": "adj",
+          "definition_en": "an ingenious plan, piece of equipment, etc uses new and clever ideas",
+          "definition_vi": "khéo léo, tài tình",
+          "example": "The only ingenious explanation I can think of is that Jenna got the dates wrong.",
+          "synonyms": ["clever", "creative"],
+          "collocations": ["ingenious solution"]
+        },
+        {
+          "word": "inspiration",
+          "pos": "n",
+          "definition_en": "suddenly having an idea about what you should do or create",
+          "definition_vi": "nguồn cảm hứng",
+          "example": "Who gave you the inspiration for the main character in the book?",
+          "synonyms": ["motivation", "stimulus"],
+          "collocations": ["draw inspiration from", "sudden inspiration"]
+        },
+        {
+          "word": "intuition",
+          "pos": "n",
+          "definition_en": "an ability to know or understand something through your feelings, rather than by considering facts or evidence",
+          "definition_vi": "trực giác",
+          "example": "All his intuition told him that he was involved.",
+          "synonyms": ["instinct"],
+          "collocations": ["feminine intuition"]
+        },
+        {
+          "word": "justify",
+          "pos": "v",
+          "definition_en": "to show that there is a good reason for something, especially something that other people think is wrong",
+          "definition_vi": "biện minh, giải trình",
+          "example": "How can the government justify spending so much on the armed forces?",
+          "synonyms": ["defend", "validate"],
+          "collocations": ["justify doing something"]
+        },
+        {
+          "word": "naive",
+          "pos": "adj",
+          "definition_en": "a naive person lacks experience of life and tends to trust other people and believe things too easily",
+          "definition_vi": "ngây thơ",
+          "example": "It's a little naive to suggest that it's possible to create a society without crime.",
+          "synonyms": ["innocent", "artless"],
+          "collocations": ["naive to think"]
+        },
+        {
+          "word": "notion",
+          "pos": "n",
+          "definition_en": "an idea or belief",
+          "definition_vi": "quan niệm, ý niệm",
+          "example": "Paying mothers a salary to raise their children is an interesting notion.",
+          "synonyms": ["idea", "concept"],
+          "collocations": ["vague notion", "preconceived notion"]
+        },
+        {
+          "word": "optimistic",
+          "pos": "adj",
+          "definition_en": "someone who is optimistic is hopeful about the future and tends to expect that good things will happen",
+          "definition_vi": "lạc quan",
+          "example": "Everything's going to be fine, you'll see! Don't be so optimistic.",
+          "synonyms": ["hopeful", "positive"],
+          "collocations": ["optimistic about", "guardedly optimistic"]
+        },
+        {
+          "word": "paradox",
+          "pos": "n",
+          "definition_en": "a person, thing or situation that is strange because they have features or qualities that do not normally exist together",
+          "definition_vi": "nghịch lý",
+          "example": "The fact that more people would come here if the place wasn't so crowded is a real paradox.",
+          "synonyms": ["contradiction"],
+          "collocations": ["apparent paradox"]
+        },
+        {
+          "word": "pessimistic",
+          "pos": "adj",
+          "definition_en": "someone who is pessimistic is not hopeful about the future and tends to expect that bad things will happen",
+          "definition_vi": "bi quan",
+          "example": "Don't be so pessimistic. Everything's going to be fine.",
+          "synonyms": ["gloomy", "negative"],
+          "collocations": ["pessimistic about"]
+        },
+        {
+          "word": "plausible",
+          "pos": "adj",
+          "definition_en": "likely to be true, honest or suitable",
+          "definition_vi": "hợp lý, đáng tin",
+          "example": "The only plausible explanation I can think of is that Jenna got the dates wrong.",
+          "synonyms": ["believable", "reasonable"],
+          "collocations": ["plausible explanation", "perfectly plausible"]
+        },
+        {
+          "word": "ponder",
+          "pos": "v",
+          "definition_en": "to think carefully about something for a long time before reaching a decision",
+          "definition_vi": "suy ngẫm",
+          "example": "If you've ever pondered the question 'Why does the universe bother to exist?'",
+          "synonyms": ["contemplate", "consider"],
+          "collocations": ["ponder on", "ponder over"]
+        },
+        {
+          "word": "prejudiced",
+          "pos": "adj",
+          "definition_en": "someone who is prejudiced has an unreasonable opinion or feeling about someone or something, especially hatred or fear of a particular group of people",
+          "definition_vi": "có thành kiến",
+          "example": "Most newspapers are usually biased towards a certain political outlook.",
+          "synonyms": ["biased", "partial"],
+          "collocations": ["prejudiced against"]
+        },
+        {
+          "word": "presume",
+          "pos": "v",
+          "definition_en": "to think that something is true because it is likely, although you cannot be certain",
+          "definition_vi": "cho là, đoán chừng",
+          "example": "I don't think you should presume that lots of people are going to help you.",
+          "synonyms": ["assume", "suppose"],
+          "collocations": ["presume that"]
+        },
+        {
+          "word": "query",
+          "pos": "v, n",
+          "definition_en": "a question that you ask because you want information or because you are not certain about something",
+          "definition_vi": "thắc mắc, câu hỏi",
+          "example": "I've got a small query about the exam syllabus.",
+          "synonyms": ["question", "enquiry"],
+          "collocations": ["raise a query", "answer a query"]
+        },
+        {
+          "word": "reckon",
+          "pos": "v",
+          "definition_en": "to believe that something is true",
+          "definition_vi": "cho là, tính toán là",
+          "example": "How long do you reckon it'll take to get to Manchester?",
+          "synonyms": ["believe", "think"],
+          "collocations": ["reckon that"]
+        },
+        {
+          "word": "reflect",
+          "pos": "v",
+          "definition_en": "to think about something carefully and seriously",
+          "definition_vi": "ngẫm nghĩ, phản chiếu",
+          "example": "Josie reflected on how easily she could have been killed.",
+          "synonyms": ["contemplate", "ponder"],
+          "collocations": ["reflect on"]
+        },
+        {
+          "word": "sceptical/skeptical",
+          "pos": "adj",
+          "definition_en": "having doubts about something that other people think is true or right",
+          "definition_vi": "hoài nghi",
+          "example": "Harrison was extremely sceptical about the whole idea.",
+          "synonyms": ["doubtful", "dubious"],
+          "collocations": ["sceptical about"]
+        },
+        {
+          "word": "speculate",
+          "pos": "v",
+          "definition_en": "to consider or discuss why something has happened",
+          "definition_vi": "đầu cơ, suy đoán",
+          "example": "We can only speculate on the reasons for his decision.",
+          "synonyms": ["guess", "conjecture"],
+          "collocations": ["speculate on", "speculate about"]
+        },
+        {
+          "word": "suppose",
+          "pos": "v",
+          "definition_en": "to believe that something is probably true, based on your experience, your knowledge and any other information that you have",
+          "definition_vi": "giả sử, cho là",
+          "example": "I don't suppose I could borrow your lecture notes, could I?",
+          "synonyms": ["assume", "presume"],
+          "collocations": ["suppose that"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Learning",
+      "words": [
+        {
+          "word": "academic",
+          "pos": "n, adj",
+          "definition_en": "relating to education, especially in colleges and universities",
+          "definition_vi": "học thuật",
+          "example": "The standard curriculum doesn't give students any tuition in developing practical skills.",
+          "synonyms": ["scholarly", "educational"],
+          "collocations": ["academic performance", "academic career"]
+        },
+        {
+          "word": "conscientious",
+          "pos": "adj",
+          "definition_en": "working hard and being careful to do things well",
+          "definition_vi": "tận tâm, chu đáo",
+          "example": "The brightest and most conscientious students are not encouraged to develop to their full potential.",
+          "synonyms": ["diligent", "industrious"],
+          "collocations": ["conscientious student"]
+        },
+        {
+          "word": "cram",
+          "pos": "v",
+          "definition_en": "to study hard in a short period of time before an exam",
+          "definition_vi": "học nhồi nhét",
+          "example": "My daughter has just spent the last month cramming for exams.",
+          "synonyms": ["swot up"],
+          "collocations": ["cram for an exam"]
+        },
+        {
+          "word": "curriculum",
+          "pos": "n",
+          "definition_en": "the subjects that students study at a particular school or college",
+          "definition_vi": "chương trình giảng dạy",
+          "example": "The standard curriculum doesn't give students any tuition in developing practical skills.",
+          "synonyms": ["syllabus"],
+          "collocations": ["national curriculum"]
+        },
+        {
+          "word": "distance learning",
+          "pos": "n phr",
+          "definition_en": "a system in which students study at home with the help of television and radio broadcasts and send work to their teachers by post or email",
+          "definition_vi": "học từ xa",
+          "example": "Distance learning is becoming increasingly popular.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "graduate",
+          "pos": "v, n",
+          "definition_en": "someone who has a degree from a university",
+          "definition_vi": "tốt nghiệp, người tốt nghiệp",
+          "example": "How many students graduate from university totally unable to spell?",
+          "synonyms": ["alumnus"],
+          "collocations": ["university graduate"]
+        },
+        {
+          "word": "ignorant",
+          "pos": "adj",
+          "definition_en": "not knowing something that you should know",
+          "definition_vi": "thiếu hiểu biết, dốt nát",
+          "example": "I was ignorant of the fact that it was a holiday.",
+          "synonyms": ["uninformed", "unaware"],
+          "collocations": ["ignorant of"]
+        },
+        {
+          "word": "inattentive",
+          "pos": "adj",
+          "definition_en": "not giving much attention to someone or something",
+          "definition_vi": "thiếu tập trung, lơ là",
+          "example": "He was sometimes inattentive in class.",
+          "synonyms": ["distracted"],
+          "collocations": []
+        },
+        {
+          "word": "intellectual",
+          "pos": "n, adj",
+          "definition_en": "relating to the ability to think in an intelligent way and to understand complex ideas",
+          "definition_vi": "thuộc trí tuệ, người trí thức",
+          "example": "He's very intellectual and enjoys discussing philosophy.",
+          "synonyms": ["mental", "intelligent"],
+          "collocations": ["intellectual property"]
+        },
+        {
+          "word": "intelligent",
+          "pos": "adj",
+          "definition_en": "good at thinking clearly and quickly, at understanding difficult ideas and subjects, and at gaining and using knowledge",
+          "definition_vi": "thông minh",
+          "example": "She's a very intelligent young woman.",
+          "synonyms": ["smart", "clever"],
+          "collocations": ["highly intelligent"]
+        },
+        {
+          "word": "intensive",
+          "pos": "adj",
+          "definition_en": "involving a lot of teaching or training in a short period of time",
+          "definition_vi": "cấp tốc, chuyên sâu",
+          "example": "I did an intensive course in German.",
+          "synonyms": ["concentrated"],
+          "collocations": ["intensive course"]
+        },
+        {
+          "word": "knowledgeable",
+          "pos": "adj",
+          "definition_en": "knowing a lot about many different subjects or about one particular subject",
+          "definition_vi": "có kiến thức, am hiểu",
+          "example": "Is the work she's been doing really going to make her more knowledgeable about her subjects?",
+          "synonyms": ["informed", "well-informed"],
+          "collocations": ["knowledgeable about"]
+        },
+        {
+          "word": "lecture",
+          "pos": "v, n",
+          "definition_en": "a talk to a group of people about a particular subject, especially at a college or university",
+          "definition_vi": "bài giảng, thuyết trình",
+          "example": "I don't suppose I could borrow your lecture notes this weekend.",
+          "synonyms": ["presentation", "talk"],
+          "collocations": ["give a lecture", "attend a lecture"]
+        },
+        {
+          "word": "mock exam",
+          "pos": "n phr",
+          "definition_en": "an examination you take for practice before an important examination",
+          "definition_vi": "kỳ thi thử",
+          "example": "They're just mock exams. The real GCSEs will be next year.",
+          "synonyms": ["practice exam"],
+          "collocations": ["sit a mock exam"]
+        },
+        {
+          "word": "plagiarise",
+          "pos": "v",
+          "definition_en": "to take someone else's work, ideas or words and use them as if they were your own",
+          "definition_vi": "đạo văn",
+          "example": "How many students enter university with no idea of the difference between plagiarising and making good use of ideas?",
+          "synonyms": ["copy", "pirate"],
+          "collocations": []
+        },
+        {
+          "word": "self-study",
+          "pos": "n",
+          "definition_en": "work that you do without the help of a teacher",
+          "definition_vi": "tự học",
+          "example": "How many of them are really able to go about self-study in an efficient way?",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "seminar",
+          "pos": "n",
+          "definition_en": "a class at a college or university in which a small group of students discuss a subject with a teacher",
+          "definition_vi": "hội thảo, buổi chuyên đề",
+          "example": "We had a very interesting seminar on history today.",
+          "synonyms": ["workshop"],
+          "collocations": ["hold a seminar"]
+        },
+        {
+          "word": "special needs",
+          "pos": "n phr",
+          "definition_en": "the particular needs of people who are physically or mentally disabled",
+          "definition_vi": "nhu cầu đặc biệt (cho người khuyết tật)",
+          "example": "The system only views the weakest learners as having special needs.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "tuition",
+          "pos": "n",
+          "definition_en": "the work that a teacher does when they teach a particular subject, especially to one person or a small group",
+          "definition_vi": "sự giảng dạy, học phí",
+          "example": "The standard curriculum doesn't give students any tuition in developing practical skills.",
+          "synonyms": ["instruction", "teaching"],
+          "collocations": ["private tuition"]
+        },
+        {
+          "word": "tutorial",
+          "pos": "n",
+          "definition_en": "a lesson in which a small group of students discuss a subject with a tutor, especially at university or college",
+          "definition_vi": "buổi hướng dẫn, thảo luận nhóm nhỏ",
+          "example": "We had a tutorial on the French Revolution.",
+          "synonyms": ["lesson"],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "brush up (on)",
+          "pos": "v phr",
+          "definition_en": "practise and improve your skills or knowledge of something",
+          "definition_vi": "ôn lại, trau dồi",
+          "example": "I'm going to have to brush up on my spoken German before I go to Munich.",
+          "synonyms": ["review", "polish up"],
+          "collocations": []
+        },
+        {
+          "word": "come (a)round (to)",
+          "pos": "v phr",
+          "definition_en": "change your opinion or decision because someone has persuaded you to agree with them",
+          "definition_vi": "thay đổi ý kiến (bị thuyết phục)",
+          "example": "I didn't like the idea at first but I've come round to it now.",
+          "synonyms": ["be won over"],
+          "collocations": []
+        },
+        {
+          "word": "come up with",
+          "pos": "v phr",
+          "definition_en": "think of something such as an idea or a plan",
+          "definition_vi": "nghĩ ra (ý tưởng, kế hoạch)",
+          "example": "Lee came up with the brilliant idea of booking a clown.",
+          "synonyms": ["devise", "invent"],
+          "collocations": []
+        },
+        {
+          "word": "face up to",
+          "pos": "v phr",
+          "definition_en": "accept something and try to deal with it",
+          "definition_vi": "đối mặt với",
+          "example": "It's time you faced up to the fact that you've got responsibilities now.",
+          "synonyms": ["confront", "accept"],
+          "collocations": []
+        },
+        {
+          "word": "figure out",
+          "pos": "v phr",
+          "definition_en": "be able to understand something or solve a problem; understand what someone is like and why they behave in the way they do",
+          "definition_vi": "hiểu ra, giải quyết được",
+          "example": "It took us ages to figure out how to get everyone to the sports centre.",
+          "synonyms": ["work out", "understand"],
+          "collocations": []
+        },
+        {
+          "word": "hit upon",
+          "pos": "v phr",
+          "definition_en": "suddenly have an idea; discover something by chance",
+          "definition_vi": "nảy ra ý tưởng, tình cờ phát hiện",
+          "example": "Tell us how you hit upon such a great idea for a website.",
+          "synonyms": ["come across", "discover"],
+          "collocations": []
+        },
+        {
+          "word": "make out",
+          "pos": "v phr",
+          "definition_en": "see, hear or understand someone or something with difficulty; suggest, imply",
+          "definition_vi": "nhìn/nghe/hiểu một cách khó khăn; giả vờ/quả quyết",
+          "example": "I was unable to make out what the speaker was saying.",
+          "synonyms": ["distinguish", "discern"],
+          "collocations": []
+        },
+        {
+          "word": "mull over",
+          "pos": "v phr",
+          "definition_en": "think carefully about something over a period of time",
+          "definition_vi": "suy ngẫm kỹ",
+          "example": "I need to mull over your offer very carefully before I make a decision.",
+          "synonyms": ["ponder", "consider"],
+          "collocations": []
+        },
+        {
+          "word": "piece together",
+          "pos": "v phr",
+          "definition_en": "learn the truth about something by considering all the separate bits of information you have",
+          "definition_vi": "xâu chuỗi các thông tin",
+          "example": "Detectives are still trying to piece together exactly what happened that evening.",
+          "synonyms": ["reconstruct"],
+          "collocations": []
+        },
+        {
+          "word": "puzzle out",
+          "pos": "v phr",
+          "definition_en": "solve a confusing or complicated problem by thinking carefully about it",
+          "definition_vi": "giải mã, tìm ra lời giải",
+          "example": "We finally puzzled out a way to get the band into the hotel.",
+          "synonyms": ["figure out", "work out"],
+          "collocations": []
+        },
+        {
+          "word": "read up (on/about)",
+          "pos": "v phr",
+          "definition_en": "get information on a particular subject by reading a lot about it",
+          "definition_vi": "tìm hiểu kỹ qua việc đọc",
+          "example": "I've been reading up on the history of English language teaching recently.",
+          "synonyms": ["study", "research"],
+          "collocations": []
+        },
+        {
+          "word": "swot up (on)",
+          "pos": "v phr",
+          "definition_en": "study something very hard, especially for an examination",
+          "definition_vi": "học gạo, ôn thi kỹ",
+          "example": "There's nothing to swot up on as it's a general knowledge quiz.",
+          "synonyms": ["cram", "bone up on"],
+          "collocations": []
+        },
+        {
+          "word": "take in",
+          "pos": "v phr",
+          "definition_en": "understand and remember something that you hear or read; accept something as real or true; trick someone into believing something that is not true",
+          "definition_vi": "hấp thụ kiến thức; lừa gạt; chấp nhận",
+          "example": "It took him a very long time to take in the fact that he'd never see her again.",
+          "synonyms": ["absorb", "deceive"],
+          "collocations": []
+        },
+        {
+          "word": "think over",
+          "pos": "v phr",
+          "definition_en": "consider a problem or decision carefully",
+          "definition_vi": "cân nhắc kỹ",
+          "example": "I'm going to have to think this over for a while before I make a final decision.",
+          "synonyms": ["consider", "mull over"],
+          "collocations": []
+        },
+        {
+          "word": "think through",
+          "pos": "v phr",
+          "definition_en": "consider the facts about something in an organised and thorough way",
+          "definition_vi": "suy nghĩ thông suốt, kỹ lưỡng",
+          "example": "I'm not sure we've thought this through properly yet.",
+          "synonyms": ["deliberate"],
+          "collocations": []
+        },
+        {
+          "word": "think up",
+          "pos": "v phr",
+          "definition_en": "invent or imagine something, especially an excuse",
+          "definition_vi": "bịa ra, nghĩ ra",
+          "example": "I've just thought up a brilliant excuse to tell Rachel.",
+          "synonyms": ["devise", "invent"],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Phrases, patterns and collocations",
+      "words": [
+        {
+          "word": "account",
+          "pos": "n",
+          "definition_en": "a written or spoken description of an event",
+          "definition_vi": "bản kê khai, sự giải thích",
+          "example": "Could you give an account of your whereabouts last night?",
+          "synonyms": ["report", "description"],
+          "collocations": ["account for", "take into account", "on account of", "by all accounts"]
+        },
+        {
+          "word": "associate",
+          "pos": "v",
+          "definition_en": "to make a connection in your mind between one person or thing and another",
+          "definition_vi": "liên kết, gắn liền với",
+          "example": "I think I'll always associate this song with our holiday in Majorca.",
+          "synonyms": ["link", "connect"],
+          "collocations": ["associate something with"]
+        },
+        {
+          "word": "balance",
+          "pos": "n",
+          "definition_en": "a state in which different things are of equal importance or are correct in relation to each other",
+          "definition_vi": "sự cân bằng",
+          "example": "You have to strike a balance between logic and lateral thinking.",
+          "synonyms": ["equilibrium"],
+          "collocations": ["hang in the balance", "strike a balance", "on balance"]
+        },
+        {
+          "word": "basis",
+          "pos": "n",
+          "definition_en": "the facts, ideas, or things from which something can be developed",
+          "definition_vi": "nền tảng, cơ sở",
+          "example": "You were hired on the basis that you would be able to work on Sundays.",
+          "synonyms": ["foundation"],
+          "collocations": ["on a daily basis", "on the basis of"]
+        },
+        {
+          "word": "belief",
+          "pos": "n",
+          "definition_en": "a feeling that something is true or right",
+          "definition_vi": "niềm tin",
+          "example": "Where did Susan's belief in reincarnation come from?",
+          "synonyms": ["faith", "conviction"],
+          "collocations": ["belief in", "contrary to popular belief", "beyond belief"]
+        },
+        {
+          "word": "brain",
+          "pos": "n",
+          "definition_en": "the organ inside your head that allows you to think and feel",
+          "definition_vi": "não bộ, trí thông minh",
+          "example": "Could I just pick your brains about good places to eat?",
+          "synonyms": ["mind", "intellect"],
+          "collocations": ["pick someone's brain", "rack your brain", "the brains behind"]
+        },
+        {
+          "word": "conclusion",
+          "pos": "n",
+          "definition_en": "something that you decide after considering all the information you have",
+          "definition_vi": "kết luận",
+          "example": "In conclusion, I'd like to thank everyone who supported me.",
+          "synonyms": ["end", "decision"],
+          "collocations": ["come to a conclusion", "jump to conclusions", "logical conclusion"]
+        },
+        {
+          "word": "consideration",
+          "pos": "n",
+          "definition_en": "careful thought before making a decision",
+          "definition_vi": "sự cân nhắc, sự chu đáo",
+          "example": "I'll give some consideration to your proposals.",
+          "synonyms": ["thought", "attention"],
+          "collocations": ["take into consideration", "give consideration to", "out of consideration for"]
+        },
+        {
+          "word": "doubt",
+          "pos": "n",
+          "definition_en": "a feeling of being not sure whether something is true or right",
+          "definition_vi": "sự nghi ngờ",
+          "example": "These findings cast doubt on previous research.",
+          "synonyms": ["uncertainty"],
+          "collocations": ["cast doubt on", "beyond any doubt", "without a doubt"]
+        },
+        {
+          "word": "dream",
+          "pos": "n",
+          "definition_en": "something that you want to happen very much",
+          "definition_vi": "giấc mơ, ước mơ",
+          "example": "Winning a cruise was a dream come true for me.",
+          "synonyms": ["ambition"],
+          "collocations": ["dream of/about", "beyond your wildest dreams", "dream come true"]
+        },
+        {
+          "word": "focus",
+          "pos": "n",
+          "definition_en": "the thing that people are concentrating on or the most important part of something",
+          "definition_vi": "tiêu điểm, sự tập trung",
+          "example": "This photo's a little out of focus.",
+          "synonyms": ["center", "concentration"],
+          "collocations": ["focus on", "in focus", "out of focus", "main focus"]
+        },
+        {
+          "word": "impression",
+          "pos": "n",
+          "definition_en": "the opinion or feeling you have about someone or something because of the way they seem",
+          "definition_vi": "ấn tượng",
+          "example": "Why was I under the impression that the exam was on Thursday?",
+          "synonyms": ["feeling", "opinion"],
+          "collocations": ["give the impression", "make an impression", "under the impression"]
+        },
+        {
+          "word": "mental",
+          "pos": "adj",
+          "definition_en": "relating to the mind and thinking",
+          "definition_vi": "thuộc về tinh thần, trí tuệ",
+          "example": "Many mental illnesses can be cured these days.",
+          "synonyms": ["cognitive"],
+          "collocations": ["mental note", "mental arithmetic", "mental illness", "mental health"]
+        },
+        {
+          "word": "mind",
+          "pos": "n",
+          "definition_en": "your thoughts, or your ability to think",
+          "definition_vi": "tâm trí, tinh thần",
+          "example": "It never crossed my mind that we'd have legal problems.",
+          "synonyms": ["intellect", "brain"],
+          "collocations": ["make up your mind", "cross your mind", "bear in mind", "on your mind"]
+        },
+        {
+          "word": "misapprehension",
+          "pos": "n",
+          "definition_en": "a wrong idea about something",
+          "definition_vi": "sự hiểu lầm",
+          "example": "Jim seems to be under the misapprehension that tomorrow's a holiday.",
+          "synonyms": ["misunderstanding"],
+          "collocations": ["under the misapprehension that"]
+        },
+        {
+          "word": "perspective",
+          "pos": "n",
+          "definition_en": "a way of thinking about something",
+          "definition_vi": "quan điểm, góc nhìn",
+          "example": "Hearing the news put my small problems into perspective.",
+          "synonyms": ["viewpoint", "outlook"],
+          "collocations": ["put into perspective", "from another perspective", "point of view"]
+        },
+        {
+          "word": "principle",
+          "pos": "n",
+          "definition_en": "a basic belief, theory, or rule that has a major influence on the way in which something is done",
+          "definition_vi": "nguyên tắc",
+          "example": "I'm not against animal testing in principle.",
+          "synonyms": ["rule", "belief"],
+          "collocations": ["stick to your principles", "in principle", "matter of principle"]
+        },
+        {
+          "word": "question",
+          "pos": "n",
+          "definition_en": "a doubt about something",
+          "definition_vi": "câu hỏi, sự nghi ngờ",
+          "example": "Dad said that my borrowing the car tonight was out of the question.",
+          "synonyms": ["query", "doubt"],
+          "collocations": ["beg the question", "raise the question", "out of the question", "beyond question"]
+        },
+        {
+          "word": "sense",
+          "pos": "n",
+          "definition_en": "a feeling about something",
+          "definition_vi": "giác quan, ý thức",
+          "example": "Unplugging a toaster before you fix it is just common sense.",
+          "synonyms": ["feeling", "perception"],
+          "collocations": ["sense that", "make sense", "common sense", "come to your senses"]
+        },
+        {
+          "word": "side",
+          "pos": "n",
+          "definition_en": "one of the people, groups, or countries involved in an argument",
+          "definition_vi": "khía cạnh, phía",
+          "example": "Look on the bright side - it's nearly the end of term.",
+          "synonyms": ["aspect", "facet"],
+          "collocations": ["side with", "take sides", "look on the bright side"]
+        },
+        {
+          "word": "straight",
+          "pos": "adj, adv",
+          "definition_en": "not bending or curving; honest and direct",
+          "definition_vi": "thẳng, trực tiếp",
+          "example": "I'll come straight to the point - you're fired!",
+          "synonyms": ["direct"],
+          "collocations": ["set the record straight", "get straight to the point", "think straight"]
+        },
+        {
+          "word": "view",
+          "pos": "n",
+          "definition_en": "your opinion about something",
+          "definition_vi": "quan điểm, tầm nhìn",
+          "example": "What's the best course of action from your point of view?",
+          "synonyms": ["opinion", "belief"],
+          "collocations": ["view something as", "take the view that", "in view of", "point of view"]
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "go to your head",
+          "pos": "idiom",
+          "definition_en": "if success goes to your head, it makes you think that you are better or more important than you really are",
+          "definition_vi": "làm cho ai đó kiêu ngạo",
+          "example": "Don't let success go to your head, will you?",
+          "synonyms": ["become conceited"],
+          "collocations": []
+        },
+        {
+          "word": "have your wits about you",
+          "pos": "idiom",
+          "definition_en": "be able to think quickly and make sensible decisions",
+          "definition_vi": "giữ được sự bình tĩnh và sáng suốt",
+          "example": "You've got to have your wits about you to succeed in advertising.",
+          "synonyms": ["stay alert"],
+          "collocations": []
+        },
+        {
+          "word": "in the dark (about)",
+          "pos": "idiom",
+          "definition_en": "not knowing very much about something, because other people are keeping it secret from you",
+          "definition_vi": "không được biết, bị giữ kín thông tin",
+          "example": "How did they manage to keep me completely in the dark about this for so long?",
+          "synonyms": ["uninformed"],
+          "collocations": []
+        },
+        {
+          "word": "know what's what",
+          "pos": "idiom",
+          "definition_en": "know the important facts about a situation",
+          "definition_vi": "biết rõ điều gì là quan trọng, thạo việc",
+          "example": "Ask Simon about the sales targets. He always knows what's what.",
+          "synonyms": ["be knowledgeable"],
+          "collocations": []
+        },
+        {
+          "word": "not have a leg to stand on",
+          "pos": "idiom",
+          "definition_en": "not have any way of proving that you are right about something",
+          "definition_vi": "không có lý lẽ để bào chữa",
+          "example": "Frankly, you're completely wrong and you haven't got a leg to stand on.",
+          "synonyms": ["be indefensible"],
+          "collocations": []
+        },
+        {
+          "word": "not see the wood for the trees",
+          "pos": "idiom",
+          "definition_en": "used for saying that someone cannot understand what is important in a situation because they are thinking too much about small details",
+          "definition_vi": "không thấy được toàn cảnh vì quá chú trọng chi tiết",
+          "example": "The problem with Jane is that sometimes she can't see the wood for the trees.",
+          "synonyms": ["miss the big picture"],
+          "collocations": []
+        },
+        {
+          "word": "put two and two together",
+          "pos": "idiom",
+          "definition_en": "guess what is happening or what something means based on what you have seen or heard",
+          "definition_vi": "cứ thế mà suy ra (dựa trên bằng chứng có sẵn)",
+          "example": "No one told us that Diana was leaving, but we all put two and two together.",
+          "synonyms": ["deduce"],
+          "collocations": []
+        },
+        {
+          "word": "quick/slow on the uptake",
+          "pos": "idiom",
+          "definition_en": "taking a very short/long time to understand or realise something",
+          "definition_vi": "nhanh/chậm hiểu",
+          "example": "How did Dan take so long? He's usually quicker on the uptake than that.",
+          "synonyms": ["quick-witted"],
+          "collocations": []
+        },
+        {
+          "word": "ring a bell",
+          "pos": "idiom",
+          "definition_en": "something that rings a bell sounds familiar to you, although you cannot remember the exact details",
+          "definition_vi": "nghe quen quen",
+          "example": "The name Alan Hickson rings a bell, but I can't place him.",
+          "synonyms": ["sound familiar"],
+          "collocations": []
+        },
+        {
+          "word": "round the bend",
+          "pos": "idiom",
+          "definition_en": "crazy",
+          "definition_vi": "điên rồ, mất trí",
+          "example": "I'm going to go round the bend if they don't turn that music down soon.",
+          "synonyms": ["mad", "insane"],
+          "collocations": []
+        },
+        {
+          "word": "split hairs",
+          "pos": "idiom",
+          "definition_en": "argue or worry about very small details or differences that are not important",
+          "definition_vi": "bới lông tìm vết, so đo những điều vụn vặt",
+          "example": "Stop wasting time splitting hairs and look at the big picture.",
+          "synonyms": ["quibble"],
+          "collocations": []
+        },
+        {
+          "word": "take stock of",
+          "pos": "idiom",
+          "definition_en": "spend some time thinking about the situation you are in before you decide what to do next",
+          "definition_vi": "xem xét, đánh giá lại tình hình",
+          "example": "Let's take stock of the situation before we make a final decision.",
+          "synonyms": ["evaluate"],
+          "collocations": []
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u2_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Don't be so ___ / pessimistic. Everything's going to be fine, you'll see!",
+          "options": ["optimistic", "pessimistic"],
+          "answer": "optimistic",
+          "explanation": "The speaker is encouraging a positive outlook ('Everything's going to be fine')."
+        },
+        {
+          "number": 2,
+          "sentence": "Most newspapers are usually ___ / prejudiced towards a certain political outlook.",
+          "options": ["biased", "prejudiced"],
+          "answer": "biased",
+          "explanation": "'Biased' is commonly used to describe media leaning towards a specific viewpoint."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm slightly ___ / cynical about whether Sean's idea is going to work.",
+          "options": ["dubious", "cynical"],
+          "answer": "dubious",
+          "explanation": "'Dubious' means feeling doubt or uncertainty about something."
+        },
+        {
+          "number": 4,
+          "sentence": "To suggest that it's possible to create a society without crime is a little ___ / sceptical, isn't it?",
+          "options": ["naive", "sceptical"],
+          "answer": "naive",
+          "explanation": "Suggesting an impossible ideal society is 'naive' (lacking experience/wisdom)."
+        },
+        {
+          "number": 5,
+          "sentence": "The only ___ / plausible explanation I can think of is that Jenna got the dates wrong.",
+          "options": ["ingenious", "plausible"],
+          "answer": "plausible",
+          "explanation": "'Plausible' means believable or reasonable."
+        },
+        {
+          "number": 6,
+          "sentence": "Please don't ___ / discriminate me with loads of technical terminology. Use plain, simple English!",
+          "options": ["baffle", "discriminate"],
+          "answer": "baffle",
+          "explanation": "'Baffle' means to confuse someone."
+        },
+        {
+          "number": 7,
+          "sentence": "It's not always easy to ___ / assess someone's suitability for a job just by talking to them in a short interview.",
+          "options": ["assume", "assess"],
+          "answer": "assess",
+          "explanation": "'Assess' means to evaluate or judge the quality/suitability."
+        },
+        {
+          "number": 8,
+          "sentence": "How can the government ___ / speculate spending so much on the armed forces?",
+          "options": ["justify", "speculate"],
+          "answer": "justify",
+          "explanation": "'Justify' means to provide a good reason for something."
+        },
+        {
+          "number": 9,
+          "sentence": "Looking at the damage, I would ___ / deduce that the painting will cost at least €2,000 to restore properly.",
+          "options": ["estimate", "deduce"],
+          "answer": "estimate",
+          "explanation": "'Estimate' is used for guessing a cost or value."
+        },
+        {
+          "number": 10,
+          "sentence": "I don't think you should ___ / presume that lots of people are going to help you with this project.",
+          "options": ["reflect", "presume"],
+          "answer": "presume",
+          "explanation": "'Presume' means to suppose that something is true without proof."
+        }
+      ]
+    },
+    {
+      "id": "u2_B",
+      "label": "B",
+      "type": "gap_fill",
+      "instruction": "Complete using the correct form of the words in the box. More than one word might fit in each gap, but try to use all the words.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It took me quite a long time to ___ what the aim of the game was.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "grasp",
+          "explanation": "'Grasp' means to understand something difficult."
+        },
+        {
+          "number": 2,
+          "sentence": "The jury are still ___ , but they're expected to reach a verdict soon.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "deliberating",
+          "explanation": "A jury 'deliberates' when they discuss a case carefully."
+        },
+        {
+          "number": 3,
+          "sentence": "I ___ from your tutor that you're thinking of changing course.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "gather",
+          "explanation": "'Gather' here means to understand or hear information indirectly."
+        },
+        {
+          "number": 4,
+          "sentence": "You really have to ___ very hard when you are doing calligraphy.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "concentrate",
+          "explanation": "Calligraphy requires intense focus or 'concentration'."
+        },
+        {
+          "number": 5,
+          "sentence": "I'm seriously ___ asking for a pay rise tomorrow.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "considering",
+          "explanation": "'Considering' (or 'contemplating') means thinking about a future action."
+        },
+        {
+          "number": 6,
+          "sentence": "How long do you ___ it'll take to get to Manchester?",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "reckon",
+          "explanation": "'Reckon' is an informal way to say 'think' or 'estimate'."
+        },
+        {
+          "number": 7,
+          "sentence": "I don't ___ I could borrow your lecture notes this weekend, could I?",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "suppose",
+          "explanation": "'I don't suppose...' is a polite way to ask for something."
+        },
+        {
+          "number": 8,
+          "sentence": "If you've ever ___ the question 'Why does the universe bother to exist?', then this is the book for you.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "pondered",
+          "explanation": "'Ponder' means to think deeply about something."
+        },
+        {
+          "number": 9,
+          "sentence": "Let's not even ___ the possibility of failure.",
+          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "answer": "contemplate",
+          "explanation": "'Contemplate' means to consider something as a possibility."
+        }
+      ]
+    },
+    {
+      "id": "u2_C",
+      "label": "C",
+      "type": "word_swap",
+      "instruction": "Each of the words in bold is in the wrong sentence. Write the correct words on the lines.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I'm in a real ___ because I've been invited to two parties on Saturday and I don't know which one to go to. (Original: hunch)",
+          "answer": "dilemma",
+          "explanation": "A 'dilemma' is a difficult choice between two options."
+        },
+        {
+          "number": 2,
+          "sentence": "Dave said he's got complete ___ in us, and thinks we're going to do a great job. (Original: guesswork)",
+          "answer": "faith",
+          "explanation": "You have 'faith' (trust) in someone."
+        },
+        {
+          "number": 3,
+          "sentence": "Sarah's a/an ___ when it comes to astrophysics, but she's not very practical in everyday things. (Original: intuition)",
+          "answer": "genius",
+          "explanation": "A 'genius' is someone highly talented or intelligent."
+        },
+        {
+          "number": 4,
+          "sentence": "You often need to use a little educated ___ when you're starting a cryptic crossword. (Original: notion)",
+          "answer": "guesswork",
+          "explanation": "'Educated guesswork' is a common collocation."
+        },
+        {
+          "number": 5,
+          "sentence": "I've got a/an ___ that someone in this office is going to get promoted soon. (Original: ideology)",
+          "answer": "hunch",
+          "explanation": "A 'hunch' is a feeling that something will happen."
+        },
+        {
+          "number": 6,
+          "sentence": "Communism and capitalism are very different types of ___. (Original: dilemma)",
+          "answer": "ideology",
+          "explanation": "Ideologies are sets of political beliefs."
+        },
+        {
+          "number": 7,
+          "sentence": "Who gave you the ___ for the main character in the book? (Original: faith)",
+          "answer": "inspiration",
+          "explanation": "'Inspiration' refers to the source of a creative idea."
+        },
+        {
+          "number": 8,
+          "sentence": "Detective Tacker had absolutely no evidence that Roddard was involved, but all his ___ told him that he was. (Original: paradox)",
+          "answer": "intuition",
+          "explanation": "'Intuition' is a gut feeling or instinct."
+        },
+        {
+          "number": 9,
+          "sentence": "I've got a small ___ about the exam syllabus. Should I talk to Mrs Jacobs about it? (Original: inspiration)",
+          "answer": "query",
+          "explanation": "A 'query' is a question or doubt."
+        },
+        {
+          "number": 10,
+          "sentence": "Paying mothers a salary to raise their children is an interesting ___. (Original: genius)",
+          "answer": "notion",
+          "explanation": "A 'notion' is an idea or concept."
+        },
+        {
+          "number": 11,
+          "sentence": "The fact that more people would come here if the place wasn't so crowded is a real ___. (Original: query)",
+          "answer": "paradox",
+          "explanation": "A 'paradox' is a contradictory situation."
+        }
+      ]
+    },
+    {
+      "id": "u2_D",
+      "label": "D",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "the secondary education system also needs a major overhaul. firstly, the system only views the weakest learners as having special (1) ___.",
+          "options": ["requests", "desires", "needs", "wants"],
+          "answer": "needs",
+          "explanation": "'Special needs' is a standard term in education."
+        },
+        {
+          "number": 2,
+          "sentence": "The brightest and most (2) ___ students are not encouraged to develop to their full potential.",
+          "options": ["inattentive", "ignorant", "intensive", "conscientious"],
+          "answer": "conscientious",
+          "explanation": "'Conscientious' describes hardworking and diligent students."
+        },
+        {
+          "number": 3,
+          "sentence": "My fifteen-year-old daughter, for example, has just spent the last month or so (3) ___ for exams.",
+          "options": ["cramming", "lecturing", "reading", "practising"],
+          "answer": "cramming",
+          "explanation": "'Cramming' means studying hard just before exams."
+        },
+        {
+          "number": 4,
+          "sentence": "They're just (4) ___ exams.",
+          "options": ["false", "mock", "fake", "artificial"],
+          "answer": "mock",
+          "explanation": "'Mock exams' are practice exams."
+        },
+        {
+          "number": 5,
+          "sentence": "Is the work she's been doing really going to make her more (5) ___ about her subjects...",
+          "options": ["knowledgeable", "intellectual", "academic", "intelligent"],
+          "answer": "knowledgeable",
+          "explanation": "'Knowledgeable' means knowing a lot about a subject."
+        },
+        {
+          "number": 6,
+          "sentence": "Thirdly, the standard (6) ___ doesn't give students any...",
+          "options": ["timetable", "lecture", "seminar", "curriculum"],
+          "answer": "curriculum",
+          "explanation": "'Curriculum' refers to the overall program of study."
+        },
+        {
+          "number": 7,
+          "sentence": "...doesn't give students any (7) ___ in developing practical work-related, living and social skills,",
+          "options": ["lesson", "subject", "tuition", "tutorial"],
+          "answer": "tuition",
+          "explanation": "'Tuition' refers to the teaching or instruction provided."
+        },
+        {
+          "number": 8,
+          "sentence": "...the difference is between (8) ___ someone else's work and making good use of someone else's ideas?",
+          "options": ["writing", "going over", "plagiarising", "repeating"],
+          "answer": "plagiarising",
+          "explanation": "'Plagiarising' is copying someone else's work."
+        },
+        {
+          "number": 9,
+          "sentence": "How many of them are really able to go about (9) ___ - a skill that's essential at university...",
+          "options": ["reviewing", "revision", "distance learning", "self-study"],
+          "answer": "self-study",
+          "explanation": "'Self-study' is independent learning."
+        },
+        {
+          "number": 10,
+          "sentence": "Indeed, how many students (10) ___ from university totally unable to spell...",
+          "options": ["qualify", "graduate", "depart", "exit"],
+          "answer": "graduate",
+          "explanation": "Students 'graduate' from university."
+        }
+      ]
+    },
+    {
+      "id": "u2_E",
+      "label": "E",
+      "type": "matching",
+      "instruction": "Match to make sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I'm going to have to mull this ___",
+          "answer": "over for a while before I make a final decision.",
+          "explanation": "'Mull over' means to think carefully."
+        },
+        {
+          "number": 2,
+          "sentence": "Detectives are still trying to piece ___",
+          "answer": "together exactly what happened that evening.",
+          "explanation": "'Piece together' means to reconstruct a situation from information."
+        },
+        {
+          "number": 3,
+          "sentence": "It took him a very long time to take ___",
+          "answer": "in the fact that he'd never see her again.",
+          "explanation": "'Take in' means to understand or accept something."
+        },
+        {
+          "number": 4,
+          "sentence": "Tell us how you hit ___",
+          "answer": "upon such a great idea for a website.",
+          "explanation": "'Hit upon' means to suddenly have an idea."
+        },
+        {
+          "number": 5,
+          "sentence": "It took us ages to figure ___",
+          "answer": "out how to get everyone to the sports centre without Phil knowing.",
+          "explanation": "'Figure out' means to solve a problem or understand something."
+        },
+        {
+          "number": 6,
+          "sentence": "I've just thought ___",
+          "answer": "up a brilliant excuse to tell Rachel.",
+          "explanation": "'Thought up' means to invent or imagine."
+        },
+        {
+          "number": 7,
+          "sentence": "I'm not sure we've thought ___",
+          "answer": "this through properly yet.",
+          "explanation": "'Thought through' means to consider facts thoroughly."
+        }
+      ]
+    },
+    {
+      "id": "u2_F",
+      "label": "F",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap so that each second sentence has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I need to ___ over your offer very carefully before I make a decision.",
+          "answer": "mull",
+          "explanation": "mull over = consider carefully"
+        },
+        {
+          "number": 2,
+          "sentence": "Lee came ___ ___ the brilliant idea of booking a clown for the end-of-term party.",
+          "answer": "up with",
+          "explanation": "come up with = think of an idea"
+        },
+        {
+          "number": 3,
+          "sentence": "It's time you faced ___ ___ the fact that you've got responsibilities now.",
+          "answer": "up to",
+          "explanation": "face up to = accept and deal with"
+        },
+        {
+          "number": 4,
+          "sentence": "I'm going to have to brush ___ ___ my spoken German before I go to Munich.",
+          "answer": "up on",
+          "explanation": "brush up on = improve skills/knowledge"
+        },
+        {
+          "number": 5,
+          "sentence": "I didn't like the idea at first but I've ___ round ___ it now.",
+          "answer": "come; to",
+          "explanation": "come round to = change opinion to agree"
+        },
+        {
+          "number": 6,
+          "sentence": "There's nothing to swot ___ ___ as it's a general knowledge quiz.",
+          "answer": "up on",
+          "explanation": "swot up on = study hard for an exam"
+        },
+        {
+          "number": 7,
+          "sentence": "I was unable to ___ out what the speaker was saying because we were right at the back of the hall.",
+          "answer": "make",
+          "explanation": "make out = hear or understand with difficulty"
+        },
+        {
+          "number": 8,
+          "sentence": "We finally puzzled ___ a way to get the band into the hotel without the press knowing.",
+          "answer": "out",
+          "explanation": "puzzle out = solve a complicated problem"
+        },
+        {
+          "number": 9,
+          "sentence": "I've been ___ up on the history of English language teaching recently.",
+          "answer": "reading",
+          "explanation": "read up on = get information by reading"
+        }
+      ]
+    },
+    {
+      "id": "u2_G",
+      "label": "G",
+      "type": "gap_fill",
+      "instruction": "Phrasal verbs with out, such as puzzle out, are often connected to the idea of finding information. Which of these phrasal verbs with out are also connected to this idea?",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Did you find out what time the parents' meeting is?",
+          "answer": "Yes",
+          "explanation": "find out = discover information"
+        },
+        {
+          "number": 2,
+          "sentence": "I've been checking out whether it's better to go by ferry or plane.",
+          "answer": "Yes",
+          "explanation": "check out = investigate/examine for info"
+        },
+        {
+          "number": 3,
+          "sentence": "Susie reckons she's sussed out a great way to get into the club for free.",
+          "answer": "Yes",
+          "explanation": "suss out = discover/realize something"
+        },
+        {
+          "number": 4,
+          "sentence": "We all piled out into the playground.",
+          "answer": "No",
+          "explanation": "pile out = move in a group (physical movement)"
+        },
+        {
+          "number": 5,
+          "sentence": "I can't figure out how to change my password.",
+          "answer": "Yes",
+          "explanation": "figure out = solve/understand"
+        },
+        {
+          "number": 6,
+          "sentence": "The band were completely drowned out by all the screaming fans.",
+          "answer": "No",
+          "explanation": "drown out = be louder than another sound"
+        },
+        {
+          "number": 7,
+          "sentence": "I'm going to sound Bob out about his investing in the company.",
+          "answer": "No",
+          "explanation": "sound out = try to find out someone's opinion"
+        },
+        {
+          "number": 8,
+          "sentence": "Two essays really do stand out from the rest.",
+          "answer": "No",
+          "explanation": "stand out = be very noticeable"
+        },
+        {
+          "number": 9,
+          "sentence": "Jan's good at keeping secrets, so you'll have to worm it out of her!",
+          "answer": "Yes",
+          "explanation": "worm out of = get information someone doesn't want to give"
+        },
+        {
+          "number": 10,
+          "sentence": "None of us could fathom out why the experiment wasn't working.",
+          "answer": "Yes",
+          "explanation": "fathom out = understand/work out"
+        }
+      ]
+    },
+    {
+      "id": "u2_H",
+      "label": "H",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Jim seems to be ___ the misapprehension that tomorrow's a holiday. It isn't.",
+          "answer": "under",
+          "explanation": "under the misapprehension that = believing something wrong"
+        },
+        {
+          "number": 2,
+          "sentence": "These findings cast doubt ___ previous research done in this field.",
+          "answer": "on",
+          "explanation": "cast doubt on = make something seem uncertain"
+        },
+        {
+          "number": 3,
+          "sentence": "This photo's a little ___ of focus, but you can still see their faces.",
+          "answer": "out",
+          "explanation": "out of focus = not clear"
+        },
+        {
+          "number": 4,
+          "sentence": "Look ___ the bright side - it's nearly the end of term.",
+          "answer": "on",
+          "explanation": "look on the bright side = be optimistic"
+        },
+        {
+          "number": 5,
+          "sentence": "I'm not against animal testing ___ principle.",
+          "answer": "in",
+          "explanation": "in principle = in general/theory"
+        },
+        {
+          "number": 6,
+          "sentence": "I think I'll always associate this song ___ our holiday in Majorca.",
+          "answer": "with",
+          "explanation": "associate something with"
+        },
+        {
+          "number": 7,
+          "sentence": "You have to bear ___ mind that there'll be quite a few children there.",
+          "answer": "in",
+          "explanation": "bear in mind = remember/consider"
+        },
+        {
+          "number": 8,
+          "sentence": "Where did Susan's belief ___ reincarnation come from?",
+          "answer": "in",
+          "explanation": "belief in something"
+        },
+        {
+          "number": 9,
+          "sentence": "Dad said that my borrowing the car tonight was ___ of the question.",
+          "answer": "out",
+          "explanation": "out of the question = impossible/not allowed"
+        },
+        {
+          "number": 10,
+          "sentence": "Hearing the news about Caroline put my small problems ___ perspective.",
+          "answer": "into",
+          "explanation": "put into perspective = see things in their true importance"
+        },
+        {
+          "number": 11,
+          "sentence": "What's the best course of action from your point ___ view?",
+          "answer": "of",
+          "explanation": "point of view = perspective"
+        },
+        {
+          "number": 12,
+          "sentence": "You were hired ___ the basis that you would be able to work on Sundays.",
+          "answer": "on",
+          "explanation": "on the basis that = because/given that"
+        },
+        {
+          "number": 13,
+          "sentence": "___ balance, I think the government's doing a reasonable job.",
+          "answer": "On",
+          "explanation": "on balance = overall"
+        },
+        {
+          "number": 14,
+          "sentence": "We haven't taken Julie's thoughts ___ account at all.",
+          "answer": "into",
+          "explanation": "take into account = consider"
+        },
+        {
+          "number": 15,
+          "sentence": "___ conclusion, I'd like to thank everyone who supported me during the early years.",
+          "answer": "In",
+          "explanation": "in conclusion = finally"
+        }
+      ]
+    },
+    {
+      "id": "u2_I",
+      "label": "I",
+      "type": "gap_fill",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I was so tired that I couldn't even think ___. / I'll come ___ to the point - you're fired! / It's time to set the record ___ about what really happened that night.",
+          "answer": "straight",
+          "explanation": "think straight, come straight to the point, set the record straight."
+        },
+        {
+          "number": 2,
+          "sentence": "She's only eight, but she has the ___ age of an 18-year-old. / Many ___ illnesses can be cured these days. / I'm not very good at ___ arithmetic.",
+          "answer": "mental",
+          "explanation": "mental age, mental illness, mental arithmetic."
+        },
+        {
+          "number": 3,
+          "sentence": "Philip does a very funny ___ of Tony. / You really made an ___ on Pete - he hasn't stopped talking about you! / Why was I under the ___ that the exam was on Thursday?",
+          "answer": "impression",
+          "explanation": "do an impression (imitate), make an impression, under the impression (believing)."
+        },
+        {
+          "number": 4,
+          "sentence": "Carter was the ___ behind the whole criminal operation. / Could I just pick your ___ about good places to eat around here? / We sat there racking our ___ trying to think of a place to take Paul and Doug in the evening.",
+          "answer": "brains",
+          "explanation": "brains behind (leader), pick your brains, rack your brains."
+        },
+        {
+          "number": 5,
+          "sentence": "Someone with no ___ of smell can't taste food well either. / I can't make ___ of this film at all - what's going on? / Unplugging a toaster before you try to fix it is just common ___ , isn't it?",
+          "answer": "sense",
+          "explanation": "sense of smell, make sense (understand), common sense."
+        },
+        {
+          "number": 6,
+          "sentence": "I thought Gordon's new invention wouldn't work at all, but in fact it worked like a ___. / Winning a cruise on the Queen Mary was a ___ come true for me and Albert. / I've had the same recurring ___ for four nights in a row.",
+          "answer": "dream",
+          "explanation": "worked like a dream, dream come true, recurring dream."
+        },
+        {
+          "number": 7,
+          "sentence": "Motorists should always show ___ for pedestrians crossing the street at a zebra crossing. / I'll give some ___ to your proposals and get back to you. / We stupidly didn't take changes in interest rates into ___ when we got a mortgage for our house.",
+          "answer": "consideration",
+          "explanation": "show consideration, give consideration, take into consideration."
+        }
+      ]
+    },
+    {
+      "id": "u2_J",
+      "label": "J",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's (1) ___ my principles to trust anything I read on the Internet.",
+          "answer": "against",
+          "explanation": "against one's principles = contrary to beliefs"
+        },
+        {
+          "number": 2,
+          "sentence": "I've started this organisation (2) ___ the belief that there are millions like me...",
+          "answer": "in",
+          "explanation": "in the belief that = because one believes"
+        },
+        {
+          "number": 3,
+          "sentence": "...who (3) ___ their doubts about information presented as fact...",
+          "answer": "have",
+          "explanation": "have doubts = be unsure"
+        },
+        {
+          "number": 4,
+          "sentence": "There's no question (4) ___ us shutting down the Internet...",
+          "answer": "of",
+          "explanation": "no question of = no possibility of"
+        },
+        {
+          "number": 5,
+          "sentence": "...but DTOI has been set up with a (5) ___ to raising awareness.",
+          "answer": "view",
+          "explanation": "with a view to doing = with the intention of"
+        },
+        {
+          "number": 6,
+          "sentence": "I made up my (6) ___ long ago not to completely trust anything I heard or read.",
+          "answer": "mind",
+          "explanation": "make up one's mind = decide"
+        }
+      ]
+    },
+    {
+      "id": "u2_K",
+      "label": "K",
+      "type": "word_form",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I never thought that we'd have legal problems. crossed -> It ___ that we'd have legal problems.",
+          "answer": "never crossed my mind",
+          "explanation": "cross one's mind = think of something"
+        },
+        {
+          "number": 2,
+          "sentence": "I've decided that teaching is not the right profession for me. conclusion -> I've ___ that teaching is not the right profession for me.",
+          "answer": "come to the conclusion",
+          "explanation": "come to the conclusion = decide after thinking"
+        },
+        {
+          "number": 3,
+          "sentence": "Could you tell me where you were last night, Mr Johnson? account -> Could you ___ your whereabouts last night, Mr Johnson?",
+          "answer": "give an account of",
+          "explanation": "give an account of = describe/explain"
+        },
+        {
+          "number": 4,
+          "sentence": "The journalist pretended that she was a parent of one of the children. false -> The journalist ___ that she was a parent of one of the children.",
+          "answer": "gave the false impression",
+          "explanation": "give a false impression = make people believe something not true"
+        },
+        {
+          "number": 5,
+          "sentence": "You have to use logic and lateral thinking in equal measure in this job. strike -> You have to ___ logic and lateral thinking in this job.",
+          "answer": "strike a balance between",
+          "explanation": "strike a balance between = find a middle ground"
+        },
+        {
+          "number": 6,
+          "sentence": "I didn't tell Angie because I didn't want to hurt Eddie's feelings. consideration -> I didn't tell Angie ___ Eddie.",
+          "answer": "out of consideration for",
+          "explanation": "out of consideration for = because of care for someone"
+        }
+      ]
+    },
+    {
+      "id": "u2_L",
+      "label": "L",
+      "type": "gap_fill",
+      "instruction": "Complete using the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The name Alan Hickson rings a ___ , but I can't place him.",
+          "answer": "bell",
+          "explanation": "ring a bell = sound familiar"
+        },
+        {
+          "number": 2,
+          "sentence": "Stop wasting time splitting ___ and look at the big picture.",
+          "answer": "hairs",
+          "explanation": "split hairs = argue over minor details"
+        },
+        {
+          "number": 3,
+          "sentence": "Ask Simon about the sales targets. He always knows what's ___ .",
+          "answer": "what",
+          "explanation": "know what's what = know important facts"
+        },
+        {
+          "number": 4,
+          "sentence": "You've got to have your ___ about you to succeed in advertising.",
+          "answer": "wits",
+          "explanation": "have your wits about you = think quickly/sensibly"
+        },
+        {
+          "number": 5,
+          "sentence": "Don't let success go to your ___ , will you?",
+          "answer": "head",
+          "explanation": "go to one's head = make one conceited"
+        },
+        {
+          "number": 6,
+          "sentence": "No one told us that Diana was leaving, but we all put two and ___ together.",
+          "answer": "two",
+          "explanation": "put two and two together = deduce"
+        },
+        {
+          "number": 7,
+          "sentence": "I'm going to go round the ___ if they don't turn that music down soon.",
+          "answer": "bend",
+          "explanation": "go round the bend = go crazy"
+        },
+        {
+          "number": 8,
+          "sentence": "Let's take ___ of the situation before we make a final decision.",
+          "answer": "stock",
+          "explanation": "take stock of = evaluate the situation"
+        },
+        {
+          "number": 9,
+          "sentence": "How did they manage to keep me completely in the ___ about this for so long?",
+          "answer": "dark",
+          "explanation": "in the dark = not knowing/uninformed"
+        },
+        {
+          "number": 10,
+          "sentence": "The problem with Jane is that sometimes she can't see the ___ for the trees.",
+          "answer": "wood",
+          "explanation": "not see the wood for the trees = miss the big picture"
+        },
+        {
+          "number": 11,
+          "sentence": "How did Dan take so long? He's usually quicker on the ___ than that, isn't he?",
+          "answer": "uptake",
+          "explanation": "quick on the uptake = quick to understand"
+        },
+        {
+          "number": 12,
+          "sentence": "Frankly, you're completely wrong and you haven't got a ___ to stand on.",
+          "answer": "leg",
+          "explanation": "not have a leg to stand on = no way to prove right"
+        }
+      ]
+    },
+    {
+      "id": "u2_M",
+      "label": "M",
+      "type": "word_form",
+      "instruction": "Complete the sentences by changing the form of the word in capitals.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "There was quite a bit of ___ because the examiner handed out the wrong exam papers. (CONFUSE)",
+          "answer": "confusion",
+          "explanation": "noun form"
+        },
+        {
+          "number": 2,
+          "sentence": "You're acting completely ___ . Just calm down and pull yourself together. (RATIONAL)",
+          "answer": "irrationally",
+          "explanation": "adverb form (negative)"
+        },
+        {
+          "number": 3,
+          "sentence": "Einstein's ___ went unnoticed at school. (BRILLIANT)",
+          "answer": "brilliance",
+          "explanation": "noun form"
+        },
+        {
+          "number": 4,
+          "sentence": "This is generally considered to be the ___ guide to Australia. (DEFINE)",
+          "answer": "definitive",
+          "explanation": "adjective form meaning 'authoritative'"
+        },
+        {
+          "number": 5,
+          "sentence": "It's absolutely ___ why the council decided to close down the youth club. (EXPLAIN)",
+          "answer": "inexplicable",
+          "explanation": "adjective form (negative)"
+        },
+        {
+          "number": 6,
+          "sentence": "I just stood there and listened in ___ as Ben told me the news. (BELIEVE)",
+          "answer": "disbelief",
+          "explanation": "noun form (negative)"
+        },
+        {
+          "number": 7,
+          "sentence": "Greg's ___ to say the least, so I wouldn't ask him to choose a hotel. (DECIDE)",
+          "answer": "indecisive",
+          "explanation": "adjective form (negative)"
+        },
+        {
+          "number": 8,
+          "sentence": "Many children create ___ friends to talk to. (IMAGINE)",
+          "answer": "imaginary",
+          "explanation": "adjective form"
+        },
+        {
+          "number": 9,
+          "sentence": "He was found not guilty by reason of ___ and so was sent to a mental institution... (SANE)",
+          "answer": "insanity",
+          "explanation": "noun form (negative)"
+        },
+        {
+          "number": 10,
+          "sentence": "Your argument is ___ . Just because you want me to be a doctor doesn't mean I want to be one. (LOGIC)",
+          "answer": "illogical",
+          "explanation": "adjective form (negative)"
+        }
+      ]
+    },
+    {
+      "id": "u2_N",
+      "label": "N",
+      "type": "multiple_choice",
+      "instruction": "The prefix ii-, as in illogical, is often used to make a positive word negative. Which of the words in bold in the following sentences are negative forms of positive words?",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Doctors' handwriting is usually illegible.",
+          "options": ["Yes", "No"],
+          "answer": "Yes",
+          "explanation": "illegible = not legible"
+        },
+        {
+          "number": 2,
+          "sentence": "There's a beautiful illustration on page six.",
+          "options": ["Yes", "No"],
+          "answer": "No",
+          "explanation": "illustration is a base noun"
+        },
+        {
+          "number": 3,
+          "sentence": "People who are illiterate may need some help filling in forms.",
+          "options": ["Yes", "No"],
+          "answer": "Yes",
+          "explanation": "illiterate = not literate"
+        },
+        {
+          "number": 4,
+          "sentence": "She had an illustrious career as a local politician.",
+          "options": ["Yes", "No"],
+          "answer": "No",
+          "explanation": "illustrious is a base adjective"
+        },
+        {
+          "number": 5,
+          "sentence": "It's a totally illiberal law that's just going to restrict our freedoms further.",
+          "options": ["Yes", "No"],
+          "answer": "Yes",
+          "explanation": "illiberal = not liberal"
+        },
+        {
+          "number": 6,
+          "sentence": "Several senior politicians have resigned over the illegality of the war.",
+          "options": ["Yes", "No"],
+          "answer": "Yes",
+          "explanation": "illegality = not legality"
+        },
+        {
+          "number": 7,
+          "sentence": "Illegitimate children were given very little social recognition in the past.",
+          "options": ["Yes", "No"],
+          "answer": "Yes",
+          "explanation": "illegitimate = not legitimate"
+        },
+        {
+          "number": 8,
+          "sentence": "The magician didn't really cut his assistant in two - it was only an illusion.",
+          "options": ["Yes", "No"],
+          "answer": "No",
+          "explanation": "illusion is a base noun"
+        },
+        {
+          "number": 9,
+          "sentence": "The lights illuminated the building beautifully at night.",
+          "options": ["Yes", "No"],
+          "answer": "No",
+          "explanation": "illuminate is a base verb"
+        }
+      ]
+    },
+    {
+      "id": "u2_O",
+      "label": "O",
+      "type": "word_form",
+      "instruction": "Use the word given in capitals to form a word that fits in the space.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The (1) ___ of 'rhetoric', or effective public speaking, dates back thousands of years. (CONCEIVE)",
+          "answer": "conception",
+          "explanation": "noun form"
+        },
+        {
+          "number": 2,
+          "sentence": "The underlying (2) ___ behind rhetoric is that how you present an argument... (ASSUME)",
+          "answer": "assumption",
+          "explanation": "noun form"
+        },
+        {
+          "number": 3,
+          "sentence": "There is (3) ___ plenty of evidence to support this idea... (DOUBT)",
+          "answer": "undoubtedly",
+          "explanation": "adverb form"
+        },
+        {
+          "number": 4,
+          "sentence": "...it's practically (4) ___ , for example, for a successful politician to be a poor communicator... (THINK)",
+          "answer": "unthinkable",
+          "explanation": "adjective form (negative)"
+        },
+        {
+          "number": 5,
+          "sentence": "Certainly, it is often said of politicians that they talk complete (5) ___ (SENSE)",
+          "answer": "nonsense",
+          "explanation": "noun form (negative prefix)"
+        },
+        {
+          "number": 6,
+          "sentence": "...but what they say they say with such (6) ___ that we tend to believe them... (CONVINCE)",
+          "answer": "conviction",
+          "explanation": "noun form"
+        },
+        {
+          "number": 7,
+          "sentence": "On the other hand, (7) ___ and knowledge are of little value... (WISE)",
+          "answer": "wisdom",
+          "explanation": "noun form"
+        },
+        {
+          "number": 8,
+          "sentence": "It is the combination of clear (8) ___ , (REASON)",
+          "answer": "reasoning",
+          "explanation": "noun form (process of thinking)"
+        },
+        {
+          "number": 9,
+          "sentence": "sound (9) ___ and effective presentation... (JUDGE)",
+          "answer": "judgement",
+          "explanation": "noun form"
+        },
+        {
+          "number": 10,
+          "sentence": "A true rhetorician should always come across as knowledgeable, and never as (10) ___ or ignorant. (OPINION)",
+          "answer": "opinionated",
+          "explanation": "adjective form meaning 'holding stubborn opinions'"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "unit_id": 19,
+  "unit_type": "Grammar",
+  "title": "Complex sentences",
+  "grammar_topics": [
+    {
+      "topic": "Inversions with negative adverbial words and phrases",
+      "explanation_en": "Inversion happens when we put a negative adverb or adverbial phrase at the beginning of a sentence for emphasis. The subject and the auxiliary verb (do, does, did, have, can, etc.) change places.",
+      "explanation_vi": "Đảo ngữ xảy ra khi chúng ta đặt một trạng từ hoặc cụm trạng từ mang nghĩa phủ định ở đầu câu để nhấn mạnh. Chủ ngữ và trợ động từ (do, does, did, have, can, v.v.) sẽ đổi chỗ cho nhau.",
+      "rules": [
+        "Hardly/Scarcely/Barely + had + S + V3/ed + when...",
+        "No sooner + had + S + V3/ed + than...",
+        "Only after/Only when/Not until + clause/phrase + auxiliary + S + V...",
+        "Little/Never/Rarely/Seldom + auxiliary + S + V...",
+        "Under no circumstances / On no account + auxiliary + S + V..."
+      ],
+      "examples": [
+        {
+          "sentence": "Hardly had the new law been introduced when the mistake was realised.",
+          "translation": "Ngay khi luật mới vừa được ban hành thì người ta đã nhận ra sai lầm."
+        },
+        {
+          "sentence": "Only after I had checked that the burglars had left did I call the police.",
+          "translation": "Chỉ sau khi tôi đã kiểm tra chắc chắn bọn trộm đã đi rồi thì tôi mới gọi cảnh sát."
+        },
+        {
+          "sentence": "Under no circumstances will we accept an increase in working hours.",
+          "translation": "Trong bất kỳ hoàn cảnh nào, chúng tôi cũng sẽ không chấp nhận việc tăng giờ làm."
+        }
+      ],
+      "watch_out": [
+        "With 'not until' and 'only (when/after)', the inversion happens in the main clause, not the subordinate clause.",
+        "Ensure the correct correlatives are used: Hardly... when, No sooner... than."
+      ]
+    },
+    {
+      "topic": "Other inversions",
+      "explanation_en": "Inversion also occurs after 'here' and 'there', in short answers (so/neither/nor), after 'as/than' in formal contexts, and in conditional sentences without 'if'.",
+      "explanation_vi": "Đảo ngữ cũng xảy ra sau 'here' và 'there', trong các câu trả lời ngắn (so/neither/nor), sau 'as/than' trong ngữ cảnh trang trọng, và trong các câu điều kiện bỏ 'if'.",
+      "rules": [
+        "Here/There + V + S (if S is a noun)",
+        "Adverbial/Participle phrases + V + S",
+        "So/Neither/Nor + auxiliary + S",
+        "Were/Should/Had + S + V... (Conditional inversion)"
+      ],
+      "examples": [
+        {
+          "sentence": "Here comes the Minister now.",
+          "translation": "Bộ trưởng đang đến kìa."
+        },
+        {
+          "sentence": "So rare is burglary here that many people don't bother to lock their doors.",
+          "translation": "Vụ trộm ở đây hiếm đến mức nhiều người chẳng buồn khóa cửa."
+        },
+        {
+          "sentence": "Had I known about the crime problem, I would never have moved here.",
+          "translation": "Nếu tôi biết về vấn đề tội phạm, tôi đã không bao giờ chuyển đến đây."
+        }
+      ],
+      "watch_out": [
+        "If the subject is a pronoun with 'here/there', we don't invert (e.g., Here it comes, NOT Here comes it)."
+      ]
+    },
+    {
+      "topic": "Cleft sentences",
+      "explanation_en": "Cleft sentences are used to focus on a specific part of the sentence. They often start with 'It is/was...', 'What...', or 'All...'.",
+      "explanation_vi": "Câu chẻ được sử dụng để tập trung vào một phần cụ thể của câu. Chúng thường bắt đầu bằng 'It is/was...', 'What...', hoặc 'All...'.",
+      "rules": [
+        "It is/was + [focused part] + who/that + [rest of sentence]",
+        "What + clause + is/was + [focused part]",
+        "The reason (why) / The person (who) / The place (where) ... is/was ..."
+      ],
+      "examples": [
+        {
+          "sentence": "It was Carol who called the police.",
+          "translation": "Chính là Carol đã gọi cảnh sát."
+        },
+        {
+          "sentence": "What annoys me is the boss's attitude.",
+          "translation": "Điều làm tôi bực mình chính là thái độ của ông chủ."
+        },
+        {
+          "sentence": "All that Keith wanted was to get his money back.",
+          "translation": "Tất cả những gì Keith muốn là lấy lại tiền của mình."
+        }
+      ],
+      "watch_out": [
+        "In 'It is/was...' sentences, if the subject is a pronoun, 'It was I who...' is formal, while 'It was me that...' is informal."
+      ]
+    },
+    {
+      "topic": "so, such, too, enough",
+      "explanation_en": "These words are used to express degree or result.",
+      "explanation_vi": "Những từ này được sử dụng để diễn tả mức độ hoặc kết quả.",
+      "rules": [
+        "so + adjective/adverb + (that)",
+        "such + (a/an) + adjective + noun + (that)",
+        "too + adjective/adverb + (for someone) + to-infinitive",
+        "adjective/adverb + enough + to-infinitive",
+        "enough + noun"
+      ],
+      "examples": [
+        {
+          "sentence": "It all happened so quickly that I didn't have time to see the man's face.",
+          "translation": "Mọi việc xảy ra nhanh đến mức tôi không kịp nhìn mặt người đàn ông đó."
+        },
+        {
+          "sentence": "There is such a lot of crime around here that I'm thinking of moving.",
+          "translation": "Có quá nhiều tội phạm ở quanh đây đến mức tôi đang nghĩ đến việc chuyển đi."
+        },
+        {
+          "sentence": "The police weren't quick enough to catch the burglar.",
+          "translation": "Cảnh sát đã không đủ nhanh để bắt được tên trộm."
+        }
+      ],
+      "watch_out": [
+        "Too is used for negative effects (excessive), while very/extremely are just for high degree.",
+        "Don't add an extra object at the end of 'too... to' sentences (e.g., This problem is too difficult to solve, NOT solve it)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u19_A",
+      "label": "A",
+      "type": "error_correction",
+      "instruction": "If a phrase in bold is correct, put a tick. If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "*Hardly I had* sat down when the doorbell rang.",
+          "answer": "Hardly had I",
+          "explanation": "When 'Hardly' starts a sentence, we must invert the subject and auxiliary verb."
+        },
+        {
+          "number": 2,
+          "sentence": "**Scarcely had Julian** finished writing when the teacher told the students to put their pens down.",
+          "answer": "✓",
+          "explanation": "Correct inversion after 'Scarcely' at the beginning of the sentence."
+        },
+        {
+          "number": 3,
+          "sentence": "**We had barely** set off on our journey when the kids started asking when we would get there.",
+          "answer": "✓",
+          "explanation": "Correct. Inversion is not required when the negative adverb is in its mid-position."
+        },
+        {
+          "number": 4,
+          "sentence": "*No sooner the government changes* the tax laws than businesses find a way around them.",
+          "answer": "No sooner does the government change",
+          "explanation": "Inversion is required after 'No sooner' at the start of the sentence."
+        },
+        {
+          "number": 5,
+          "sentence": "*Scarcely they had* finished painting the house when it started to rain.",
+          "answer": "Scarcely had they",
+          "explanation": "Inversion is required after 'Scarcely' at the start of the sentence."
+        },
+        {
+          "number": 6,
+          "sentence": "*Hardly the new computer system had been* installed when it started to go wrong.",
+          "answer": "Hardly had the new computer system been",
+          "explanation": "Inversion is required after 'Hardly' at the start of the sentence."
+        },
+        {
+          "number": 7,
+          "sentence": "It's true that *no sooner we had* started eating than we realised we had forgotten the potatoes.",
+          "answer": "no sooner had we",
+          "explanation": "Inversion is required in the clause starting with 'no sooner'."
+        },
+        {
+          "number": 8,
+          "sentence": "Barely had the politician started to speak when *began the crowd to boo*.",
+          "answer": "the crowd began to boo",
+          "explanation": "No inversion is needed in the 'when' clause of 'Barely... when'."
+        },
+        {
+          "number": 9,
+          "sentence": "*Hardly the new park was* finished when vandals destroyed the flowerbeds.",
+          "answer": "Hardly was the new park",
+          "explanation": "Inversion is required after 'Hardly' at the start of the sentence."
+        },
+        {
+          "number": 10,
+          "sentence": "*Scarcely Keith had* arrived in Argentina when he was arrested.",
+          "answer": "Scarcely had Keith",
+          "explanation": "Inversion is required after 'Scarcely' at the start of the sentence."
+        }
+      ]
+    },
+    {
+      "id": "u19_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Complete using the words and phrases in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "___ were the security guards to blame for what happened.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "In no way",
+          "explanation": "'In no way' means 'not at all', fitting the context of blaming the guards."
+        },
+        {
+          "number": 2,
+          "sentence": "___ once did the old woman thank me for helping her.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Not",
+          "explanation": "'Not once' is a common phrase meaning 'never' and triggers inversion."
+        },
+        {
+          "number": 3,
+          "sentence": "___ seeing the doctor was Theresa allowed to leave hospital.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Only after",
+          "explanation": "'Only after' indicates a sequence of events and triggers inversion in the main clause."
+        },
+        {
+          "number": 4,
+          "sentence": "___ will passengers be allowed to carry more than 6 kg of hand luggage.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Under no circumstances",
+          "explanation": "This is a formal rule, meaning 'absolutely not allowed'."
+        },
+        {
+          "number": 5,
+          "sentence": "___ were you late, but you also forgot to bring the correct documents.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Not only",
+          "explanation": "The presence of 'but... also' indicates the structure 'Not only... but also'."
+        },
+        {
+          "number": 6,
+          "sentence": "___ during the meeting did anyone mention that the managing director was planning to leave.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "At no point",
+          "explanation": "'At no point' means 'never' during a specific period of time."
+        },
+        {
+          "number": 7,
+          "sentence": "___ did the passengers know that the driver was really an undercover police officer.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Little",
+          "explanation": "'Little did someone know' is a common idiom meaning they had no idea."
+        },
+        {
+          "number": 8,
+          "sentence": "___ do you meet anyone as charming as Mr Beeching.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Rarely",
+          "explanation": "'Rarely' means 'not often' and fits with the positive description of being charming."
+        },
+        {
+          "number": 9,
+          "sentence": "___ should unaccompanied children be allowed to enter the area.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "On no account",
+          "explanation": "Similar to 'under no circumstances', it expresses a strict prohibition."
+        },
+        {
+          "number": 10,
+          "sentence": "___ before has the company found itself facing such stiff competition.",
+          "options": ["at no point", "in no way", "little", "never", "not", "not only", "only after", "on no account", "rarely", "under no circumstances"],
+          "answer": "Never",
+          "explanation": "'Never before' is a standard emphatic expression of past experience."
+        }
+      ]
+    },
+    {
+      "id": "u19_C",
+      "label": "C",
+      "type": "word_form",
+      "instruction": "Complete using the words in bold with the verb in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Not until the area is made safe ___ . (construction / can continue)",
+          "answer": "can construction continue",
+          "explanation": "After 'Not until...', the main clause is inverted (auxiliary + subject + verb)."
+        },
+        {
+          "number": 2,
+          "sentence": "In no way ___ how strongly we felt about the situation. (the announcement / affect)",
+          "answer": "did the announcement affect",
+          "explanation": "Inversion after 'In no way' requires 'did' for the past tense."
+        },
+        {
+          "number": 3,
+          "sentence": "Seldom ___ a vintage car in quite such good condition these days. (you / see)",
+          "answer": "do you see",
+          "explanation": "Inversion after 'Seldom' in the present simple requires 'do'."
+        },
+        {
+          "number": 4,
+          "sentence": "Not only ___ my birthday, but he also forgot our wedding anniversary. (Jerry / forget)",
+          "answer": "did Jerry forget",
+          "explanation": "Inversion after 'Not only' requires 'did' for the past event."
+        },
+        {
+          "number": 5,
+          "sentence": "At no time ___ my opinion on the subject. (I / ask)",
+          "answer": "was I asked",
+          "explanation": "Passive voice inversion: 'was' (auxiliary) + 'I' (subject) + 'asked' (past participle)."
+        },
+        {
+          "number": 6,
+          "sentence": "Only when ___ the ticket again did I realise that I had won first prize! (I / checked)",
+          "answer": "I had checked",
+          "explanation": "No inversion inside the 'Only when' clause; inversion follows in the main clause ('did I realise')."
+        },
+        {
+          "number": 7,
+          "sentence": "Little ___ that I had a big surprise planned for her. (Caroline / realise)",
+          "answer": "did Caroline realise",
+          "explanation": "Standard inversion with 'Little' to show lack of awareness."
+        },
+        {
+          "number": 8,
+          "sentence": "Under no circumstances ___ a contract you haven't read thoroughly. (you / should sign)",
+          "answer": "should you sign",
+          "explanation": "Modal 'should' is inverted with the subject 'you' after 'Under no circumstances'."
+        },
+        {
+          "number": 9,
+          "sentence": "At no stage ___ likely that Wilkinson would win the championship. (it / appear)",
+          "answer": "did it appear",
+          "explanation": "Inversion after 'At no stage' in the past simple."
+        },
+        {
+          "number": 10,
+          "sentence": "Only if the weather is clear ___ to launch. (the space shuttle / will allow)",
+          "answer": "will the space shuttle be allowed",
+          "explanation": "The main clause is inverted and requires passive voice ('be allowed')."
+        }
+      ]
+    },
+    {
+      "id": "u19_D",
+      "label": "D",
+      "type": "fill_blank",
+      "instruction": "Complete using a verb from the box in the correct form. Try to use each verb at least once. (appear, be, come, go, lie, sit, stand)",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "'There ___ our new neighbour now,' said Joe.",
+          "answer": "comes",
+          "explanation": "Present simple 'comes' following 'There' to indicate someone's arrival."
+        },
+        {
+          "number": 2,
+          "sentence": "I looked up and coming along the path ___ a short, fat man.",
+          "answer": "was",
+          "explanation": "Inversion with a participle phrase. 'Was' is the verb connecting the subject 'a short, fat man'."
+        },
+        {
+          "number": 3,
+          "sentence": "On his head ___ a bright red baseball cap.",
+          "answer": "sat",
+          "explanation": "Inversion with a prepositional phrase, using 'sat' to describe the position of the cap."
+        },
+        {
+          "number": 4,
+          "sentence": "From an upstairs window ___ the sound of loud rock music.",
+          "answer": "came",
+          "explanation": "Inversion with a prepositional phrase to describe the source of the sound."
+        },
+        {
+          "number": 5,
+          "sentence": "In his hand ___ a letter from the council.",
+          "answer": "was",
+          "explanation": "Inversion with a prepositional phrase describing what was in Joe's hand."
+        },
+        {
+          "number": 6,
+          "sentence": "There ___ a little old woman, looking up at us, smiling.",
+          "answer": "stood",
+          "explanation": "Inversion after 'There' to describe the woman's position."
+        },
+        {
+          "number": 7,
+          "sentence": "On the sofa behind her ___ a fat old cat.",
+          "answer": "sat",
+          "explanation": "Inversion with a prepositional phrase to describe where the cat was."
+        },
+        {
+          "number": 8,
+          "sentence": "Suddenly, in the doorway ___ the same fat man I had seen earlier.",
+          "answer": "appeared",
+          "explanation": "Inversion after a prepositional phrase to describe someone's sudden appearance."
+        }
+      ]
+    },
+    {
+      "id": "u19_E",
+      "label": "E",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Dave doesn't really trust Ian, and I have to say that ___ .",
+          "options": ["neither I do", "do I"],
+          "answer": "do I",
+          "explanation": "After 'neither', we use inversion (neither + auxiliary + subject)."
+        },
+        {
+          "number": 2,
+          "sentence": "___ that the public are not allowed to get close to it.",
+          "options": ["Such a valuable painting it is", "is it"],
+          "answer": "is it",
+          "explanation": "Inversion follows 'Such + adj + noun' for emphasis."
+        },
+        {
+          "number": 3,
+          "sentence": "___ watch TV while we ate, we moved the television onto the balcony.",
+          "options": ["So we could", "could we"],
+          "answer": "So we could",
+          "explanation": "'So' here means 'in order that', not an emphatic inversion, so no inversion is used."
+        },
+        {
+          "number": 4,
+          "sentence": "My dad's never been abroad, and ___ .",
+          "options": ["nor my mum has", "has my mum"],
+          "answer": "has my mum",
+          "explanation": "After 'nor', we use inversion."
+        },
+        {
+          "number": 5,
+          "sentence": "___ in the wedding that there were over a dozen photographers.",
+          "options": ["Such the media interest was", "was the media interest"],
+          "answer": "was the media interest",
+          "explanation": "Inversion follows 'Such + noun' for emphasis."
+        },
+        {
+          "number": 6,
+          "sentence": "It's been a hard season for the team, ___ .",
+          "options": ["as last season was", "was last season"],
+          "answer": "as last season was / was last season",
+          "explanation": "Both forms are correct after 'as' in formal comparison, though the inverted one is more formal."
+        },
+        {
+          "number": 7,
+          "sentence": "Russia is a country with vast natural resources, and ___ .",
+          "options": ["so China is", "is China"],
+          "answer": "is China",
+          "explanation": "After 'so' in a short addition meaning 'also', we use inversion."
+        },
+        {
+          "number": 8,
+          "sentence": "We in this country spend more per person on fuel than ___ .",
+          "options": ["the French do", "do the French"],
+          "answer": "the French do / do the French",
+          "explanation": "Both are correct after 'than' in formal comparison."
+        },
+        {
+          "number": 9,
+          "sentence": "The Minister was forced to resign, ___ on her.",
+          "options": ["such the pressure was", "was the pressure"],
+          "answer": "was the pressure",
+          "explanation": "The structure 'such was the pressure' is used for emphasis."
+        },
+        {
+          "number": 10,
+          "sentence": "___ that I was almost certain he was lying.",
+          "options": ["So nervous he was", "was he"],
+          "answer": "was he",
+          "explanation": "Inversion follows 'So + adjective' at the start of a sentence for emphasis."
+        }
+      ]
+    },
+    {
+      "id": "u19_F",
+      "label": "F",
+      "type": "transformation",
+      "instruction": "Rewrite the sentences, starting with the words given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The window was broken by a cricket ball. -> It ___",
+          "answer": "It was a cricket ball that/which broke the window.",
+          "explanation": "Cleft sentence to focus on the object 'a cricket ball'."
+        },
+        {
+          "number": 2,
+          "sentence": "I will never forget the day I heard I'd got into my chosen university. -> The day on ___",
+          "answer": "The day on which I heard I'd got into my chosen university is a day I will never forget.",
+          "explanation": "Using a relative clause starting with 'on which'."
+        },
+        {
+          "number": 3,
+          "sentence": "Glynn became a social worker to help people less fortunate than himself. -> The reason ___",
+          "answer": "The reason why Glynn became a social worker was to help people less fortunate than himself.",
+          "explanation": "Cleft sentence focusing on the reason."
+        },
+        {
+          "number": 4,
+          "sentence": "Getting through the summer without getting injured was the only thing the athlete wanted. -> All ___",
+          "answer": "All the athlete wanted was to get through the summer without getting injured.",
+          "explanation": "Cleft sentence starting with 'All'."
+        },
+        {
+          "number": 5,
+          "sentence": "The driver didn't see the motorcyclist. -> What happened ___",
+          "answer": "What happened was that the driver didn't see the motorcyclist.",
+          "explanation": "Cleft sentence using 'What happened'."
+        },
+        {
+          "number": 6,
+          "sentence": "Christopher Columbus discovered America. -> The person ___",
+          "answer": "The person who discovered America was Christopher Columbus.",
+          "explanation": "Cleft sentence focusing on the person."
+        },
+        {
+          "number": 7,
+          "sentence": "Seeing Patricia cry like that made me feel guilty. -> What ___",
+          "answer": "What made me feel guilty was seeing Patricia cry like that.",
+          "explanation": "Cleft sentence using 'What'."
+        },
+        {
+          "number": 8,
+          "sentence": "What we had to do first was decide where to meet. -> The first thing ___",
+          "answer": "The first thing we had to do was decide where to meet.",
+          "explanation": "Cleft sentence starting with 'The first thing'."
+        },
+        {
+          "number": 9,
+          "sentence": "There are lots of facilities where we go camping. -> The place ___",
+          "answer": "The place where we go camping has lots of facilities.",
+          "explanation": "Cleft sentence focusing on the place."
+        },
+        {
+          "number": 10,
+          "sentence": "Einstein proved that energy and mass are basically the same thing. -> What ___",
+          "answer": "What Einstein proved was that energy and mass are basically the same thing.",
+          "explanation": "Cleft sentence using 'What'."
+        }
+      ]
+    },
+    {
+      "id": "u19_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Write so, such, too or enough in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It was ___ good a meal that we left the waiter quite a large tip.",
+          "answer": "so",
+          "explanation": "'so + adjective + a + noun' is a correct structure."
+        },
+        {
+          "number": 2,
+          "sentence": "It's becoming increasingly clear that there just aren't ___ people willing to buy our products online.",
+          "answer": "enough",
+          "explanation": "'enough' comes before a noun to mean 'sufficient'."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm quite enjoying my maths degree, but I just find statistics ___ boring!",
+          "answer": "so",
+          "explanation": "'so' is used with an adjective to mean 'very'."
+        },
+        {
+          "number": 4,
+          "sentence": "Angela seemed to be having ___ a good time at the party that I decided not to tell her how late it was.",
+          "answer": "such",
+          "explanation": "'such a + adjective + noun' is the standard structure."
+        },
+        {
+          "number": 5,
+          "sentence": "We've all been working ___ hard on the latest project the manager gave us a couple of extra days off.",
+          "answer": "so",
+          "explanation": "'so + adverb' followed by a result clause (with 'that' omitted)."
+        },
+        {
+          "number": 6,
+          "sentence": "I worry about my grandparents because they have ___ a lot of health problems.",
+          "answer": "such",
+          "explanation": "'such a lot of' is a common expression."
+        },
+        {
+          "number": 7,
+          "sentence": "It's ___ early to tell whether the business is going to succeed or not.",
+          "answer": "too",
+          "explanation": "'too' here means 'more than is desirable' to make a judgment."
+        },
+        {
+          "number": 8,
+          "sentence": "Set the alarm or we'll never wake up early ___ to catch the first train.",
+          "answer": "enough",
+          "explanation": "'enough' comes after an adverb."
+        },
+        {
+          "number": 9,
+          "sentence": "I never knew that Andrew had ___ few friends.",
+          "answer": "so",
+          "explanation": "'so few' is used with plural nouns."
+        },
+        {
+          "number": 10,
+          "sentence": "Everyone was surprised when Dan failed because he's ___ a good student.",
+          "answer": "such",
+          "explanation": "'such a + adjective + noun' for emphasis."
+        },
+        {
+          "number": 11,
+          "sentence": "A year after losing my job, I had ___ many debts that I was really beginning to panic.",
+          "answer": "so",
+          "explanation": "'so many' is used with plural nouns."
+        },
+        {
+          "number": 12,
+          "sentence": "I was hoping to have a word with Alan before he left, but it seems to be ___ late now.",
+          "answer": "too",
+          "explanation": "'too late' means it is no longer possible."
+        }
+      ]
+    },
+    {
+      "id": "u19_H",
+      "label": "H",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I had to clear the spare room before I could start decorating. -> Only when ___ start decorating. (cleared)",
+          "answer": "I had cleared the spare room could I",
+          "explanation": "'Only when' clause is followed by an inverted main clause."
+        },
+        {
+          "number": 2,
+          "sentence": "The phone rang again as soon as I put it down. -> Hardly ___ it rang again. (had)",
+          "answer": "had I put the phone down when",
+          "explanation": "'Hardly + had + S + V3 + when' is the required structure."
+        },
+        {
+          "number": 3,
+          "sentence": "The Watsons moved to London and very soon after they decided to get divorced. -> No sooner ___ they decided to get divorced. (had)",
+          "answer": "had the Watsons moved to London than",
+          "explanation": "'No sooner + had + S + V3 + than' is the required structure."
+        },
+        {
+          "number": 4,
+          "sentence": "I had no idea the manager wanted to see me to fire me. -> Little ___ the manager wanted to see me to fire me. (realise)",
+          "answer": "did I realise (that) the",
+          "explanation": "'Little did I realise' is the standard inverted phrase for lack of knowledge."
+        },
+        {
+          "number": 5,
+          "sentence": "I was told about the website by Charlie. -> It ___ me about the website. (who)",
+          "answer": "was Charlie who told",
+          "explanation": "Cleft sentence: It + was + [person] + who + verb."
+        },
+        {
+          "number": 6,
+          "sentence": "Buying a plane ticket at the last minute isn't often possible. -> Rarely ___ a plane ticket at the last minute. (to)",
+          "answer": "is it possible to buy",
+          "explanation": "'Rarely is it possible...' uses inversion after the negative adverb."
+        },
+        {
+          "number": 7,
+          "sentence": "They didn't ask me anything about my plans for the summer. -> Not ___ about my plans for the summer. (question)",
+          "answer": "a (single) question did they ask me",
+          "explanation": "'Not a single question did they ask' uses inversion for emphasis."
+        },
+        {
+          "number": 8,
+          "sentence": "There is no situation in which we will allow the management to lower wages. -> Under ___ the management to lower wages. (no)",
+          "answer": "no circumstances will we allow",
+          "explanation": "'Under no circumstances' triggers inversion."
+        }
+      ]
+    },
+    {
+      "id": "u19_I",
+      "label": "I",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Not until we have no choice ___ the business down.",
+          "options": ["close we", "we will close", "will we close", "we close"],
+          "answer": "will we close",
+          "explanation": "'Not until...' requires inversion in the main clause."
+        },
+        {
+          "number": 2,
+          "sentence": "It was ___ a victory that even Smith's fans couldn't believe it.",
+          "options": ["such surprising", "so surprising", "too surprising", "surprising enough"],
+          "answer": "so surprising",
+          "explanation": "'so + adjective + a + noun' is valid, but here it is just 'so + adjective' followed by 'that'."
+        },
+        {
+          "number": 3,
+          "sentence": "At no time ___ I was going to fail the exam.",
+          "options": ["did I think", "thought I", "I thought", "was I thought"],
+          "answer": "did I think",
+          "explanation": "'At no time' requires inversion."
+        },
+        {
+          "number": 4,
+          "sentence": "So ___ that they actually finished three weeks early.",
+          "options": ["were the builders fast", "fast the builders were", "the builders were fast", "fast were the builders"],
+          "answer": "fast were the builders",
+          "explanation": "'So + adjective + verb + subject' is the emphatic inversion structure."
+        },
+        {
+          "number": 5,
+          "sentence": "Never ___ complete and utter rubbish!",
+          "options": ["have I heard so", "I heard such", "did I hear so", "have I heard such"],
+          "answer": "have I heard such",
+          "explanation": "'Never have I heard such + noun' is the correct inversion and usage of 'such'."
+        },
+        {
+          "number": 6,
+          "sentence": "In no way ___ that people will be prevented from organising peaceful protests.",
+          "options": ["this law means", "means this law", "does this law mean", "this law does mean"],
+          "answer": "does this law mean",
+          "explanation": "'In no way' requires inversion."
+        },
+        {
+          "number": 7,
+          "sentence": "If you don't put the tent up ___ , it might blow away!",
+          "options": ["too carefully", "so carefully", "such carefully", "carefully enough"],
+          "answer": "carefully enough",
+          "explanation": "'adjective/adverb + enough' means to the necessary degree."
+        },
+        {
+          "number": 8,
+          "sentence": "No sooner ___ everyone started to gossip about him.",
+          "options": ["had Mike left than", "did Mike leave when", "left Mike when", "Mike had left than"],
+          "answer": "had Mike left than",
+          "explanation": "'No sooner... than' with past perfect inversion."
+        },
+        {
+          "number": 9,
+          "sentence": "'I can't stand this hot weather!' 'No, ___ . Dreadful, isn't it?'",
+          "options": ["so can't I", "neither can I", "so I can't", "nor I can"],
+          "answer": "neither can I",
+          "explanation": "'Neither/Nor' is used to agree with a negative statement."
+        },
+        {
+          "number": 10,
+          "sentence": "'We were at the Rolling Stones concert last weekend.' 'Were you? So ___ .'",
+          "options": ["I was", "was I being", "I was there", "was I"],
+          "answer": "was I",
+          "explanation": "'So' is used to agree with a positive statement, followed by inversion."
+        }
+      ]
+    },
+    {
+      "id": "u19_J",
+      "label": "J",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Rarely ___ neighbours have the best of relationships for any length of time.",
+          "answer": "do",
+          "explanation": "Inversion after 'Rarely' in the present simple."
+        },
+        {
+          "number": 2,
+          "sentence": "...but only if there is a lot of give and take ___ this possible.",
+          "answer": "is",
+          "explanation": "Inversion in the main clause after 'only if...'."
+        },
+        {
+          "number": 3,
+          "sentence": "___ common are disputes between neighbours that there are many laws...",
+          "answer": "So",
+          "explanation": "Part of the 'So + adjective... that' structure for emphasis."
+        },
+        {
+          "number": 4,
+          "sentence": "Before things go ___ far for the relationship to be saved...",
+          "answer": "too",
+          "explanation": "'too far to be saved' (more than is acceptable)."
+        },
+        {
+          "number": 5,
+          "sentence": "The first is ___ speak to your neighbour.",
+          "answer": "to",
+          "explanation": "'The first (thing) is to [verb]'."
+        },
+        {
+          "number": 6,
+          "sentence": "You'd be amazed at how many arguments are avoided by ___ a simple step.",
+          "answer": "such",
+          "explanation": "'such a + adjective + noun'."
+        },
+        {
+          "number": 7,
+          "sentence": "Not ___ does it give you the chance to express your complaint...",
+          "answer": "only",
+          "explanation": "Part of 'Not only... (but) also'."
+        },
+        {
+          "number": 8,
+          "sentence": "...it ___ gives your neighbour the chance to explain...",
+          "answer": "also",
+          "explanation": "Completing 'Not only... but also'."
+        },
+        {
+          "number": 9,
+          "sentence": "On ___ account should you do anything to damage your neighbours' property...",
+          "answer": "no",
+          "explanation": "'On no account' triggers inversion and means 'never'."
+        },
+        {
+          "number": 10,
+          "sentence": "___ until you are sure you are acting within the law should you do anything.",
+          "answer": "Not",
+          "explanation": "'Not until...' triggers inversion in the main clause ('should you do anything')."
+        }
+      ]
+    }
+  ]
+}

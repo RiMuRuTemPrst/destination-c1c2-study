@@ -1,0 +1,861 @@
+{
+  "unit_id": 15,
+  "unit_type": "Grammar",
+  "title": "Adjectives and adverbs",
+  "grammar_topics": [
+    {
+      "topic": "Position of adjectives",
+      "explanation_en": "Adjectives usually come before a noun or after linking verbs (appear, be, become, feel, get, grow, look, seem, smell, sound, taste, turn). Some adjectives (beginning with a-) only appear after a verb.",
+      "explanation_vi": "Tính từ thường đứng trước danh từ hoặc sau các liên động từ (appear, be, become, feel, get, grow, look, seem, smell, sound, taste, turn). Một số tính từ (bắt đầu bằng chữ a-) chỉ đứng sau động từ.",
+      "rules": [
+        "Before a noun: I love your new house.",
+        "After linking verbs: The material feels rough.",
+        "Adjectives come before the article after as, how, so, this, that, and too.",
+        "A-adjectives (afraid, asleep, awake, etc.) do not come before a noun."
+      ],
+      "examples": [
+        {
+          "sentence": "I could never live in as crowded a city as Tokyo.",
+          "translation": "Tôi không bao giờ có thể sống trong một thành phố đông đúc như Tokyo."
+        },
+        {
+          "sentence": "A boy was asleep in the street.",
+          "translation": "Một cậu bé đang ngủ trên phố."
+        }
+      ],
+      "watch_out": [
+        "Linking verbs can be followed by adverbs if the verb refers to an action (e.g., She looked angrily at the man)."
+      ]
+    },
+    {
+      "topic": "Position of multiple adjectives",
+      "explanation_en": "When using multiple adjectives before a noun, they follow a specific order: judgement, size, shape, colour, origin, material, purpose.",
+      "explanation_vi": "Khi sử dụng nhiều tính từ trước một danh từ, chúng tuân theo thứ tự cụ thể: ý kiến/đánh giá, kích thước, hình dạng, màu sắc, nguồn gốc, chất liệu, mục đích.",
+      "rules": [
+        "Order: Opinion -> Size -> Shape -> Colour -> Origin -> Material -> Purpose."
+      ],
+      "examples": [
+        {
+          "sentence": "We've got a lovely little wooden cabin.",
+          "translation": "Chúng tôi có một căn nhà gỗ nhỏ xinh xắn."
+        },
+        {
+          "sentence": "A large oak dining table.",
+          "translation": "Một chiếc bàn ăn lớn bằng gỗ sồi."
+        }
+      ]
+    },
+    {
+      "topic": "Position of adverbs",
+      "explanation_en": "Adverbs can appear at the beginning, end, or with the verb. They do not usually go between a verb and its direct object.",
+      "explanation_vi": "Trạng từ có thể đứng ở đầu câu, cuối câu hoặc đi kèm với động từ. Chúng thường không đứng giữa động từ và tân ngữ trực tiếp.",
+      "rules": [
+        "Frequency adverbs follow auxiliary verbs/be and come before other verbs.",
+        "With auxiliary verbs, the adverb follows the first auxiliary.",
+        "Connecting adverbs go at the beginning of a clause."
+      ],
+      "examples": [
+        {
+          "sentence": "They built the house very quickly.",
+          "translation": "Họ xây ngôi nhà rất nhanh."
+        },
+        {
+          "sentence": "Our house will probably have been decorated.",
+          "translation": "Ngôi nhà của chúng ta có lẽ sẽ được trang trí xong."
+        }
+      ]
+    },
+    {
+      "topic": "Comparisons",
+      "explanation_en": "Use comparatives to compare two things and superlatives for one member versus a whole group. Specific modifiers can strengthen or weaken the comparison.",
+      "explanation_vi": "Sử dụng cấp so sánh hơn để so sánh hai vật và cấp so sánh nhất cho một thành viên so với cả nhóm. Các từ bổ trợ cụ thể có thể làm tăng hoặc giảm mức độ so sánh.",
+      "rules": [
+        "Comparative modifiers: a bit, a great deal, considerably, even, far, much, slightly, etc.",
+        "Superlative modifiers: by far, easily, much, quite.",
+        "Structures: (not) as ... as, nothing like as ... as, the ..., the ..."
+      ],
+      "examples": [
+        {
+          "sentence": "Platinum is about twice as expensive as gold.",
+          "translation": "Bạch kim đắt gấp đôi vàng."
+        },
+        {
+          "sentence": "The taller the building, the greater the fire risk.",
+          "translation": "Tòa nhà càng cao thì nguy cơ hỏa hoạn càng lớn."
+        }
+      ]
+    },
+    {
+      "topic": "Gradable and ungradable adjectives",
+      "explanation_en": "Gradable adjectives can be 'more' or 'less'. Ungradable adjectives describe extreme or absolute qualities.",
+      "explanation_vi": "Tính từ có thể phân cấp có thể ở mức độ 'hơn' hoặc 'kém'. Tính từ không phân cấp mô tả những đặc điểm cực hạn hoặc tuyệt đối.",
+      "rules": [
+        "Gradable modifiers: a bit, fairly, quite (rather), really, very.",
+        "Ungradable modifiers: absolutely, completely, quite (completely), totally, utterly."
+      ],
+      "examples": [
+        {
+          "sentence": "Tim was absolutely exhausted.",
+          "translation": "Tim hoàn toàn kiệt sức."
+        },
+        {
+          "sentence": "Our flat's quite nice, but not perfect.",
+          "translation": "Căn hộ của chúng tôi khá đẹp, nhưng không hoàn hảo."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u15_A",
+      "label": "A",
+      "type": "error_correction",
+      "instruction": "If the word in bold is correct, put a tick. If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Whenever she gets home from work, Mum always seems *unhappily* about something.",
+          "answer": "unhappy",
+          "explanation": "'Seem' is a linking verb and should be followed by an adjective."
+        },
+        {
+          "number": 2,
+          "sentence": "I don't know what's in it, but it smells *strongly* of cinnamon.",
+          "answer": "✓",
+          "explanation": "'Smell' here is followed by an adverb 'strongly' to describe the intensity of the scent."
+        },
+        {
+          "number": 3,
+          "sentence": "When Terry finally became *calmly*, I asked him what had happened.",
+          "answer": "calm",
+          "explanation": "'Become' is a linking verb and should be followed by an adjective."
+        },
+        {
+          "number": 4,
+          "sentence": "I'm glad I didn't go on holiday with Efy and Graham because it sounded *dreadfully*.",
+          "answer": "dreadful",
+          "explanation": "'Sound' is a linking verb and should be followed by an adjective."
+        },
+        {
+          "number": 5,
+          "sentence": "It's hard to believe that the seeds you planted have grown so *quickly*.",
+          "answer": "✓",
+          "explanation": "'Grow' here refers to an action/process, so an adverb 'quickly' is correct."
+        },
+        {
+          "number": 6,
+          "sentence": "The car sped past me and turned *sharply* into the next street.",
+          "answer": "✓",
+          "explanation": "'Turn' here is an action verb, so the adverb 'sharply' is correct."
+        },
+        {
+          "number": 7,
+          "sentence": "The actors could tell that the audience were growing *restlessly*.",
+          "answer": "restless",
+          "explanation": "'Grow' here means 'become' (linking verb), so it needs an adjective."
+        },
+        {
+          "number": 8,
+          "sentence": "Why are you looking so *accusingly* at me?",
+          "answer": "✓",
+          "explanation": "'Look at' is an action, so the adverb 'accusingly' is correct."
+        },
+        {
+          "number": 9,
+          "sentence": "Add some chilli to the curry because it doesn't taste *spicily* enough.",
+          "answer": "spicy",
+          "explanation": "'Taste' is a linking verb here, so it needs an adjective."
+        },
+        {
+          "number": 10,
+          "sentence": "I don't think I get *angrily* very often, but one or two people do really annoy me.",
+          "answer": "angry",
+          "explanation": "'Get' here means 'become', so it needs an adjective."
+        },
+        {
+          "number": 11,
+          "sentence": "In the darkness, I felt *nervously* for the light switch and finally found it.",
+          "answer": "✓",
+          "explanation": "'Feel for' is an action (searching with hands), so the adverb 'nervously' is correct."
+        },
+        {
+          "number": 12,
+          "sentence": "Tim appeared *tiredly* after his tennis match.",
+          "answer": "tired",
+          "explanation": "'Appear' is a linking verb meaning 'seem', so it needs an adjective."
+        }
+      ]
+    },
+    {
+      "id": "u15_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Complete the sentences using the words in bold. Add any other words you need.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I haven't had this ___ at work for a long time. (day, hard)",
+          "answer": "hard a day",
+          "explanation": "After 'this' meaning 'so', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 2,
+          "sentence": "So ___ was it that I never went back to that country again. (experience, frightening)",
+          "answer": "frightening an experience",
+          "explanation": "After 'so', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 3,
+          "sentence": "If we'd known how ___ it was going to be, we wouldn't have agreed to do it. (difficult, task)",
+          "answer": "difficult a task",
+          "explanation": "After 'how', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 4,
+          "sentence": "It was as ___ as I'd seen in a long time. (moving, performance)",
+          "answer": "moving a performance",
+          "explanation": "After 'as', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 5,
+          "sentence": "Alex has got that ___ he never seems to have to work hard at school. (good, memory)",
+          "answer": "good a memory",
+          "explanation": "After 'that' meaning 'so', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 6,
+          "sentence": "It was too ___ to turn down. (offer, tempting)",
+          "answer": "tempting an offer",
+          "explanation": "After 'too', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 7,
+          "sentence": "No matter how ___ you have, there's always the risk of failure. (career, successful)",
+          "answer": "successful a career",
+          "explanation": "After 'how', the structure is 'adj + a/an + noun'."
+        },
+        {
+          "number": 8,
+          "sentence": "I don't think I'll ever be as ___ as my brother. (good, pianist)",
+          "answer": "good a pianist",
+          "explanation": "After 'as', the structure is 'adj + a/an + noun'."
+        }
+      ]
+    },
+    {
+      "id": "u15_C",
+      "label": "C",
+      "type": "word_form",
+      "instruction": "Complete the sentences using the words in bold in the correct order.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Oh, what a/an ___ sculpture! Did you buy it when you were there? (African, gorgeous, little)",
+          "answer": "gorgeous little African",
+          "explanation": "Order: Opinion (gorgeous) -> Size (little) -> Origin (African)."
+        },
+        {
+          "number": 2,
+          "sentence": "Have you seen my ___ boots anywhere? I'm sure I left them here. (black, climbing, leather)",
+          "answer": "black leather climbing",
+          "explanation": "Order: Colour (black) -> Material (leather) -> Purpose (climbing)."
+        },
+        {
+          "number": 3,
+          "sentence": "They've got some ___ shoes in the sale at Derbyshire's. (ballet, fantastic, pink, Russian, silk)",
+          "answer": "fantastic Russian pink silk ballet",
+          "explanation": "Order: Opinion (fantastic) -> Origin (Russian) -> Colour (pink) -> Material (silk) -> Purpose (ballet)."
+        },
+        {
+          "number": 4,
+          "sentence": "Didn't the bride look lovely in that ___ dress? (beautiful, cotton, cream, wedding)",
+          "answer": "beautiful cream cotton wedding",
+          "explanation": "Order: Opinion (beautiful) -> Colour (cream) -> Material (cotton) -> Purpose (wedding)."
+        },
+        {
+          "number": 5,
+          "sentence": "Does Spencer still drive that ___ car of his? (blue, foreign, ugly)",
+          "answer": "ugly blue foreign",
+          "explanation": "Order: Opinion (ugly) -> Colour (blue) -> Origin (foreign)."
+        },
+        {
+          "number": 6,
+          "sentence": "It's hard to imagine that such a ___ frog is so important to the local environment. (Amazonian, green, tiny)",
+          "answer": "tiny green Amazonian",
+          "explanation": "Order: Size (tiny) -> Colour (green) -> Origin (Amazonian)."
+        },
+        {
+          "number": 7,
+          "sentence": "Andrea has a ___ rug on the floor in her bedroom. (long, lovely, sheepskin, white)",
+          "answer": "lovely long white sheepskin",
+          "explanation": "Order: Opinion (lovely) -> Shape/Size (long) -> Colour (white) -> Material (sheepskin)."
+        },
+        {
+          "number": 8,
+          "sentence": "The clown was wearing a ___ wig and a red nose. (funny, plastic, red)",
+          "answer": "funny red plastic",
+          "explanation": "Order: Opinion (funny) -> Colour (red) -> Material (plastic)."
+        },
+        {
+          "number": 9,
+          "sentence": "I couldn't believe it when Sylvia turned up in the same ___ hat that she wore last time. (horrible, wide, yellow)",
+          "answer": "horrible wide yellow",
+          "explanation": "Order: Opinion (horrible) -> Size/Shape (wide) -> Colour (yellow)."
+        },
+        {
+          "number": 10,
+          "sentence": "When are you going to get rid of those ___ trousers? (dreadful, French, nylon, short)",
+          "answer": "dreadful short French nylon",
+          "explanation": "Order: Opinion (dreadful) -> Size (short) -> Origin (French) -> Material (nylon)."
+        }
+      ]
+    },
+    {
+      "id": "u15_D",
+      "label": "D",
+      "type": "multiple_choice",
+      "instruction": "Circle the best position for each adverb in bold. There may be more than one answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The Millennium Dome, or the O2 as (A) it (B) is (C) called (D) now... has become a distinctive part of the London skyline. (correctly)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "C",
+          "explanation": "The adverb normally follows the auxiliary verb 'is'."
+        },
+        {
+          "number": 2,
+          "sentence": "It was built for the millennium celebrations of 2000, and (A) a number of people (B) criticised (C) the high cost of construction (D). (strongly)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B",
+          "explanation": "Adverbs often go before the verb they modify (B) or at the end of the clause (D)."
+        },
+        {
+          "number": 3,
+          "sentence": "Costing £789 million to build and operate for a year, (A) it (B) failed (C) to reach (D) its target of 12 million visitors. (completely)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B",
+          "explanation": "Adverbs of degree often precede the verb they modify."
+        },
+        {
+          "number": 4,
+          "sentence": "Even Michael Heseltine... later admitted that (A) it (B) would (C) have been (D) better to build something else. (probably)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "C",
+          "explanation": "With verbs formed using auxiliary verbs, the adverb follows the first auxiliary."
+        },
+        {
+          "number": 5,
+          "sentence": "Although the press were critical, (A) people who visited the Dome (B) had (C) a positive experience (D). (often)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B",
+          "explanation": "Adverbs of frequency come before the main verb."
+        },
+        {
+          "number": 6,
+          "sentence": "Even with low visitor numbers, (A) it (B) was (C) the most popular attraction in Britain in 2000 (D). (easily)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B",
+          "explanation": "Adverbs modifying superlatives usually come before 'the'."
+        },
+        {
+          "number": 7,
+          "sentence": "Although (A) it (B) is (C) closed (D), the Dome has a bright future... (currently)",
+          "options": ["A", "B", "C", "D"],
+          "answer": "C",
+          "explanation": "Adverbs of time often follow the verb 'be'."
+        }
+      ]
+    },
+    {
+      "id": "u15_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Complete with an appropriate comparative or superlative form of the words in the box. Add any other words you need.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I thought this week's programme was far ___ last week's, so it's definitely improving. (funny)",
+          "answer": "funnier than",
+          "explanation": "Comparison between two programmes requires the comparative form."
+        },
+        {
+          "number": 2,
+          "sentence": "My new laptop is ___ my old one, but I suppose it was quite cheap so I shouldn't be surprised. (reliable)",
+          "answer": "less reliable than / not as reliable as",
+          "explanation": "Comparing reliability between two laptops; the context suggests the new one is worse."
+        },
+        {
+          "number": 3,
+          "sentence": "Jim Carter knows what he wants from employees, and I don't think I've ever worked for ___ manager. (demanding)",
+          "answer": "a more demanding",
+          "explanation": "Comparing Jim Carter to all previous managers."
+        },
+        {
+          "number": 4,
+          "sentence": "Because of its internal structure, diamond is ___ substance known. (hard)",
+          "answer": "the hardest",
+          "explanation": "Superlative form is needed for 'known substance'."
+        },
+        {
+          "number": 5,
+          "sentence": "Beside the house, there stood ___ tower block I had ever seen. (ugly)",
+          "answer": "the ugliest",
+          "explanation": "Superlative form for 'I had ever seen'."
+        },
+        {
+          "number": 6,
+          "sentence": "If the conflict goes on any ___ , more people are going to lose their lives. (long)",
+          "answer": "longer",
+          "explanation": "Comparative form for continuing duration."
+        },
+        {
+          "number": 7,
+          "sentence": "___ his Portrait of Dr. Gachet, van Gogh's Irises still sold for $49 million. (valuable)",
+          "answer": "Less valuable than",
+          "explanation": "Comparing the value of two paintings."
+        },
+        {
+          "number": 8,
+          "sentence": "Even ___ amongst us soon realise when a friend has changed their appearance in some way. (observant)",
+          "answer": "the least observant",
+          "explanation": "Superlative form to describe the group of people."
+        },
+        {
+          "number": 9,
+          "sentence": "I'm afraid that what you're saying doesn't make ___ difference to how I feel. (slight)",
+          "answer": "the slightest",
+          "explanation": "Superlative form used for emphasis in negative sentences."
+        },
+        {
+          "number": 10,
+          "sentence": "Frankly, I think ___ people who know about this, the better. (few)",
+          "answer": "the fewer",
+          "explanation": "Structure: 'the + comparative, the + comparative'."
+        }
+      ]
+    },
+    {
+      "id": "u15_F",
+      "label": "F",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's good to see that Rebecca has become a great ___ more independent than she used to be.",
+          "options": ["lot", "deal"],
+          "answer": "deal",
+          "explanation": "'A great deal' is a common modifier for comparatives."
+        },
+        {
+          "number": 2,
+          "sentence": "The hotel was ___ from the most luxurious I've stayed in.",
+          "options": ["away", "far"],
+          "answer": "far",
+          "explanation": "'Far from' is used with superlatives to mean 'not at all'."
+        },
+        {
+          "number": 3,
+          "sentence": "The new law is ___ more than an attempt to divert attention from the real problems.",
+          "options": ["less", "little"],
+          "answer": "little",
+          "explanation": "'Little more than' means 'hardly more than' or 'just'."
+        },
+        {
+          "number": 4,
+          "sentence": "This is ___ far the worst public transport system I've ever been on.",
+          "options": ["by", "from"],
+          "answer": "by",
+          "explanation": "'By far' is used to modify superlatives."
+        },
+        {
+          "number": 5,
+          "sentence": "Have you noticed that the neighbours' trees have grown ___ bigger?",
+          "options": ["easily", "considerably"],
+          "answer": "considerably",
+          "explanation": "'Considerably' is a modifier for comparatives; 'easily' is for superlatives."
+        },
+        {
+          "number": 6,
+          "sentence": "My mum's getting a ___ older now, so she needs someone to look after her.",
+          "options": ["little", "little"],
+          "answer": "little",
+          "explanation": "'A little' is used as a modifier for comparatives."
+        },
+        {
+          "number": 7,
+          "sentence": "It was ___ the most delightful little puppy I had ever seen!",
+          "options": ["quite", "somewhat"],
+          "answer": "quite",
+          "explanation": "'Quite' can be used with superlatives for emphasis."
+        },
+        {
+          "number": 8,
+          "sentence": "If you have ___ further problems with your computer, don't hesitate to call me.",
+          "options": ["any", "even"],
+          "answer": "any",
+          "explanation": "'Any' is used with comparatives in questions and conditionals."
+        },
+        {
+          "number": 9,
+          "sentence": "I'd say that the woman I saw running away from the bank was ___ taller than I am.",
+          "options": ["any", "no"],
+          "answer": "no",
+          "explanation": "'No taller than' means 'the same height as or shorter'."
+        },
+        {
+          "number": 10,
+          "sentence": "Imagen was told that she would have to work a ___ deal harder than she had been doing.",
+          "options": ["better", "good"],
+          "answer": "good",
+          "explanation": "'A good deal' is a modifier for comparatives."
+        }
+      ]
+    },
+    {
+      "id": "u15_G",
+      "label": "G",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The red shoes are slightly more expensive than the green ones. (quite) -> The green shoes ___ the red ones.",
+          "answer": "are not quite as expensive as",
+          "explanation": "'Not quite as ... as' indicates a small difference."
+        },
+        {
+          "number": 2,
+          "sentence": "Richard is much more committed to the project than Grant seems to be. (like) -> Grant seems to be ___ to the project.",
+          "answer": "nothing like as committed",
+          "explanation": "'Nothing like as ... as' indicates a large difference."
+        },
+        {
+          "number": 3,
+          "sentence": "If you argue about it more, we'll get to Denver later. (the) -> The ___ we'll get to Denver.",
+          "answer": "more you argue about it, the later",
+          "explanation": "'The + comparative, the + comparative' structure."
+        },
+        {
+          "number": 4,
+          "sentence": "My new MP3 player was twice the price of yours. (expensive) -> Your MP3 player was ___ mine.",
+          "answer": "half as expensive as",
+          "explanation": "If A is twice the price of B, B is half as expensive as A."
+        },
+        {
+          "number": 5,
+          "sentence": "England is much bigger than Wales. (nowhere) -> Wales ___ England.",
+          "answer": "is nowhere near as big as",
+          "explanation": "'Nowhere near as ... as' indicates a large difference."
+        },
+        {
+          "number": 6,
+          "sentence": "Derek is quite a bit more adventurous than his sister, Annabelle. (nearly) -> Annabelle ___ her brother, Derek.",
+          "answer": "is not nearly as adventurous as",
+          "explanation": "'Not nearly as ... as' indicates a large difference."
+        },
+        {
+          "number": 7,
+          "sentence": "Bigger cities have higher crime rates. (the) -> The ___ the crime rate.",
+          "answer": "bigger the city, the higher",
+          "explanation": "'The + comparative, the + comparative' structure."
+        },
+        {
+          "number": 8,
+          "sentence": "Their first album was considerably more successful than their second. (near) -> Their second album ___ their first.",
+          "answer": "was nowhere near as successful as",
+          "explanation": "'Nowhere near as ... as' matches the meaning of 'considerably more successful'."
+        }
+      ]
+    },
+    {
+      "id": "u15_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Underline the word or phrase which cannot complete the sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Jackie didn't like the show so much, but I thought it was ___ perfect.",
+          "options": ["absolutely", "quite", "very"],
+          "answer": "very",
+          "explanation": "'Perfect' is an ungradable adjective and cannot be modified by 'very'."
+        },
+        {
+          "number": 2,
+          "sentence": "You were ___ right about Laura - she is from Manchester.",
+          "options": ["completely", "fairly", "totally"],
+          "answer": "fairly",
+          "explanation": "'Right' is an ungradable/absolute adjective and cannot be modified by 'fairly'."
+        },
+        {
+          "number": 3,
+          "sentence": "We've been ___ busy at work, so I'm looking forward to a break.",
+          "options": ["absolutely", "a little", "quite"],
+          "answer": "absolutely",
+          "explanation": "'Busy' is a gradable adjective and cannot be modified by 'absolutely' (which is for ungradable)."
+        },
+        {
+          "number": 4,
+          "sentence": "It's ___ pointless trying to persuade Michael to lend you his new car.",
+          "options": ["completely", "totally", "very"],
+          "answer": "very",
+          "explanation": "'Pointless' is an ungradable adjective."
+        },
+        {
+          "number": 5,
+          "sentence": "Anthony seems to be ___ worried about the situation.",
+          "options": ["a little", "really", "utterly"],
+          "answer": "utterly",
+          "explanation": "'Worried' is gradable; 'utterly' is for ungradable adjectives."
+        },
+        {
+          "number": 6,
+          "sentence": "Jackson's shot from the halfway line was ___ incredible.",
+          "options": ["absolutely", "quite", "too"],
+          "answer": "too",
+          "explanation": "'Incredible' is ungradable; 'too' is for gradable adjectives."
+        },
+        {
+          "number": 7,
+          "sentence": "If you think I'm going to help you after what you did, you're ___ wrong.",
+          "options": ["a bit", "completely", "quite"],
+          "answer": "a bit",
+          "explanation": "'Wrong' is ungradable/extreme; 'a bit' is for gradable adjectives."
+        },
+        {
+          "number": 8,
+          "sentence": "In the end, the documents that the tax office sent us were ___ useless.",
+          "options": ["completely", "totally", "very"],
+          "answer": "very",
+          "explanation": "'Useless' is an ungradable adjective."
+        }
+      ]
+    },
+    {
+      "id": "u15_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the boxes. You need to use one word in each box twice.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Don't press the keys so ___ or you'll break the keyboard.",
+          "answer": "hard",
+          "explanation": "'Hard' is an adverb meaning 'with force'."
+        },
+        {
+          "number": 2,
+          "sentence": "This is ___ the most attractive part of the city, is it?",
+          "answer": "hardly",
+          "explanation": "'Hardly' means 'scarcely' or 'not at all'."
+        },
+        {
+          "number": 3,
+          "sentence": "It's ___ to understand why Isabelle reacted in the way she did.",
+          "answer": "hard",
+          "explanation": "'Hard' is an adjective meaning 'difficult'."
+        },
+        {
+          "number": 4,
+          "sentence": "It's not ___ ! You never let me go to parties!",
+          "answer": "fair",
+          "explanation": "'Fair' is an adjective meaning 'just'."
+        },
+        {
+          "number": 5,
+          "sentence": "Divide the money between you ___ .",
+          "answer": "fairly",
+          "explanation": "'Fairly' is an adverb meaning 'equally' or 'justly'."
+        },
+        {
+          "number": 6,
+          "sentence": "I'm ___ satisfied with your progress.",
+          "answer": "fairly",
+          "explanation": "'Fairly' is an adverb meaning 'moderately'."
+        },
+        {
+          "number": 7,
+          "sentence": "They're giving away ___ tickets to the concert!",
+          "answer": "free",
+          "explanation": "'Free' is an adjective meaning 'without cost'."
+        },
+        {
+          "number": 8,
+          "sentence": "This tool moves ___ in any direction.",
+          "answer": "freely",
+          "explanation": "'Freely' is an adverb meaning 'without restriction'."
+        },
+        {
+          "number": 9,
+          "sentence": "Can we get in ___ if we're members of the club?",
+          "answer": "free",
+          "explanation": "'Free' is an adverb meaning 'without paying'."
+        },
+        {
+          "number": 10,
+          "sentence": "I'm always uncomfortable in ___ places.",
+          "answer": "high",
+          "explanation": "'High' is an adjective meaning 'at a great distance above'."
+        },
+        {
+          "number": 11,
+          "sentence": "This request is ___ unusual.",
+          "answer": "highly",
+          "explanation": "'Highly' is an adverb used for degree (very)."
+        },
+        {
+          "number": 12,
+          "sentence": "The dog jumped ___ and cleared the fence.",
+          "answer": "high",
+          "explanation": "'High' is an adverb meaning 'to a great height'."
+        }
+      ]
+    },
+    {
+      "id": "u15_J",
+      "label": "J",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "houses built (1) ___ earlier in the century...",
+          "answer": "much",
+          "explanation": "'Much' is used to modify comparative structures or time references."
+        },
+        {
+          "number": 2,
+          "sentence": "were (2) ___ longer suitable for people to live in.",
+          "answer": "no",
+          "explanation": "'No longer' is a fixed phrase meaning 'not anymore'."
+        },
+        {
+          "number": 3,
+          "sentence": "placed a great (3) ___ more strain on available space.",
+          "answer": "deal",
+          "explanation": "'A great deal more' is used for emphasis with comparatives."
+        },
+        {
+          "number": 4,
+          "sentence": "in a relatively small space (4) ___ a horizontal street...",
+          "answer": "than",
+          "explanation": "Comparative structure: 'smaller ... than'."
+        },
+        {
+          "number": 5,
+          "sentence": "The more people got used to living in these structures, (5) ___ more they would form...",
+          "answer": "the",
+          "explanation": "Structure: 'the + comparative, the + comparative'."
+        },
+        {
+          "number": 6,
+          "sentence": "Initially, these blocks were (6) ___ popular than the old housing...",
+          "answer": "more",
+          "explanation": "Comparative 'more popular than'."
+        },
+        {
+          "number": 7,
+          "sentence": "They were (7) ___ and away the...",
+          "answer": "far",
+          "explanation": "Fixed phrase 'far and away' to modify superlatives."
+        },
+        {
+          "number": 8,
+          "sentence": "...the (8) ___ affordable alternative for many people...",
+          "answer": "most",
+          "explanation": "Superlative form 'the most affordable'."
+        },
+        {
+          "number": 9,
+          "sentence": "...these buildings soon became (9) ___ attractive to residents...",
+          "answer": "less",
+          "explanation": "The context 'as crime rose' suggests a decrease in attractiveness."
+        },
+        {
+          "number": 10,
+          "sentence": "...a tower block was (10) ___ like as friendly a place...",
+          "answer": "nothing",
+          "explanation": "'Nothing like as ... as' indicates a large difference."
+        },
+        {
+          "number": 11,
+          "sentence": "...friendly a place to live in (11) ___ a traditional street.",
+          "answer": "as",
+          "explanation": "Structure: 'nothing like as ... as'."
+        },
+        {
+          "number": 12,
+          "sentence": "More often (12) ___ not, residents in a tower block...",
+          "answer": "than",
+          "explanation": "Fixed phrase 'more often than not'."
+        }
+      ]
+    },
+    {
+      "id": "u15_K",
+      "label": "K",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I ___ when Colin asked me to make him a cup of tea.",
+          "options": ["had sat hard down", "had sat down hardly", "had hardly sat down", "had hard sat down"],
+          "answer": "had hardly sat down",
+          "explanation": "'Hardly' (scarcely) comes before the main verb."
+        },
+        {
+          "number": 2,
+          "sentence": "Where's that ___ dress that your grandma gave you?",
+          "options": ["lovely, long, pink, silk", "pink, long, lovely, silk", "lovely, pink, long, silk", "long, pink, silk, lovely"],
+          "answer": "lovely, long, pink, silk",
+          "explanation": "Order: Opinion (lovely) -> Length (long) -> Colour (pink) -> Material (silk)."
+        },
+        {
+          "number": 3,
+          "sentence": "Although he ___ to Ernest Hemingway, I think his books are unique.",
+          "options": ["often has been compared", "has often been compared", "has often compared", "has been comparing often"],
+          "answer": "has often been compared",
+          "explanation": "Adverb follows the first auxiliary 'has'."
+        },
+        {
+          "number": 4,
+          "sentence": "Don't you think ___ in society have a responsibility to help those less fortunate?",
+          "options": ["wealthy", "wealthier", "wealthiest", "the wealthy"],
+          "answer": "the wealthy",
+          "explanation": "'The + adjective' refers to a general group of people."
+        },
+        {
+          "number": 5,
+          "sentence": "The rents in this area are ___ the highest in the city.",
+          "options": ["far from away", "away by far", "far and away", "far to away"],
+          "answer": "far and away",
+          "explanation": "'Far and away' is a fixed phrase used with superlatives."
+        },
+        {
+          "number": 6,
+          "sentence": "The coastguard boarded the ship and found ___.",
+          "options": ["four injured alive men", "alive four men injured", "four injured men alive", "injured four alive men"],
+          "answer": "four injured men alive",
+          "explanation": "'Alive' is an a-adjective and must come after the noun/verb."
+        },
+        {
+          "number": 7,
+          "sentence": "To be honest, Harry has ___ than you have.",
+          "options": ["been more helpful considerably", "been considerably more helpful", "been more considerably helpful", "considerably been more helpful"],
+          "answer": "been considerably more helpful",
+          "explanation": "Adverbs modifying adjectives come before the adjective."
+        },
+        {
+          "number": 8,
+          "sentence": "I'm ___ my brother is.",
+          "options": ["nowhere like so ambitious", "nothing near as ambitious as", "nothing as ambitious than", "nowhere near as ambitious as"],
+          "answer": "nowhere near as ambitious as",
+          "explanation": "'Nowhere near as ... as' is a standard comparative structure."
+        }
+      ]
+    }
+  ]
+}

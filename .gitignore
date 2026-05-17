@@ -1,0 +1,20 @@
+# Source PDF (copyright)
+*.pdf
+
+# Generated raw text (derivative of PDF)
+data/raw/
+
+# Internal tooling state
+.omc/
+Claude_Cowork/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,948 @@
+{
+  "unit_id": 3,
+  "unit_type": "Grammar",
+  "title": "Past time",
+  "grammar_topics": [
+    {
+      "topic": "Past simple",
+      "explanation_en": "The past simple is used for completed actions, habits, general truths, and situations in the past. It is also used in second conditional sentences and after certain expressions like 'wish' or 'would rather'.",
+      "explanation_vi": "Thì quá khứ đơn được dùng cho các hành động đã hoàn thành, thói quen, sự thật hiển nhiên và các tình huống trong quá khứ. Nó cũng được dùng trong câu điều kiện loại 2 và sau các cấu trúc như 'wish' hoặc 'would rather'.",
+      "rules": [
+        "Single completed actions: Sony and Philips invented the CD in the early 1980s.",
+        "Repeated or habitual actions in the past: We moved house a lot when I was a kid.",
+        "General truths about the past: Early clocks were usually very unreliable.",
+        "Permanent situations and states: Did the ancient Egyptians have more advanced technology?",
+        "The main events in a story: Frank turned on the TV and sat on the sofa.",
+        "The present (in conditional sentences): If we didn't have computers, what would the world be like?",
+        "After wish, it's time, would rather: I'd rather Michael didn't waste so much time.",
+        "Emphatic past simple (using 'did' + infinitive): They did have the telephone."
+      ],
+      "examples": [
+        {
+          "sentence": "I did enjoy our visit to the Science Museum last summer.",
+          "translation": "Tôi thực sự đã rất thích chuyến thăm Bảo tàng Khoa học vào mùa hè năm ngoái."
+        }
+      ]
+    },
+    {
+      "topic": "Past simple vs present perfect simple",
+      "explanation_en": "Past simple is for finished time periods or specific moments. Present perfect is for periods continuing to the present or when the specific time is not important.",
+      "explanation_vi": "Quá khứ đơn dùng cho khoảng thời gian đã kết thúc hoặc thời điểm cụ thể. Hiện tại hoàn thành dùng cho khoảng thời gian kéo dài đến hiện tại hoặc khi thời điểm cụ thể không quan trọng.",
+      "rules": [
+        "Past simple: Finished time (The nineteenth century saw many advances).",
+        "Present perfect: Continuing time (There have been many advances in recent years).",
+        "Past simple: Specific time (I sent my first e-mail six months ago).",
+        "Present perfect: Non-specific time/Present result (Have you ever sent an e-mail before?)."
+      ]
+    },
+    {
+      "topic": "Past continuous",
+      "explanation_en": "Used for actions in progress at a particular moment in the past, temporary situations, or background information in a story.",
+      "explanation_vi": "Dùng cho các hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ, các tình huống tạm thời, hoặc làm nền cho một câu chuyện.",
+      "rules": [
+        "Actions in progress at a particular moment: Were you chatting to Matt at midnight?",
+        "Temporary situations: At the time, I was working for a large software company.",
+        "Changing and developing situations: I was getting frustrated with my internet provider.",
+        "Annoying past habits (with 'always'): Tina was always taking things apart.",
+        "Background information: It was raining outside and people were making their way home.",
+        "Two actions in progress at the same time: While I was playing, my brother was doing homework."
+      ]
+    },
+    {
+      "topic": "Past perfect simple",
+      "explanation_en": "Used for actions or states that happened before another action or a specific moment in the past.",
+      "explanation_vi": "Dùng cho các hành động hoặc trạng thái đã xảy ra trước một hành động khác hoặc trước một thời điểm cụ thể trong quá khứ.",
+      "rules": [
+        "Situations before the past: Had you had your computer long before it broke?",
+        "Completed actions before a moment in the past: The cinema had already become popular.",
+        "Completed actions where the result is important: I beat Jason because I'd played it a lot."
+      ]
+    },
+    {
+      "topic": "Past perfect continuous",
+      "explanation_en": "Used for actions continuing up to a moment in the past, emphasizing duration.",
+      "explanation_vi": "Dùng cho các hành động kéo dài liên tục cho đến một thời điểm trong quá khứ, nhấn mạnh vào quá trình/thời gian.",
+      "rules": [
+        "Actions continuing up to a moment in the past: She'd been writing games for ten years before she had a hit."
+      ]
+    },
+    {
+      "topic": "would & used to",
+      "explanation_en": "'Used to' describes past habits and states. 'Would' describes past habits but is NOT usually used for past states.",
+      "explanation_vi": "'Used to' mô tả thói quen và trạng thái trong quá khứ. 'Would' mô tả thói quen nhưng thường KHÔNG dùng cho trạng thái.",
+      "rules": [
+        "Past habits: The ancient Greeks would rely on the power of slaves.",
+        "Past habits and states: It used to seem strange to communicate over long distances.",
+        "Watch out: 'Used to' is different from 'be used to' (familiar) or 'get used to' (becoming familiar)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u3_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Rick should know about the meeting because I ___ him about it yesterday.",
+          "options": [
+            "told",
+            "have told"
+          ],
+          "answer": "told",
+          "explanation": "Specific time 'yesterday' requires the past simple."
+        },
+        {
+          "number": 2,
+          "sentence": "___ last July while you were both backpacking around Europe?",
+          "options": [
+            "Did you meet",
+            "Have you met"
+          ],
+          "answer": "Did you meet",
+          "explanation": "Specific time 'last July' requires the past simple."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm resigning because the pressure at work ___ too much for me.",
+          "options": [
+            "has become",
+            "became"
+          ],
+          "answer": "has become",
+          "explanation": "The situation started in the past and continues to affect the present (reason for resigning)."
+        },
+        {
+          "number": 4,
+          "sentence": "A month ago, I ___ a letter from Neil, but I haven't replied.",
+          "options": [
+            "got",
+            "have got"
+          ],
+          "answer": "got",
+          "explanation": "Specific time 'a month ago' requires the past simple."
+        },
+        {
+          "number": 5,
+          "sentence": "Julie ___ anxious to speak to you since she heard about your accident.",
+          "options": [
+            "has been",
+            "was"
+          ],
+          "answer": "has been",
+          "explanation": "'Since' indicates a period starting in the past and continuing to the present."
+        },
+        {
+          "number": 6,
+          "sentence": "I ___ no idea you were such a good chess player.",
+          "options": [
+            "had",
+            "have had"
+          ],
+          "answer": "had",
+          "explanation": "Refers to a state in the past (before finding out now)."
+        },
+        {
+          "number": 7,
+          "sentence": "If you ___, put your hand up and I'll collect your exam paper.",
+          "options": [
+            "have finished",
+            "finished"
+          ],
+          "answer": "have finished",
+          "explanation": "Refers to a completed action with present relevance (handing in the paper)."
+        },
+        {
+          "number": 8,
+          "sentence": "There ___ a number of different reasons for our divorce.",
+          "options": [
+            "were",
+            "have been"
+          ],
+          "answer": "were",
+          "explanation": "The divorce is a finished past event, so the reasons are in the past simple."
+        },
+        {
+          "number": 9,
+          "sentence": "It was my birthday last week and my grandad ___ me a new laptop.",
+          "options": [
+            "gave",
+            "has given"
+          ],
+          "answer": "gave",
+          "explanation": "Specific time 'last week' requires the past simple."
+        },
+        {
+          "number": 10,
+          "sentence": "I don't know who's responsible because I ___ here long.",
+          "options": [
+            "haven't worked",
+            "didn't work"
+          ],
+          "answer": "haven't worked",
+          "explanation": "A state/action continuing up to the present."
+        },
+        {
+          "number": 11,
+          "sentence": "My brother and I ___ to chew gum when we were young.",
+          "options": [
+            "were never allowed",
+            "have never been allowed"
+          ],
+          "answer": "were never allowed",
+          "explanation": "Refers to a finished period in the past ('when we were young')."
+        },
+        {
+          "number": 12,
+          "sentence": "My parents ___ me to a private school until I was 12.",
+          "options": [
+            "sent",
+            "have sent"
+          ],
+          "answer": "sent",
+          "explanation": "Refers to a finished period in the past ('until I was 12')."
+        }
+      ]
+    },
+    {
+      "id": "u3_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Write the verb in brackets in the correct form, past simple or past continuous, in each gap. You may have to use the passive form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "When the explosion happened, hundreds of people ___ through the airport.",
+          "answer": "were passing",
+          "explanation": "Background action in progress when a sudden event occurred."
+        },
+        {
+          "number": 2,
+          "sentence": "When I heard the phone ring, I ___ writing to answer it.",
+          "answer": "stopped",
+          "explanation": "A completed action in response to a sudden event."
+        },
+        {
+          "number": 3,
+          "sentence": "Amy ___, so she didn't see me walking past.",
+          "answer": "was reading",
+          "explanation": "Action in progress at the time of the other event."
+        },
+        {
+          "number": 4,
+          "sentence": "I ___ piano lessons every week from the age of six onwards.",
+          "answer": "had",
+          "explanation": "Past habit or repeated action."
+        },
+        {
+          "number": 5,
+          "sentence": "We decided to leave the beach because it ___ dark and we wanted to get home while there was still some light.",
+          "answer": "was getting",
+          "explanation": "Changing situation in progress in the past."
+        },
+        {
+          "number": 6,
+          "sentence": "___ Jessica already ___ of leaving university before she failed her first year exams?",
+          "answer": "Was ... thinking",
+          "explanation": "Action/state in progress around a past time."
+        },
+        {
+          "number": 7,
+          "sentence": "Since the hotel had a pool, ___ you ___ every day?",
+          "answer": "did ... swim",
+          "explanation": "Repeated action/habit in a finished past period."
+        },
+        {
+          "number": 8,
+          "sentence": "The Industrial Revolution ___ many people from the country to the city.",
+          "answer": "attracted",
+          "explanation": "Completed historical event."
+        },
+        {
+          "number": 9,
+          "sentence": "The Hubble Space Telescope ___ into orbit around the Earth in 1990.",
+          "answer": "was put",
+          "explanation": "Past simple passive for a completed action at a specific time."
+        },
+        {
+          "number": 10,
+          "sentence": "Sorry I couldn't come on Friday, but I ___ on my project.",
+          "answer": "was working",
+          "explanation": "Action in progress at a specific time in the past."
+        },
+        {
+          "number": 11,
+          "sentence": "By the time we ___, the party was almost over.",
+          "answer": "arrived",
+          "explanation": "Simple action in the past."
+        },
+        {
+          "number": 12,
+          "sentence": "The national park ___ to protect local wildlife.",
+          "answer": "was created",
+          "explanation": "Past simple passive for a completed historical fact."
+        }
+      ]
+    },
+    {
+      "id": "u3_C",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Write a verb from the box in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It all ___ as I made my way home from work.",
+          "answer": "started",
+          "explanation": "Main event in a narrative."
+        },
+        {
+          "number": 2,
+          "sentence": "We ___ on a top secret computer program...",
+          "answer": "were working",
+          "explanation": "Background action in progress."
+        },
+        {
+          "number": 3,
+          "sentence": "...and everyone ___ pretty nervous about finishing on time...",
+          "answer": "was getting",
+          "explanation": "Developing situation/state in progress."
+        },
+        {
+          "number": 4,
+          "sentence": "It ___ and it seemed like everyone...",
+          "answer": "was raining",
+          "explanation": "Background weather condition."
+        },
+        {
+          "number": 5,
+          "sentence": "...everyone ___ home at the same time...",
+          "answer": "was going",
+          "explanation": "Action in progress at a specific past time."
+        },
+        {
+          "number": 6,
+          "sentence": "I ___ down into the underground station...",
+          "answer": "went",
+          "explanation": "Main event in narrative sequence."
+        },
+        {
+          "number": 7,
+          "sentence": "...and ___ for the train...",
+          "answer": "was waiting",
+          "explanation": "Action in progress when another event happened."
+        },
+        {
+          "number": 8,
+          "sentence": "...when I ___ her at the end of the platform.",
+          "answer": "saw",
+          "explanation": "Sudden event interrupting another."
+        },
+        {
+          "number": 9,
+          "sentence": "She ___ a red leather jacket...",
+          "answer": "was wearing",
+          "explanation": "Description of a state in progress."
+        },
+        {
+          "number": 10,
+          "sentence": "...that ___ me of something I'd seen in a film...",
+          "answer": "reminded",
+          "explanation": "Past state (stative verb)."
+        },
+        {
+          "number": 11,
+          "sentence": "As I watched, she ___ her handbag...",
+          "answer": "opened",
+          "explanation": "Completed action in narrative."
+        },
+        {
+          "number": 12,
+          "sentence": "...and ___ out what looked like a hand-held computer.",
+          "answer": "took",
+          "explanation": "Completed action in narrative."
+        },
+        {
+          "number": 13,
+          "sentence": "She ___ something on the screen...",
+          "answer": "checked",
+          "explanation": "Action in progress (or completed depending on nuance; 'checked' fits)."
+        },
+        {
+          "number": 14,
+          "sentence": "...then ___ in my direction.",
+          "answer": "looked",
+          "explanation": "Completed action in narrative sequence."
+        },
+        {
+          "number": 15,
+          "sentence": "Suddenly, my mobile phone ___ a sound...",
+          "answer": "made",
+          "explanation": "Sudden event."
+        },
+        {
+          "number": 16,
+          "sentence": "...that ___ I had a text message.",
+          "answer": "meant",
+          "explanation": "Past state/meaning."
+        },
+        {
+          "number": 17,
+          "sentence": "Frowning, I ___ a key...",
+          "answer": "pressed",
+          "explanation": "Narrative action."
+        },
+        {
+          "number": 18,
+          "sentence": "...and the message ___.",
+          "answer": "appeared",
+          "explanation": "Sudden narrative event."
+        },
+        {
+          "number": 19,
+          "sentence": "'We ___ your daughter.'",
+          "answer": "have kidnapped",
+          "explanation": "Present perfect for a recent action with a present result."
+        },
+        {
+          "number": 20,
+          "sentence": "'We know you ___ the program.'",
+          "answer": "have completed",
+          "explanation": "Present perfect for recent completion."
+        },
+        {
+          "number": 21,
+          "sentence": "I looked up just as she ___ around the corner.",
+          "answer": "disappeared",
+          "explanation": "Completed action."
+        },
+        {
+          "number": 22,
+          "sentence": "I ___ after her.",
+          "answer": "raced",
+          "explanation": "Main narrative action."
+        }
+      ]
+    },
+    {
+      "id": "u3_D",
+      "label": "D",
+      "type": "error_correction",
+      "instruction": "One verb in each sentence is in the wrong tense. Underline the incorrect word or phrase and write it in the correct tense.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I've been having a lot of problems with my computer recently and so I got a technician to come and have a look at it, but she *has told* me that it was because I wasn't using it properly.",
+          "answer": "told",
+          "explanation": "The technician telling the speaker is a finished past event in a sequence (got a technician... she told me)."
+        },
+        {
+          "number": 2,
+          "sentence": "It *was* a few days since I heard from Roger, but he left Russia last Monday...",
+          "answer": "is / has been",
+          "explanation": "Standard structure for time duration up to now. If speaking about a past point, it should be 'had been'."
+        },
+        {
+          "number": 3,
+          "sentence": "...even though he *has known* absolutely nothing about what we were talking about.",
+          "answer": "knew",
+          "explanation": "Stative verb 'know' should be in the past simple to match the past context 'were talking'."
+        },
+        {
+          "number": 4,
+          "sentence": "I *had never been visiting* a working prison before...",
+          "answer": "had never visited",
+          "explanation": "Past perfect simple is used for life experiences up to a past point."
+        },
+        {
+          "number": 5,
+          "sentence": "...and he *was putting* his arm around her to comfort her...",
+          "answer": "put",
+          "explanation": "A single action in a narrative sequence (saw... put... made)."
+        },
+        {
+          "number": 6,
+          "sentence": "...I *was ringing* Rick to check and he told me...",
+          "answer": "rang",
+          "explanation": "A single action that happened at a specific point in the story."
+        },
+        {
+          "number": 7,
+          "sentence": "...when suddenly I *had seen* an old-fashioned hat...",
+          "answer": "saw",
+          "explanation": "Sudden event interrupting a background action (was looking... when I saw)."
+        },
+        {
+          "number": 8,
+          "sentence": "...when she *was passing* an old woman...",
+          "answer": "passed",
+          "explanation": "A single action happening during a background activity (was cycling... passed)."
+        }
+      ]
+    },
+    {
+      "id": "u3_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Write the verb in brackets in the correct form, past continuous or present perfect continuous, in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "'Because I ___ for the last hour.' (exercise)",
+          "answer": "have been exercising",
+          "explanation": "Action continuing up to the present (explaining why they are out of breath now)."
+        },
+        {
+          "number": 2,
+          "sentence": "'Yes, I ___ online to my cousin in Australia.' (chat)",
+          "answer": "was chatting",
+          "explanation": "Action in progress at a specific finished moment (last night)."
+        },
+        {
+          "number": 3,
+          "sentence": "'Well, I hope so because I ___ a lot lately.' (practise)",
+          "answer": "have been practising",
+          "explanation": "Action in progress over a period up to the present ('lately')."
+        },
+        {
+          "number": 4,
+          "sentence": "'No, but you ___ quite a lot of them recently.' (see)",
+          "answer": "have been seeing",
+          "explanation": "Action in progress/repeated over a period up to the present ('recently')."
+        },
+        {
+          "number": 5,
+          "sentence": "'No, I ___.' (sleep)",
+          "answer": "was sleeping",
+          "explanation": "Action in progress when the other person called/arrived."
+        },
+        {
+          "number": 6,
+          "sentence": "'I ___ of doing so for a long time, but then I decided not to.' (think)",
+          "answer": "was thinking",
+          "explanation": "Action in progress during a finished past period."
+        },
+        {
+          "number": 7,
+          "sentence": "'Oh, the council ___ up the roads, but they should finish this weekend.' (dig)",
+          "answer": "have been digging",
+          "explanation": "Action in progress up to the present."
+        }
+      ]
+    },
+    {
+      "id": "u3_F",
+      "label": "F",
+      "type": "fill_blank",
+      "instruction": "Write one verb in each sentence in the past simple and the other verb in the past perfect.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The ambulance ___ by the time the reporters ___ to the scene of the accident.",
+          "answer": "had left ... got",
+          "explanation": "The ambulance leaving happened before the reporters arriving."
+        },
+        {
+          "number": 2,
+          "sentence": "Before I ___ Dr Christian, I ___ a number of different specialists.",
+          "answer": "met ... had seen",
+          "explanation": "Seeing specialists happened before meeting Dr Christian."
+        },
+        {
+          "number": 3,
+          "sentence": "It ___ only the second time I ___ in a helicopter.",
+          "answer": "was ... had ever been",
+          "explanation": "Being in a helicopter happened before the reference time in the past."
+        },
+        {
+          "number": 4,
+          "sentence": "Up to the moment when Mr O'Donnell ___ 'You're fired', I ___ no idea why he wanted to see me.",
+          "answer": "said ... had had",
+          "explanation": "Having no idea was a state before he said the words."
+        },
+        {
+          "number": 5,
+          "sentence": "When Tonya ___ eating, she ___ the waiter to bring the bill.",
+          "answer": "had finished ... asked",
+          "explanation": "Finishing eating happened before asking for the bill."
+        },
+        {
+          "number": 6,
+          "sentence": "Luckily, I ___ the end of my essay when the teacher ___ us all to put our pens down.",
+          "answer": "had just reached ... told",
+          "explanation": "Reaching the end happened just before the teacher's instruction."
+        },
+        {
+          "number": 7,
+          "sentence": "We ___ everything we had to do by five, so we ___ to go out for a coffee.",
+          "answer": "had done ... decided",
+          "explanation": "Doing everything happened before the decision."
+        },
+        {
+          "number": 8,
+          "sentence": "I ___ Mrs Thomas's young son to touch my ornaments because I ___ them.",
+          "answer": "didn't want ... had just cleaned",
+          "explanation": "Cleaning happened before the son wanting to touch them."
+        },
+        {
+          "number": 9,
+          "sentence": "My mum ___ annoyed with me because I ___ to get milk when I was at the shop.",
+          "answer": "was ... had forgotten",
+          "explanation": "Forgetting happened before her getting annoyed."
+        },
+        {
+          "number": 10,
+          "sentence": "I ___ Janine a book for her birthday, but she ___ it before.",
+          "answer": "got ... had read",
+          "explanation": "Reading it happened before she received it as a gift."
+        }
+      ]
+    },
+    {
+      "id": "u3_G",
+      "label": "G",
+      "type": "error_correction",
+      "instruction": "If a word or phrase in bold is in the correct form, put a tick. If it is incorrect, write the correct form on the line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "People (1) **have been dreaming** of having a personal means...",
+          "answer": "✓",
+          "explanation": "Action continuing up to the present."
+        },
+        {
+          "number": 2,
+          "sentence": "In the late 1960s, the idea (2) **had seemed** so far...",
+          "answer": "seemed",
+          "explanation": "Past simple for a state at a specific past time."
+        },
+        {
+          "number": 3,
+          "sentence": "...that it (3) **was included** in the science fiction series...",
+          "answer": "✓",
+          "explanation": "Past simple passive for a finished past action."
+        },
+        {
+          "number": 4,
+          "sentence": "Since the 1980s, however, mobiles (4) **became** a part...",
+          "answer": "have become",
+          "explanation": "'Since' requires the present perfect."
+        },
+        {
+          "number": 5,
+          "sentence": "Although they (5) **were initially seen** as a status symbol...",
+          "answer": "✓",
+          "explanation": "Past simple passive for initial perception."
+        },
+        {
+          "number": 6,
+          "sentence": "...mobile use (6) **had spread** to include practically everyone...",
+          "answer": "has spread",
+          "explanation": "Present perfect for a completed process with present significance."
+        },
+        {
+          "number": 7,
+          "sentence": "The impact on social life (7) **had been** enormous.",
+          "answer": "has been",
+          "explanation": "Impact continuing up to the present."
+        },
+        {
+          "number": 8,
+          "sentence": "...friends who (8) **had arranged** to meet...",
+          "answer": "✓",
+          "explanation": "Past perfect for an arrangement made before the meeting."
+        },
+        {
+          "number": 9,
+          "sentence": "...completely (9) **had missed** each other...",
+          "answer": "missed",
+          "explanation": "Past simple for the main event in the story."
+        },
+        {
+          "number": 10,
+          "sentence": "As mobiles (10) **have been becoming** more popular...",
+          "answer": "became",
+          "explanation": "Refers to a process in the past as they were gaining popularity."
+        },
+        {
+          "number": 11,
+          "sentence": "...so they (11) **have become** more powerful.",
+          "answer": "✓",
+          "explanation": "Present perfect for a current result."
+        },
+        {
+          "number": 12,
+          "sentence": "The large, unreliable mobile phone of the 1980s (12) **has evolved** into...",
+          "answer": "evolved",
+          "explanation": "Refers to a historical process."
+        }
+      ]
+    },
+    {
+      "id": "u3_H",
+      "label": "H",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I started working at eight and I was still working at six in the evening, when you called. (been)\nWhen you called, I ___ ten hours.",
+          "answer": "had been working for",
+          "explanation": "Past perfect continuous to show duration up to a past moment."
+        },
+        {
+          "number": 2,
+          "sentence": "We often went to the seaside with our grandparents as children. (would)\nOur grandparents ___ to the seaside as children.",
+          "answer": "would often take us",
+          "explanation": "'Would' for repeated past actions."
+        },
+        {
+          "number": 3,
+          "sentence": "It's about seven years now since Laura started to learn Russian. (learning)\nLaura ___ seven years.",
+          "answer": "has been learning Russian for",
+          "explanation": "Present perfect continuous for action starting in the past and continuing."
+        },
+        {
+          "number": 4,
+          "sentence": "Being with the older children soon stopped being frightening when I went to secondary school. (used)\nSecondary school was frightening, but I ___ with the older children.",
+          "answer": "soon got used to being",
+          "explanation": "'Get used to' shows the process of becoming familiar."
+        },
+        {
+          "number": 5,
+          "sentence": "Every night for the past week I have had the same dream. (having)\nI ___ for a week now.",
+          "answer": "have been having the same dream",
+          "explanation": "Present perfect continuous for repeated actions over a period."
+        },
+        {
+          "number": 6,
+          "sentence": "I always disliked karate lessons but now I'm starting to enjoy them. (used)\nI ___ karate lessons, but now I'm starting to.",
+          "answer": "never used to enjoy",
+          "explanation": "'Used to' for past states or habits."
+        }
+      ]
+    },
+    {
+      "id": "u3_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Because the pencil (1) ___ become such a fundamental part...",
+          "answer": "has",
+          "explanation": "Present perfect for a current situation."
+        },
+        {
+          "number": 2,
+          "sentence": "...remember that people (2) ___ not been using them forever.",
+          "answer": "had",
+          "explanation": "Past perfect for a situation before the current one."
+        },
+        {
+          "number": 3,
+          "sentence": "...people (3) ___ to use pens to write with...",
+          "answer": "used",
+          "explanation": "'Used to' for past habits."
+        },
+        {
+          "number": 4,
+          "sentence": "It (4) ___ also possible to use a metal stick...",
+          "answer": "was",
+          "explanation": "Past simple for a past state."
+        },
+        {
+          "number": 5,
+          "sentence": "...up to that point no one (5) ___ found an easy way...",
+          "answer": "had",
+          "explanation": "Past perfect for completion before a past point."
+        },
+        {
+          "number": 6,
+          "sentence": "...graphite, (6) ___ found near Borrowdale...",
+          "answer": "was",
+          "explanation": "Past simple passive for a specific event."
+        },
+        {
+          "number": 7,
+          "sentence": "The locals (7) ___ use this graphite...",
+          "answer": "would",
+          "explanation": "'Would' for past repeated actions."
+        },
+        {
+          "number": 8,
+          "sentence": "...substance (8) ___ spread to artists around the world...",
+          "answer": "had",
+          "explanation": "Past perfect for an event before another past point."
+        },
+        {
+          "number": 9,
+          "sentence": "...it (9) ___ to have to be covered in something...",
+          "answer": "used",
+          "explanation": "'Used to' for past requirements/states."
+        },
+        {
+          "number": 10,
+          "sentence": "People had (10) ___ trying to improve the pencil...",
+          "answer": "been",
+          "explanation": "Past perfect continuous for duration."
+        }
+      ]
+    },
+    {
+      "id": "u3_J",
+      "label": "J",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "How long ___ before Val finally turned up?",
+          "options": [
+            "have you been waiting",
+            "are you waiting",
+            "you waited",
+            "had you been waiting"
+          ],
+          "answer": "had you been waiting",
+          "explanation": "Past perfect continuous for duration up to a point in the past."
+        },
+        {
+          "number": 2,
+          "sentence": "You ___ be so good at backgammon, did you?",
+          "options": [
+            "never used to",
+            "got used to",
+            "are used to",
+            "wouldn't"
+          ],
+          "answer": "never used to",
+          "explanation": "'Used to' for past states/habits, fits the question tag 'did you'."
+        },
+        {
+          "number": 3,
+          "sentence": "Could you tell me, sir, what you ___ in the park at three in the morning?",
+          "options": [
+            "have done",
+            "have been doing",
+            "were doing",
+            "had done"
+          ],
+          "answer": "were doing",
+          "explanation": "Past continuous for action in progress at a specific past time."
+        },
+        {
+          "number": 4,
+          "sentence": "I was angry when you saw me because I ___ with my sister.",
+          "options": [
+            "have been arguing",
+            "argued",
+            "had been arguing",
+            "would argue"
+          ],
+          "answer": "had been arguing",
+          "explanation": "Past perfect continuous for an action continuing just before a past moment."
+        },
+        {
+          "number": 5,
+          "sentence": "The Black Pirate ___ over a million copies already this year.",
+          "options": [
+            "had sold",
+            "has sold",
+            "had been selling",
+            "was selling"
+          ],
+          "answer": "has sold",
+          "explanation": "Present perfect for action in a period up to the present ('this year')."
+        },
+        {
+          "number": 6,
+          "sentence": "Don't throw the paper away because I ___ it yet.",
+          "options": [
+            "haven't read",
+            "had hadn't read",
+            "haven't been reading",
+            "hadn't been reading"
+          ],
+          "answer": "haven't read",
+          "explanation": "Present perfect with 'yet' for something not completed up to now."
+        },
+        {
+          "number": 7,
+          "sentence": "By the time we arrived, the film ___.",
+          "options": [
+            "has already started",
+            "would already start",
+            "already started",
+            "had already started"
+          ],
+          "answer": "had already started",
+          "explanation": "Past perfect for action completed before a past moment."
+        },
+        {
+          "number": 8,
+          "sentence": "We had to walk home in the end because Jimmy ___ his car keys.",
+          "options": [
+            "has been losing",
+            "had lost",
+            "was losing",
+            "had been losing"
+          ],
+          "answer": "had lost",
+          "explanation": "Past perfect for a completed action with a past result."
+        },
+        {
+          "number": 9,
+          "sentence": "It took Edward a long time to ___ living in Canada.",
+          "options": [
+            "be used to",
+            "used to",
+            "get used to",
+            "be used"
+          ],
+          "answer": "get used to",
+          "explanation": "Process of becoming familiar with a situation."
+        },
+        {
+          "number": 10,
+          "sentence": "I'd love to have lived in the old days, when people ___ to market by horse and carriage.",
+          "options": [
+            "have been travelling",
+            "would travel",
+            "got used to travelling",
+            "had been travelling"
+          ],
+          "answer": "would travel",
+          "explanation": "'Would' for past repeated actions/habits."
+        },
+        {
+          "number": 11,
+          "sentence": "I much preferred it when we ___ to Wales every summer on holiday.",
+          "options": [
+            "used to go",
+            "were used to going",
+            "had gone",
+            "have been going"
+          ],
+          "answer": "used to go",
+          "explanation": "'Used to' for past habits."
+        },
+        {
+          "number": 12,
+          "sentence": "Your teacher called me today and said that you ___ in the playground again.",
+          "options": [
+            "had been fighting",
+            "used to fight",
+            "have fought",
+            "would fight"
+          ],
+          "answer": "had been fighting",
+          "explanation": "Past perfect continuous for a repeated action before a past moment."
+        }
+      ]
+    }
+  ]
+}

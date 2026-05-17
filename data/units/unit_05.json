@@ -1,0 +1,1000 @@
+
+{
+  "unit_id": 5,
+  "unit_type": "Grammar",
+  "title": "Future time",
+  "grammar_topics": [
+    {
+      "topic": "Predictions",
+      "explanation_en": "We use 'will' for predictions based on our opinion or general beliefs. We use 'be going to' for predictions based on present evidence (something we can see or know now).",
+      "explanation_vi": "Chúng ta sử dụng 'will' cho các dự đoán dựa trên ý kiến cá nhân hoặc niềm tin chung. Chúng ta sử dụng 'be going to' cho các dự đoán dựa trên bằng chứng hiện tại (điều chúng ta thấy hoặc biết ngay bây giờ).",
+      "rules": [
+        "will: general predictions, opinions.",
+        "be going to: predictions based on present evidence."
+      ],
+      "examples": [
+        {
+          "sentence": "It looks as if Jake will lose his job.",
+          "translation": "Có vẻ như Jake sẽ mất việc."
+        },
+        {
+          "sentence": "Look at that wall. It looks as if it's going to fall down.",
+          "translation": "Nhìn bức tường kia kìa. Có vẻ như nó sắp đổ xuống rồi."
+        }
+      ]
+    },
+    {
+      "topic": "Future facts, Decisions, Offers, Promises, Requests, Refusals",
+      "explanation_en": "'will' is used for future facts, spontaneous decisions, offers, promises, requests, and refusals. 'shall' is used for offers and suggestions in question form with 'I' and 'we'.",
+      "explanation_vi": "'will' được dùng cho các sự thật trong tương lai, quyết định tức thời, lời mời, lời hứa, yêu cầu và từ chối. 'shall' được dùng cho lời mời và gợi ý dưới dạng câu hỏi với ngôi 'I' và 'we'.",
+      "rules": [
+        "will: facts, instant decisions, offers, promises, requests, refusals.",
+        "shall: offers and suggestions (questions with I/we).",
+        "would/could/can: used for requests (polite).",
+        "couldn't/can't: used for refusals (polite)."
+      ],
+      "examples": [
+        {
+          "sentence": "The factory will open in July.",
+          "translation": "Nhà máy sẽ mở cửa vào tháng Bảy."
+        },
+        {
+          "sentence": "Shall I help you with the advertising campaign?",
+          "translation": "Tôi giúp bạn chiến dịch quảng cáo nhé?"
+        }
+      ]
+    },
+    {
+      "topic": "Arrangements and Intentions",
+      "explanation_en": "Present continuous is used for fixed arrangements (usually with other people). 'be going to' and present continuous are used for intentions. Present continuous is not usually used for distant future intentions.",
+      "explanation_vi": "Thì hiện tại tiếp diễn được dùng cho các sắp xếp cố định (thường là với người khác). 'be going to' và hiện tại tiếp diễn đều dùng được cho dự định. Tuy nhiên, hiện tại tiếp diễn thường không dùng cho dự định trong tương lai xa.",
+      "rules": [
+        "Present continuous: arrangements, near-future intentions.",
+        "be going to: intentions (general or distant)."
+      ],
+      "examples": [
+        {
+          "sentence": "I'm meeting Fiona on Friday to discuss the advertising campaign.",
+          "translation": "Tôi sẽ gặp Fiona vào thứ Sáu để thảo luận về chiến dịch quảng cáo."
+        },
+        {
+          "sentence": "I'm going to work for a really successful company one day.",
+          "translation": "Một ngày nào đó tôi sẽ làm việc cho một công ty thực sự thành công."
+        }
+      ]
+    },
+    {
+      "topic": "Fixed future events (Timetables)",
+      "explanation_en": "Present simple is used for fixed future events like timetables, schedules, or programs.",
+      "explanation_vi": "Thì hiện tại đơn được dùng cho các sự kiện cố định trong tương lai như thời khóa biểu, lịch trình hoặc chương trình.",
+      "rules": [
+        "Present simple: timetables and schedules."
+      ],
+      "examples": [
+        {
+          "sentence": "The shop closes at 3 pm next Saturday.",
+          "translation": "Cửa hàng đóng cửa lúc 3 giờ chiều thứ Bảy tới."
+        }
+      ]
+    },
+    {
+      "topic": "Future perfect simple and continuous",
+      "explanation_en": "Future perfect simple describes completed situations before a certain time. Future perfect continuous emphasises the duration of a situation up to a certain time.",
+      "explanation_vi": "Thì tương lai hoàn thành đơn mô tả các tình huống đã hoàn thành trước một thời điểm nhất định. Thì tương lai hoàn thành tiếp diễn nhấn mạnh khoảng thời gian của một tình huống kéo dài đến một thời điểm nhất định.",
+      "rules": [
+        "Future perfect simple: will have + past participle.",
+        "Future perfect continuous: will have been + V-ing."
+      ],
+      "examples": [
+        {
+          "sentence": "By the end of the week, Jake will have lost his job.",
+          "translation": "Đến cuối tuần, Jake sẽ đã mất việc."
+        },
+        {
+          "sentence": "Next month, I'll have been working here for 25 years.",
+          "translation": "Tháng tới, tôi sẽ đã làm việc ở đây được đúng 25 năm."
+        }
+      ]
+    },
+    {
+      "topic": "Future continuous",
+      "explanation_en": "Used for situations in progress at a certain time, situations happening in the normal course of events, or future habits.",
+      "explanation_vi": "Dùng cho các tình huống đang diễn ra tại một thời điểm xác định, các tình huống xảy ra theo tiến trình tự nhiên, hoặc các thói quen trong tương lai.",
+      "rules": [
+        "Future continuous: will be + V-ing."
+      ],
+      "examples": [
+        {
+          "sentence": "This time next week I'll be travelling round Russia.",
+          "translation": "Giờ này tuần sau tôi sẽ đang đi du lịch quanh nước Nga."
+        }
+      ]
+    },
+    {
+      "topic": "Time clauses",
+      "explanation_en": "In clauses starting with when, while, once, as soon as, etc., we use present tenses (simple, continuous, or perfect) instead of 'will'.",
+      "explanation_vi": "Trong các mệnh đề bắt đầu bằng when, while, once, as soon as, v.v., chúng ta sử dụng các thì hiện tại (đơn, tiếp diễn hoặc hoàn thành) thay vì 'will'.",
+      "rules": [
+        "No 'will' after time conjunctions.",
+        "Use present simple/continuous/perfect."
+      ],
+      "examples": [
+        {
+          "sentence": "I'll give you a pay rise when you start working harder!",
+          "translation": "Tôi sẽ tăng lương cho bạn khi bạn bắt đầu làm việc chăm chỉ hơn!"
+        }
+      ]
+    },
+    {
+      "topic": "Future in the past",
+      "explanation_en": "When looking back at what was once the future, 'will' becomes 'would', 'is going to' becomes 'was going to', and present tenses shift back one tense.",
+      "explanation_vi": "Khi nhìn lại những gì từng là tương lai, 'will' trở thành 'would', 'is going to' trở thành 'was going to', và các thì hiện tại lùi lại một thì.",
+      "rules": [
+        "will -> would",
+        "is going to -> was going to",
+        "present simple -> past simple"
+      ],
+      "examples": [
+        {
+          "sentence": "I thought the factory would open in September.",
+          "translation": "Tôi đã nghĩ rằng nhà máy sẽ mở cửa vào tháng Chín."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u5_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Sonia looks like she's ___ asleep any minute!",
+          "options": ["falling", "going to fall"],
+          "answer": "going to fall",
+          "explanation": "Prediction based on present evidence (looks like)."
+        },
+        {
+          "number": 2,
+          "sentence": "When I leave school, I'm ___ a journalist.",
+          "options": ["being", "going to be"],
+          "answer": "going to be",
+          "explanation": "Expressing a future intention."
+        },
+        {
+          "number": 3,
+          "sentence": "When Jake's got his degree, he's ___ to drama school for a year.",
+          "options": ["going", "going to go"],
+          "answer": "going to go",
+          "explanation": "Future intention."
+        },
+        {
+          "number": 4,
+          "sentence": "Watch out or you're ___ into trouble!",
+          "options": ["getting", "going to get"],
+          "answer": "going to get",
+          "explanation": "Prediction based on a warning/present situation."
+        },
+        {
+          "number": 5,
+          "sentence": "When are they ___ that they have to improve their customer service?",
+          "options": ["realising", "going to realise"],
+          "answer": "going to realise",
+          "explanation": "Prediction/question about a future state or intention."
+        },
+        {
+          "number": 6,
+          "sentence": "When are you ___ a branch in Littlehampton?",
+          "options": ["opening", "going to open"],
+          "answer": "opening / going to open",
+          "explanation": "Both are correct: 'opening' implies a fixed arrangement, 'going to open' implies an intention."
+        },
+        {
+          "number": 7,
+          "sentence": "It sounds like we're not ___ a sales conference this year.",
+          "options": ["having", "going to have"],
+          "answer": "having / going to have",
+          "explanation": "Both are correct: 'having' implies arrangement, 'going to have' implies prediction."
+        },
+        {
+          "number": 8,
+          "sentence": "I think house prices are ___ in about six months.",
+          "options": ["falling", "going to fall"],
+          "answer": "going to fall",
+          "explanation": "General prediction."
+        },
+        {
+          "number": 9,
+          "sentence": "Why is Tony ___ for that position? He's not qualified at all.",
+          "options": ["applying", "going to apply"],
+          "answer": "applying / going to apply",
+          "explanation": "Both are correct: 'applying' (arrangement/action starting), 'going to apply' (intention)."
+        },
+        {
+          "number": 10,
+          "sentence": "We're ___ this in detail in the next meeting.",
+          "options": ["discussing", "going to discuss"],
+          "answer": "discussing / going to discuss",
+          "explanation": "Both are correct: 'discussing' (arrangement), 'going to discuss' (intention)."
+        },
+        {
+          "number": 11,
+          "sentence": "I'm pretty sure that building's ___ knocked down next week.",
+          "options": ["being", "going to be"],
+          "answer": "being / going to be",
+          "explanation": "Both are correct: 'being' (arrangement), 'going to be' (prediction/fact)."
+        },
+        {
+          "number": 12,
+          "sentence": "There's no doubt the events of the last few days are ___ written about by future historians.",
+          "options": ["being", "going to be"],
+          "answer": "going to be",
+          "explanation": "Prediction about the future."
+        },
+        {
+          "number": 13,
+          "sentence": "You're not ___ in your resignation tomorrow, are you?",
+          "options": ["handing", "going to hand"],
+          "answer": "handing / going to hand",
+          "explanation": "Both are correct: 'handing' (arrangement), 'going to hand' (intention)."
+        },
+        {
+          "number": 14,
+          "sentence": "Fiona and Jerry aren't ___ arrogant when they release their CD, are they?",
+          "options": ["becoming", "going to become"],
+          "answer": "going to become",
+          "explanation": "Prediction based on opinion."
+        },
+        {
+          "number": 15,
+          "sentence": "The airline industry's ___ to cut costs in the near future.",
+          "options": ["having", "going to have"],
+          "answer": "going to have",
+          "explanation": "Prediction/necessity."
+        }
+      ]
+    },
+    {
+      "id": "u5_B",
+      "label": "B",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I can't come to the beach this weekend, I'm afraid, as ___ my grandparents.",
+          "options": ["we'll visit", "we're visiting"],
+          "answer": "we're visiting",
+          "explanation": "Fixed arrangement."
+        },
+        {
+          "number": 2,
+          "sentence": "The Prime Minister ___ all of your questions in due course.",
+          "options": ["will answer", "is answering"],
+          "answer": "will answer",
+          "explanation": "Formal announcement/future fact."
+        },
+        {
+          "number": 3,
+          "sentence": "What time ___?",
+          "options": ["does your plane arrive", "is your plane arriving"],
+          "answer": "does your plane arrive / is your plane arriving",
+          "explanation": "Both are correct: present simple for timetables, present continuous for personal arrangements."
+        },
+        {
+          "number": 4,
+          "sentence": "___ after the neighbours' kids tomorrow evening so I can't come bowling.",
+          "options": ["I'll look", "I'm looking"],
+          "answer": "I'm looking",
+          "explanation": "Arrangement."
+        },
+        {
+          "number": 5,
+          "sentence": "___ we move on to the next item on the agenda now?",
+          "options": ["Shall", "Will"],
+          "answer": "Shall",
+          "explanation": "Suggestion with 'we'."
+        },
+        {
+          "number": 6,
+          "sentence": "'I don't feel well at all.' '___ sick?'",
+          "options": ["Are you going to", "Will you"],
+          "answer": "Are you going to",
+          "explanation": "Prediction based on present evidence (feeling unwell)."
+        },
+        {
+          "number": 7,
+          "sentence": "The last bus ___ at midnight.",
+          "options": ["leaves", "is leaving"],
+          "answer": "leaves / is leaving",
+          "explanation": "Both are correct: present simple for timetable, present continuous for specific event."
+        },
+        {
+          "number": 8,
+          "sentence": "Karen, ___ I give you a hand with that report?",
+          "options": ["shall", "will"],
+          "answer": "shall",
+          "explanation": "Offer with 'I'."
+        },
+        {
+          "number": 9,
+          "sentence": "I'm afraid I ___ time to finish all this work today.",
+          "options": ["I'm not having", "I won't have"],
+          "answer": "I won't have",
+          "explanation": "Prediction/Future fact."
+        },
+        {
+          "number": 10,
+          "sentence": "When ___ round to having new business cards printed?",
+          "options": ["does she", "is she going to"],
+          "answer": "is she going to",
+          "explanation": "Asking about intention."
+        }
+      ]
+    },
+    {
+      "id": "u5_C",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Write a short phrase using will, be going to, present simple or present continuous on the line to complete each sentence. If more than one form is correct, write all possibilities.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "___ (I / come) into the office on Saturday morning if you like, Pete.",
+          "answer": "I'll come / I will come",
+          "explanation": "Offer."
+        },
+        {
+          "number": 2,
+          "sentence": "Carol, ___ (you / show) Harry how to use the photocopier, please?",
+          "answer": "will you show",
+          "explanation": "Request."
+        },
+        {
+          "number": 3,
+          "sentence": "From the look of things, ___ (it / snow) later today.",
+          "answer": "it's going to snow",
+          "explanation": "Prediction based on evidence."
+        },
+        {
+          "number": 4,
+          "sentence": "Hurry up! ___ (We / miss) the ferry!",
+          "answer": "We're going to miss",
+          "explanation": "Prediction based on evidence (hurry up)."
+        },
+        {
+          "number": 5,
+          "sentence": "___ (The winner / announce) on 14th January.",
+          "answer": "The winner will be announced / is being announced / is going to be announced / is announced",
+          "explanation": "Future fact, arrangement, or formal announcement."
+        },
+        {
+          "number": 6,
+          "sentence": "I can't come in to work this morning because ___ (I / go) to the doctor's.",
+          "answer": "I'm going",
+          "explanation": "Arrangement."
+        },
+        {
+          "number": 7,
+          "sentence": "Don't worry! ___ (They / sack) anyone for at least six months.",
+          "answer": "They won't sack / They aren't going to sack",
+          "explanation": "Prediction/assurance."
+        },
+        {
+          "number": 8,
+          "sentence": "___ (Jenny / find) a job easily when she graduates?",
+          "answer": "Will Jenny find",
+          "explanation": "Prediction."
+        },
+        {
+          "number": 9,
+          "sentence": "No, I'm afraid ___ (I / be) at the meeting tomorrow.",
+          "answer": "I won't be",
+          "explanation": "Future fact/prediction."
+        },
+        {
+          "number": 10,
+          "sentence": "___ (The new version / launch) in the spring.",
+          "answer": "The new version will be launched / is being launched / is going to be launched / launches",
+          "explanation": "Future fact, arrangement, intention, or timetable."
+        },
+        {
+          "number": 11,
+          "sentence": "___ (I / order) a pizza, shall I?",
+          "answer": "I'll order / I will order",
+          "explanation": "Decision at the moment of speaking."
+        },
+        {
+          "number": 12,
+          "sentence": "It looks like ___ (some people / make) redundant quite soon.",
+          "answer": "some people are going to be made / are being made",
+          "explanation": "Prediction based on evidence or arrangement."
+        },
+        {
+          "number": 13,
+          "sentence": "What time ___ (the train / leave) on Saturday?",
+          "answer": "does the train leave / is the train leaving",
+          "explanation": "Timetable (present simple) or specific arrangement (present continuous)."
+        }
+      ]
+    },
+    {
+      "id": "u5_D",
+      "label": "D",
+      "type": "error_correction",
+      "instruction": "If the phrase in bold is correct, put a tick. If it is incorrect, write the correct form on the line so that the sentence is in the future perfect.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I think *we'll have sold* out of these by the end of the day.",
+          "answer": "tick",
+          "explanation": "Correct use of future perfect simple for completed action."
+        },
+        {
+          "number": 2,
+          "sentence": "On Tuesday, Toby *will have been being* with the company for exactly 35 years.",
+          "answer": "will have been",
+          "explanation": "'Be' is a stative verb, so we use future perfect simple, not continuous."
+        },
+        {
+          "number": 3,
+          "sentence": "We'll *have been becoming* the market leader by the end of the summer.",
+          "answer": "have become",
+          "explanation": "We want to express a state that will be reached (completed), so future perfect simple is used."
+        },
+        {
+          "number": 4,
+          "sentence": "At the end of the summer, I'll *have taking* the same train to work every morning for 15 years.",
+          "answer": "have been taking",
+          "explanation": "Emphasising duration of a repeated action up to a future point."
+        },
+        {
+          "number": 5,
+          "sentence": "When we meet tomorrow afternoon, *will you already have* a chance to look at the sales figures?",
+          "answer": "will you already have had",
+          "explanation": "Question in the future perfect simple: will + subject + have + past participle (had)."
+        },
+        {
+          "number": 6,
+          "sentence": "*You'll have driven* for hours without a break when we get there, so you'll need a rest before we go out.",
+          "answer": "tick",
+          "explanation": "Wait, 'driven' is correct, but 'have been driving' would also be common for duration. However, 'will have driven' is grammatically correct as a completed state/action."
+        },
+        {
+          "number": 7,
+          "sentence": "A Managing Director *will have appointed* by the end of the month.",
+          "answer": "will have been appointed",
+          "explanation": "Passive voice is needed: will have been + past participle."
+        },
+        {
+          "number": 8,
+          "sentence": "Sandra *won't have been finished* the reports by then, but she should at least have started.",
+          "answer": "won't have finished",
+          "explanation": "Active voice is needed for future perfect simple."
+        },
+        {
+          "number": 9,
+          "sentence": "Ron's going to be very surprised when he hears the news. He definitely *will have been expecting* it.",
+          "answer": "won't have been expecting",
+          "explanation": "Meaning check: if he is surprised, he 'won't have been expecting' it."
+        },
+        {
+          "number": 10,
+          "sentence": "*Will you have managed* to put something down in writing by the end of the day?",
+          "answer": "tick",
+          "explanation": "Correct future perfect simple for a completed task."
+        },
+        {
+          "number": 11,
+          "sentence": "Why *will they have been waiting* for hours? I thought you'd told them we were going to leave later.",
+          "answer": "tick",
+          "explanation": "Correct future perfect continuous to emphasize duration."
+        },
+        {
+          "number": 12,
+          "sentence": "It sounds like the invitations *won't all have delivering* by next Friday.",
+          "answer": "won't all have been delivered",
+          "explanation": "Passive voice: will have been + past participle."
+        }
+      ]
+    },
+    {
+      "id": "u5_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Write the verb in brackets in the correct form (future perfect simple, future perfect continuous or future continuous) in each gap. If more than one form is correct, write all the possibilities.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "By the end of today ___ (Ed / apply) for over 17 jobs!",
+          "answer": "Ed will have applied",
+          "explanation": "Completed situation before a certain time."
+        },
+        {
+          "number": 2,
+          "sentence": "This time next year ___ (I / hopefully / run) my own business.",
+          "answer": "I'll hopefully be running / I will hopefully be running",
+          "explanation": "Situation in progress at a certain time."
+        },
+        {
+          "number": 3,
+          "sentence": "In three days' time ___ (we / live) here for exactly two years.",
+          "answer": "we'll have lived / we'll have been living",
+          "explanation": "Continuing situation up to a certain time (both simple and continuous work for 'live')."
+        },
+        {
+          "number": 4,
+          "sentence": "___ (Gemma / already / arrive) by the time we get there?",
+          "answer": "Will Gemma already have arrived",
+          "explanation": "Completed situation before a certain time."
+        },
+        {
+          "number": 5,
+          "sentence": "___ (you / travel) all day, will you? Surely ___ (you / have) several stops on the way, won't you?",
+          "answer": "You won't have been travelling, you'll have had / you will have had",
+          "explanation": "Duration up to a point (travelling) and completed action (stops)."
+        },
+        {
+          "number": 6,
+          "sentence": "___ (we / wait) for you at reception when you arrive.",
+          "answer": "We'll be waiting / We will be waiting",
+          "explanation": "Situation in progress at a certain time."
+        },
+        {
+          "number": 7,
+          "sentence": "At the end of this sponsored jumpathon, ___ (1,000 people / jump) up and down on the spot non-stop for 48 hours!",
+          "answer": "1,000 people will have been jumping",
+          "explanation": "Emphasises duration up to a point."
+        },
+        {
+          "number": 8,
+          "sentence": "___ (the boys / sign) autographs all morning, so they'll need a couple of hours' break before the recording session.",
+          "answer": "The boys will have been signing",
+          "explanation": "Duration leading up to a break."
+        },
+        {
+          "number": 9,
+          "sentence": "How many people ___ (you / interview) for the position tomorrow?",
+          "answer": "will you be interviewing / are you going to interview / will you have interviewed",
+          "explanation": "Future continuous for normal course of events, or future perfect for completed count."
+        },
+        {
+          "number": 10,
+          "sentence": "___ (Terry / see) the e-mail as he's only just got here so we'd better discuss that first.",
+          "answer": "Terry won't have seen",
+          "explanation": "Negative future perfect for action not yet completed."
+        },
+        {
+          "number": 11,
+          "sentence": "What ___ (you / do) this time next week?",
+          "answer": "will you be doing",
+          "explanation": "Action in progress at a specific time."
+        },
+        {
+          "number": 12,
+          "sentence": "___ (we / see) Ken and Tricia when we go to the States as they'll be away at the time, unfortunately.",
+          "answer": "We won't be seeing / We won't have seen",
+          "explanation": "Future continuous for normal course of events (negative)."
+        }
+      ]
+    },
+    {
+      "id": "u5_F",
+      "label": "F",
+      "type": "transformation",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The bell will ring and then you can all go home.\nYou can all go home when ___.",
+          "answer": "the bell rings / has rung",
+          "explanation": "Present simple or present perfect in a time clause."
+        },
+        {
+          "number": 2,
+          "sentence": "Ahmed will ask the questions and I'll take notes.\nI'll take notes while ___.",
+          "answer": "Ahmed is asking / asks the questions",
+          "explanation": "Present continuous or simple in a time clause."
+        },
+        {
+          "number": 3,
+          "sentence": "You're a trainee for three months and then you become a junior employee.\nYou become a junior employee once ___.",
+          "answer": "you've been / you have been a trainee for three months",
+          "explanation": "Present perfect for a completed condition."
+        },
+        {
+          "number": 4,
+          "sentence": "Miss Jones will be interviewing the candidates and Mr Dawkins will be recording the interviews.\nMiss Jones will be interviewing the candidates while ___.",
+          "answer": "Mr Dawkins is recording / records the interviews",
+          "explanation": "Present continuous or simple for simultaneous future actions."
+        },
+        {
+          "number": 5,
+          "sentence": "The sales figures will come in and then we'll assess the situation again.\nWe'll assess the situation again as ___.",
+          "answer": "soon as the sales figures come in / have come in",
+          "explanation": "Time clause after 'as soon as'."
+        },
+        {
+          "number": 6,
+          "sentence": "Work for us for over a year and we'll consider promoting you.\nWe'll only consider promoting you once ___.",
+          "answer": "you've worked / you have worked / you have been working for us for over a year",
+          "explanation": "Present perfect in a time clause."
+        },
+        {
+          "number": 7,
+          "sentence": "They'll start selling in much larger quantities and then they'll make a profit.\nThey won't make a profit until ___.",
+          "answer": "they start / have started selling in much larger quantities",
+          "explanation": "Time clause after 'until'."
+        },
+        {
+          "number": 8,
+          "sentence": "The publishing company will offer me a contract and then I'll know for sure that they're going to publish the book.\nI'll know for sure that the book is going to be published when I ___.",
+          "answer": "am offered / have been offered a contract by the publishing company",
+          "explanation": "Present simple/perfect passive in a time clause."
+        }
+      ]
+    },
+    {
+      "id": "u5_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Write a verb from the box in the correct form in each gap.\n[arrive, be, call, destroy, draw up, give, last, notify, record, show, take, wait]",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "When you ___ at the main gates, hand over the attached invitation letter to the security guard.",
+          "answer": "arrive",
+          "explanation": "Present simple in a time clause."
+        },
+        {
+          "number": 2,
+          "sentence": "You ___ where to park, and how to get to reception.",
+          "answer": "will be shown",
+          "explanation": "Future simple passive for a prediction/instruction."
+        },
+        {
+          "number": 3,
+          "sentence": "As soon as you ___ your name to the receptionist...",
+          "answer": "give / have given",
+          "explanation": "Present simple/perfect in a time clause."
+        },
+        {
+          "number": 4,
+          "sentence": "...you ___ to Meeting Room 7.",
+          "answer": "will be taken",
+          "explanation": "Future simple passive."
+        },
+        {
+          "number": 5,
+          "sentence": "While you ___ in Meeting Room 7, please fill in one of the Personal Information forms which will be in the room.",
+          "answer": "are waiting",
+          "explanation": "Present continuous in a time clause."
+        },
+        {
+          "number": 6,
+          "sentence": "When you ___ for interview, please bring this form with you.",
+          "answer": "are called",
+          "explanation": "Present simple passive in a time clause."
+        },
+        {
+          "number": 7,
+          "sentence": "Your interview ___ for approximately 45 minutes.",
+          "answer": "will last",
+          "explanation": "Future fact/prediction."
+        },
+        {
+          "number": 8,
+          "sentence": "Please note that all interviews ___.",
+          "answer": "are recorded / are being recorded / will be recorded",
+          "explanation": "Present simple/continuous passive for a standard procedure."
+        },
+        {
+          "number": 9,
+          "sentence": "Once the selection process ___ over...",
+          "answer": "is",
+          "explanation": "Present simple in a time clause."
+        },
+        {
+          "number": 10,
+          "sentence": "...all recordings ___.",
+          "answer": "will be destroyed",
+          "explanation": "Future simple passive."
+        },
+        {
+          "number": 11,
+          "sentence": "You ___ as soon as a shortlist of candidates ___.",
+          "answer": "will be notified",
+          "explanation": "Future simple passive."
+        },
+        {
+          "number": 12,
+          "sentence": "...as soon as a shortlist of candidates ___.",
+          "answer": "has been drawn up / is drawn up",
+          "explanation": "Present perfect/simple passive in a time clause."
+        }
+      ]
+    },
+    {
+      "id": "u5_H",
+      "label": "H",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Shona will find out if she has been promoted very soon. (just)\nShona ___ find out if she has been promoted.",
+          "answer": "is just about to",
+          "explanation": "Using 'be just about to' for the near future."
+        },
+        {
+          "number": 2,
+          "sentence": "They will decide very soon whether to close the Paris office. (point)\nThey ___ whether to close the Paris office.",
+          "answer": "are on the point of deciding",
+          "explanation": "Using 'be on the point of' for the very near future."
+        },
+        {
+          "number": 3,
+          "sentence": "The plan is that I will give a presentation to the board on Friday morning. (due)\nI ___ a presentation to the board on Friday morning.",
+          "answer": "am due to give",
+          "explanation": "Using 'be due to' for formal arrangements."
+        },
+        {
+          "number": 4,
+          "sentence": "Are you going home in a minute? (about)\nAre you ___ home?",
+          "answer": "about to go",
+          "explanation": "Using 'be about to' for the very near future."
+        },
+        {
+          "number": 5,
+          "sentence": "Actually, there won't be a general election for a while. (verge)\nActually, we ___ a general election.",
+          "answer": "are not on the verge of having",
+          "explanation": "Using 'be on the verge of' (negative) for near future."
+        },
+        {
+          "number": 6,
+          "sentence": "What time do the inspectors arrive tomorrow? (due)\nWhat time ___ tomorrow?",
+          "answer": "are the inspectors due to arrive",
+          "explanation": "Using 'be due to' in a question."
+        },
+        {
+          "number": 7,
+          "sentence": "Keep this a secret. (to)\nYou are ___ anyone about this.",
+          "answer": "not to tell",
+          "explanation": "Using 'be to do' for obligations/instructions (negative)."
+        }
+      ]
+    },
+    {
+      "id": "u5_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The company ___ going to expand, but the economic downturn has put a stop to that.",
+          "answer": "was",
+          "explanation": "Future in the past (was going to)."
+        },
+        {
+          "number": 2,
+          "sentence": "No one had any idea that Dave ___ resign the next day.",
+          "answer": "would",
+          "explanation": "Future in the past (would)."
+        },
+        {
+          "number": 3,
+          "sentence": "We were all standing around in front of the TV, knowing that the Minister ___ to make a statement on the emergency in the next few minutes.",
+          "answer": "was",
+          "explanation": "Future in the past (was about to/was to)."
+        },
+        {
+          "number": 4,
+          "sentence": "Ann ___ to find the documents soon, or her boss would find out she'd mislaid them.",
+          "answer": "had",
+          "explanation": "Had to (obligation/necessity in the past looking forward)."
+        },
+        {
+          "number": 5,
+          "sentence": "___ you going to apply for the post before you heard it had already been filled?",
+          "answer": "Were",
+          "explanation": "Question about past intention (were you going to)."
+        },
+        {
+          "number": 6,
+          "sentence": "___ Bill ___ on a business trip the next day anyway, or did he have to pack a suitcase and get a plane ticket at the last minute?",
+          "answer": "Was ... going",
+          "explanation": "Past arrangement/intention (was Bill going)."
+        },
+        {
+          "number": 7,
+          "sentence": "You're lucky you caught me. I ___ just on the point of leaving.",
+          "answer": "was",
+          "explanation": "Future in the past (was on the point of)."
+        },
+        {
+          "number": 8,
+          "sentence": "We ___ due to arrive at six, so I left a message saying we ___ be there at nine.",
+          "answer": "were ... would",
+          "explanation": "Past arrangement (were due to) and future in past (would)."
+        },
+        {
+          "number": 9,
+          "sentence": "I think they ___ about to fire me when I quit!",
+          "answer": "were",
+          "explanation": "Future in the past (were about to)."
+        },
+        {
+          "number": 10,
+          "sentence": "Thompson understood the cryptic message. He was ___ get to Berlin on the first flight.",
+          "answer": "to",
+          "explanation": "Past obligation/instruction (was to do)."
+        }
+      ]
+    },
+    {
+      "id": "u5_J",
+      "label": "J",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "What ___ the office of 2020 be like?",
+          "answer": "will",
+          "explanation": "Future prediction."
+        },
+        {
+          "number": 2,
+          "sentence": "By then, it's highly likely that most of the western world will ___ been connected to a WiFi network.",
+          "answer": "have",
+          "explanation": "Future perfect simple (passive)."
+        },
+        {
+          "number": 3,
+          "sentence": "As ___ as that ___...",
+          "answer": "soon",
+          "explanation": "Part of the phrase 'As soon as'."
+        },
+        {
+          "number": 4,
+          "sentence": "...as that ___ , the physical restriction of phone lines ___ disappear.",
+          "answer": "happens / does",
+          "explanation": "Present simple in a time clause."
+        },
+        {
+          "number": 5,
+          "sentence": "...the physical restriction of phone lines ___ disappear.",
+          "answer": "will",
+          "explanation": "Future simple prediction."
+        },
+        {
+          "number": 6,
+          "sentence": "Some people will ___ have to commute to the office each day...",
+          "answer": "still",
+          "explanation": "Adverb for continuing action."
+        },
+        {
+          "number": 7,
+          "sentence": "...but for many others their office will ___ wherever they are.",
+          "answer": "be",
+          "explanation": "Future simple of 'be'."
+        },
+        {
+          "number": 8,
+          "sentence": "More and more people will be ___ from home several days a week.",
+          "answer": "working",
+          "explanation": "Future continuous for future habits/situations."
+        },
+        {
+          "number": 9,
+          "sentence": "It's no exaggeration to say that many businessmen and women will ___ sending e-mails...",
+          "answer": "be",
+          "explanation": "Future continuous."
+        },
+        {
+          "number": 10,
+          "sentence": "...and ___ business with clients...",
+          "answer": "doing",
+          "explanation": "Future continuous (parallel to sending)."
+        },
+        {
+          "number": 11,
+          "sentence": "... ___ they ___ lying on a beach or flying across the Atlantic.",
+          "answer": "while / when",
+          "explanation": "Time conjunction."
+        },
+        {
+          "number": 12,
+          "sentence": "...they ___ lying on a beach or flying across the Atlantic.",
+          "answer": "are",
+          "explanation": "Present continuous in a time clause."
+        },
+        {
+          "number": 13,
+          "sentence": "In terms of technology, mobile phones and laptops will have ___ even more lightweight and portable...",
+          "answer": "become",
+          "explanation": "Future perfect simple."
+        },
+        {
+          "number": 14,
+          "sentence": "...and many new pieces of communication technology will have ___ introduced to make our working lives easier.",
+          "answer": "been",
+          "explanation": "Future perfect passive (will have been introduced)."
+        },
+        {
+          "number": 15,
+          "sentence": "Indeed, ___ 2020, it's quite possible...",
+          "answer": "by",
+          "explanation": "Preposition for 'before or at'."
+        }
+      ]
+    },
+    {
+      "id": "u5_K",
+      "label": "K",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We are pleased to announce that Keith Danish ___ replace Susan Williams as Operations Manager from 24th September.",
+          "options": ["does", "is about to", "is to", "is due"],
+          "answer": "is to",
+          "explanation": "'is to' is used for formal announcements of arrangements."
+        },
+        {
+          "number": 2,
+          "sentence": "I ___ Penny for her advice, but I'm not so sure that's such a good idea now.",
+          "options": ["am going to ask", "was going to ask", "was asking", "will ask"],
+          "answer": "was going to ask",
+          "explanation": "Future in the past (intention that was not carried out)."
+        },
+        {
+          "number": 3,
+          "sentence": "Once ___ broadband, you won't want to go back to a dial-up connection.",
+          "options": ["you'll be using", "you'll have used", "you've been used", "you've used"],
+          "answer": "you've used",
+          "explanation": "Once + present perfect to refer to a completed action in the future."
+        },
+        {
+          "number": 4,
+          "sentence": "___ find out more about the costs before we make a final decision?",
+          "options": ["Do I", "Will I", "Shall I", "Am I due to"],
+          "answer": "Shall I",
+          "explanation": "Suggestion/offer in question form with 'I'."
+        },
+        {
+          "number": 5,
+          "sentence": "___ to the Finance Manager or the Accounts Manager?",
+          "options": ["Will you be reporting", "Will you have been reporting", "Shall you be reporting", "Are you on the verge of reporting"],
+          "answer": "Will you be reporting",
+          "explanation": "Future continuous for situations in the normal course of events."
+        },
+        {
+          "number": 6,
+          "sentence": "This time tomorrow, Barry will ___ across the Pacific for exactly three months.",
+          "options": ["be rowing", "have rowed", "be rowing", "have been rowing"],
+          "answer": "have been rowing",
+          "explanation": "Future perfect continuous to emphasize duration up to a point."
+        },
+        {
+          "number": 7,
+          "sentence": "When ___ treating me with some respect at work?",
+          "options": ["will they have started", "are they going to start", "are they starting", "will they be starting"],
+          "answer": "are they going to start",
+          "explanation": "Asking about intention/demanding change (often with annoyance)."
+        },
+        {
+          "number": 8,
+          "sentence": "Were you really just on the point ___ ?",
+          "options": ["of resigning", "to resign", "with resignation", "of having resigned"],
+          "answer": "of resigning",
+          "explanation": "The phrase is 'on the point of + V-ing'."
+        }
+      ]
+    }
+  ]
+}

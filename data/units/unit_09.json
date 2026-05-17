@@ -1,0 +1,928 @@
+{
+  "unit_id": 9,
+  "unit_type": "Grammar",
+  "title": "Modals and semi-modals",
+  "grammar_topics": [
+    {
+      "topic": "Overview of Modals and Semi-modals",
+      "explanation_en": "The nine main modals (will, would, can, could, may, might, shall, should, must) have only one form and are followed by a bare infinitive. Semi-modals (need to, ought to, had better, have to) have similar meanings but some can change tense or person.",
+      "explanation_vi": "Chín động từ khuyết thiếu chính (will, would, can, could, may, might, shall, should, must) chỉ có một dạng duy nhất và theo sau là động từ nguyên thể không 'to'. Các động từ bán khuyết thiếu (need to, ought to, had better, have to) có ý nghĩa tương tự nhưng một số có thể thay đổi theo thì hoặc ngôi.",
+      "rules": [
+        "Modals are followed by a simple or continuous bare infinitive (e.g., could do, could be doing).",
+        "Modals can be followed by a bare infinitive in the passive (e.g., could be done).",
+        "Some semi-modals like 'had better' do not change form; others like 'have to' do.",
+        "Semi-modals can combine with modals (e.g., might have to)."
+      ],
+      "examples": [
+        {
+          "sentence": "You might have to wait a few minutes.",
+          "translation": "Bạn có lẽ sẽ phải đợi vài phút."
+        }
+      ]
+    },
+    {
+      "topic": "Ability",
+      "explanation_en": "Used to express current, past, future, or hypothetical ability.",
+      "explanation_vi": "Dùng để diễn tả khả năng ở hiện tại, quá khứ, tương lai hoặc khả năng giả định.",
+      "rules": [
+        "Can/can't: current or general ability.",
+        "Could/couldn't: past ability.",
+        "Will/won't be able to: future ability.",
+        "Could have: past hypothetical ability (something was possible but didn't happen).",
+        "Was/were able to / managed to: past ability on one specific occasion (instead of 'could').",
+        "Verbs of perception (see, hear, feel): 'could' can be used for one specific occasion."
+      ],
+      "examples": [
+        {
+          "sentence": "Luckily, she was able to finish the article in time.",
+          "translation": "May mắn thay, cô ấy đã có thể hoàn thành bài báo kịp lúc."
+        },
+        {
+          "sentence": "I could see that she was tired.",
+          "translation": "Tôi có thể thấy là cô ấy đang mệt."
+        }
+      ]
+    },
+    {
+      "topic": "Permission",
+      "explanation_en": "Used to ask for, give, or refuse permission.",
+      "explanation_vi": "Dùng để xin phép, cho phép hoặc từ chối sự cho phép.",
+      "rules": [
+        "May is more formal than could, and could is more formal than can.",
+        "Was/were allowed to: past permission on a specific occasion.",
+        "Could: past permission in reported speech."
+      ],
+      "examples": [
+        {
+          "sentence": "Mum said we could buy one comic each.",
+          "translation": "Mẹ nói chúng tôi có thể mua mỗi người một cuốn truyện tranh."
+        }
+      ]
+    },
+    {
+      "topic": "Advice and Suggestions",
+      "explanation_en": "Used to give advice or make suggestions.",
+      "explanation_vi": "Dùng để đưa ra lời khuyên hoặc gợi ý.",
+      "rules": [
+        "Should, ought to, had better: used for advice.",
+        "Hadn't better: only used in questions.",
+        "May/might as well: used when there is no better option, even if it's not perfect."
+      ],
+      "examples": [
+        {
+          "sentence": "We may as well watch this as there's nothing else on.",
+          "translation": "Chúng ta thôi thì cứ xem cái này vậy vì chẳng còn gì khác để xem."
+        }
+      ]
+    },
+    {
+      "topic": "Criticism",
+      "explanation_en": "Used to criticize behavior in the past or general habits.",
+      "explanation_vi": "Dùng để chỉ trích hành vi trong quá khứ hoặc các thói quen thông thường.",
+      "rules": [
+        "Should have / ought to have: criticizing past behavior.",
+        "Could have / might have: expressing annoyance at past behavior.",
+        "Will: criticizing general behavior/habits.",
+        "Would: criticizing a specific example of someone's general behavior.",
+        "Might as well: suggests criticism (e.g., 'I might as well be dead for all you care')."
+      ],
+      "examples": [
+        {
+          "sentence": "He will slam the door every time he goes out.",
+          "translation": "Anh ta cứ hễ đi ra ngoài là lại đóng sầm cửa lại (thói quen gây khó chịu)."
+        }
+      ]
+    },
+    {
+      "topic": "Obligation",
+      "explanation_en": "Used to express necessity or lack of it.",
+      "explanation_vi": "Dùng để diễn tả sự bắt buộc, cần thiết hoặc sự thiếu hụt những điều đó.",
+      "rules": [
+        "Must: personal obligation (internal decision).",
+        "Have to: external obligation (rules, other people's decisions).",
+        "Mustn't: prohibition (forbidden).",
+        "Don't have to / needn't: lack of obligation.",
+        "Didn't have to/need to: for things we did or didn't do (obligation didn't exist).",
+        "Needn't have done: for things we actually did but weren't necessary."
+      ],
+      "examples": [
+        {
+          "sentence": "In the past, politicians didn't have to deal with being in a 24-hour media spotlight.",
+          "translation": "Trong quá khứ, các chính trị gia không phải đối mặt với việc bị truyền thông soi mói 24/24."
+        }
+      ]
+    },
+    {
+      "topic": "Degrees of Certainty",
+      "explanation_en": "Used to express how certain we are about something.",
+      "explanation_vi": "Dùng để diễn tả mức độ chắc chắn về một điều gì đó.",
+      "rules": [
+        "Will, must, can't, couldn't: high certainty.",
+        "Should, ought to, may/might well: probability.",
+        "Could, may, might: possibility.",
+        "Should and should have: can be used in 'that' clauses after words expressing importance or reactions."
+      ],
+      "examples": [
+        {
+          "sentence": "It's strange that you should say that.",
+          "translation": "Thật lạ là bạn lại nói như vậy."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u9_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "You ___ really talk when you were one year old, ___ you?",
+          "options": ["can't / can", "couldn't / could"],
+          "answer": "couldn't / could",
+          "explanation": "Past ability requires 'couldn't'."
+        },
+        {
+          "number": 2,
+          "sentence": "We ___ give you a lift home tonight, if you want.",
+          "options": ["can", "could", "both"],
+          "answer": "both",
+          "explanation": "Both 'can' and 'could' are used for offers/suggestions about the future."
+        },
+        {
+          "number": 3,
+          "sentence": "I wish I ___ speak Russian, then ___ read Tolstoy in the original.",
+          "options": ["can / I could", "could / I'd be able to"],
+          "answer": "could / I'd be able to",
+          "explanation": "'Wish' is followed by 'could'. 'I'd be able to' is correct for a hypothetical result."
+        },
+        {
+          "number": 4,
+          "sentence": "Excuse me, ___ you tell me how to get to the leisure centre from here?",
+          "options": ["could", "may", "both"],
+          "answer": "both",
+          "explanation": "Both 'could' and 'may' (though formal) can be used for requests."
+        },
+        {
+          "number": 5,
+          "sentence": "I'm afraid we ___ come to the wedding after all.",
+          "options": ["can't", "won't be able to"],
+          "answer": "won't be able to",
+          "explanation": "'Won't be able to' refers to a future inability."
+        },
+        {
+          "number": 6,
+          "sentence": "Thankfully, we ___ get to the airport just in time so we didn't miss the plane.",
+          "options": ["could", "managed to"],
+          "answer": "managed to",
+          "explanation": "Use 'managed to' for a specific success in the past instead of 'could'."
+        },
+        {
+          "number": 7,
+          "sentence": "Dawn couldn't ___ to the barbecue as she had to work.",
+          "options": ["go", "have gone"],
+          "answer": "go",
+          "explanation": "'Couldn't go' refers to the past inability to attend."
+        },
+        {
+          "number": 8,
+          "sentence": "Would you like to ___ buy the flat you're renting?",
+          "options": ["could", "be able to"],
+          "answer": "be able to",
+          "explanation": "'Can/could' cannot be used as an infinitive; 'be able to' is used."
+        },
+        {
+          "number": 9,
+          "sentence": "In a thousand years, ___ travel faster than the speed of light?",
+          "options": ["can humans", "will humans be able to"],
+          "answer": "will humans be able to",
+          "explanation": "Future ability uses 'will be able to'."
+        },
+        {
+          "number": 10,
+          "sentence": "'Mum, can I watch TV and do my homework later?' 'No, you ___ not!'",
+          "options": ["may", "might"],
+          "answer": "may",
+          "explanation": "'May not' is used for formal refusal of permission."
+        },
+        {
+          "number": 11,
+          "sentence": "We ___ the last train after all, but of course we didn't know that at the time.",
+          "options": ["could catch", "could have caught", "both"],
+          "answer": "both",
+          "explanation": "'Could have caught' emphasizes the missed opportunity, but 'could catch' is also possible in this context."
+        },
+        {
+          "number": 12,
+          "sentence": "___ I at least stay up till the end of the film?",
+          "options": ["Mayn't", "Can't"],
+          "answer": "Can't",
+          "explanation": "'Can't' is natural for asking for permission in the negative."
+        },
+        {
+          "number": 13,
+          "sentence": "Everyone ___ tell that Julie was upset about something.",
+          "options": ["could", "was able to", "both"],
+          "answer": "both",
+          "explanation": "With verbs like 'tell', 'see', 'hear', 'could' is acceptable for a specific past occasion."
+        },
+        {
+          "number": 14,
+          "sentence": "___ I open the window, please? It's a little stuffy in here.",
+          "options": ["May", "Can", "both"],
+          "answer": "both",
+          "explanation": "Both 'May' (formal) and 'Can' are used to ask for permission."
+        },
+        {
+          "number": 15,
+          "sentence": "Because we had guests last Saturday, the kids ___ stay up till midnight.",
+          "options": ["could", "were allowed to"],
+          "answer": "were allowed to",
+          "explanation": "Use 'were allowed to' for permission on one specific past occasion."
+        }
+      ]
+    },
+    {
+      "id": "u9_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Write a verb from the box in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It seems there's nothing anybody can ___ to stop the conflict escalating further.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "do",
+          "explanation": "'Can' is followed by the bare infinitive."
+        },
+        {
+          "number": 2,
+          "sentence": "She couldn't ___ anything in her left arm for about two hours. She said it was completely numb.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "feel",
+          "explanation": "'Could' with a verb of perception ('feel') for a specific past period."
+        },
+        {
+          "number": 3,
+          "sentence": "I don't think the Prime Minister will ever manage ___ from this scandal.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "to recover",
+          "explanation": "'Manage' is followed by 'to' + infinitive."
+        },
+        {
+          "number": 4,
+          "sentence": "Can I ___ Tracy round after tea? We want to play my new computer game.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "invite",
+          "explanation": "'Can' is used to ask for permission."
+        },
+        {
+          "number": 5,
+          "sentence": "Liz has had another ice cream so why can't I ___ one? It's not fair!",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "have",
+          "explanation": "'Can' used for permission/possibility."
+        },
+        {
+          "number": 6,
+          "sentence": "When I was a child, my brothers and sisters and I weren't allowed ___ with the grown-ups except on special occasions.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "to sit",
+          "explanation": "'Be allowed' is followed by 'to' + infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "Darren's allergic to wheat, so he can't ___ bread under any circumstances.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "eat",
+          "explanation": "Refers to a general inability/restriction."
+        },
+        {
+          "number": 8,
+          "sentence": "Dominic had said he spoke German, but when we got there it turned out he couldn't ___ a word!",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "speak",
+          "explanation": "Refers to past lack of ability."
+        },
+        {
+          "number": 9,
+          "sentence": "I'd love to be able ___ from home, but in my job it's just not possible.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "to work",
+          "explanation": "'Be able' is followed by 'to' + infinitive."
+        },
+        {
+          "number": 10,
+          "sentence": "James could ___ for Parliament at the last election - he had enough support - but he wasn't willing to sacrifice his privacy.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "have stood",
+          "explanation": "'Could have' + past participle expresses a past hypothetical possibility."
+        },
+        {
+          "number": 11,
+          "sentence": "A small cot for babies can ___ if you ask at reception.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "be provided",
+          "explanation": "Passive modal form 'can be' + past participle."
+        },
+        {
+          "number": 12,
+          "sentence": "We couldn't ___ to the concert anyway as Jamie wasn't very well.",
+          "options": ["do", "eat", "feel", "go", "have", "invite", "provide", "recover", "sit", "speak", "stand", "work"],
+          "answer": "have gone",
+          "explanation": "'Couldn't have gone' refers to a past situation that was impossible."
+        }
+      ]
+    },
+    {
+      "id": "u9_C",
+      "label": "C",
+      "type": "error_correction",
+      "instruction": "If the word in bold is correct, put a tick. If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Shouldn't you *getting* planning permission before you start building?",
+          "answer": "get",
+          "explanation": "Should is followed by the bare infinitive."
+        },
+        {
+          "number": 2,
+          "sentence": "Gavin really ought not to *be worn* casual clothes to the interview last week.",
+          "answer": "have worn",
+          "explanation": "Criticism of a past action requires 'ought not to have' + past participle."
+        },
+        {
+          "number": 3,
+          "sentence": "She might have *gave* us a call to let us know she was all right.",
+          "answer": "given",
+          "explanation": "'Might have' is followed by the past participle."
+        },
+        {
+          "number": 4,
+          "sentence": "You *should* better get a second opinion before you do anything drastic like knock down a supporting wall.",
+          "answer": "had",
+          "explanation": "The semi-modal is 'had better', not 'should better'."
+        },
+        {
+          "number": 5,
+          "sentence": "I don't think you *must* go to school today if you're not feeling well.",
+          "answer": "need to / have to",
+          "explanation": "Lack of obligation is 'don't have to' or 'don't need to'; 'mustn't' is prohibition."
+        },
+        {
+          "number": 6,
+          "sentence": "We definitely should not judge Karen until we know exactly what happened.",
+          "answer": "✓",
+          "explanation": "The sentence is correct."
+        },
+        {
+          "number": 7,
+          "sentence": "I probably won't get the job but I *should* as well apply for it, I suppose.",
+          "answer": "might / may",
+          "explanation": "The idiom is 'might as well' or 'may as well'."
+        },
+        {
+          "number": 8,
+          "sentence": "You could have told us you'd changed your mind about the holiday. How are we going to find a fourth person at this late stage?",
+          "answer": "✓",
+          "explanation": "The sentence is correct (past criticism)."
+        },
+        {
+          "number": 9,
+          "sentence": "We *had* rather book the tickets now, hadn't we? They might have sold out on the day.",
+          "answer": "would / 'd",
+          "explanation": "The idiom is 'would rather', but for advice 'had better' is also used. Given the question tag 'hadn't we', the modal should be 'had better'."
+        },
+        {
+          "number": 10,
+          "sentence": "Terry would leave his bedroom in such a mess all the time. It's just not good enough.",
+          "answer": "✓",
+          "explanation": "The sentence is correct (using 'would' for annoying habits)."
+        },
+        {
+          "number": 11,
+          "sentence": "Michael was late, but then again he will be.",
+          "answer": "✓",
+          "explanation": "The sentence is correct (using 'will' for typical behavior)."
+        },
+        {
+          "number": 12,
+          "sentence": "You *may* have asked me if I wanted to come with you! You know I need to go to the bank!",
+          "answer": "might / could",
+          "explanation": "Expressing annoyance at past behavior uses 'might/could have'."
+        }
+      ]
+    },
+    {
+      "id": "u9_D",
+      "label": "D",
+      "type": "transformation",
+      "instruction": "Write a word or short phrase in each gap so that the second sentence has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I would suggest seeing a doctor if it doesn't clear up. \n You had ___ a doctor if it doesn't clear up.",
+          "answer": "better see",
+          "explanation": "'Had better' is used for strong advice."
+        },
+        {
+          "number": 2,
+          "sentence": "It was typical of Jerry to forget to feed the cat, wasn't it? \n Jerry ___ to feed the cat, ___ he?",
+          "answer": "would forget ... wouldn't",
+          "explanation": "'Would' is used to describe typical behavior, often annoying."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm annoyed Diana didn't invite us to her engagement party. \n Diana ___ us to her engagement party.",
+          "answer": "might / could have invited",
+          "explanation": "'Might/could have' + past participle expresses annoyance at a past event."
+        },
+        {
+          "number": 4,
+          "sentence": "Buying a yellow car was a mistake - everyone thinks I drive a taxi! \n I ___ a yellow car - everyone thinks I drive a taxi!",
+          "answer": "shouldn't / oughtn't to have bought",
+          "explanation": "'Shouldn't have' expresses regret/criticism of a past action."
+        },
+        {
+          "number": 5,
+          "sentence": "Teenagers are noisy, aren't they? \n Teenagers ___ make so much noise, ___ they?",
+          "answer": "will ... won't",
+          "explanation": "'Will' is used to describe general characteristics or habits."
+        },
+        {
+          "number": 6,
+          "sentence": "It won't harm us to see what special offers are on at the moment. \n We ___ what special offers are on at the moment.",
+          "answer": "might / may as well see",
+          "explanation": "'Might as well' suggests doing something because there is no reason not to."
+        },
+        {
+          "number": 7,
+          "sentence": "Don't you think you should type that essay, rather than write it in pen? \n ___ better type that essay, rather than write it in pen?",
+          "answer": "Hadn't you",
+          "explanation": "Negative question with 'had better' is 'Hadn't you better...'."
+        },
+        {
+          "number": 8,
+          "sentence": "It would probably have been a good idea if you'd asked Dad what he thought. \n You ___ to ___ Dad what he thought.",
+          "answer": "ought ... have asked",
+          "explanation": "'Ought to have' expresses past advice or a good idea that wasn't followed."
+        }
+      ]
+    },
+    {
+      "id": "u9_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Write a word from the box in each gap. You will need two of the words twice.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I ___ have bothered preparing so much food; nobody ate anything anyway.",
+          "answer": "needn't",
+          "explanation": "'Needn't have' + past participle: something was done but wasn't necessary."
+        },
+        {
+          "number": 2,
+          "sentence": "Do you ___ to have that music on so loud? I can't concentrate!",
+          "answer": "have",
+          "explanation": "'Do you have to' is the standard question form for obligation/necessity."
+        },
+        {
+          "number": 3,
+          "sentence": "You ___ call before you come round, as we'll definitely be in.",
+          "answer": "needn't",
+          "explanation": "Lack of obligation."
+        },
+        {
+          "number": 4,
+          "sentence": "It was difficult, but I knew I ___ to apologise.",
+          "answer": "had",
+          "explanation": "Past obligation uses 'had to'."
+        },
+        {
+          "number": 5,
+          "sentence": "Trisha ___ need to get a summer job as her parents are quite well-off.",
+          "answer": "doesn't",
+          "explanation": "Present lack of obligation with 'need'."
+        },
+        {
+          "number": 6,
+          "sentence": "___ you have to be there in court yourself, or can a lawyer represent you?",
+          "answer": "Do",
+          "explanation": "Auxiliary for the question 'Do you have to'."
+        },
+        {
+          "number": 7,
+          "sentence": "We didn't ___ to wear a uniform to school today, so I went in jeans and a T-shirt.",
+          "answer": "have",
+          "explanation": "Past lack of obligation: 'didn't have to'."
+        },
+        {
+          "number": 8,
+          "sentence": "I think Damien ___ to stay in hospital for the next four or five weeks.",
+          "answer": "will",
+          "explanation": "Future obligation: 'will have to'."
+        },
+        {
+          "number": 9,
+          "sentence": "Children ___ not be left unattended under any circumstances.",
+          "answer": "must",
+          "explanation": "Formal prohibition/requirement: 'must not'."
+        },
+        {
+          "number": 10,
+          "sentence": "We haven't ___ to move out for another six months, but we've started looking for a new place anyway.",
+          "answer": "got",
+          "explanation": "Present perfect form of semi-modal: 'haven't got to'."
+        }
+      ]
+    },
+    {
+      "id": "u9_F",
+      "label": "F",
+      "type": "fill_blank",
+      "instruction": "Complete using must, have to, need or need to in the correct form and the correct form of the words in brackets.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "You ___ (pay) me back now, but of course you can if you like!",
+          "answer": "don't have to / don't need to pay",
+          "explanation": "Lack of obligation."
+        },
+        {
+          "number": 2,
+          "sentence": "Dogs ___ (keep) on a leash at all times.",
+          "answer": "must be kept",
+          "explanation": "Formal rule in the passive."
+        },
+        {
+          "number": 3,
+          "sentence": "If Linda ___ (pick up) from school tomorrow, maybe we could spend the afternoon in town.",
+          "answer": "needs to be picked up",
+          "explanation": "Passive necessity."
+        },
+        {
+          "number": 4,
+          "sentence": "We ___ (rely) on phone lines in the future as we'll all have mobile phones which connect to the Internet.",
+          "answer": "won't have to rely / won't need to rely",
+          "explanation": "Future lack of necessity."
+        },
+        {
+          "number": 5,
+          "sentence": "The invitations ___ (send off) soon otherwise they won't get there in time.",
+          "answer": "must be sent off / need to be sent off",
+          "explanation": "Passive obligation."
+        },
+        {
+          "number": 6,
+          "sentence": "Sorry I'm late. I ___ (get) a few things from the supermarket on my way here.",
+          "answer": "had to get",
+          "explanation": "Past obligation."
+        },
+        {
+          "number": 7,
+          "sentence": "___ (you / make) a fuss to get your money back, or was the manager quite reasonable?",
+          "answer": "Did you have to make",
+          "explanation": "Question about past obligation."
+        },
+        {
+          "number": 8,
+          "sentence": "You ___ (believe) everything Graham tells you. He's lied to me before.",
+          "answer": "mustn't believe / don't have to believe",
+          "explanation": "Strong advice not to do something."
+        },
+        {
+          "number": 9,
+          "sentence": "Thankfully we ___ (put) Flossie in a cattery as our neighbours offered to feed her.",
+          "answer": "didn't have to put / didn't need to put",
+          "explanation": "Past lack of obligation (event didn't happen)."
+        },
+        {
+          "number": 10,
+          "sentence": "What time ___ (farmers / get up) every morning?",
+          "answer": "do farmers have to get up / do farmers need to get up",
+          "explanation": "General question about obligation."
+        },
+        {
+          "number": 11,
+          "sentence": "I'd hate ___ (commute) to work every morning and evening, wouldn't you?",
+          "answer": "to have to commute / to need to commute",
+          "explanation": "Infinitive form of obligation."
+        },
+        {
+          "number": 12,
+          "sentence": "Although we took CDs with us we actually ___ (do) as there was no CD player to play them on.",
+          "answer": "needn't have done",
+          "explanation": "'Needn't have done' refers to an action taken that wasn't necessary."
+        }
+      ]
+    },
+    {
+      "id": "u9_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "As editor of the most popular British tabloid, I need (1) ___ make sure we give our readers what they want.",
+          "answer": "to",
+          "explanation": "Need + to + infinitive."
+        },
+        {
+          "number": 2,
+          "sentence": "...when a celebrity has done something they should not have (2) ___ ,",
+          "answer": "done",
+          "explanation": "Ellipsis of the main verb 'done'."
+        },
+        {
+          "number": 3,
+          "sentence": "...or when a politician (3) ___ to have done something but didn't.",
+          "answer": "ought",
+          "explanation": "Ought + to + have done."
+        },
+        {
+          "number": 4,
+          "sentence": "...that we think we (4) ___ not need to worry about the truth,",
+          "answer": "do",
+          "explanation": "Negative present 'do not need to'."
+        },
+        {
+          "number": 5,
+          "sentence": "I have (5) ___ be shown proof from at least two sources before I run a story.",
+          "answer": "to",
+          "explanation": "Have to + bare infinitive."
+        },
+        {
+          "number": 6,
+          "sentence": "As a newspaper, you have (6) ___ to get your facts right",
+          "answer": "got",
+          "explanation": "Have got to."
+        },
+        {
+          "number": 7,
+          "sentence": "...and you (7) ___ not print a story just because you want it to be true.",
+          "answer": "must",
+          "explanation": "Strong prohibition."
+        },
+        {
+          "number": 8,
+          "sentence": "...we (8) ___ not have been so careful and could have broken a story days before",
+          "answer": "need",
+          "explanation": "Needn't have + past participle (past lack of necessity)."
+        },
+        {
+          "number": 9,
+          "sentence": "...but we (9) ___ to have absolute proof first.",
+          "answer": "had",
+          "explanation": "Past obligation 'had to'."
+        },
+        {
+          "number": 10,
+          "sentence": "...so they realise they might as (10) ___ put their side of the story across.",
+          "answer": "well",
+          "explanation": "Idiom 'might as well'."
+        },
+        {
+          "number": 11,
+          "sentence": "They know they (11) ___ definitely have to speak out at some point,",
+          "answer": "will",
+          "explanation": "Future certainty/prediction."
+        },
+        {
+          "number": 12,
+          "sentence": "...celebrities need to (12) ___ talked about constantly",
+          "answer": "be",
+          "explanation": "Passive infinitive after 'need to'."
+        },
+        {
+          "number": 13,
+          "sentence": "...so they (13) ___ not complain, in my view.",
+          "answer": "should",
+          "explanation": "Opinion/advice."
+        },
+        {
+          "number": 14,
+          "sentence": "...is that you (14) ___ not fear us if you haven't done anything wrong.",
+          "answer": "need",
+          "explanation": "Lack of necessity 'need not'."
+        },
+        {
+          "number": 15,
+          "sentence": "But if you have, you (15) ___ better look out,",
+          "answer": "had",
+          "explanation": "Semi-modal 'had better'."
+        }
+      ]
+    },
+    {
+      "id": "u9_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "'Did you hear a noise?' 'That'll / That must probably be the cat.'",
+          "options": ["That'll", "That must", "both"],
+          "answer": "That'll",
+          "explanation": "'Will' is used for current probability/near certainty with 'probably'."
+        },
+        {
+          "number": 2,
+          "sentence": "'I had to walk all the way here.' 'You must be/ have been exhausted.'",
+          "options": ["be", "have been"],
+          "answer": "be",
+          "explanation": "Logical deduction about the current state resulting from a past action."
+        },
+        {
+          "number": 3,
+          "sentence": "'Your favourite programme's on.' 'It mustn't/ can't be. It's only half past five.'",
+          "options": ["mustn't", "can't"],
+          "answer": "can't",
+          "explanation": "'Can't' is used for negative logical deduction (certainty that something is not true)."
+        },
+        {
+          "number": 4,
+          "sentence": "'Andy made me redo every single one of the reports.' 'You must/ can have been furious.'",
+          "options": ["must", "can"],
+          "answer": "must",
+          "explanation": "'Must have' for logical deduction about the past."
+        },
+        {
+          "number": 5,
+          "sentence": "'Laura walked right past me in the street without saying a word.' 'She can't/ couldn't have seen you.'",
+          "options": ["can't", "couldn't", "both"],
+          "answer": "both",
+          "explanation": "Both 'can't have' and 'couldn't have' are used for negative past deduction."
+        },
+        {
+          "number": 6,
+          "sentence": "'I can't believe I got the final question in the pop quiz wrong.' 'Don't worry. I wouldn't / won't have known the answer either.'",
+          "options": ["wouldn't", "won't"],
+          "answer": "wouldn't",
+          "explanation": "'Wouldn't have' for hypothetical past certainty."
+        },
+        {
+          "number": 7,
+          "sentence": "'I can't wait to get that blue top tomorrow.' 'I wouldn't get too excited. They only had one left, so they may/ might well have sold out.'",
+          "options": ["may", "might well", "both"],
+          "answer": "both",
+          "explanation": "Both express probability about the past."
+        },
+        {
+          "number": 8,
+          "sentence": "'It's got very cold.' 'Yes, I think it must/ might easily snow tonight.'",
+          "options": ["must", "might easily"],
+          "answer": "might easily",
+          "explanation": "Probability based on circumstances; 'must' is usually for logical deduction about facts."
+        },
+        {
+          "number": 9,
+          "sentence": "'I can't wait till Roger gets here!' 'He should land/ have landed by now, so he'll be here in about an hour.'",
+          "options": ["land", "have landed"],
+          "answer": "have landed",
+          "explanation": "Probability about a past/completed action."
+        },
+        {
+          "number": 10,
+          "sentence": "'I hope they've got some tickets left.' 'We should/ might just be lucky and get the last two.'",
+          "options": ["should", "might just", "both"],
+          "answer": "both",
+          "explanation": "'Should' for probability, 'might just' for slight possibility."
+        }
+      ]
+    },
+    {
+      "id": "u9_I",
+      "label": "I",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's possible that Greg didn't go to Swansea after all. (not) \n Greg ___ to Swansea after all.",
+          "answer": "may / might not have gone",
+          "explanation": "Past possibility in the negative."
+        },
+        {
+          "number": 2,
+          "sentence": "It's quite likely that Sasha was lying about what Doug said. (well) \n Sasha ___ about what Doug said.",
+          "answer": "may / might well have been lying",
+          "explanation": "High probability about a past continuous action."
+        },
+        {
+          "number": 3,
+          "sentence": "The most likely situation is that they awarded Grandpa the medal during the war. (must) \n Grandpa ___ during the war.",
+          "answer": "must have been awarded the medal",
+          "explanation": "Logical deduction about the past in the passive voice."
+        },
+        {
+          "number": 4,
+          "sentence": "I'd be surprised if Derek has already arrived. (ought) \n Derek ___ yet.",
+          "answer": "ought not to have arrived",
+          "explanation": "Probability that something has not happened."
+        },
+        {
+          "number": 5,
+          "sentence": "Jake, is it definite that they haven't announced the winner yet? (will) \n Jake, ___ announced yet?",
+          "answer": "will the winner definitely not have been",
+          "explanation": "Question about future-perfect-passive certainty."
+        },
+        {
+          "number": 6,
+          "sentence": "It's highly likely that Stephen was listening. (may) \n Stephen ___ listening.",
+          "answer": "may well have been",
+          "explanation": "High probability about a past continuous action."
+        },
+        {
+          "number": 7,
+          "sentence": "It's not possible that Andrew is half Spanish. (be) \n Andrew ___ half Spanish.",
+          "answer": "cannot / can't be",
+          "explanation": "Negative logical deduction about a current state."
+        }
+      ]
+    },
+    {
+      "id": "u9_J",
+      "label": "J",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Even in a million years, we ___ go back in time.",
+          "options": ["couldn't", "can't", "won't be able to", "aren't able to"],
+          "answer": "C",
+          "explanation": "Prediction about future ability."
+        },
+        {
+          "number": 2,
+          "sentence": "I ___ at the exam paper lying on Mr Gregson's desk, but I didn't want to risk it.",
+          "options": ["could look", "can look", "can have looked", "could have looked"],
+          "answer": "D",
+          "explanation": "Past hypothetical possibility."
+        },
+        {
+          "number": 3,
+          "sentence": "___ Eliot better tell his mum what happened?",
+          "options": ["Mustn't", "Oughtn't", "Shouldn't", "Hadn't"],
+          "answer": "D",
+          "explanation": "Negative question form of 'had better'."
+        },
+        {
+          "number": 4,
+          "sentence": "You ___ have let us know you'd changed your phone number.",
+          "options": ["may", "could", "would", "will"],
+          "answer": "B",
+          "explanation": "Criticism of past behavior."
+        },
+        {
+          "number": 5,
+          "sentence": "___ lectures at your university?",
+          "options": ["Haven't students got to have attended", "Needn't students have attended", "Mustn't students to attend", "Don't students have to attend"],
+          "answer": "D",
+          "explanation": "General question about obligation."
+        },
+        {
+          "number": 6,
+          "sentence": "We ___ as well try to sell this old sofa before throwing it out.",
+          "options": ["could", "should", "might", "can"],
+          "answer": "C",
+          "explanation": "Idiom 'might as well'."
+        },
+        {
+          "number": 7,
+          "sentence": "Jeremy may well not ___ about the accident yet.",
+          "options": ["tell", "to tell", "have told", "have been told"],
+          "answer": "D",
+          "explanation": "Past probability in the passive voice."
+        },
+        {
+          "number": 8,
+          "sentence": "It's essential that the documents ___ be destroyed immediately.",
+          "options": ["should", "would", "ought to", "had better"],
+          "answer": "A",
+          "explanation": "'Should' is used in 'that' clauses after adjectives like 'essential'."
+        },
+        {
+          "number": 9,
+          "sentence": "Luckily I ___ a new pair of sunglasses as I found mine at the bottom of a bag.",
+          "options": ["needn't have bought", "didn't need to buy", "needed not to buy", "hadn't to buy"],
+          "answer": "B",
+          "explanation": "Indicates that the action was not necessary and (luckily) was not performed."
+        },
+        {
+          "number": 10,
+          "sentence": "I'm thinking of going on Million Euro Spender; I'd love to ___ spend a million euros in one day!",
+          "options": ["have to", "must", "can", "be able"],
+          "answer": "D",
+          "explanation": "'Love to' requires 'be able to' as an infinitive for ability."
+        }
+      ]
+    }
+  ]
+}

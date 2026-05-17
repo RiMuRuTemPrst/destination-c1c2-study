@@ -1,0 +1,856 @@
+{
+  "unit_id": 23,
+  "unit_type": "Grammar",
+  "title": "Verbal complements",
+  "grammar_topics": [
+    {
+      "topic": "Verb + -ing form",
+      "explanation_en": "Certain verbs are followed by the -ing form (gerund). This often happens when the second verb describes an action that is already in progress, completed, or viewed as a general activity.",
+      "explanation_vi": "Một số động từ nhất định được theo sau bởi dạng -ing (danh động từ). Điều này thường xảy ra khi động từ thứ hai mô tả một hành động đang diễn ra, đã hoàn thành hoặc được coi như một hoạt động chung.",
+      "rules": [
+        "Verbs followed by -ing: admit, adore, advocate, appreciate, avoid, can't help, carry on, compare, consider, contemplate, delay, deny, detest, discuss, dislike, end up, endure, enjoy, escape, face, fancy, feel like, finish, foresee, give up, include, involve, justify, keep (on), mention, mind, miss, postpone, practise, put off, recommend, resent, resist, risk, suggest, take up.",
+        "Many verbs are followed by a preposition + -ing form (e.g., insist on, look forward to).",
+        "Perception verbs (feel, hear, see, notice, overhear, watch) followed by an object + -ing suggest seeing/hearing part of an action.",
+        "Use an object pronoun (me) or a possessive pronoun (my) when the verb and gerund refer to different subjects."
+      ],
+      "examples": [
+        {
+          "sentence": "Sue admitted feeling rather upset.",
+          "translation": "Sue thừa nhận cảm thấy khá buồn."
+        },
+        {
+          "sentence": "Damien insisted on going to the party.",
+          "translation": "Damien khăng khăng đòi đi dự tiệc."
+        },
+        {
+          "sentence": "I saw Martha crossing the road.",
+          "translation": "Tôi thấy Martha đang băng qua đường (thấy một phần hành động)."
+        }
+      ]
+    },
+    {
+      "topic": "Verb + full infinitive / bare infinitive",
+      "explanation_en": "Some verbs are followed by a full infinitive (to + verb), while others take an object before the infinitive. Certain verbs take a bare infinitive (without 'to').",
+      "explanation_vi": "Một số động từ được theo sau bởi động từ nguyên mẫu có 'to', trong khi những động từ khác cần một tân ngữ trước đó. Một số động từ đi kèm với động từ nguyên mẫu không 'to'.",
+      "rules": [
+        "Verbs followed by full infinitive: afford, agree, aim, appear, apply, arrange, aspire, attempt, beg, cease, choose, claim, come, dare, decide, demand, deserve, desire, expect, fail, happen, help, hesitate, hope, learn, manage, need, neglect, offer, opt, plan, prepare, pretend, promise, refuse, resolve, rush, seem, strive, tend, undertake, volunteer, vote, wait, want, work, yearn.",
+        "Verbs followed by object + full infinitive: advise, allow, ask, assign, assist, authorise, cause, challenge, choose, command, compel, convince, dare, decide, defy, desire, employ, empower, enable, encourage, expect, force, free, help, hire, inspire, instruct, intend, invite, lead, motivate, move, need, nominate, order, permit, persuade, pick, prepare, prompt, qualify, recruit, remind, request, select, send, signal, teach, tell, tempt, trust, want, warn.",
+        "Perception verbs + object + bare infinitive suggest seeing/hearing the whole action.",
+        "Make and let are followed by object + bare infinitive (except make in passive).",
+        "Dare and need can be used as modals followed by bare infinitive."
+      ],
+      "examples": [
+        {
+          "sentence": "Can you afford to buy that car?",
+          "translation": "Bạn có đủ khả năng mua chiếc xe đó không?"
+        },
+        {
+          "sentence": "My sister advised me to tell Jim the truth.",
+          "translation": "Chị tôi khuyên tôi nên nói sự thật với Jim."
+        },
+        {
+          "sentence": "The teacher let the class leave early.",
+          "translation": "Giáo viên cho phép cả lớp về sớm."
+        },
+        {
+          "sentence": "I was made to apologise to my sister.",
+          "translation": "Tôi bị bắt phải xin lỗi chị tôi."
+        }
+      ]
+    },
+    {
+      "topic": "Verbs with -ing or infinitive (change in meaning)",
+      "explanation_en": "Some verbs can be followed by either an -ing form or an infinitive, but the meaning changes significantly.",
+      "explanation_vi": "Một số động từ có thể đi kèm với cả dạng -ing hoặc to-infinitive, nhưng ý nghĩa sẽ thay đổi đáng kể.",
+      "rules": [
+        "Consider/Imagine: + to be (believe something is), + -ing (think about).",
+        "Forget/Remember: + to do (planned action), + -ing (past memory).",
+        "Go on: + to do (change action), + -ing (continue action).",
+        "Like: + to do (habit/right thing), + -ing (enjoy).",
+        "Mean: + to do (intend), + -ing (involve).",
+        "Regret: + to do (sorry to give bad news), + -ing (sorry about the past).",
+        "Stop: + to do (interrupt to do something else), + -ing (end an action).",
+        "Try: + to do (effort), + -ing (experiment)."
+      ],
+      "examples": [
+        {
+          "sentence": "Try not to forget her birthday.",
+          "translation": "Cố gắng đừng quên sinh nhật cô ấy."
+        },
+        {
+          "sentence": "You could try buying her some flowers.",
+          "translation": "Bạn có thể thử mua cho cô ấy ít hoa xem sao."
+        }
+      ]
+    },
+    {
+      "topic": "Preparatory it and Subjunctive",
+      "explanation_en": "Using 'it' as a placeholder object, and using the base form of the verb (subjunctive) after certain expressing necessity.",
+      "explanation_vi": "Sử dụng 'it' làm tân ngữ giả, và sử dụng dạng nguyên mẫu (giả định cách) sau các từ thể hiện sự cần thiết.",
+      "rules": [
+        "Preparatory it: Used with find, think, consider + adjective + that clause.",
+        "Subjunctive: Use base form (no -s for 3rd person) after suggest, important, essential, etc. Should + base form is also possible."
+      ],
+      "examples": [
+        {
+          "sentence": "I consider it incredible that they are still together.",
+          "translation": "Tôi thấy thật khó tin là họ vẫn còn ở bên nhau."
+        },
+        {
+          "sentence": "The doctor suggested that Sam take some time off work.",
+          "translation": "Bác sĩ gợi ý rằng Sam nên nghỉ làm một thời gian."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u23_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I don't know how you could even contemplate ___ Vicky to go on holiday with her friends.",
+          "options": ["to allow", "allowing"],
+          "answer": "allowing",
+          "explanation": "The verb 'contemplate' is followed by the -ing form."
+        },
+        {
+          "number": 2,
+          "sentence": "The interviewer somehow managed ___ the politician to admit his mistake.",
+          "options": ["to get", "getting"],
+          "answer": "to get",
+          "explanation": "The verb 'manage' is followed by the full infinitive."
+        },
+        {
+          "number": 3,
+          "sentence": "Did you mention ___ to book the restaurant when you saw Angie?",
+          "options": ["to have", "having"],
+          "answer": "having",
+          "explanation": "The verb 'mention' is followed by the -ing form."
+        },
+        {
+          "number": 4,
+          "sentence": "We missed our flight so we ended up ___ on the floor in the airport.",
+          "options": ["to sleep", "sleeping"],
+          "answer": "sleeping",
+          "explanation": "The phrasal verb 'end up' is followed by the -ing form."
+        },
+        {
+          "number": 5,
+          "sentence": "The woman demanded ___ who was in charge.",
+          "options": ["to know", "knowing"],
+          "answer": "to know",
+          "explanation": "The verb 'demand' is followed by the full infinitive."
+        },
+        {
+          "number": 6,
+          "sentence": "I can't help ___ that I've forgotten something.",
+          "options": ["to feel", "feeling"],
+          "answer": "feeling",
+          "explanation": "The expression 'can't help' is followed by the -ing form."
+        },
+        {
+          "number": 7,
+          "sentence": "The board of directors opted ___ to the bank for a loan.",
+          "options": ["to apply", "applying"],
+          "answer": "to apply",
+          "explanation": "The verb 'opt' is followed by the full infinitive."
+        },
+        {
+          "number": 8,
+          "sentence": "What happened when Sandra applied ___ the army?",
+          "options": ["to join", "joining"],
+          "answer": "to join",
+          "explanation": "The verb 'apply' (for a job/position) is followed by the full infinitive."
+        },
+        {
+          "number": 9,
+          "sentence": "We don't foresee ___ to employ anyone to replace Amy when she's on maternity leave.",
+          "options": ["to need", "needing"],
+          "answer": "needing",
+          "explanation": "The verb 'foresee' is followed by the -ing form."
+        },
+        {
+          "number": 10,
+          "sentence": "I really wasn't expecting ___ into Ken in Birmingham.",
+          "options": ["to bump", "bumping"],
+          "answer": "to bump",
+          "explanation": "The verb 'expect' is followed by the full infinitive."
+        },
+        {
+          "number": 11,
+          "sentence": "I'm beginning to wish I hadn't volunteered ___ Sandra move house.",
+          "options": ["to help", "helping"],
+          "answer": "to help",
+          "explanation": "The verb 'volunteer' is followed by the full infinitive."
+        },
+        {
+          "number": 12,
+          "sentence": "Please don't hesitate ___ me if you require further information.",
+          "options": ["to contact", "contacting"],
+          "answer": "to contact",
+          "explanation": "The verb 'hesitate' is followed by the full infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u23_B",
+      "label": "B",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct verb form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I have to admit ___ a bit nervous.",
+          "options": ["to be", "to being"],
+          "answer": "to being",
+          "explanation": "The verb 'admit' can be followed by 'to' (preposition) + -ing."
+        },
+        {
+          "number": 2,
+          "sentence": "I almost didn't come ___ you, actually.",
+          "options": ["to see", "seeing"],
+          "answer": "to see",
+          "explanation": "Full infinitive of purpose."
+        },
+        {
+          "number": 3,
+          "sentence": "But then you just have to risk ___ someone you don't like, don't you?",
+          "options": ["to meet", "meeting"],
+          "answer": "meeting",
+          "explanation": "The verb 'risk' is followed by the -ing form."
+        },
+        {
+          "number": 4,
+          "sentence": "Do you mind ___ by the window?",
+          "options": ["to sit", "sitting"],
+          "answer": "sitting",
+          "explanation": "The verb 'mind' is followed by the -ing form."
+        },
+        {
+          "number": 5,
+          "sentence": "It was my sister, Jane, who suggested ___ you.",
+          "options": ["to meet", "meeting"],
+          "answer": "meeting",
+          "explanation": "The verb 'suggest' is followed by the -ing form."
+        },
+        {
+          "number": 6,
+          "sentence": "Did she happen ___ you anything about me?",
+          "options": ["to tell", "telling"],
+          "answer": "to tell",
+          "explanation": "The verb 'happen' is followed by the full infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "She said you work together, but she refused ___ anything else.",
+          "options": ["to say", "saying"],
+          "answer": "to say",
+          "explanation": "The verb 'refuse' is followed by the full infinitive."
+        },
+        {
+          "number": 8,
+          "sentence": "Well, I've been looking forward ___ you.",
+          "options": ["to meet", "to meeting"],
+          "answer": "to meeting",
+          "explanation": "The expression 'look forward to' uses 'to' as a preposition, followed by -ing."
+        },
+        {
+          "number": 9,
+          "sentence": "Erm ... do you feel like ___?",
+          "options": ["to order", "ordering"],
+          "answer": "ordering",
+          "explanation": "The expression 'feel like' is followed by the -ing form."
+        },
+        {
+          "number": 10,
+          "sentence": "Okay. I think I fancy ___ seafood.",
+          "options": ["to have", "having"],
+          "answer": "having",
+          "explanation": "The verb 'fancy' is followed by the -ing form."
+        }
+      ]
+    },
+    {
+      "id": "u23_C",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Complete using the verbs in the box in the correct form. You may need to add a preposition.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "How can you justify ___ so many lives at risk like that?",
+          "answer": "putting",
+          "explanation": "'Justify' is followed by the -ing form."
+        },
+        {
+          "number": 2,
+          "sentence": "Everyone voted ___ Mr Greenwood to join the golf club.",
+          "answer": "for",
+          "explanation": "'Vote' is followed by 'for' (if in favor of someone)."
+        },
+        {
+          "number": 3,
+          "sentence": "The government have undertaken ___ more than a dozen helicopters from the US military.",
+          "answer": "to buy",
+          "explanation": "'Undertake' is followed by the full infinitive."
+        },
+        {
+          "number": 4,
+          "sentence": "People who have been accused ___ serious crimes are usually sent to prison to await their trial.",
+          "answer": "of committing",
+          "explanation": "'Accuse' is followed by 'of' + -ing."
+        },
+        {
+          "number": 5,
+          "sentence": "The man claimed ___ by two young men, but something about him made me suspicious.",
+          "answer": "to have been robbed",
+          "explanation": "'Claim' + perfect passive infinitive to show a past event."
+        },
+        {
+          "number": 6,
+          "sentence": "We can't afford ___ for everyone to agree or we'll miss this opportunity.",
+          "answer": "to wait",
+          "explanation": "'Afford' is followed by the full infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "We are trying to encourage all local people ___ more of their rubbish.",
+          "answer": "to recycle",
+          "explanation": "'Encourage someone' is followed by the full infinitive."
+        },
+        {
+          "number": 8,
+          "sentence": "Why do you keep ___ me about what Susan said?",
+          "answer": "asking",
+          "explanation": "'Keep' is followed by the -ing form."
+        },
+        {
+          "number": 9,
+          "sentence": "I challenge you ___ those accusations!",
+          "answer": "to prove",
+          "explanation": "'Challenge someone' is followed by the full infinitive."
+        },
+        {
+          "number": 10,
+          "sentence": "The assistant manager hoped ___ before too long.",
+          "answer": "to be promoted",
+          "explanation": "'Hope' + passive infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u23_D",
+      "label": "D",
+      "type": "error_correction",
+      "instruction": "One verb in each sentence is in the wrong form. Underline the incorrect form and rewrite it correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "You deserve to be given a medal for all the work you did when you volunteered to help Alan finish *to clear* out the attic.",
+          "answer": "clearing",
+          "explanation": "'Finish' is followed by the -ing form."
+        },
+        {
+          "number": 2,
+          "sentence": "The company has resolved to improve performance in the coming months and plans *resisting* being forced to close any offices.",
+          "answer": "to resist",
+          "explanation": "'Plan' is followed by the full infinitive."
+        },
+        {
+          "number": 3,
+          "sentence": "Being married involves *to make* a lot of compromises and being prepared to learn to live with other people's faults.",
+          "answer": "making",
+          "explanation": "'Involve' is followed by the -ing form."
+        },
+        {
+          "number": 4,
+          "sentence": "Alec often appears to want to join in discussions, but he needs to avoid *to be* so shy or he'll never manage to get his opinion across.",
+          "answer": "being",
+          "explanation": "'Avoid' is followed by the -ing form."
+        },
+        {
+          "number": 5,
+          "sentence": "Health experts recommend taking up a sport, so consider joining a team or, if you can't face *to exercise* in front of so many people, plan to go running with a friend.",
+          "answer": "exercising",
+          "explanation": "'Face' (meaning 'to confront a difficulty') is followed by the -ing form."
+        },
+        {
+          "number": 6,
+          "sentence": "I detest being kept waiting, and it tends *happening* at this hotel more than any other, so stop giving me excuses.",
+          "answer": "to happen",
+          "explanation": "'Tend' is followed by the full infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "What prompted me *applying* to join the police force was that my parents expected me to find a job which promised to offer security and good prospects.",
+          "answer": "to apply",
+          "explanation": "'Prompt someone' is followed by the full infinitive."
+        },
+        {
+          "number": 8,
+          "sentence": "Many young people yearn to get involved in making films, but few are prepared to endure *to work* for years to perfect their acting skills.",
+          "answer": "working",
+          "explanation": "'Endure' is followed by the -ing form."
+        },
+        {
+          "number": 9,
+          "sentence": "I dislike having to pretend *getting* on with someone when they don't attempt to get to know me.",
+          "answer": "to get",
+          "explanation": "'Pretend' is followed by the full infinitive."
+        },
+        {
+          "number": 10,
+          "sentence": "If you are considering applying to become a student at Central University, we recommend you to contact the secretary, who needs *knowing* which course you are planning to follow.",
+          "answer": "to know",
+          "explanation": "'Need' is followed by the full infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u23_E",
+      "label": "E",
+      "type": "fill_blank",
+      "instruction": "Complete each sentence with a pair of verbs from the box in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I couldn't see clearly, but I thought I ___ Lily ___ past the window.",
+          "answer": "glimpsed ... walking",
+          "explanation": "'Glimpse' followed by object + -ing for an action in progress."
+        },
+        {
+          "number": 2,
+          "sentence": "Did you ___ Nigel ___ that he was thinking of moving to France?",
+          "answer": "hear ... saying",
+          "explanation": "'Hear' followed by object + -ing."
+        },
+        {
+          "number": 3,
+          "sentence": "During the experiment, we ___ the animals ___ with each other.",
+          "answer": "observed ... interacting",
+          "explanation": "'Observe' followed by object + -ing."
+        },
+        {
+          "number": 4,
+          "sentence": "Did you turn the oven off? I can ___ something ___.",
+          "answer": "smell ... burning",
+          "explanation": "'Smell' followed by object + -ing."
+        },
+        {
+          "number": 5,
+          "sentence": "I looked everywhere for Johnnie and I finally ___ him ___ under the stairs.",
+          "answer": "found ... hiding",
+          "explanation": "'Find' followed by object + -ing."
+        },
+        {
+          "number": 6,
+          "sentence": "We ___ the burglar ___ out of the window and then called the police.",
+          "answer": "watched ... climbing",
+          "explanation": "'Watch' followed by object + -ing."
+        },
+        {
+          "number": 7,
+          "sentence": "I couldn't help ___ Simon ___ to get his car started, so I went to help him.",
+          "answer": "noticing ... trying",
+          "explanation": "'Notice' followed by object + -ing."
+        },
+        {
+          "number": 8,
+          "sentence": "I thought I ___ somebody ___ me, but when I turned round there was no one there.",
+          "answer": "felt ... following",
+          "explanation": "'Feel' followed by object + -ing."
+        },
+        {
+          "number": 9,
+          "sentence": "Patrick ___ himself ___ he had never accepted the job in the first place.",
+          "answer": "caught ... wishing",
+          "explanation": "'Catch yourself' followed by -ing."
+        },
+        {
+          "number": 10,
+          "sentence": "I ___ Vanessa ___ towards me, so I quickly dived into the nearest shop to avoid her.",
+          "answer": "saw ... coming",
+          "explanation": "'See' followed by object + -ing."
+        }
+      ]
+    },
+    {
+      "id": "u23_F",
+      "label": "F",
+      "type": "error_correction",
+      "instruction": "Underline twelve verbs in the wrong form and rewrite them correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "...led to many more people choosing *getting* divorced...",
+          "answer": "to get",
+          "explanation": "'Choose' is followed by the full infinitive."
+        },
+        {
+          "number": 2,
+          "sentence": "...let people *to get* divorced far more easily...",
+          "answer": "get",
+          "explanation": "'Let' is followed by the bare infinitive."
+        },
+        {
+          "number": 3,
+          "sentence": "...despite promising *staying* together for life...",
+          "answer": "to stay",
+          "explanation": "'Promise' is followed by the full infinitive."
+        },
+        {
+          "number": 4,
+          "sentence": "...couples ended up *to get* divorced each year...",
+          "answer": "getting",
+          "explanation": "'End up' is followed by the -ing form."
+        },
+        {
+          "number": 5,
+          "sentence": "...divorce rates tended *falling*...",
+          "answer": "to fall",
+          "explanation": "'Tend' is followed by the full infinitive."
+        },
+        {
+          "number": 6,
+          "sentence": "...what motivated them *getting* divorced...",
+          "answer": "to get",
+          "explanation": "'Motivate someone' is followed by the full infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "...mention things like not *to feel* that the relationship was developing...",
+          "answer": "feeling",
+          "explanation": "'Mention' is followed by the -ing form."
+        },
+        {
+          "number": 8,
+          "sentence": "...their partner making them *to feel* inadequate.",
+          "answer": "feel",
+          "explanation": "'Make' is followed by the bare infinitive."
+        },
+        {
+          "number": 9,
+          "sentence": "Whatever causes people *separating*...",
+          "answer": "to separate",
+          "explanation": "'Cause someone' is followed by the full infinitive."
+        },
+        {
+          "number": 10,
+          "sentence": "...children who have to learn *living* in a different family setting.",
+          "answer": "to live",
+          "explanation": "'Learn' is followed by the full infinitive."
+        },
+        {
+          "number": 11,
+          "sentence": "They often resent *to have* to change their lives...",
+          "answer": "having",
+          "explanation": "'Resent' is followed by the -ing form."
+        },
+        {
+          "number": 12,
+          "sentence": "...can't manage *resolving* their difficulties.",
+          "answer": "to resolve",
+          "explanation": "'Manage' is followed by the full infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u23_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Complete by writing the verb in bold in the correct form in each pair of sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I wish you'd stop ___ us you're going to get an A because it's not certain, you know.",
+          "answer": "telling",
+          "explanation": "'Stop' + -ing means to cease an action."
+        },
+        {
+          "number": 2,
+          "sentence": "Miss Edwards was explaining some grammar to us but she had to stop ___ a couple of the girls to be quiet.",
+          "answer": "to tell",
+          "explanation": "'Stop' + full infinitive means to interrupt one action to do another."
+        },
+        {
+          "number": 3,
+          "sentence": "When you're in town, remember ___ some snacks for this evening.",
+          "answer": "to get",
+          "explanation": "'Remember' + full infinitive means to remember to do a task."
+        },
+        {
+          "number": 4,
+          "sentence": "I remember ___ out of the car and I think I saw the motorbike...",
+          "answer": "getting",
+          "explanation": "'Remember' + -ing means to recall a past event."
+        },
+        {
+          "number": 5,
+          "sentence": "We regret ___ that flight RA 721 has been cancelled.",
+          "answer": "to announce",
+          "explanation": "'Regret' + full infinitive is used for giving bad news."
+        },
+        {
+          "number": 6,
+          "sentence": "I regret ___ that I was going to resign because I changed my mind soon after.",
+          "answer": "announcing",
+          "explanation": "'Regret' + -ing means to be sorry about something in the past."
+        },
+        {
+          "number": 7,
+          "sentence": "The lecturer ignored the interruption and went on ___ as if nothing had happened.",
+          "answer": "talking",
+          "explanation": "'Go on' + -ing means to continue doing something."
+        },
+        {
+          "number": 8,
+          "sentence": "The lecturer described the social conditions in the 1930s and went on ___ about the effect of the war.",
+          "answer": "to talk",
+          "explanation": "'Go on' + full infinitive means to change to a new action or topic."
+        },
+        {
+          "number": 9,
+          "sentence": "You're going to be angry, but I forgot ___ to the bank to pay that cheque in.",
+          "answer": "to go",
+          "explanation": "'Forget' + full infinitive means to fail to do a planned action."
+        },
+        {
+          "number": 10,
+          "sentence": "Don't tell me you've forgotten ___ to the Blue Mountains!",
+          "answer": "going",
+          "explanation": "'Forget' + -ing means to lose the memory of a past event."
+        },
+        {
+          "number": 11,
+          "sentence": "The air conditioner wasn't working so I tried ___ the batteries in the remote control...",
+          "answer": "changing",
+          "explanation": "'Try' + -ing means to do something as an experiment to solve a problem."
+        },
+        {
+          "number": 12,
+          "sentence": "There must be something wrong with the remote control because every time I try ___ channels, nothing happens.",
+          "answer": "to change",
+          "explanation": "'Try' + full infinitive means to make an effort to achieve something."
+        },
+        {
+          "number": 13,
+          "sentence": "We like ___ the car serviced at least once a year, just to be on the safe side.",
+          "answer": "to have",
+          "explanation": "'Like' + full infinitive means to think it is right or a good habit."
+        },
+        {
+          "number": 14,
+          "sentence": "No, don't! I really don't like ___ my feet tickled like that!",
+          "answer": "having",
+          "explanation": "'Like' + -ing means to enjoy (or in the negative, not enjoy) an experience."
+        }
+      ]
+    },
+    {
+      "id": "u23_H",
+      "label": "H",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "After working for six hours, I finally managed to finish the report. (in)\nI finally ___ the report after working for six hours.",
+          "answer": "succeeded in finishing",
+          "explanation": "'Succeed in' is followed by the -ing form."
+        },
+        {
+          "number": 2,
+          "sentence": "Oscar is qualified to teach Russian because he has a degree in it. (to)\nOscar's Russian degree ___ the language.",
+          "answer": "qualifies him to teach",
+          "explanation": "'Qualify someone' is followed by the full infinitive."
+        },
+        {
+          "number": 3,
+          "sentence": "I couldn't believe it when they suggested that I should speak to the head teacher about the problem. (nominated)\nI couldn't believe it when they ___ to the head teacher about the problem.",
+          "answer": "nominated me to speak",
+          "explanation": "'Nominate someone' is followed by the full infinitive."
+        },
+        {
+          "number": 4,
+          "sentence": "I shared a bedroom with my brothers when I was young and I quite liked it. (like)\nI used ___ a bedroom with my brothers when I was young.",
+          "answer": "to like sharing",
+          "explanation": "'Used to' + infinitive; 'like' + -ing for enjoyment."
+        },
+        {
+          "number": 5,
+          "sentence": "Tim resolved that he would stay out of trouble when he left prison. (to)\nOn being released from prison, Tim resolved ___ trouble again.",
+          "answer": "to stay out of",
+          "explanation": "'Resolve' is followed by the full infinitive."
+        },
+        {
+          "number": 6,
+          "sentence": "Are you sorry that you invited Liam to join us on the trip? (regret)\nDo ___ Liam to join us on the trip?",
+          "answer": "you regret inviting",
+          "explanation": "'Regret' + -ing for a past action."
+        },
+        {
+          "number": 7,
+          "sentence": "The arrangement is that you are staying with Mr and Mrs Andrews. (for)\nWe ___ with Mr and Mrs Andrews.",
+          "answer": "have arranged for you to stay",
+          "explanation": "'Arrange for someone to do something' structure."
+        },
+        {
+          "number": 8,
+          "sentence": "What was your inspiration for creating such a fantastic character in your new novel? (to)\nWhat ___ such a fantastic character in your new novel?",
+          "answer": "inspired you to create",
+          "explanation": "'Inspire someone' is followed by the full infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u23_I",
+      "label": "I",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "When she suggested ___ over the weekend, I was so angry that I threatened to quit.",
+          "options": ["me to working", "me to work", "me work", "me working"],
+          "answer": "me working",
+          "explanation": "Suggest + object pronoun + -ing."
+        },
+        {
+          "number": 2,
+          "sentence": "The manager requested that all staff ___ present at the meeting.",
+          "options": ["have been", "be", "are being", "being"],
+          "answer": "be",
+          "explanation": "Subjunctive mood after 'request'."
+        },
+        {
+          "number": 3,
+          "sentence": "Didn't you ___ that Martha wasn't with Ashley?",
+          "options": ["think it strange", "think strange", "think strangely", "think it strangely"],
+          "answer": "think it strange",
+          "explanation": "Preparatory 'it' with 'think' + adjective."
+        },
+        {
+          "number": 4,
+          "sentence": "It's very important that we ___ as soon as there's any change in the patient's condition.",
+          "options": ["be it notified", "being notified", "were notified", "be notified"],
+          "answer": "be notified",
+          "explanation": "Passive subjunctive after 'important that'."
+        },
+        {
+          "number": 5,
+          "sentence": "I feel ___ to inform the committee that a number of members are very unhappy with the decision.",
+          "options": ["my duty", "this my duty", "it my duty", "that my duty"],
+          "answer": "it my duty",
+          "explanation": "Preparatory 'it' as a placeholder object."
+        },
+        {
+          "number": 6,
+          "sentence": "After what the manager said this morning, I didn't ___ him about the problems I've been having.",
+          "options": ["dare telling", "dare it telling", "dare tell", "dare to telling"],
+          "answer": "dare tell",
+          "explanation": "Dare as a modal followed by bare infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "Don't you ___ that Veronica and George are still together?",
+          "options": ["incredibly find", "find incredible", "find incredibly", "find it incredible"],
+          "answer": "find it incredible",
+          "explanation": "Find + it + adjective."
+        },
+        {
+          "number": 8,
+          "sentence": "You shouldn't have let Kerry ___ without apologising for what you said to her.",
+          "options": ["leave", "to leave", "leaving", "to leaving"],
+          "answer": "leave",
+          "explanation": "Let + object + bare infinitive."
+        },
+        {
+          "number": 9,
+          "sentence": "It was a bit embarrassing when the teacher caught us ___ during the test.",
+          "options": ["to cheat", "cheating", "cheat", "to cheating"],
+          "answer": "cheating",
+          "explanation": "Catch + object + -ing."
+        },
+        {
+          "number": 10,
+          "sentence": "It's not fair to make the dog ___ in the car on such a hot day.",
+          "options": ["to wait", "waiting", "wait", "for waiting"],
+          "answer": "wait",
+          "explanation": "Make + object + bare infinitive."
+        }
+      ]
+    },
+    {
+      "id": "u23_J",
+      "label": "J",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "You've been trying ___ find that certain someone for far too long, Debbie.",
+          "answer": "to",
+          "explanation": "Try + full infinitive (effort)."
+        },
+        {
+          "number": 2,
+          "sentence": "Can't you feel ___ getting older?",
+          "answer": "yourself",
+          "explanation": "Feel + reflexive pronoun + -ing."
+        },
+        {
+          "number": 3,
+          "sentence": "Don't you ___ it strange to be 25 and not married yet?",
+          "answer": "find",
+          "explanation": "Find it + adjective."
+        },
+        {
+          "number": 4,
+          "sentence": "They recommended ___ to check out something called 'speed dating'.",
+          "answer": "me",
+          "explanation": "Recommend + object + full infinitive."
+        },
+        {
+          "number": 5,
+          "sentence": "Two days later I found ___ sitting in a club in central London...",
+          "answer": "myself",
+          "explanation": "Find + reflexive pronoun + -ing."
+        },
+        {
+          "number": 6,
+          "sentence": "You keep ___ going like that all night...",
+          "answer": "on",
+          "explanation": "Keep on + -ing (continue)."
+        },
+        {
+          "number": 7,
+          "sentence": "I didn't ___ tell them that I worked for a young women's magazine...",
+          "answer": "dare",
+          "explanation": "Dare as a modal followed by bare infinitive."
+        },
+        {
+          "number": 8,
+          "sentence": "Everyone obviously found ___ hard to know what to say...",
+          "answer": "it",
+          "explanation": "Preparatory it (find it adjective to do)."
+        },
+        {
+          "number": 9,
+          "sentence": "...and I ___ to feel like I couldn't...",
+          "answer": "started",
+          "explanation": "Start/begin followed by full infinitive."
+        },
+        {
+          "number": 10,
+          "sentence": "...couldn't ___ to hear another potted biography.",
+          "answer": "bear",
+          "explanation": "Can't bear/stand + full infinitive."
+        }
+      ]
+    }
+  ]
+}

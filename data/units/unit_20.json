@@ -1,0 +1,2217 @@
+{
+  "unit_id": 20,
+  "unit_type": "Vocabulary",
+  "title": "Power and social issues",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Power",
+      "words": [
+        {
+          "word": "aggression",
+          "pos": "n",
+          "definition_en": "feelings of anger and hatred that may result in threatening or violent behavior",
+          "definition_vi": "sự hiếu chiến, hung hăng",
+          "example": "The television program contains too much violence and aggression.",
+          "synonyms": ["hostility", "belligerence"],
+          "collocations": ["acts of aggression", "unprovoked aggression"]
+        },
+        {
+          "word": "authority",
+          "pos": "n",
+          "definition_en": "the power or right to give orders, make decisions, and enforce obedience",
+          "definition_vi": "quyền lực, uy quyền, chính quyền",
+          "example": "The government has the authority to regulate the economy.",
+          "synonyms": ["power", "command", "control"],
+          "collocations": ["in authority", "local authority"]
+        },
+        {
+          "word": "benign",
+          "pos": "adj",
+          "definition_en": "kind and gentle; not hurting anybody",
+          "definition_vi": "nhân từ, ôn hòa, lành tính",
+          "example": "He was a benign old man who wouldn't hurt a fly.",
+          "synonyms": ["kindly", "gentle"],
+          "collocations": ["benign influence", "benign neglect"]
+        },
+        {
+          "word": "bully",
+          "pos": "v, n",
+          "definition_en": "to frighten or hurt a weaker person; a person who uses their strength or power to frighten or hurt others",
+          "definition_vi": "bắt nạt; kẻ bắt nạt",
+          "example": "Stop trying to bully me into doing what you want.",
+          "synonyms": ["intimidate", "torment"],
+          "collocations": ["school bully", "bully sb into sth"]
+        },
+        {
+          "word": "command",
+          "pos": "v, n",
+          "definition_en": "to give an order; an order given by a person in authority",
+          "definition_vi": "hạ lệnh, chỉ huy; mệnh lệnh",
+          "example": "The officer commanded his men to fire.",
+          "synonyms": ["order", "bid"],
+          "collocations": ["in command of", "at sb's command"]
+        },
+        {
+          "word": "conquer",
+          "pos": "v",
+          "definition_en": "to take control of a country or city and its people by force",
+          "definition_vi": "chinh phục, xâm chiếm",
+          "example": "The Normans conquered England in 1066.",
+          "synonyms": ["defeat", "vanquish"],
+          "collocations": ["conquer a territory", "conquer your fears"]
+        },
+        {
+          "word": "consent",
+          "pos": "v, n",
+          "definition_en": "to agree to something or give permission for something; permission for something to happen",
+          "definition_vi": "đồng ý, bằng lòng; sự cho phép",
+          "example": "You can't publish these photos without my consent.",
+          "synonyms": ["agreement", "permission"],
+          "collocations": ["mutual consent", "age of consent"]
+        },
+        {
+          "word": "controversy",
+          "pos": "n",
+          "definition_en": "public discussion and argument about something that many people strongly disagree about",
+          "definition_vi": "sự tranh cãi, cuộc tranh luận",
+          "example": "The new law has caused a lot of controversy.",
+          "synonyms": ["dispute", "debate"],
+          "collocations": ["cause controversy", "arouse controversy"]
+        },
+        {
+          "word": "dictator",
+          "pos": "n",
+          "definition_en": "a ruler with total power over a country, typically one who has obtained control by force",
+          "definition_vi": "kẻ độc tài",
+          "example": "The country was ruled by a military dictator for 20 years.",
+          "synonyms": ["autocrat", "tyrant"],
+          "collocations": ["brutal dictator", "benevolent dictator"]
+        },
+        {
+          "word": "dominate",
+          "pos": "v",
+          "definition_en": "to have a lot of control or influence over somebody or something",
+          "definition_vi": "thống trị, áp đảo, kiềm chế",
+          "example": "The company dominates the software market.",
+          "synonyms": ["control", "rule"],
+          "collocations": ["dominate the conversation", "dominate the scene"]
+        },
+        {
+          "word": "eliminate",
+          "pos": "v",
+          "definition_en": "to remove or get rid of something",
+          "definition_vi": "loại bỏ, bài trừ",
+          "example": "We need to eliminate the possibility of error.",
+          "synonyms": ["remove", "eradicate"],
+          "collocations": ["eliminate a risk", "eliminate a threat"]
+        },
+        {
+          "word": "enforce",
+          "pos": "v",
+          "definition_en": "to make sure that people obey a particular law or rule",
+          "definition_vi": "thực thi, bắt tuân thủ",
+          "example": "It is the job of the police to enforce the law.",
+          "synonyms": ["implement", "apply"],
+          "collocations": ["enforce a rule", "enforce a ban"]
+        },
+        {
+          "word": "entitled",
+          "pos": "adj",
+          "definition_en": "having a right to certain privileges or expressions",
+          "definition_vi": "có quyền (làm gì đó)",
+          "example": "Everyone is entitled to a fair trial.",
+          "synonyms": ["eligible", "authorized"],
+          "collocations": ["be entitled to sth", "feel entitled"]
+        },
+        {
+          "word": "exempt",
+          "pos": "adj",
+          "definition_en": "if somebody/something is exempt from something, they are not affected by it",
+          "definition_vi": "được miễn (thuế, nghĩa vụ)",
+          "example": "Charities are exempt from paying the tax.",
+          "synonyms": ["free", "spared"],
+          "collocations": ["exempt from tax", "exempt from duty"]
+        },
+        {
+          "word": "former",
+          "pos": "adj",
+          "definition_en": "that used to exist in earlier times",
+          "definition_vi": "cựu, trước đây",
+          "example": "The former president attended the ceremony.",
+          "synonyms": ["previous", "ex-"],
+          "collocations": ["former employer", "former glory"]
+        },
+        {
+          "word": "impose",
+          "pos": "v",
+          "definition_en": "to introduce a new law, rule, tax, etc.; to force somebody to accept something",
+          "definition_vi": "áp đặt, đánh thuế",
+          "example": "The government has imposed a ban on smoking in public places.",
+          "synonyms": ["enforce", "inflict"],
+          "collocations": ["impose a fine", "impose your will"]
+        },
+        {
+          "word": "inferior",
+          "pos": "adj",
+          "definition_en": "not good or not as good as somebody or something else",
+          "definition_vi": "thấp kém, kém hơn",
+          "example": "Modern goods are often inferior to those made in the past.",
+          "synonyms": ["substandard", "lower"],
+          "collocations": ["feel inferior", "inferior quality"]
+        },
+        {
+          "word": "intimidate",
+          "pos": "v",
+          "definition_en": "to frighten or threaten somebody so that they will do what you want",
+          "definition_vi": "hăm dọa, đe dọa",
+          "example": "They were accused of trying to intimidate witnesses.",
+          "synonyms": ["frighten", "bully"],
+          "collocations": ["intimidate sb into doing sth"]
+        },
+        {
+          "word": "label",
+          "pos": "v, n",
+          "definition_en": "to describe somebody/something using a word or phrase, often unfairly; a word or phrase used to describe somebody/something",
+          "definition_vi": "dán nhãn, liệt vào loại; nhãn hiệu",
+          "example": "He was labeled as a troublemaker from an early age.",
+          "synonyms": ["categorize", "tag"],
+          "collocations": ["label sb as sth"]
+        },
+        {
+          "word": "liberate",
+          "pos": "v",
+          "definition_en": "to free a country or a person from the control of somebody else",
+          "definition_vi": "giải phóng",
+          "example": "The city was finally liberated from the enemy.",
+          "synonyms": ["free", "release"],
+          "collocations": ["liberate a country", "liberating effect"]
+        },
+        {
+          "word": "mainstream",
+          "pos": "n, adj",
+          "definition_en": "the ideas and opinions that are thought to be normal because they are shared by most people",
+          "definition_vi": "xu hướng chủ đạo, chính thống",
+          "example": "His views are outside the mainstream of political opinion.",
+          "synonyms": ["conventional", "normal"],
+          "collocations": ["mainstream media", "mainstream politics"]
+        },
+        {
+          "word": "master",
+          "pos": "v, n",
+          "definition_en": "to learn or understand something completely; a person who is very skilled at something",
+          "definition_vi": "tinh thông, nắm vững; chủ nhân, bậc thầy",
+          "example": "It takes years to master a foreign language.",
+          "synonyms": ["excel in", "command"],
+          "collocations": ["master a craft", "master of the house"]
+        },
+        {
+          "word": "minister",
+          "pos": "n",
+          "definition_en": "a senior member of the government who is in charge of a government department",
+          "definition_vi": "bộ trưởng",
+          "example": "The Minister of Education announced a new policy.",
+          "synonyms": ["official", "secretary"],
+          "collocations": ["prime minister", "foreign minister"]
+        },
+        {
+          "word": "monarch",
+          "pos": "n",
+          "definition_en": "a king, queen, emperor, etc.",
+          "definition_vi": "quốc vương, quân chủ",
+          "example": "The British monarch has little real power.",
+          "synonyms": ["ruler", "sovereign"],
+          "collocations": ["reigning monarch", "absolute monarch"]
+        },
+        {
+          "word": "prohibit",
+          "pos": "v",
+          "definition_en": "to stop something from being done by law or rules",
+          "definition_vi": "nghiêm cấm",
+          "example": "Smoking is strictly prohibited in the building.",
+          "synonyms": ["ban", "forbid"],
+          "collocations": ["prohibit sb from doing sth"]
+        },
+        {
+          "word": "reign",
+          "pos": "v, n",
+          "definition_en": "to rule as a king, queen, etc.; the period during which a king, queen, etc. rules",
+          "definition_vi": "trị vì; triều đại",
+          "example": "Queen Victoria reigned for 63 years.",
+          "synonyms": ["rule", "govern"],
+          "collocations": ["a long reign", "reign supreme"]
+        },
+        {
+          "word": "reinforce",
+          "pos": "v",
+          "definition_en": "to make a feeling, an idea, etc. stronger",
+          "definition_vi": "củng cố, tăng cường",
+          "example": "The experience reinforced my belief in the importance of education.",
+          "synonyms": ["strengthen", "bolster"],
+          "collocations": ["reinforce a stereotype", "reinforce the message"]
+        },
+        {
+          "word": "reluctant",
+          "pos": "adj",
+          "definition_en": "hesitating before doing something because you do not want to do it",
+          "definition_vi": "miễn cưỡng, bất đắc dĩ",
+          "example": "She was reluctant to admit she was wrong.",
+          "synonyms": ["unwilling", "loath"],
+          "collocations": ["reluctant to do sth", "reluctant acceptance"]
+        },
+        {
+          "word": "resist",
+          "pos": "v",
+          "definition_en": "to refuse to accept something and try to stop it from happening",
+          "definition_vi": "kháng cự, chống lại",
+          "example": "The residents are resisting the plan to build a new road.",
+          "synonyms": ["oppose", "defy"],
+          "collocations": ["resist change", "resist the temptation"]
+        },
+        {
+          "word": "restrict",
+          "pos": "v",
+          "definition_en": "to limit the size, amount, or range of something",
+          "definition_vi": "hạn chế, giới hạn",
+          "example": "The new law will restrict the freedom of the press.",
+          "synonyms": ["limit", "curb"],
+          "collocations": ["restrict access", "restrict yourself to sth"]
+        },
+        {
+          "word": "society",
+          "pos": "n",
+          "definition_en": "people in general living together in communities",
+          "definition_vi": "xã hội",
+          "example": "We live in a multicultural society.",
+          "synonyms": ["community", "civilization"],
+          "collocations": ["modern society", "civil society"]
+        },
+        {
+          "word": "subject",
+          "pos": "v, n",
+          "definition_en": "to make somebody/something experience something unpleasant; a person who lives in a country that has a king or queen",
+          "definition_vi": "khuất phục, bắt phải chịu; thần dân",
+          "example": "The city was subjected to heavy bombing.",
+          "synonyms": ["expose", "subjugate"],
+          "collocations": ["subject to", "British subject"]
+        },
+        {
+          "word": "subjective",
+          "pos": "adj",
+          "definition_en": "based on your own ideas or feelings rather than facts",
+          "definition_vi": "chủ quan",
+          "example": "Taste is very subjective.",
+          "synonyms": ["personal", "biased"],
+          "collocations": ["highly subjective", "subjective assessment"]
+        },
+        {
+          "word": "submit",
+          "pos": "v",
+          "definition_en": "to accept the authority or control of somebody else",
+          "definition_vi": "khuất phục, quy phục, nộp",
+          "example": "They were forced to submit to a search.",
+          "synonyms": ["surrender", "yield"],
+          "collocations": ["submit to authority", "submit a report"]
+        },
+        {
+          "word": "summon",
+          "pos": "v",
+          "definition_en": "to order somebody to appear in court",
+          "definition_vi": "triệu tập",
+          "example": "He was summoned to appear as a witness.",
+          "synonyms": ["call", "cite"],
+          "collocations": ["summon a meeting", "summon help"]
+        },
+        {
+          "word": "superior",
+          "pos": "adj",
+          "definition_en": "better than average or better than other people or things of the same type",
+          "definition_vi": "cao cấp, tốt hơn, cấp trên",
+          "example": "This model is technically superior to its competitors.",
+          "synonyms": ["better", "higher"],
+          "collocations": ["superior quality", "immediate superior"]
+        },
+        {
+          "word": "undermine",
+          "pos": "v",
+          "definition_en": "to make something weaker at the base, or to make somebody's confidence or authority gradually weaker",
+          "definition_vi": "làm suy yếu, hủy hoại dần",
+          "example": "The constant criticism was beginning to undermine her confidence.",
+          "synonyms": ["weaken", "sap"],
+          "collocations": ["undermine authority", "undermine confidence"]
+        },
+        {
+          "word": "unrest",
+          "pos": "n",
+          "definition_en": "a political situation in which people are angry and likely to protest or fight",
+          "definition_vi": "sự bất ổn, tình trạng náo loạn",
+          "example": "There is growing social unrest in the country.",
+          "synonyms": ["turmoil", "agitation"],
+          "collocations": ["civil unrest", "political unrest"]
+        },
+        {
+          "word": "victimise",
+          "pos": "v",
+          "definition_en": "to treat somebody in a cruel or unfair way",
+          "definition_vi": "ngược đãi, biến thành nạn nhân",
+          "example": "He claimed he had been victimized because of his political views.",
+          "synonyms": ["persecute", "bully"],
+          "collocations": ["be victimized by"]
+        },
+        {
+          "word": "vulnerable",
+          "pos": "adj",
+          "definition_en": "weak and easily hurt physically or emotionally",
+          "definition_vi": "dễ bị tổn thương",
+          "example": "Old people are particularly vulnerable to the flu.",
+          "synonyms": ["defenceless", "susceptible"],
+          "collocations": ["vulnerable position", "socially vulnerable"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Social issues",
+      "words": [
+        {
+          "word": "abolish",
+          "pos": "v",
+          "definition_en": "to officially end a law, a system, or an institution",
+          "definition_vi": "bãi bỏ, hủy bỏ",
+          "example": "Slavery was abolished in the US in 1865.",
+          "synonyms": ["eliminate", "cancel"],
+          "collocations": ["abolish a law", "abolish the death penalty"]
+        },
+        {
+          "word": "advocate",
+          "pos": "v",
+          "definition_en": "to support something publicly",
+          "definition_vi": "ủng hộ, biện hộ",
+          "example": "He advocates a return to traditional values.",
+          "synonyms": ["support", "recommend"],
+          "collocations": ["advocate reform", "strongly advocate"]
+        },
+        {
+          "word": "alleviate",
+          "pos": "v",
+          "definition_en": "to make something less severe",
+          "definition_vi": "làm nhẹ bớt, làm giảm bớt",
+          "example": "A number of measures were taken to alleviate the problem.",
+          "synonyms": ["ease", "relieve"],
+          "collocations": ["alleviate poverty", "alleviate suffering"]
+        },
+        {
+          "word": "bureaucracy",
+          "pos": "n",
+          "definition_en": "a system of government in which there are a large number of officials who are not elected",
+          "definition_vi": "chế độ quan liêu, bộ máy hành chính",
+          "example": "We need to reduce the amount of bureaucracy in the healthcare system.",
+          "synonyms": ["red tape", "administration"],
+          "collocations": ["government bureaucracy", "stifling bureaucracy"]
+        },
+        {
+          "word": "charity",
+          "pos": "n",
+          "definition_en": "an organization for helping people in need",
+          "definition_vi": "tổ chức từ thiện, lòng nhân ái",
+          "example": "Most of the money goes to charity.",
+          "synonyms": ["non-profit", "foundation"],
+          "collocations": ["registered charity", "charity event"]
+        },
+        {
+          "word": "class",
+          "pos": "n",
+          "definition_en": "one of the groups that people in a society are divided into according to their status",
+          "definition_vi": "giai cấp, tầng lớp",
+          "example": "The gap between the classes is widening.",
+          "synonyms": ["stratum", "rank"],
+          "collocations": ["social class", "middle class"]
+        },
+        {
+          "word": "community",
+          "pos": "n",
+          "definition_en": "all the people who live in a particular area, country, etc.",
+          "definition_vi": "cộng đồng",
+          "example": "The local community was shocked by the crime.",
+          "synonyms": ["neighborhood", "society"],
+          "collocations": ["local community", "community spirit"]
+        },
+        {
+          "word": "convict",
+          "pos": "v, n",
+          "definition_en": "to decide and state officially in court that somebody is guilty of a crime; a person who has been found guilty of a crime and sent to prison",
+          "definition_vi": "kết án; người bị kết án, tù nhân",
+          "example": "He was convicted of murder.",
+          "synonyms": ["find guilty", "prisoner"],
+          "collocations": ["escaped convict", "wrongfully convicted"]
+        },
+        {
+          "word": "corruption",
+          "pos": "n",
+          "definition_en": "dishonest or illegal behavior, especially of people in authority",
+          "definition_vi": "sự tham nhũng, sự đồi bại",
+          "example": "The government has pledged to fight corruption.",
+          "synonyms": ["dishonesty", "bribery"],
+          "collocations": ["political corruption", "widespread corruption"]
+        },
+        {
+          "word": "deterrent",
+          "pos": "n",
+          "definition_en": "something that makes somebody less likely to do something",
+          "definition_vi": "vật/biện pháp ngăn chặn, răn đe",
+          "example": "The death penalty is often argued to be a deterrent to crime.",
+          "synonyms": ["disincentive", "check"],
+          "collocations": ["effective deterrent", "nuclear deterrent"]
+        },
+        {
+          "word": "heritage",
+          "pos": "n",
+          "definition_en": "the history, traditions, and qualities that a country or society has had for many years",
+          "definition_vi": "di sản",
+          "example": "Ireland has a rich musical heritage.",
+          "synonyms": ["legacy", "tradition"],
+          "collocations": ["cultural heritage", "national heritage"]
+        },
+        {
+          "word": "immigration",
+          "pos": "n",
+          "definition_en": "the process of coming to live permanently in a different country",
+          "definition_vi": "sự nhập cư",
+          "example": "The government is introducing stricter immigration laws.",
+          "synonyms": ["migration", "settlement"],
+          "collocations": ["illegal immigration", "immigration officer"]
+        },
+        {
+          "word": "industrial action",
+          "pos": "n phr",
+          "definition_en": "an occasion when workers do something such as go on strike to show they are not happy with their pay or conditions",
+          "definition_vi": "bãi công, đình công",
+          "example": "Teachers are taking industrial action in support of their pay claim.",
+          "synonyms": ["strike", "walkout"],
+          "collocations": ["take industrial action", "threaten industrial action"]
+        },
+        {
+          "word": "institution",
+          "pos": "n",
+          "definition_en": "a large important organization such as a university or bank",
+          "definition_vi": "tổ chức, thể chế",
+          "example": "The banking institution is going through a period of change.",
+          "synonyms": ["organization", "establishment"],
+          "collocations": ["financial institution", "educational institution"]
+        },
+        {
+          "word": "legislation",
+          "pos": "n",
+          "definition_en": "a law or a set of laws passed by a parliament",
+          "definition_vi": "pháp luật, sự lập pháp",
+          "example": "New legislation will be introduced to protect the environment.",
+          "synonyms": ["law", "statute"],
+          "collocations": ["pass legislation", "introduce legislation"]
+        },
+        {
+          "word": "prejudice",
+          "pos": "n",
+          "definition_en": "an unreasonable dislike of or preference for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc.",
+          "definition_vi": "định kiến, thành kiến",
+          "example": "There is still a lot of prejudice against women in the workplace.",
+          "synonyms": ["bias", "discrimination"],
+          "collocations": ["racial prejudice", "without prejudice"]
+        },
+        {
+          "word": "prison reform",
+          "pos": "n phr",
+          "definition_en": "changes made to the prison system to improve conditions and reduce crime",
+          "definition_vi": "cải cách nhà tù",
+          "example": "Prison reform is high on the government's agenda.",
+          "synonyms": ["penal reform"],
+          "collocations": ["advocate prison reform"]
+        },
+        {
+          "word": "privileged",
+          "pos": "adj",
+          "definition_en": "having special rights or advantages that most people do not have",
+          "definition_vi": "có đặc quyền, đặc lợi",
+          "example": "She comes from a privileged background.",
+          "synonyms": ["favoured", "elite"],
+          "collocations": ["privileged position", "highly privileged"]
+        },
+        {
+          "word": "prosecute",
+          "pos": "v",
+          "definition_en": "to officially charge somebody with a crime in court",
+          "definition_vi": "truy tố",
+          "example": "The company was prosecuted for breaching health and safety regulations.",
+          "synonyms": ["indict", "sue"],
+          "collocations": ["prosecute sb for sth"]
+        },
+        {
+          "word": "state",
+          "pos": "n",
+          "definition_en": "the government of a country",
+          "definition_vi": "nhà nước, bang",
+          "example": "The health service is funded by the state.",
+          "synonyms": ["government", "nation"],
+          "collocations": ["state-owned", "welfare state"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "back down",
+          "pos": "phr v",
+          "definition_en": "stop asking for something or stop saying that you will do something, because a lot of people oppose you",
+          "definition_vi": "nhượng bộ, rút lui",
+          "example": "The government was forced to back down on its plans to raise taxes.",
+          "synonyms": ["yield", "give in"],
+          "collocations": []
+        },
+        {
+          "word": "blend in",
+          "pos": "phr v",
+          "definition_en": "if someone or something blends in, they are similar to the other people, objects, buildings, etc around them, and so they seem appropriate or you do not notice them",
+          "definition_vi": "hòa nhập, lẫn vào",
+          "example": "We tried to blend in with the crowd.",
+          "synonyms": ["integrate", "fit in"],
+          "collocations": ["blend in with"]
+        },
+        {
+          "word": "bring about",
+          "pos": "phr v",
+          "definition_en": "make something happen, especially to cause changes in a situation",
+          "definition_vi": "gây ra, dẫn đến",
+          "example": "The new law brought about many changes in the education system.",
+          "synonyms": ["cause", "produce"],
+          "collocations": ["bring about change"]
+        },
+        {
+          "word": "crack down (on)",
+          "pos": "phr v",
+          "definition_en": "start dealing with someone or something much more strictly",
+          "definition_vi": "trừng trị thẳng tay, thắt chặt",
+          "example": "The police are cracking down on illegal parking.",
+          "synonyms": ["clamp down on"],
+          "collocations": ["crackdown (n)"]
+        },
+        {
+          "word": "get in",
+          "pos": "phr v",
+          "definition_en": "be elected for a political job",
+          "definition_vi": "trúng cử",
+          "example": "If the Liberals get in, they will lower taxes.",
+          "synonyms": ["be elected"],
+          "collocations": []
+        },
+        {
+          "word": "get off",
+          "pos": "phr v",
+          "definition_en": "not be punished severely or at all for something you have been accused of in court; have a particular period of time as a holiday; send something, for example in the post",
+          "definition_vi": "thoát tội, được nghỉ, gửi đi",
+          "example": "He was lucky to get off with only a fine.",
+          "synonyms": ["escape punishment"],
+          "collocations": []
+        },
+        {
+          "word": "give in",
+          "pos": "phr v",
+          "definition_en": "stop competing or arguing and accept that you cannot win; if you give in to something, you can no longer control the feeling of wanting it",
+          "definition_vi": "đầu hàng, nhượng bộ, không nhịn được",
+          "example": "Eventually I gave in and let them go to the party.",
+          "synonyms": ["surrender", "yield"],
+          "collocations": ["give in to temptation"]
+        },
+        {
+          "word": "hit back",
+          "pos": "phr v",
+          "definition_en": "criticise someone who has criticised you; deliberately hurt someone who has hurt you",
+          "definition_vi": "đáp trả, đánh trả",
+          "example": "The minister hit back at his critics.",
+          "synonyms": ["retaliate"],
+          "collocations": []
+        },
+        {
+          "word": "lock up",
+          "pos": "phr v",
+          "definition_en": "put someone in a prison; lock all the doors and windows of a building so that no one can get in",
+          "definition_vi": "giam giữ, khóa cửa",
+          "example": "The murderer was locked up for life.",
+          "synonyms": ["imprison", "confine"],
+          "collocations": []
+        },
+        {
+          "word": "opt out (of)",
+          "pos": "phr v",
+          "definition_en": "decide not to take part in something or stop taking part in it",
+          "definition_vi": "không tham gia, rút lui khỏi",
+          "example": "Employees can opt out of the company's pension scheme.",
+          "synonyms": ["withdraw", "quit"],
+          "collocations": []
+        },
+        {
+          "word": "phase out",
+          "pos": "phr v",
+          "definition_en": "gradually stop using something",
+          "definition_vi": "loại bỏ dần dần",
+          "example": "The old coins are being phased out.",
+          "synonyms": ["discontinue"],
+          "collocations": []
+        },
+        {
+          "word": "push around",
+          "pos": "phr v",
+          "definition_en": "keep telling someone what to do in an unfair or unpleasant way",
+          "definition_vi": "bắt nạt, sai khiến",
+          "example": "You shouldn't let him push you around like that.",
+          "synonyms": ["bully", "boss around"],
+          "collocations": []
+        },
+        {
+          "word": "single out",
+          "pos": "phr v",
+          "definition_en": "choose one person from a group for special attention",
+          "definition_vi": "chọn ra (để đối xử đặc biệt)",
+          "example": "One student was singled out for praise.",
+          "synonyms": ["select", "pick out"],
+          "collocations": []
+        },
+        {
+          "word": "stand up to",
+          "pos": "phr v",
+          "definition_en": "not allow yourself to be treated badly, especially by someone in authority",
+          "definition_vi": "đứng lên chống lại",
+          "example": "You must stand up to bullies.",
+          "synonyms": ["defy", "confront"],
+          "collocations": []
+        },
+        {
+          "word": "take over",
+          "pos": "phr v",
+          "definition_en": "take control of something; begin to do something that someone else was doing",
+          "definition_vi": "tiếp quản, chiếm đoạt",
+          "example": "The army took over the government building.",
+          "synonyms": ["assume control"],
+          "collocations": []
+        },
+        {
+          "word": "talk down to",
+          "pos": "phr v",
+          "definition_en": "talk to someone as if you think they are not as clever or important as you are",
+          "definition_vi": "nói chuyện kiểu bề trên",
+          "example": "I wish you wouldn't talk down to me.",
+          "synonyms": ["patronize"],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Phrases, patterns and collocations",
+      "words": [
+        {
+          "word": "arm",
+          "pos": "keyword",
+          "definition_en": "related to weapons and force",
+          "definition_vi": "vũ trang, vũ khí",
+          "example": "The protesters were arming themselves with sticks.",
+          "synonyms": [],
+          "collocations": ["arm sb with", "arm yourself against", "take up arms (against)", "lay down (your) arms", "up in arms (about)", "arms control", "arms race"]
+        },
+        {
+          "word": "authority",
+          "pos": "keyword",
+          "definition_en": "power or right to act",
+          "definition_vi": "thẩm quyền, uy tín",
+          "example": "She spoke with great authority on the subject.",
+          "synonyms": [],
+          "collocations": ["have the authority to do", "grant sb the authority to do", "have authority over", "have sth on good authority", "in authority", "with authority", "the authorities", "local authority"]
+        },
+        {
+          "word": "charge",
+          "pos": "keyword",
+          "definition_en": "accusation or responsibility",
+          "definition_vi": "cáo buộc, nhiệm vụ",
+          "example": "Who is in charge of this department?",
+          "synonyms": [],
+          "collocations": ["charge sb with", "charge sb for", "take charge", "(put) in charge (of)", "overall charge"]
+        },
+        {
+          "word": "class",
+          "pos": "keyword",
+          "definition_en": "social grouping",
+          "definition_vi": "giai cấp, lớp học",
+          "example": "The country's class system is very complex.",
+          "synonyms": [],
+          "collocations": ["class sb/sth as", "social class", "working/middle/upper class", "ruling class", "class system", "class differences", "class war"]
+        },
+        {
+          "word": "crime",
+          "pos": "keyword",
+          "definition_en": "illegal acts",
+          "definition_vi": "tội phạm",
+          "example": "There has been a rise in organized crime.",
+          "synonyms": [],
+          "collocations": ["commit/report/witness/solve a crime", "fight/combat crime", "the scene of a crime", "organised crime", "crime prevention", "crime rate", "crime wave"]
+        },
+        {
+          "word": "deny",
+          "pos": "keyword",
+          "definition_en": "refuse to admit or grant",
+          "definition_vi": "phủ nhận, từ chối",
+          "example": "He denied all responsibility for the accident.",
+          "synonyms": [],
+          "collocations": ["deny sb sth", "deny a request", "deny that", "deny doing", "deny having done", "deny (all) responsibility for"]
+        },
+        {
+          "word": "example",
+          "pos": "keyword",
+          "definition_en": "a representative instance",
+          "definition_vi": "tấm gương, ví dụ",
+          "example": "She sets a good example for the younger students.",
+          "synonyms": [],
+          "collocations": ["make an example of", "set an example", "follow an example", "give an example", "an example of", "classic/prime example"]
+        },
+        {
+          "word": "force",
+          "pos": "keyword",
+          "definition_en": "strength or energy as an attribute of physical action",
+          "definition_vi": "lực lượng, sức mạnh",
+          "example": "The police used force to disperse the crowd.",
+          "synonyms": [],
+          "collocations": ["force sb to do", "force sth on sb", "force your way into/through", "force a smile", "with force", "police force", "armed forces"]
+        },
+        {
+          "word": "grant",
+          "pos": "keyword",
+          "definition_en": "to agree to give or allow",
+          "definition_vi": "ban cho, chấp thuận",
+          "example": "The court granted him permission to travel abroad.",
+          "synonyms": [],
+          "collocations": ["grant sth to", "grant sb permission/authority", "grant a request", "grant sb's wish"]
+        },
+        {
+          "word": "law",
+          "pos": "keyword",
+          "definition_en": "system of rules",
+          "definition_vi": "luật pháp",
+          "example": "Breaking the law can lead to serious consequences.",
+          "synonyms": [],
+          "collocations": ["become law", "break/follow/uphold the law", "pass/amend/repeal a law", "lay down the law", "practise law", "against the law", "above the law", "by/under law", "law and order"]
+        },
+        {
+          "word": "lock",
+          "pos": "keyword",
+          "definition_en": "fastening or engagement",
+          "definition_vi": "khóa",
+          "example": "The documents are kept under lock and key.",
+          "synonyms": [],
+          "collocations": ["lock sth in", "lock horns with", "under lock and key", "locksmith"]
+        },
+        {
+          "word": "peer",
+          "pos": "keyword",
+          "definition_en": "a person of the same age, status, or ability",
+          "definition_vi": "bạn cùng lứa, đồng cấp",
+          "example": "Teenagers often feel pressured by their peers.",
+          "synonyms": [],
+          "collocations": ["peer group", "peer pressure"]
+        },
+        {
+          "word": "power",
+          "pos": "keyword",
+          "definition_en": "ability or capacity to do something",
+          "definition_vi": "quyền lực, sức mạnh",
+          "example": "The dictator seized power in a coup.",
+          "synonyms": [],
+          "collocations": ["take/seize/hold/exercise/exert/wield/abuse power", "in power", "beyond sb's power", "power to do", "power struggle", "power structure", "power base"]
+        },
+        {
+          "word": "prison",
+          "pos": "keyword",
+          "definition_en": "place of confinement",
+          "definition_vi": "nhà tù",
+          "example": "He was sentenced to five years in prison.",
+          "synonyms": [],
+          "collocations": ["go to prison", "send sb to prison", "in prison", "prison term", "prison sentence", "prison reform", "prison officer", "open prison"]
+        },
+        {
+          "word": "provoke",
+          "pos": "keyword",
+          "definition_en": "to stimulate or give rise to",
+          "definition_vi": "khiêu khích, gây ra",
+          "example": "The decision provoked a strong reaction from the public.",
+          "synonyms": [],
+          "collocations": ["provoke sb into doing", "provoke a reaction/protest/response", "provoke outrage"]
+        },
+        {
+          "word": "right",
+          "pos": "keyword",
+          "definition_en": "a moral or legal entitlement",
+          "definition_vi": "quyền",
+          "example": "Everyone has the right to free speech.",
+          "synonyms": [],
+          "collocations": ["have a/the/no/every right to do", "give sb the right to do", "right and wrong", "right in saying/thinking/believing", "right (of sb) to do", "equal rights", "human rights", "animal rights"]
+        },
+        {
+          "word": "rule",
+          "pos": "keyword",
+          "definition_en": "regulation or control",
+          "definition_vi": "quy tắc, luật lệ",
+          "example": "As a rule, we don't allow smoking here.",
+          "synonyms": [],
+          "collocations": ["break/bend/follow the rules", "against the rules", "as a rule", "rule of law", "rule of thumb", "rules and regulations"]
+        },
+        {
+          "word": "sentence",
+          "pos": "keyword",
+          "definition_en": "punishment assigned by a court",
+          "definition_vi": "bản án, kết án",
+          "example": "The judge passed a heavy sentence on the defendant.",
+          "synonyms": [],
+          "collocations": ["sentence sb to", "pass sentence", "serve a sentence (of five years, etc)", "prison sentence", "death sentence"]
+        },
+        {
+          "word": "social",
+          "pos": "keyword",
+          "definition_en": "relating to society",
+          "definition_vi": "thuộc về xã hội",
+          "example": "The government needs to improve social services.",
+          "synonyms": [],
+          "collocations": ["social conditions", "social contact", "social security", "social services", "social call", "social worker", "social club", "social life"]
+        },
+        {
+          "word": "subject",
+          "pos": "keyword",
+          "definition_en": "topic or person under authority",
+          "definition_vi": "chủ đề, đối tượng, thần dân",
+          "example": "Let's change the subject.",
+          "synonyms": [],
+          "collocations": ["subject sb to", "bring up / get onto a subject", "drop/change the subject", "subject to", "the subject of", "British subject"]
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "bury your head in the sand",
+          "pos": "idiom",
+          "definition_en": "ignore a problem or an unpleasant situation and hope that it will disappear",
+          "definition_vi": "trốn tránh thực tế",
+          "example": "You can't just bury your head in the sand and hope the debt goes away.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "gain/get/have/take the upper hand",
+          "pos": "idiom",
+          "definition_en": "gain/get/have/take control or advantage over a person or situation",
+          "definition_vi": "chiếm ưu thế, nắm thế thượng phong",
+          "example": "The government is finally getting the upper hand in the fight against crime.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "get/have your way",
+          "pos": "idiom",
+          "definition_en": "be allowed to have or do what you want",
+          "definition_vi": "làm theo ý mình, đạt được mục đích",
+          "example": "She always gets her own way in the end.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "live and let live",
+          "pos": "idiom",
+          "definition_en": "used for saying that you should accept other people's beliefs and way of life, even if they are very different from your own",
+          "definition_vi": "mình sống người khác cũng sống, dĩ hòa vi quý",
+          "example": "I don't agree with their lifestyle, but live and let live, I say.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "pull (a few) strings",
+          "pos": "idiom",
+          "definition_en": "use your influence in order to get something you want or to help someone, especially when this is unfair",
+          "definition_vi": "giật dây, dùng ảnh hưởng cá nhân để đạt được mục đích",
+          "example": "He had to pull a few strings to get his son into the elite school.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "red tape",
+          "pos": "idiom",
+          "definition_en": "documents, rules or processes that cause delays",
+          "definition_vi": "nạn quan liêu, thủ tục rườm rà",
+          "example": "There's so much red tape involved in starting a new business.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "take the law into your own hands",
+          "pos": "idiom",
+          "definition_en": "punish someone in your own way without involving the police or the courts, often by doing something illegal yourself",
+          "definition_vi": "tự xử, tự ý hành động bất chấp pháp luật",
+          "example": "Vigilantes who take the law into their own hands will be prosecuted.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "the powers that be",
+          "pos": "idiom",
+          "definition_en": "the people who control a situation",
+          "definition_vi": "những người có thẩm quyền, nhà chức trách",
+          "example": "The powers that be have decided to close the local hospital.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "throw the book at sb",
+          "pos": "idiom",
+          "definition_en": "punish someone very severely",
+          "definition_vi": "trừng phạt ai đó cực kỳ nghiêm khắc",
+          "example": "The judge is going to throw the book at him for this crime.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "under sb's thumb",
+          "pos": "idiom",
+          "definition_en": "completely controlled by someone else",
+          "definition_vi": "bị ai đó kiểm soát hoàn toàn, dưới trướng ai",
+          "example": "He's completely under his wife's thumb.",
+          "synonyms": [],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Word formation",
+      "words": [
+        {
+          "word": "aggression",
+          "pos": "noun",
+          "definition_en": "Derivatives of aggression",
+          "definition_vi": "Các từ phái sinh của aggression",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["aggressiveness", "aggressor", "aggressive(ly)"]
+        },
+        {
+          "word": "argue",
+          "pos": "verb",
+          "definition_en": "Derivatives of argue",
+          "definition_vi": "Các từ phái sinh của argue",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["argument", "argumentative(ly)", "(un)arguable", "arguably"]
+        },
+        {
+          "word": "charity",
+          "pos": "noun",
+          "definition_en": "Derivatives of charity",
+          "definition_vi": "Các từ phái sinh của charity",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["charitableness", "(un)charitable", "(un)charitably"]
+        },
+        {
+          "word": "crime",
+          "pos": "noun",
+          "definition_en": "Derivatives of crime",
+          "definition_vi": "Các từ phái sinh của crime",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["(de)criminalise", "criminal", "criminality", "criminally"]
+        },
+        {
+          "word": "dominate",
+          "pos": "verb",
+          "definition_en": "Derivatives of dominate",
+          "definition_vi": "Các từ phái sinh của dominate",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["domineer", "domination", "(pre)dominance", "dominant", "domineering", "dominating", "predominant(ly)"]
+        },
+        {
+          "word": "duty",
+          "pos": "noun",
+          "definition_en": "Derivatives of duty",
+          "definition_vi": "Các từ phái sinh của duty",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["dutiful(ly)"]
+        },
+        {
+          "word": "example",
+          "pos": "noun",
+          "definition_en": "Derivatives of example",
+          "definition_vi": "Các từ phái sinh của example",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["exemplify", "exemplification", "exemplary"]
+        },
+        {
+          "word": "govern",
+          "pos": "verb",
+          "definition_en": "Derivatives of govern",
+          "definition_vi": "Các từ phái sinh của govern",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["misgovern", "government", "governor", "governess", "governing", "governmental", "ungovernable"]
+        },
+        {
+          "word": "hard",
+          "pos": "adj/adv",
+          "definition_en": "Derivatives of hard",
+          "definition_vi": "Các từ phái sinh của hard",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["harden", "hardship", "hardness", "hardy", "hardly"]
+        },
+        {
+          "word": "indicate",
+          "pos": "verb",
+          "definition_en": "Derivatives of indicate",
+          "definition_vi": "Các từ phái sinh của indicate",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["indication", "indicator", "indicative"]
+        },
+        {
+          "word": "institute",
+          "pos": "noun/verb",
+          "definition_en": "Derivatives of institute",
+          "definition_vi": "Các từ phái sinh của institute",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["institutionalise", "institution", "institutional", "institutionalised"]
+        },
+        {
+          "word": "might",
+          "pos": "noun",
+          "definition_en": "Derivatives of might",
+          "definition_vi": "Các từ phái sinh của might",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["mighty", "mightily"]
+        },
+        {
+          "word": "moral",
+          "pos": "adj",
+          "definition_en": "Derivatives of moral",
+          "definition_vi": "Các từ phái sinh của moral",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["moralise", "demoralise", "(im/a)morality", "moralist", "morale", "(im/a)moral", "(im/a)morally"]
+        },
+        {
+          "word": "office",
+          "pos": "noun",
+          "definition_en": "Derivatives of office",
+          "definition_vi": "Các từ phái sinh của office",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["officiate", "official(dom)", "officer", "officious", "(un)official(ly)"]
+        },
+        {
+          "word": "permit",
+          "pos": "verb",
+          "definition_en": "Derivatives of permit",
+          "definition_vi": "Các từ phái sinh của permit",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["permission", "permissiveness", "permissible", "permissive"]
+        },
+        {
+          "word": "persuade",
+          "pos": "verb",
+          "definition_en": "Derivatives of persuade",
+          "definition_vi": "Các từ phái sinh của persuade",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["dissuade", "persuasion", "persuasiveness", "persuasive(ly)"]
+        },
+        {
+          "word": "power",
+          "pos": "noun",
+          "definition_en": "Derivatives of power",
+          "definition_vi": "Các từ phái sinh của power",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["empower", "overpower", "empowerment", "powerlessness", "powerful(ly)", "powerless(ly)"]
+        },
+        {
+          "word": "prejudice",
+          "pos": "noun",
+          "definition_en": "Derivatives of prejudice",
+          "definition_vi": "Các từ phái sinh của prejudice",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["(un)prejudiced", "prejudicial"]
+        },
+        {
+          "word": "provoke",
+          "pos": "verb",
+          "definition_en": "Derivatives of provoke",
+          "definition_vi": "Các từ phái sinh của provoke",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["provocation", "provocative(ly)"]
+        },
+        {
+          "word": "signify",
+          "pos": "verb",
+          "definition_en": "Derivatives of signify",
+          "definition_vi": "Các từ phái sinh của signify",
+          "example": "",
+          "synonyms": [],
+          "collocations": ["(in)significance", "(in)significant(ly)"]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u20_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The operation can only go ahead if the child's parents ___ to it.",
+          "options": ["consent", "submit"],
+          "answer": "consent",
+          "explanation": "'Consent to' means to give permission for something to happen."
+        },
+        {
+          "number": 2,
+          "sentence": "In Britain, prisoners are not ___ to vote in elections, but I think they should be allowed to.",
+          "options": ["entitled", "exempt"],
+          "answer": "entitled",
+          "explanation": "'Be entitled to do sth' means to have the right to do something."
+        },
+        {
+          "number": 3,
+          "sentence": "Colonel Wilson ___ over 5,000 men.",
+          "options": ["commands", "intimidates"],
+          "answer": "commands",
+          "explanation": "'Command' means to be in charge of a group of people, especially in the military."
+        },
+        {
+          "number": 4,
+          "sentence": "We need to plan carefully to ___ all risk of failure.",
+          "options": ["eliminate", "prohibit"],
+          "answer": "eliminate",
+          "explanation": "'Eliminate' means to remove or get rid of something completely."
+        },
+        {
+          "number": 5,
+          "sentence": "Queen Victoria saw many changes during her time as ___.",
+          "options": ["dictator", "monarch"],
+          "answer": "monarch",
+          "explanation": "Queen Victoria was a queen, which is a type of monarch."
+        },
+        {
+          "number": 6,
+          "sentence": "It's one thing having this law, but unless the police ___ it, it's useless.",
+          "options": ["enforce", "reinforce"],
+          "answer": "enforce",
+          "explanation": "'Enforce' means to make sure that a law or rule is obeyed."
+        },
+        {
+          "number": 7,
+          "sentence": "I don't think I'll ever ___ surfing.",
+          "options": ["master", "reign"],
+          "answer": "master",
+          "explanation": "'Master' means to learn or understand something completely."
+        },
+        {
+          "number": 8,
+          "sentence": "Our manager at work just tries to ___ us all into doing what she wants.",
+          "options": ["bully", "conquer"],
+          "answer": "bully",
+          "explanation": "'Bully sb into doing sth' means to force someone to do something by frightening them."
+        },
+        {
+          "number": 9,
+          "sentence": "But surely the council don't have the ___ to change the law, do they?",
+          "options": ["aggression", "authority"],
+          "answer": "authority",
+          "explanation": "'Authority' means the official power to make decisions or change things."
+        },
+        {
+          "number": 10,
+          "sentence": "Didn't the government foresee that there would be a lot of ___ in the papers about this latest proposal?",
+          "options": ["controversy", "unrest"],
+          "answer": "controversy",
+          "explanation": "'Controversy' means a lot of public discussion and disagreement."
+        }
+      ]
+    },
+    {
+      "id": "u20_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Bill Clinton, ___ President of the United States, arrived in Beijing today.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "former",
+          "explanation": "'Former' means previous; in this context, the ex-President."
+        },
+        {
+          "number": 2,
+          "sentence": "After years in small political parties, I gradually became more interested in ___ politics.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "mainstream",
+          "explanation": "'Mainstream' politics refers to the ideas and parties shared by most people."
+        },
+        {
+          "number": 3,
+          "sentence": "My boss doesn't know what he's doing, but I can't tell him that because he's ___ to me.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "superior",
+          "explanation": "In a work hierarchy, someone higher than you is your 'superior'."
+        },
+        {
+          "number": 4,
+          "sentence": "I was ___ to help her, but I had no choice.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "reluctant",
+          "explanation": "'Reluctant' means unwilling or hesitating."
+        },
+        {
+          "number": 5,
+          "sentence": "You might think people want this law, but that's just your ___ opinion and you don't have any facts to back it up.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "subjective",
+          "explanation": "'Subjective' means based on personal feelings rather than facts."
+        },
+        {
+          "number": 6,
+          "sentence": "A dictator might appear ___ , but you never know when they might start to abuse their power.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "benign",
+          "explanation": "'Benign' here means kind or harmless in appearance."
+        },
+        {
+          "number": 7,
+          "sentence": "We must do all we can to help those who are in a ___ position.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "vulnerable",
+          "explanation": "'Vulnerable' means weak and easily hurt."
+        },
+        {
+          "number": 8,
+          "sentence": "Each department is controlled by a ___ , who is part of the government.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "minister",
+          "explanation": "A 'minister' is a government official in charge of a department."
+        },
+        {
+          "number": 9,
+          "sentence": "Don't think I'm ___ to you. I'm just as good as you are.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "inferior",
+          "explanation": "'Inferior' means lower in rank or quality."
+        },
+        {
+          "number": 10,
+          "sentence": "I'm sick of worrying about what ___ thinks and I'm just going to do what I want.",
+          "options": ["benign", "former", "inferior", "mainstream", "minister", "reluctant", "society", "subjective", "superior", "vulnerable"],
+          "answer": "society",
+          "explanation": "'Society' refers to the community or people in general."
+        }
+      ]
+    },
+    {
+      "id": "u20_C",
+      "label": "C",
+      "type": "gap_fill",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We are (1) ___ to many different forms of power.",
+          "answer": "subject",
+          "explanation": "'Be subject to' means to be likely to experience or be affected by something."
+        },
+        {
+          "number": 2,
+          "sentence": "the right of the government to (2) ___ laws on a country",
+          "answer": "impose",
+          "explanation": "'Impose laws' means to introduce laws by authority."
+        },
+        {
+          "number": 3,
+          "sentence": "and to (3) ___ what we are allowed to do.",
+          "answer": "restrict",
+          "explanation": "'Restrict' means to limit what people are allowed to do."
+        },
+        {
+          "number": 4,
+          "sentence": "There is also the right of courts to (4) ___ people to appear to stand trial",
+          "answer": "summon",
+          "explanation": "'Summon' is the legal term for ordering someone to appear in court."
+        },
+        {
+          "number": 5,
+          "sentence": "This might take the form of attempting to (5) ___ a conversation",
+          "answer": "dominate",
+          "explanation": "'Dominate a conversation' means to control or take most of the attention in a conversation."
+        },
+        {
+          "number": 6,
+          "sentence": "something that is relatively easy to (6) ___ since it is so obvious.",
+          "answer": "resist",
+          "explanation": "'Resist' means to fight against or refuse to accept something."
+        },
+        {
+          "number": 7,
+          "sentence": "It is more difficult to (7) ___ ourselves from other forms of social power.",
+          "answer": "liberate",
+          "explanation": "'Liberate' means to free someone from something."
+        },
+        {
+          "number": 8,
+          "sentence": "When we are (8) ___ as 'this' or 'that' by other people",
+          "answer": "labelled",
+          "explanation": "'Label' means to describe someone as belonging to a particular category."
+        },
+        {
+          "number": 9,
+          "sentence": "Bosses at work might (9) ___ their employees by making them work long hours.",
+          "answer": "victimise",
+          "explanation": "'Victimise' means to treat someone unfairly or cruelly."
+        },
+        {
+          "number": 10,
+          "sentence": "A parent might (10) ___ their child's self-confidence with constant criticism.",
+          "answer": "undermine",
+          "explanation": "'Undermine' means to make something (like confidence) gradually weaker."
+        }
+      ]
+    },
+    {
+      "id": "u20_D",
+      "label": "D",
+      "type": "gap_fill",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The demand for prison (1) ___ has steadily increased",
+          "answer": "reform",
+          "explanation": "'Prison reform' refers to the improvement of the prison system."
+        },
+        {
+          "number": 2,
+          "sentence": "locking people up in (2) ___ simply doesn't reduce crime.",
+          "answer": "institutions",
+          "explanation": "Prisons are often referred to as 'institutions'."
+        },
+        {
+          "number": 3,
+          "sentence": "Not only does it fail to act as a (3) ___",
+          "answer": "deterrent",
+          "explanation": "A 'deterrent' is something that prevents people from doing something (like committing a crime)."
+        },
+        {
+          "number": 4,
+          "sentence": "but it does very little to help (4) ___ readjust to life",
+          "answer": "convicts",
+          "explanation": "'Convicts' are people who have been found guilty of a crime."
+        },
+        {
+          "number": 5,
+          "sentence": "back in the (5) ___ after they have served their time.",
+          "answer": "community",
+          "explanation": "In this context, 'community' refers to society outside of prison."
+        },
+        {
+          "number": 6,
+          "sentence": "where bullying, bribery and other forms of (6) ___ spread.",
+          "answer": "corruption",
+          "explanation": "'Corruption' refers to dishonest or illegal behavior."
+        },
+        {
+          "number": 7,
+          "sentence": "Once outside prison, offenders face (7) ___",
+          "answer": "prejudice",
+          "explanation": "'Prejudice' refers to unfair dislike or discrimination against a group."
+        },
+        {
+          "number": 8,
+          "sentence": "Even once the (8) ___ recognises the need for change",
+          "answer": "state",
+          "explanation": "'The state' refers to the government."
+        },
+        {
+          "number": 9,
+          "sentence": "It usually demands new (9) ___ to change the system",
+          "answer": "legislation",
+          "explanation": "'Legislation' means the process of making or enacting laws."
+        },
+        {
+          "number": 10,
+          "sentence": "while the slow processes of (10) ___ go on",
+          "answer": "bureaucracy",
+          "explanation": "'Bureaucracy' refers to the complicated rules and processes of government."
+        }
+      ]
+    },
+    {
+      "id": "u20_E",
+      "label": "E",
+      "type": "correction",
+      "instruction": "If the word in bold is correct, put a tick. If it is incorrect, replace it with one of the words in bold from the other sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It's ridiculous to think that we should **advocate** passports and just let everyone go where they like.",
+          "answer": "abolish",
+          "explanation": "'Abolish' means to officially end a system (like passports)."
+        },
+        {
+          "number": 2,
+          "sentence": "What I don't understand is why the government aren't doing the work that this **heritage** is doing.",
+          "answer": "charity",
+          "explanation": "A 'charity' is an organization that does helpful work for those in need."
+        },
+        {
+          "number": 3,
+          "sentence": "Don't you think that our library system is an important part of our national **action**?",
+          "answer": "heritage",
+          "explanation": "'National heritage' refers to things passed down from previous generations."
+        },
+        {
+          "number": 4,
+          "sentence": "Unions are threatening industrial **class** unless the pay offer is increased.",
+          "answer": "action",
+          "explanation": "'Industrial action' refers to measures like strikes taken by workers."
+        },
+        {
+          "number": 5,
+          "sentence": "Do you **alleviate** capital punishment for very serious offences?",
+          "answer": "advocate",
+          "explanation": "To 'advocate' something means to publicly support it."
+        },
+        {
+          "number": 6,
+          "sentence": "Derren came from a working **immigration** background but eventually became a lord.",
+          "answer": "class",
+          "explanation": "'Working class' refers to a specific social group."
+        },
+        {
+          "number": 7,
+          "sentence": "Warning: We will **abolish** anyone caught shoplifting.",
+          "answer": "prosecute",
+          "explanation": "'Prosecute' means to officially charge someone with a crime in court."
+        },
+        {
+          "number": 8,
+          "sentence": "I suppose I was **privileged** to go to private school, but I don't think about it much.",
+          "answer": "✓",
+          "explanation": "The word is used correctly here to mean having a special advantage."
+        },
+        {
+          "number": 9,
+          "sentence": "More must be done to **prosecute** the suffering of the poorest in society.",
+          "answer": "alleviate",
+          "explanation": "'Alleviate' means to make something (like suffering) less severe."
+        },
+        {
+          "number": 10,
+          "sentence": "High levels of **charity** to Australia from Europe in the nineteenth century meant there was a rapid increase in its population.",
+          "answer": "immigration",
+          "explanation": "'Immigration' refers to the process of coming to live in a new country."
+        }
+      ]
+    },
+    {
+      "id": "u20_F",
+      "label": "F",
+      "type": "matching",
+      "instruction": "Match to make sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "No matter what I said, Chris refused to back ___",
+          "answer": "D",
+          "explanation": "D: down from her position on abortion. ('back down' = concede)"
+        },
+        {
+          "number": 2,
+          "sentence": "Hardly had they locked the shop ___",
+          "answer": "F",
+          "explanation": "F: up when the alarm went off. ('lock up' = close all doors/windows)"
+        },
+        {
+          "number": 3,
+          "sentence": "Only radical action will bring ___",
+          "answer": "G",
+          "explanation": "G: about the changes that we so desperately need. ('bring about' = cause)"
+        },
+        {
+          "number": 4,
+          "sentence": "What annoys me is that the man got ___",
+          "answer": "B",
+          "explanation": "B: off with just 100 hours' community service. ('get off' = escape severe punishment)"
+        },
+        {
+          "number": 5,
+          "sentence": "The Prime Minister hit ___",
+          "answer": "H",
+          "explanation": "H: back at her critics and claimed she had done nothing wrong. ('hit back' = retaliate verbally)"
+        },
+        {
+          "number": 6,
+          "sentence": "Things have certainly improved since you took ___",
+          "answer": "E",
+          "explanation": "E: over the business and rearranged things. ('take over' = assume control)"
+        },
+        {
+          "number": 7,
+          "sentence": "The authorities shouldn't give ___",
+          "answer": "A",
+          "explanation": "A: in to this kind of blackmail from the workers. ('give in' = yield)"
+        },
+        {
+          "number": 8,
+          "sentence": "I don't care who gets ___",
+          "answer": "C",
+          "explanation": "C: in at this election because it doesn't make any difference. ('get in' = be elected)"
+        }
+      ]
+    },
+    {
+      "id": "u20_G",
+      "label": "G",
+      "type": "gap_fill",
+      "instruction": "Write a word in each gap so that each second sentence has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "They're gradually getting rid of the old-style passports. / They're ___ out the old-style passports.",
+          "answer": "phasing",
+          "explanation": "'Phase out' means to gradually stop using something."
+        },
+        {
+          "number": 2,
+          "sentence": "Did you know that you can choose not to pay into the state pension scheme? / Did you know that you can ___ out of the state pension scheme?",
+          "answer": "opt",
+          "explanation": "'Opt out of' means to decide not to take part in something."
+        },
+        {
+          "number": 3,
+          "sentence": "The police are making a special effort to deal with illegal parking around here. / The police are ___ down on illegal parking around here.",
+          "answer": "cracking",
+          "explanation": "'Crack down on' means to deal with something more strictly."
+        },
+        {
+          "number": 4,
+          "sentence": "Police officers in plain clothes tried to join the crowd and not be noticed. / Police officers in plain clothes tried to ___ in with the crowd.",
+          "answer": "blend",
+          "explanation": "'Blend in' means to be similar to surroundings so as not to be noticed."
+        },
+        {
+          "number": 5,
+          "sentence": "You shouldn't let Stephanie bully you. / You should ___ up to Stephanie.",
+          "answer": "stand",
+          "explanation": "'Stand up to' means to refuse to be treated badly."
+        },
+        {
+          "number": 6,
+          "sentence": "The press directed most of their criticism at the Deputy Prime Minister. / The Deputy Prime Minister was ___ out for criticism by the press.",
+          "answer": "singled",
+          "explanation": "'Single out' means to choose one person for special attention."
+        },
+        {
+          "number": 7,
+          "sentence": "I wish you wouldn't speak to me as if you were superior. / I wish you wouldn't ___ down to me.",
+          "answer": "talk",
+          "explanation": "'Talk down to' means to talk as if the other person is less important."
+        },
+        {
+          "number": 8,
+          "sentence": "Kyle got in trouble for bullying kids in the playground. / Kyle got in trouble for ___ kids around in the playground.",
+          "answer": "pushing",
+          "explanation": "'Push around' means to tell someone what to do in an unpleasant way."
+        }
+      ]
+    },
+    {
+      "id": "u20_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Tick the sentences where the phrasal verb has a meaning connected to 'fastening or restricting'.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I heard on the news that terrorists have blown a train up in India.",
+          "answer": "No",
+          "explanation": "'Blow up' here means to explode, not to fasten."
+        },
+        {
+          "number": 2,
+          "sentence": "I think it's cruel to leave a dog chained up like that all day.",
+          "answer": "✓",
+          "explanation": "'Chain up' means to restrict movement with a chain."
+        },
+        {
+          "number": 3,
+          "sentence": "It's freezing outside. Do up your coat before you go out.",
+          "answer": "✓",
+          "explanation": "'Do up' means to fasten (buttons, zippers, etc.)."
+        },
+        {
+          "number": 4,
+          "sentence": "Sorry! I didn't mean to mess your room up, but I was looking for something.",
+          "answer": "No",
+          "explanation": "'Mess up' means to make untidy."
+        },
+        {
+          "number": 5,
+          "sentence": "Why don't you sew up that hole in your jeans before you go out?",
+          "answer": "✓",
+          "explanation": "'Sew up' means to fasten or close with stitches."
+        },
+        {
+          "number": 6,
+          "sentence": "The parcel was taped up so I had to use scissors to open it.",
+          "answer": "✓",
+          "explanation": "'Tape up' means to fasten with tape."
+        },
+        {
+          "number": 7,
+          "sentence": "I found a rope to tie the burglar up with and then I called the police.",
+          "answer": "✓",
+          "explanation": "'Tie up' means to restrict movement with rope."
+        },
+        {
+          "number": 8,
+          "sentence": "Can you help me? I can't zip up my top.",
+          "answer": "✓",
+          "explanation": "'Zip up' means to fasten with a zipper."
+        }
+      ]
+    },
+    {
+      "id": "u20_I",
+      "label": "I",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It seems to get a mention whenever the newspapers get (1) ___ the subject.",
+          "answer": "onto",
+          "explanation": "'Get onto the subject' means to start talking about something."
+        },
+        {
+          "number": 2,
+          "sentence": "Those wearing them are often classed (2) ___ yobs or hooligans",
+          "answer": "as",
+          "explanation": "'Class sb as' means to categorize someone as something."
+        },
+        {
+          "number": 3,
+          "sentence": "even when they have done nothing (3) ___ the law.",
+          "answer": "against",
+          "explanation": "'Against the law' means illegal."
+        },
+        {
+          "number": 4,
+          "sentence": "Those (4) ___ authority in some places",
+          "answer": "in",
+          "explanation": "'In authority' means having the power to make decisions."
+        },
+        {
+          "number": 5,
+          "sentence": "They claim that the threat of crime (5) ___ them the right to do it",
+          "answer": "gives",
+          "explanation": "'Give sb the right' means to provide a justification or entitlement."
+        },
+        {
+          "number": 6,
+          "sentence": "but there is a danger that young people will actually be provoked (6) ___ behaving in antisocial ways",
+          "answer": "into",
+          "explanation": "'Provoke sb into doing sth' means to cause someone to act in a certain way."
+        },
+        {
+          "number": 7,
+          "sentence": "They may feel that those (7) ___ power are discriminating against them",
+          "answer": "in",
+          "explanation": "'In power' means holding a position of control."
+        },
+        {
+          "number": 8,
+          "sentence": "and that they refuse to listen when they deny (8) ___ done anything wrong.",
+          "answer": "having",
+          "explanation": "'Deny doing/having done sth' is the standard gerund pattern."
+        },
+        {
+          "number": 9,
+          "sentence": "It seems to be a classic example (9) ___ older people feeling threatened",
+          "answer": "of",
+          "explanation": "'An example of' is the standard collocation."
+        },
+        {
+          "number": 10,
+          "sentence": "At the end of the day, what the members of their peer (10) ___ think",
+          "answer": "group",
+          "explanation": "'Peer group' refers to people of the same age and status."
+        }
+      ]
+    },
+    {
+      "id": "u20_J",
+      "label": "J",
+      "type": "gap_fill",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We don't go out during the week as a ___ / respect the ___ of law / A good ___ of thumb",
+          "answer": "rule",
+          "explanation": "'As a rule' (usually), 'rule of law', 'rule of thumb' (practical principle)."
+        },
+        {
+          "number": 2,
+          "sentence": "has been ___ with burglary / they ___ me three euros / ___ down the hill",
+          "answer": "charged",
+          "explanation": "'Charged with a crime', 'charge money for', 'charge' (rush forward)."
+        },
+        {
+          "number": 3,
+          "sentence": "have it on good ___ / spoke with ___ / hands of the local ___",
+          "answer": "authority",
+          "explanation": "'On good authority' (reliable source), 'with authority', 'local authority' (government body)."
+        },
+        {
+          "number": 4,
+          "sentence": "make an ___ of him / follow your brother's ___ / give me one ___",
+          "answer": "example",
+          "explanation": "'Make an example of', 'follow sb's example', 'give an example'."
+        },
+        {
+          "number": 5,
+          "sentence": "the politician ___ all responsibility / authorities ___ the couple's request / she ___ knowing who had stolen",
+          "answer": "denied",
+          "explanation": "'Deny responsibility', 'deny a request' (refuse), 'deny knowing'."
+        },
+        {
+          "number": 6,
+          "sentence": "lay down the ___ / government's top priority is ___ and order / Act became ___",
+          "answer": "law",
+          "explanation": "'Lay down the law', 'law and order', 'become law'."
+        }
+      ]
+    },
+    {
+      "id": "u20_K",
+      "label": "K",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We all have to follow the rules, and none of us is ___ the law.",
+          "options": ["A beyond", "B over", "C above", "D onto"],
+          "answer": "C",
+          "explanation": "'Above the law' means not having to obey the law."
+        },
+        {
+          "number": 2,
+          "sentence": "Apparently, before the fight some of the youths had ___ themselves with knives.",
+          "options": ["A fitted", "B installed", "C armed", "D readied"],
+          "answer": "C",
+          "explanation": "'Arm oneself with' means to provide oneself with weapons."
+        },
+        {
+          "number": 3,
+          "sentence": "The woman was convicted and sentenced ___ six months in prison.",
+          "options": ["A for", "B on", "C with", "D to"],
+          "answer": "D",
+          "explanation": "'Sentence sb to (a punishment)' is the standard pattern."
+        },
+        {
+          "number": 4,
+          "sentence": "Since it was a minor offence, Derek was sent to ___ prison.",
+          "options": ["A an open", "B an easy", "C a soft", "D a weak"],
+          "answer": "A",
+          "explanation": "An 'open prison' is for prisoners who are trusted not to escape."
+        },
+        {
+          "number": 5,
+          "sentence": "A middle-aged man was seen running away from the ___ of the crime.",
+          "options": ["A place", "B scene", "C location", "D point"],
+          "answer": "B",
+          "explanation": "The 'scene of the crime' is where a crime happened."
+        },
+        {
+          "number": 6,
+          "sentence": "I work such long hours that I don't really have time for much of a ___ life.",
+          "options": ["A friendly", "B outgoing", "C social", "D free"],
+          "answer": "C",
+          "explanation": "'Social life' refers to the time spent with friends and at parties."
+        },
+        {
+          "number": 7,
+          "sentence": "Don't worry - the documents are safely ___ lock and key at my place.",
+          "options": ["A under", "B in", "C on", "D within"],
+          "answer": "A",
+          "explanation": "'Under lock and key' means kept safely in a locked place."
+        },
+        {
+          "number": 8,
+          "sentence": "The most powerful force in a teenager's life is probably ___ pressure.",
+          "options": ["A friend", "B peer", "C company", "D crowd"],
+          "answer": "B",
+          "explanation": "'Peer pressure' is the influence from members of one's own peer group."
+        },
+        {
+          "number": 9,
+          "sentence": "We are pleased to inform you that we have decided to ___ your request for British citizenship.",
+          "options": ["A give", "B grant", "C permit", "D donate"],
+          "answer": "B",
+          "explanation": "'Grant a request' means to agree to give or allow what was asked for."
+        },
+        {
+          "number": 10,
+          "sentence": "We finally managed to ___ our way through the crowd and reach the exit.",
+          "options": ["A create", "B insist", "C move", "D force"],
+          "answer": "D",
+          "explanation": "'Force your way through' means to move through a crowd with effort."
+        }
+      ]
+    },
+    {
+      "id": "u20_L",
+      "label": "L",
+      "type": "gap_fill",
+      "instruction": "Complete using the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "You can't just bury your ___ in the sand and hope that this problem goes away, you know.",
+          "answer": "head",
+          "explanation": "Idiom: 'bury your head in the sand' (ignore problems)."
+        },
+        {
+          "number": 2,
+          "sentence": "My dad pulled a few ___ and got me the job.",
+          "answer": "strings",
+          "explanation": "Idiom: 'pull strings' (use influence unfairly)."
+        },
+        {
+          "number": 3,
+          "sentence": "You can't just take the ___ into your own hands and attack someone like that.",
+          "answer": "law",
+          "explanation": "Idiom: 'take the law into your own hands' (punish without legal authority)."
+        },
+        {
+          "number": 4,
+          "sentence": "Ian's really under his boss's ___ and isn't allowed to make any decisions himself.",
+          "answer": "thumb",
+          "explanation": "Idiom: 'under someone's thumb' (completely controlled)."
+        },
+        {
+          "number": 5,
+          "sentence": "It was a difficult game, but I eventually managed to gain the upper ___ .",
+          "answer": "hand",
+          "explanation": "Idiom: 'gain the upper hand' (gain control/advantage)."
+        },
+        {
+          "number": 6,
+          "sentence": "Our neighbour's a bit strange, but ___ and let live, I always say.",
+          "answer": "live",
+          "explanation": "Idiom: 'live and let live' (accept others' differences)."
+        },
+        {
+          "number": 7,
+          "sentence": "The ___ that be have decided to ban skateboarding in the park.",
+          "answer": "powers",
+          "explanation": "Idiom: 'the powers that be' (those in control/authority)."
+        },
+        {
+          "number": 8,
+          "sentence": "I had to get through a lot of red ___ , but I finally got the documents I needed.",
+          "answer": "tape",
+          "explanation": "Idiom: 'red tape' (bureaucratic delays)."
+        },
+        {
+          "number": 9,
+          "sentence": "If you let Vanessa have her own ___ all the time, you'll spoil her.",
+          "answer": "way",
+          "explanation": "Idiom: 'have your own way' (do what you want)."
+        },
+        {
+          "number": 10,
+          "sentence": "This is the third time Heather's been caught - they're really going to throw the ___ at her this time.",
+          "answer": "book",
+          "explanation": "Idiom: 'throw the book at sb' (punish severely)."
+        }
+      ]
+    },
+    {
+      "id": "u20_M",
+      "label": "M",
+      "type": "word_form",
+      "instruction": "Use the word given in capitals at the end of the line to form a word that fits in the space in the same line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "of feeling (1) ___ (POWER) in the face of civil servants.",
+          "answer": "powerless",
+          "explanation": "'Powerless' (adj) means having no power."
+        },
+        {
+          "number": 2,
+          "sentence": "but too many have become (2) ___ (INSTITUTE) and inflexible.",
+          "answer": "institutionalised",
+          "explanation": "'Institutionalised' (adj) describes people/processes fixed in a system."
+        },
+        {
+          "number": 3,
+          "sentence": "While some carry out their jobs (3) ___ (DUTY)",
+          "answer": "dutifully",
+          "explanation": "'Dutifully' (adv) means doing things with a sense of duty."
+        },
+        {
+          "number": 4,
+          "sentence": "and behave in an (4) ___ (OFFICE) manner",
+          "answer": "officious",
+          "explanation": "'Officious' (adj) means too eager to tell others what to do."
+        },
+        {
+          "number": 5,
+          "sentence": "relying on computers and rules to tell them what is (5) ___ (PERMIT) and what is not.",
+          "answer": "permissible",
+          "explanation": "'Permissible' (adj) means allowed."
+        },
+        {
+          "number": 6,
+          "sentence": "The number of civil servants has increased (6) ___ (SIGNIFY) under this current government",
+          "answer": "significantly",
+          "explanation": "'Significantly' (adv) means in a large or important way."
+        },
+        {
+          "number": 7,
+          "sentence": "which I believe is a good (7) ___ (INDICATE) of where their priorities lie.",
+          "answer": "indication",
+          "explanation": "'Indication' (noun) means a sign that something exists."
+        },
+        {
+          "number": 8,
+          "sentence": "that it is a (8) ___ (CRIME) waste of taxpayers' money",
+          "answer": "criminal",
+          "explanation": "'Criminal' (adj) here means very bad or wasteful (metaphorical)."
+        },
+        {
+          "number": 9,
+          "sentence": "and I find his argument... very (9) ___ (PERSUADE) indeed.",
+          "answer": "persuasive",
+          "explanation": "'Persuasive' (adj) means able to convince."
+        },
+        {
+          "number": 10,
+          "sentence": "We in this country have (10) ___ (ARGUE) the biggest civil service",
+          "answer": "arguably",
+          "explanation": "'Arguably' (adv) used to say something could be argued as true."
+        }
+      ]
+    },
+    {
+      "id": "u20_N",
+      "label": "N",
+      "type": "word_form",
+      "instruction": "Each of the words in bold is in an incorrect form. Rewrite them correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The **domineering** view is that it's time this Prime Minister went.",
+          "answer": "dominant",
+          "explanation": "'Dominant' (adj) means the most common or important."
+        },
+        {
+          "number": 2,
+          "sentence": "Since the factory closed, many people in the area have been living in **hardly**.",
+          "answer": "hardship",
+          "explanation": "'Hardship' (noun) means a situation of suffering/poverty."
+        },
+        {
+          "number": 3,
+          "sentence": "I find a lot of what is on TV these days offensive and **moralise**.",
+          "answer": "immoral",
+          "explanation": "'Immoral' (adj) means not following moral standards."
+        },
+        {
+          "number": 4,
+          "sentence": "Did you know that you can claim **charity** donations against tax?",
+          "answer": "charitable",
+          "explanation": "'Charitable' (adj) relating to charity."
+        },
+        {
+          "number": 5,
+          "sentence": "Peter gave the ball a **mightily** kick and sent it over the wall.",
+          "answer": "mighty",
+          "explanation": "'Mighty' (adj) means very strong."
+        },
+        {
+          "number": 6,
+          "sentence": "From what she said, I think Katie is **prejudicial** against black people.",
+          "answer": "prejudiced",
+          "explanation": "'Prejudiced' (adj) means having an unfair bias."
+        },
+        {
+          "number": 7,
+          "sentence": "Calm down! There's no need to get so **aggression** about the situation!",
+          "answer": "aggressive",
+          "explanation": "'Aggressive' (adj) is the required form."
+        },
+        {
+          "number": 8,
+          "sentence": "Verity won a prize at school for her **example** behaviour.",
+          "answer": "exemplary",
+          "explanation": "'Exemplary' (adj) means providing a good example."
+        },
+        {
+          "number": 9,
+          "sentence": "It's not often you see such agreement between the opposition and the **governor** party.",
+          "answer": "governing",
+          "explanation": "'Governing' (adj) refers to the party currently in power."
+        },
+        {
+          "number": 10,
+          "sentence": "I'm sure Scott wouldn't have hit the other boy if he hadn't had some kind of **provocative**.",
+          "answer": "provocation",
+          "explanation": "'Provocation' (noun) means something that causes someone to react."
+        },
+        {
+          "number": 11,
+          "sentence": "Lois can be so **arguable** sometimes and never seems to listen.",
+          "answer": "argumentative",
+          "explanation": "'Argumentative' (adj) means someone who likes to argue."
+        },
+        {
+          "number": 12,
+          "sentence": "I know I'm successful, but I only got where I am today by working **hardly**.",
+          "answer": "hard",
+          "explanation": "'Hard' (adv) means with great effort (hardly = almost not)."
+        },
+        {
+          "number": 13,
+          "sentence": "I'm only telling you this **officialdom**, but it looks like you are going to be promoted.",
+          "answer": "unofficially",
+          "explanation": "'Unofficially' (adv) means not through formal channels."
+        },
+        {
+          "number": 14,
+          "sentence": "This problem may seem **significance** to you, but I can assure you that the council takes it very seriously.",
+          "answer": "insignificant",
+          "explanation": "'Insignificant' (adj) means not important."
+        },
+        {
+          "number": 15,
+          "sentence": "After the recent civil war, the country is almost **government** and crime rates have soared.",
+          "answer": "ungovernable",
+          "explanation": "'Ungovernable' (adj) means impossible to control or govern."
+        },
+        {
+          "number": 16,
+          "sentence": "I managed to **persuasive** Mike from sacking you, but just be more careful next time.",
+          "answer": "dissuade",
+          "explanation": "'Dissuade' (verb) means to persuade someone NOT to do something."
+        }
+      ]
+    },
+    {
+      "id": "u20_O",
+      "label": "O",
+      "type": "matching",
+      "instruction": "Tick the words below which can form words using mis-.",
+      "items": [
+        { "number": 1, "sentence": "apply", "answer": "✓", "explanation": "misapply" },
+        { "number": 2, "sentence": "behave", "answer": "✓", "explanation": "misbehave" },
+        { "number": 3, "sentence": "calculate", "answer": "✓", "explanation": "miscalculate" },
+        { "number": 4, "sentence": "conduct", "answer": "✓", "explanation": "misconduct" },
+        { "number": 5, "sentence": "direct", "answer": "✓", "explanation": "misdirect" },
+        { "number": 6, "sentence": "fire", "answer": "✓", "explanation": "misfire" },
+        { "number": 7, "sentence": "fortune", "answer": "✓", "explanation": "misfortune" },
+        { "number": 8, "sentence": "hear", "answer": "✓", "explanation": "mishear" },
+        { "number": 9, "sentence": "inform", "answer": "✓", "explanation": "misinform" },
+        { "number": 10, "sentence": "judge", "answer": "✓", "explanation": "misjudge" },
+        { "number": 11, "sentence": "lead", "answer": "✓", "explanation": "mislead" },
+        { "number": 12, "sentence": "listen", "answer": "No", "explanation": "No common 'mislisten'" },
+        { "number": 13, "sentence": "manage", "answer": "✓", "explanation": "mismanage" },
+        { "number": 14, "sentence": "organise", "answer": "No", "explanation": "Usually disorganise" },
+        { "number": 15, "sentence": "place", "answer": "✓", "explanation": "misplace" },
+        { "number": 16, "sentence": "print", "answer": "✓", "explanation": "misprint" },
+        { "number": 17, "sentence": "read", "answer": "✓", "explanation": "misread" },
+        { "number": 18, "sentence": "satisfy", "answer": "No", "explanation": "Usually dissatisfy" },
+        { "number": 19, "sentence": "spell", "answer": "✓", "explanation": "misspell" },
+        { "number": 20, "sentence": "trust", "answer": "✓", "explanation": "mistrust" },
+        { "number": 21, "sentence": "understand", "answer": "✓", "explanation": "misunderstand" },
+        { "number": 22, "sentence": "use", "answer": "✓", "explanation": "misuse" }
+      ]
+    },
+    {
+      "id": "u20_P",
+      "label": "P",
+      "type": "gap_fill",
+      "instruction": "Complete the sentences using words formed in exercise O in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Oh, I thought you said Saturday. I must have (1) ___ you.",
+          "answer": "misheard",
+          "explanation": "To 'mishear' means to hear something incorrectly."
+        },
+        {
+          "number": 2,
+          "sentence": "I hope I never have the (2) ___ to meet that horrible man ever again!",
+          "answer": "misfortune",
+          "explanation": "'Misfortune' means bad luck."
+        },
+        {
+          "number": 3,
+          "sentence": "The secretary was arrested for (3) ___ the club's money.",
+          "answer": "mismanaging",
+          "explanation": "To 'mismanage' means to manage something badly."
+        },
+        {
+          "number": 4,
+          "sentence": "When I looked at the bill, I realised that they had (4) ___ it by nearly five per cent.",
+          "answer": "miscalculated",
+          "explanation": "To 'miscalculate' means to calculate incorrectly."
+        },
+        {
+          "number": 5,
+          "sentence": "Now, be good. I don't want you to (5) ___ while Mrs Charlton is here.",
+          "answer": "misbehave",
+          "explanation": "To 'misbehave' means to behave badly."
+        },
+        {
+          "number": 6,
+          "sentence": "I always (6) ___ 'potato' because I always think there's an 'e' on the end.",
+          "answer": "misspell",
+          "explanation": "To 'misspell' means to spell incorrectly."
+        },
+        {
+          "number": 7,
+          "sentence": "I used to think Molly was unfriendly, but I think I (7) ___ her and she's actually quite nice.",
+          "answer": "misjudged",
+          "explanation": "To 'misjudge' means to form a wrong opinion about someone."
+        },
+        {
+          "number": 8,
+          "sentence": "The gun (8) ___ and injured the soldier.",
+          "answer": "misfired",
+          "explanation": "To 'misfire' means (for a gun) to fail to fire correctly."
+        }
+      ]
+    }
+  ]
+}

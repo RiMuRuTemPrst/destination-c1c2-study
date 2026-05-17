@@ -1,0 +1,951 @@
+{
+  "unit_id": 21,
+  "unit_type": "Grammar",
+  "title": "Noun phrases",
+  "grammar_topics": [
+    {
+      "topic": "Countable nouns",
+      "explanation_en": "Countable nouns refer to things that can be counted. They have both singular and plural forms.",
+      "explanation_vi": "Danh từ đếm được chỉ những thứ có thể đếm được. Chúng có cả hình thái số ít và số nhiều.",
+      "rules": [
+        "Use singular or plural verbs depending on the noun form.",
+        "Some have irregular plurals (e.g., person/people, mouse/mice).",
+        "Some do not change in plural form (e.g., sheep, deer).",
+        "Hyphenated nouns pluralize the key word (e.g., brothers-in-law).",
+        "Collective nouns (group, team, government) can take either a singular or plural verb.",
+        "Specific phrases describe groups: a flock of birds/sheep, a herd of cows, a pack of cards/dogs, a bunch of flowers, a set of keys."
+      ],
+      "examples": [
+        {
+          "sentence": "That painting is amazing.",
+          "translation": "Bức tranh đó thật tuyệt vời."
+        },
+        {
+          "sentence": "The government are not doing anything to help the arts.",
+          "translation": "Chính phủ không làm gì để hỗ trợ nghệ thuật."
+        }
+      ]
+    },
+    {
+      "topic": "Singular uncountable nouns",
+      "explanation_en": "These nouns only have a singular form and always take singular verbs. They cannot be counted directly.",
+      "explanation_vi": "Những danh từ này chỉ có hình thái số ít và luôn đi với động từ số ít. Chúng không thể được đếm trực tiếp.",
+      "rules": [
+        "Common examples: advice, furniture, hair, information, jewellery, knowledge, luggage, news, permission, water.",
+        "Use phrases like 'a piece of', 'a bar of', 'a loaf of' to refer to individual items.",
+        "Common phrases: a bar of chocolate, a bit of help, a blade of grass, a breath of fresh air, a drop of water, a grain of salt, a gust of wind, a loaf of bread, a sheet of paper, a speck of dust."
+      ],
+      "examples": [
+        {
+          "sentence": "Is the information reliable?",
+          "translation": "Thông tin đó có đáng tin cậy không?"
+        },
+        {
+          "sentence": "Could I have a slice of bread?",
+          "translation": "Cho tôi một lát bánh mì được không?"
+        }
+      ]
+    },
+    {
+      "topic": "Plural uncountable nouns",
+      "explanation_en": "These nouns only have a plural form and always take plural verbs. Many represent items made of two parts.",
+      "explanation_vi": "Những danh từ này chỉ có hình thái số nhiều và luôn đi với động từ số nhiều. Nhiều danh từ trong số này chỉ những vật gồm hai phần.",
+      "rules": [
+        "Common examples: arms, binoculars, cattle, clothes, earnings, goods, groceries, jeans, pyjamas, savings, scales, scissors, shorts, trousers.",
+        "Use 'a pair of' for items with two parts (e.g., a pair of scissors/trousers).",
+        "Watch out: Some nouns ending in -s are singular (e.g., news, physics, politics, diabetes)."
+      ],
+      "examples": [
+        {
+          "sentence": "The scissors aren't on the table.",
+          "translation": "Cái kéo không có ở trên bàn."
+        },
+        {
+          "sentence": "Physics is my favourite subject.",
+          "translation": "Vật lý là môn học yêu thích của tôi."
+        }
+      ]
+    },
+    {
+      "topic": "Nouns with dual meaning",
+      "explanation_en": "Many nouns can be countable with one meaning and uncountable with another.",
+      "explanation_vi": "Nhiều danh từ có thể là danh từ đếm được với nghĩa này và là danh từ không đếm được với nghĩa khác.",
+      "rules": [
+        "Wood (uncountable = material; countable = a small forest).",
+        "Paper (uncountable = material; countable = a newspaper/document).",
+        "Hair (uncountable = all the hair on a head; countable = individual strands).",
+        "Work (uncountable = general activity/job; countable = a creation like 'a work of art')."
+      ],
+      "examples": [
+        {
+          "sentence": "The table is made of wood.",
+          "translation": "Cái bàn được làm bằng gỗ."
+        },
+        {
+          "sentence": "It's a picture of a local wood.",
+          "translation": "Đó là bức ảnh về một khu rừng nhỏ ở địa phương."
+        }
+      ]
+    },
+    {
+      "topic": "Quantifiers",
+      "explanation_en": "Words used to express quantity, categorized by the type of noun they modify.",
+      "explanation_vi": "Các từ dùng để chỉ số lượng, được phân loại theo loại danh từ mà chúng bổ nghĩa.",
+      "rules": [
+        "Countable only: a couple of, a number of, another, both, each, either, every, (a) few, many, several.",
+        "Singular uncountable only: an amount of, a great deal of, (a) little, much.",
+        "Both: all, any, enough, a lot of/lots of, more, most, no, none, plenty of, some.",
+        "Distinction: 'a few/a little' means some (positive); 'few/little' means not many/much (negative)."
+      ],
+      "examples": [
+        {
+          "sentence": "I have a few friends.",
+          "translation": "Tôi có một vài người bạn (đủ dùng)."
+        },
+        {
+          "sentence": "I have few friends.",
+          "translation": "Tôi có ít bạn (không đủ, cảm thấy cô đơn)."
+        }
+      ]
+    },
+    {
+      "topic": "Articles: A, An, The & Zero Article",
+      "explanation_en": "Rules for using indefinite, definite, or no articles in different contexts.",
+      "explanation_vi": "Quy tắc sử dụng mạo từ bất định, xác định hoặc không dùng mạo từ trong các ngữ cảnh khác nhau.",
+      "rules": [
+        "A/An: Used for non-specific singular countable nouns or mentioning something for the first time.",
+        "The: Used for specific things, unique items (the moon), superlatives (the best), or groups of people (the young).",
+        "Zero Article: Used for general plural/uncountable nouns, concepts (society, nature), or specific categories like transport (by car), meals (at dinner), and institutions (go to school as a student)."
+      ],
+      "examples": [
+        {
+          "sentence": "The guitar is a musical instrument.",
+          "translation": "Đàn ghi-ta là một nhạc cụ."
+        },
+        {
+          "sentence": "I go to work by train.",
+          "translation": "Tôi đi làm bằng tàu hỏa."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u21_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Are those ___ or goats in that field over there?",
+          "options": ["sheep", "sheeps"],
+          "answer": "sheep",
+          "explanation": "'Sheep' is the same in both singular and plural forms."
+        },
+        {
+          "number": 2,
+          "sentence": "How many ___ have you got?",
+          "options": ["sister-in-laws", "sisters-in-law"],
+          "answer": "sisters-in-law",
+          "explanation": "In hyphenated nouns, we pluralize the key word (sister)."
+        },
+        {
+          "number": 3,
+          "sentence": "Look at those lovely little ___!",
+          "options": ["fish", "fishes"],
+          "answer": "fish / fishes",
+          "explanation": "Both are correct; 'fish' is the usual plural, 'fishes' refers to different species."
+        },
+        {
+          "number": 4,
+          "sentence": "I've only got one important piece of ___ to tell you, I think.",
+          "options": ["new", "news"],
+          "answer": "news",
+          "explanation": "'News' is an uncountable noun that ends in -s but takes a singular verb."
+        },
+        {
+          "number": 5,
+          "sentence": "The hairdresser quickly swept up the ___ on the floor.",
+          "options": ["hair", "hairs"],
+          "answer": "hair",
+          "explanation": "'Hair' is uncountable when referring to a mass of hair."
+        },
+        {
+          "number": 6,
+          "sentence": "I'll be giving you a lot of ___ so do please take notes.",
+          "options": ["information", "informations"],
+          "answer": "information",
+          "explanation": "'Information' is a singular uncountable noun."
+        },
+        {
+          "number": 7,
+          "sentence": "We've bought quite a lot of ___ in the last few days.",
+          "options": ["furniture", "furnitures"],
+          "answer": "furniture",
+          "explanation": "'Furniture' is a singular uncountable noun."
+        },
+        {
+          "number": 8,
+          "sentence": "Could you give us both ___ to miss PE tomorrow?",
+          "options": ["permission", "permissions"],
+          "answer": "permission",
+          "explanation": "'Permission' is a singular uncountable noun."
+        },
+        {
+          "number": 9,
+          "sentence": "___ is my favourite subject by far.",
+          "options": ["Physic", "Physics"],
+          "answer": "Physics",
+          "explanation": "The subject is 'Physics' (ends in -s but is singular)."
+        },
+        {
+          "number": 10,
+          "sentence": "I think I've got some ___ on me.",
+          "options": ["money", "monies"],
+          "answer": "money",
+          "explanation": "'Money' is a singular uncountable noun."
+        },
+        {
+          "number": 11,
+          "sentence": "I'm going to give them all the ___ I can.",
+          "options": ["advice", "advices"],
+          "answer": "advice",
+          "explanation": "'Advice' is a singular uncountable noun."
+        },
+        {
+          "number": 12,
+          "sentence": "What kind of ___ are you interested in getting?",
+          "options": ["jewellery", "jewelleries"],
+          "answer": "jewellery",
+          "explanation": "'Jewellery' is a singular uncountable noun."
+        },
+        {
+          "number": 13,
+          "sentence": "Would you like some ___?",
+          "options": ["chocolate", "chocolates"],
+          "answer": "chocolate / chocolates",
+          "explanation": "Both are correct: 'chocolate' as a substance (uncountable) or 'chocolates' as individual pieces (countable)."
+        },
+        {
+          "number": 14,
+          "sentence": "You've got to have very good general ___ to go on Who Wants To Be A Millionaire.",
+          "options": ["knowledge", "knowledges"],
+          "answer": "knowledge",
+          "explanation": "'Knowledge' is a singular uncountable noun."
+        },
+        {
+          "number": 15,
+          "sentence": "I've always been interested in ___.",
+          "options": ["politic", "politics"],
+          "answer": "politics",
+          "explanation": "'Politics' ends in -s but is singular."
+        }
+      ]
+    },
+    {
+      "id": "u21_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Complete using the correct form of the verb in brackets.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "___ (be) all the furniture very expensive when you got it?",
+          "answer": "Was",
+          "explanation": "'Furniture' is a singular uncountable noun."
+        },
+        {
+          "number": 2,
+          "sentence": "My earnings ___ (increase) considerably over the last two years.",
+          "answer": "have increased",
+          "explanation": "'Earnings' is a plural uncountable noun and the time 'over the last two years' requires the present perfect."
+        },
+        {
+          "number": 3,
+          "sentence": "___ (be) all the luggage yours?",
+          "answer": "Is",
+          "explanation": "'Luggage' is a singular uncountable noun."
+        },
+        {
+          "number": 4,
+          "sentence": "Your pyjamas ___ (be) on your bed, I think.",
+          "answer": "are",
+          "explanation": "'Pyjamas' is a plural uncountable noun."
+        },
+        {
+          "number": 5,
+          "sentence": "Politics ___ (be) a love of mine, as well as my profession.",
+          "answer": "is",
+          "explanation": "'Politics' is treated as a singular noun."
+        },
+        {
+          "number": 6,
+          "sentence": "___ (be) your team doing well in the league right now?",
+          "answer": "Is / Are",
+          "explanation": "'Team' is a collective noun and can take a singular or plural verb."
+        },
+        {
+          "number": 7,
+          "sentence": "The people over there ___ (need) serving.",
+          "answer": "need",
+          "explanation": "'People' is the plural of 'person'."
+        },
+        {
+          "number": 8,
+          "sentence": "___ (be) the news good or bad?",
+          "answer": "Is",
+          "explanation": "'News' is singular."
+        },
+        {
+          "number": 9,
+          "sentence": "There ___ (be) blood all over the floor!",
+          "answer": "is",
+          "explanation": "'Blood' is singular uncountable."
+        },
+        {
+          "number": 10,
+          "sentence": "The cattle ___ (eat) at the moment.",
+          "answer": "are eating",
+          "explanation": "'Cattle' is a plural uncountable noun."
+        },
+        {
+          "number": 11,
+          "sentence": "Diabetes ___ (be) very common these days.",
+          "answer": "is",
+          "explanation": "'Diabetes' is a disease name ending in -s but singular."
+        },
+        {
+          "number": 12,
+          "sentence": "Where ___ (be) the scissors?",
+          "answer": "are",
+          "explanation": "'Scissors' is a plural uncountable noun."
+        },
+        {
+          "number": 13,
+          "sentence": "My work ___ (be) the most important thing in my life.",
+          "answer": "is",
+          "explanation": "'Work' (general activity) is singular uncountable."
+        },
+        {
+          "number": 14,
+          "sentence": "I think the milk ___ (go off). Shall I pour it away?",
+          "answer": "has gone off",
+          "explanation": "'Milk' is singular uncountable."
+        },
+        {
+          "number": 15,
+          "sentence": "The jeans I tried on in the shop yesterday ___ (be) far too small.",
+          "answer": "were",
+          "explanation": "'Jeans' is a plural uncountable noun."
+        }
+      ]
+    },
+    {
+      "id": "u21_C",
+      "label": "C",
+      "type": "error_correction",
+      "instruction": "If a word in bold is correct, put a tick. If it is in the wrong sentence, write the correct word on the line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I'm off to the newsagent's to get a *pair* of chocolate.",
+          "answer": "bar",
+          "explanation": "We say 'a bar of chocolate'."
+        },
+        {
+          "number": 2,
+          "sentence": "Could you get me a *flock* of chewing gum when you go to the shops?",
+          "answer": "pack / stick",
+          "explanation": "Chewing gum usually comes in a 'pack' or 'stick'."
+        },
+        {
+          "number": 3,
+          "sentence": "I think I'll have another *herd* of toast.",
+          "answer": "slice / piece",
+          "explanation": "We say 'a slice/piece of toast'."
+        },
+        {
+          "number": 4,
+          "sentence": "Just add a *breath* of milk if the mixture starts to get a bit dry.",
+          "answer": "drop",
+          "explanation": "We say 'a drop of milk'."
+        },
+        {
+          "number": 5,
+          "sentence": "I'm popping out for a *pack* of fresh air.",
+          "answer": "breath",
+          "explanation": "We say 'a breath of fresh air'."
+        },
+        {
+          "number": 6,
+          "sentence": "There was a *block* of cows being taken down the lane for milking.",
+          "answer": "herd",
+          "explanation": "A group of cows is a 'herd'."
+        },
+        {
+          "number": 7,
+          "sentence": "You said you wanted to get a new *bar* of trousers, didn't you?",
+          "answer": "pair",
+          "explanation": "We say 'a pair of trousers'."
+        },
+        {
+          "number": 8,
+          "sentence": "Get us a *bunch* of bread when you go to the shops, won't you?",
+          "answer": "loaf",
+          "explanation": "A whole unit of bread is a 'loaf'."
+        },
+        {
+          "number": 9,
+          "sentence": "I was thinking of getting Jill a *blade* of flowers for our anniversary.",
+          "answer": "bunch",
+          "explanation": "A group of flowers is a 'bunch'."
+        },
+        {
+          "number": 10,
+          "sentence": "There was a really strong *drop* of wind and it blew a man's wig off!",
+          "answer": "gust",
+          "explanation": "A sudden strong wind is a 'gust'."
+        },
+        {
+          "number": 11,
+          "sentence": "My mum's so houseproud; there's never a *gust* of dust anywhere in the house.",
+          "answer": "speck",
+          "explanation": "A tiny piece of dust is a 'speck'."
+        },
+        {
+          "number": 12,
+          "sentence": "Could you cut me off a small *slice* of that cheese?",
+          "answer": "✓",
+          "explanation": "Correct usage."
+        },
+        {
+          "number": 13,
+          "sentence": "That *speck* of birds will be migrating south for the winter.",
+          "answer": "flock",
+          "explanation": "A group of birds is a 'flock'."
+        },
+        {
+          "number": 14,
+          "sentence": "Since we got the goat, there's not a *loaf* of grass longer than about two centimetres!",
+          "answer": "blade",
+          "explanation": "A single piece of grass is a 'blade'."
+        },
+        {
+          "number": 15,
+          "sentence": "We do like a nice *bit* of steak every now and again, don't we, Francis?",
+          "answer": "✓",
+          "explanation": "Correct usage."
+        },
+        {
+          "number": 16,
+          "sentence": "How heavy's that *sheet* of concrete, would you say?",
+          "answer": "block",
+          "explanation": "Large solid concrete is a 'block'."
+        },
+        {
+          "number": 17,
+          "sentence": "We'll give you a *set* of keys and a security pass.",
+          "answer": "✓",
+          "explanation": "Correct usage."
+        },
+        {
+          "number": 18,
+          "sentence": "There's not a *grain* of truth in what she said.",
+          "answer": "✓",
+          "explanation": "Correct usage."
+        },
+        {
+          "number": 19,
+          "sentence": "Is one *piece* of sugar enough?",
+          "answer": "lump",
+          "explanation": "Sugar in a cube/solid form is a 'lump'."
+        },
+        {
+          "number": 20,
+          "sentence": "I'll tear you off a *lump* of paper if you're going to take notes.",
+          "answer": "sheet / scrap",
+          "explanation": "Paper comes in a 'sheet' or 'scrap'."
+        }
+      ]
+    },
+    {
+      "id": "u21_D",
+      "label": "D",
+      "type": "word_form",
+      "instruction": "Complete the pairs of sentences using the correct form of a word in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Right! I'm off to ___. / How many ___ of art by Picasso can you actually name?",
+          "options": ["work", "works"],
+          "answer": "work / works",
+          "explanation": "'Work' is uncountable for a job; 'works' refers to specific artistic creations."
+        },
+        {
+          "number": 2,
+          "sentence": "The storm did quite a lot of ___, so I hear. / The jury awarded them ___ of over €500,000.",
+          "options": ["damage", "damages"],
+          "answer": "damage / damages",
+          "explanation": "'Damage' is uncountable for harm; 'damages' refers to legal compensation."
+        },
+        {
+          "number": 3,
+          "sentence": "I don't think I've ever baked three ___ from scratch in one day. / Would you like another piece of ___?",
+          "options": ["cakes", "cake"],
+          "answer": "cakes / cake",
+          "explanation": "'Cakes' are whole items; 'cake' is the substance."
+        },
+        {
+          "number": 4,
+          "sentence": "Thanks, you've been a great ___. / Without your ___, we don't know what we'd have done.",
+          "options": ["help"],
+          "answer": "help / help",
+          "explanation": "'A help' can be used for a helpful person/event; 'help' is the general uncountable concept."
+        },
+        {
+          "number": 5,
+          "sentence": "Ed was looking in the mirror and noticed one of his ___ had gone grey. / I gather that long ___ is back in fashion amongst the young.",
+          "options": ["hairs", "hair"],
+          "answer": "hairs / hair",
+          "explanation": "'Hairs' are individual strands; 'hair' is the whole mass."
+        },
+        {
+          "number": 6,
+          "sentence": "Did you know that ___ is actually a kind of liquid? / I can't find my ___. Have you seen them anywhere?",
+          "options": ["glass", "glasses"],
+          "answer": "glass / glasses",
+          "explanation": "'Glass' is the material; 'glasses' are spectacles."
+        },
+        {
+          "number": 7,
+          "sentence": "Is your left ___ really longer than your right? / The ___ trade is an industry I'd rather have nothing to do with.",
+          "options": ["arm", "arms"],
+          "answer": "arm / arms",
+          "explanation": "'Arm' is the body part; 'arms' refers to weapons."
+        },
+        {
+          "number": 8,
+          "sentence": "Let's have a picnic in the ___. / That table's not made of ___. It's plastic!",
+          "options": ["wood", "woods"],
+          "answer": "wood / wood",
+          "explanation": "'Wood' (countable/plural) is a small forest; 'wood' (uncountable) is material."
+        },
+        {
+          "number": 9,
+          "sentence": "Phil's ___ of eighteenth century pottery is astounding. / Phil's got a great ___ of eighteenth century pottery.",
+          "options": ["knowledge"],
+          "answer": "knowledge / knowledge",
+          "explanation": "General knowledge is uncountable; 'a knowledge of' is an idiomatic countable usage."
+        },
+        {
+          "number": 10,
+          "sentence": "No one can hear you scream in ___ because there's no sound. / Why are there no parking ___ round here at all?",
+          "options": ["space", "spaces"],
+          "answer": "space / spaces",
+          "explanation": "'Space' is outer space; 'spaces' are physical areas for cars."
+        },
+        {
+          "number": 11,
+          "sentence": "How did people write things down before ___ was invented? / The story appeared in most of the Sunday ___.",
+          "options": ["paper", "papers"],
+          "answer": "paper / papers",
+          "explanation": "'Paper' is material; 'papers' are newspapers."
+        },
+        {
+          "number": 12,
+          "sentence": "One of our ___ is ill so we've had to call the vet out. / This ___ tastes delicious!",
+          "options": ["chickens", "chicken"],
+          "answer": "chickens / chicken",
+          "explanation": "'Chickens' are the animals; 'chicken' is the meat."
+        },
+        {
+          "number": 13,
+          "sentence": "How many ___ have I told you not to do that? / What ___ did you get home last night?",
+          "options": ["times", "time"],
+          "answer": "times / time",
+          "explanation": "'Times' refers to occurrences; 'time' refers to the hour."
+        },
+        {
+          "number": 14,
+          "sentence": "Let's get a big bar of milk ___. / Oh no! There are only two ___ left in the box!",
+          "options": ["chocolate", "chocolates"],
+          "answer": "chocolate / chocolates",
+          "explanation": "'Chocolate' is the substance; 'chocolates' are individual pieces."
+        }
+      ]
+    },
+    {
+      "id": "u21_E",
+      "label": "E",
+      "type": "transformation",
+      "instruction": "Complete each second sentence using one of the two words in bold and any other words you need so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Only two boys volunteered to hand out programmes. -> Only ___ boys volunteered to hand out programmes.",
+          "options": ["double", "couple"],
+          "answer": "a couple of",
+          "explanation": "'A couple of' means two."
+        },
+        {
+          "number": 2,
+          "sentence": "There were quite a few people at the party who I knew. -> There were ___ people at the party who I knew.",
+          "options": ["number", "amount"],
+          "answer": "a number of",
+          "explanation": "'A number of' is used with countable nouns like 'people'."
+        },
+        {
+          "number": 3,
+          "sentence": "When I was small, I'd never heard of computers. -> When I was ___ girl, I'd never heard of computers.",
+          "options": ["little", "few"],
+          "answer": "a little",
+          "explanation": "'A little' here means 'small' when used with 'girl'."
+        },
+        {
+          "number": 4,
+          "sentence": "There's not much ketchup left in the bottle. -> There's only ___ ketchup left in the bottle.",
+          "options": ["little", "few"],
+          "answer": "a little",
+          "explanation": "'A little' is used with uncountable nouns like 'ketchup' to mean 'some'."
+        },
+        {
+          "number": 5,
+          "sentence": "Some kids have put their names down already. -> ___ kids have put their names down already.",
+          "options": ["little", "few"],
+          "answer": "A few",
+          "explanation": "'A few' is used with countable nouns to mean 'some'."
+        },
+        {
+          "number": 6,
+          "sentence": "I haven't got much money on me, I'm afraid. -> I've only got ___ money on me, I'm afraid.",
+          "options": ["number", "amount"],
+          "answer": "a small amount of / a certain amount of",
+          "explanation": "'Amount' is used with uncountable nouns like 'money'."
+        },
+        {
+          "number": 7,
+          "sentence": "I didn't understand a lot of what she said, to be honest. -> I didn't understand ___ what she said, to be honest.",
+          "options": ["much", "many"],
+          "answer": "much of",
+          "explanation": "'Much' is used for uncountable quantities (what she said)."
+        },
+        {
+          "number": 8,
+          "sentence": "Not enough British people can speak a foreign language. -> ___ British people can speak a foreign language.",
+          "options": ["little", "few"],
+          "answer": "Few",
+          "explanation": "'Few' (without 'a') means 'not many', implying it is not enough."
+        }
+      ]
+    },
+    {
+      "id": "u21_F",
+      "label": "F",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. More than one option may be correct in each sentence.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Would you like ___ coffee?",
+          "options": ["any", "some"],
+          "answer": "any / some",
+          "explanation": "Both are possible in questions; 'some' suggests an offer."
+        },
+        {
+          "number": 2,
+          "sentence": "I've hardly got ___ money left!",
+          "options": ["any", "some"],
+          "answer": "any",
+          "explanation": "'Hardly any' is a common expression meaning almost none."
+        },
+        {
+          "number": 3,
+          "sentence": "___ of the ducks have names.",
+          "options": ["Only a few", "Few", "A few"],
+          "answer": "Only a few / A few",
+          "explanation": "Both 'A few' and 'Only a few' work grammatically with 'of the'."
+        },
+        {
+          "number": 4,
+          "sentence": "I've only got ___ time, so make it quick!",
+          "options": ["a little", "little", "a small amount of"],
+          "answer": "a little / a small amount of",
+          "explanation": "'A little' and 'a small amount of' mean some, which fits the context."
+        },
+        {
+          "number": 5,
+          "sentence": "___ guards was injured in the attack.",
+          "options": ["Neither", "Neither of the", "Both"],
+          "answer": "Neither / Neither of the",
+          "explanation": "The verb 'was' is singular, so 'Both' (plural) is incorrect. 'Neither' or 'Neither of the' can take a singular verb."
+        },
+        {
+          "number": 6,
+          "sentence": "___ of the clothes were filthy.",
+          "options": ["All", "Most", "Many", "Much", "Both"],
+          "answer": "All / Most / Many / Both",
+          "explanation": "'Clothes' is plural, so 'Much' (singular) is wrong. The others fit."
+        },
+        {
+          "number": 7,
+          "sentence": "___ of the glasses had been smashed.",
+          "options": ["None", "Half", "Whole", "Each", "Every"],
+          "answer": "None / Half / Each",
+          "explanation": "'None of the', 'Half of the', and 'Each of the' are correct. 'Every' must be followed by a noun, and 'Whole' usually requires 'the whole of the'."
+        },
+        {
+          "number": 8,
+          "sentence": "___ student in the class whose surname begins with a vowel, please stand up.",
+          "options": ["Each", "Every", "All"],
+          "answer": "Each / Every",
+          "explanation": "'Each' and 'Every' are followed by singular nouns like 'student'."
+        },
+        {
+          "number": 9,
+          "sentence": "There's ___ we can do about the situation, I'm afraid.",
+          "options": ["a little", "little", "not much", "not many"],
+          "answer": "a little / little / not much",
+          "explanation": "All three refer to an uncountable amount of 'what we can do'. 'Not many' is for countable."
+        },
+        {
+          "number": 10,
+          "sentence": "We've got ___ time, don't worry.",
+          "options": ["most", "plenty", "a lot", "lots", "lot"],
+          "answer": "plenty / a lot / lots",
+          "explanation": "'Plenty', 'a lot', and 'lots' all mean 'enough' or 'much' of an uncountable noun."
+        }
+      ]
+    },
+    {
+      "id": "u21_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Complete the sentences with a, an or the. If no article is required, put a dash (-).",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I think there's ___ chemist open in ___ main road somewhere.",
+          "answer": "a, the",
+          "explanation": "A chemist (not specific); the main road (specific location)."
+        },
+        {
+          "number": 2,
+          "sentence": "One of ___ people who I met at ___ lecture ___ last night is ___ architect for quite ___ well-known firm.",
+          "answer": "the, the, -, an, a",
+          "explanation": "The people (specific); the lecture (specific); last night (no article); an architect (occupation); a firm (one of many)."
+        },
+        {
+          "number": 3,
+          "sentence": "___ quality screwdriver is ___ essential part of any tool box.",
+          "answer": "A, an",
+          "explanation": "Generic singular countable nouns."
+        },
+        {
+          "number": 4,
+          "sentence": "Who designed ___ invitations for ___ wedding?",
+          "answer": "the, the",
+          "explanation": "Specific invitations for a specific wedding."
+        },
+        {
+          "number": 5,
+          "sentence": "___ poor and ___ elderly are often left behind when it comes to ___ modern technology.",
+          "answer": "The, the, -",
+          "explanation": "The + adjective (group of people); modern technology (concept, no article)."
+        },
+        {
+          "number": 6,
+          "sentence": "When I was at ___ school, we had to wear ___ shorts until we were ___ 11 and then we were allowed to wear ___ pair of long trousers.",
+          "answer": "-, -, -, a",
+          "explanation": "At school (as a student); wear shorts (general plural); age 11 (no article); a pair (singular)."
+        },
+        {
+          "number": 7,
+          "sentence": "I met ___ writer ___ Catherine Hawkins ___ other day. She signed ___ copy of her ___ latest book for me.",
+          "answer": "the, -, the, a, -",
+          "explanation": "The writer (specifying who); the other day (idiom); a copy (one of many); latest (superlative usually takes 'the', but 'her latest' uses a possessive instead)."
+        },
+        {
+          "number": 8,
+          "sentence": "I honestly believe that ___ car is one of ___ worst inventions in ___ history of ___ world.",
+          "answer": "the, the, the, the",
+          "explanation": "The car (general type); the worst (superlative); the history (specific); the world (unique)."
+        },
+        {
+          "number": 9,
+          "sentence": "Is that ___ ewe or ___ elk?",
+          "answer": "a, an",
+          "explanation": "Ewe starts with 'y' sound (consonant); elk starts with vowel sound."
+        },
+        {
+          "number": 10,
+          "sentence": "What's ___ difference between ___ unicorn and ___ postbox? You don't know? Then, I'm not going to ask you to post ___ letter for me!",
+          "answer": "the, a, a, a",
+          "explanation": "The difference (specific); a unicorn (one of many); a postbox; a letter."
+        }
+      ]
+    },
+    {
+      "id": "u21_H",
+      "label": "H",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct answer.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Are these windows really not made of ___?",
+          "options": ["the glass", "a glass", "glass", "glasses"],
+          "answer": "glass",
+          "explanation": "Material (uncountable) takes no article."
+        },
+        {
+          "number": 2,
+          "sentence": "I fancy playing poker. Have we got a ___ of cards anywhere?",
+          "options": ["pack", "pair", "bunch", "set"],
+          "answer": "pack",
+          "explanation": "A 'pack of cards' is the standard collective noun."
+        },
+        {
+          "number": 3,
+          "sentence": "Luckily, only ___ of the medicine got spilt.",
+          "options": ["little", "a little", "few", "a few"],
+          "answer": "a little",
+          "explanation": "Uncountable noun (medicine) requires 'a little' to mean 'some'."
+        },
+        {
+          "number": 4,
+          "sentence": "The ___ on the kitchen table.",
+          "options": ["grocery is", "grocery are", "groceries is", "groceries are"],
+          "answer": "groceries are",
+          "explanation": "'Groceries' is a plural uncountable noun and takes a plural verb."
+        },
+        {
+          "number": 5,
+          "sentence": "Hardly ___ of the paintings at the gallery were for sale.",
+          "options": ["none", "few", "some", "any"],
+          "answer": "any",
+          "explanation": "'Hardly any' means almost none."
+        },
+        {
+          "number": 6,
+          "sentence": "It's ___ opportunity to see African wildlife in its natural environment.",
+          "options": ["an unique", "a unique", "the unique", "unique"],
+          "answer": "a unique",
+          "explanation": "'Unique' starts with a 'y' consonant sound."
+        },
+        {
+          "number": 7,
+          "sentence": "You can't just demand ___ you have to earn it.",
+          "options": ["a respect", "the respect", "any respect", "respect"],
+          "answer": "respect",
+          "explanation": "'Respect' is an uncountable abstract noun used generally here."
+        },
+        {
+          "number": 8,
+          "sentence": "Almost ___ person I've asked says they're going on the anti-war demonstration next Saturday.",
+          "options": ["every", "each", "all the", "the entire"],
+          "answer": "every",
+          "explanation": "'Every' is used with singular nouns for general groups."
+        }
+      ]
+    },
+    {
+      "id": "u21_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "In publishing, (1) ___ author will usually earn royalties on sales.",
+          "answer": "an",
+          "explanation": "Mentioning a person generally for the first time."
+        },
+        {
+          "number": 2,
+          "sentence": "For (2) ___ book sold, the author gets a percentage.",
+          "answer": "every / each",
+          "explanation": "Used with singular nouns to mean all in a set."
+        },
+        {
+          "number": 3,
+          "sentence": "and (3) ___ bigger the percentage they can get.",
+          "answer": "the",
+          "explanation": "Part of the 'the ... the ...' comparative structure."
+        },
+        {
+          "number": 4,
+          "sentence": "it is quite possible for a successful novelist to earn a (4) ___ deal of money.",
+          "answer": "great / good",
+          "explanation": "'A great deal of' is a quantifier for uncountable nouns."
+        },
+        {
+          "number": 5,
+          "sentence": "You only have to look at (5) ___ children's author J. K. Rowling to see that.",
+          "answer": "the",
+          "explanation": "Used with well-known/famous people."
+        },
+        {
+          "number": 6,
+          "sentence": "A painter sells his or her work for (6) ___ fee.",
+          "answer": "a",
+          "explanation": "Indefinite article for a singular noun."
+        },
+        {
+          "number": 7,
+          "sentence": "(7) ___ time it is sold, its value increases.",
+          "answer": "Every / Each",
+          "explanation": "Referring to all occasions."
+        },
+        {
+          "number": 8,
+          "sentence": "The painter doesn't receive (8) ___ benefit from this, though.",
+          "answer": "any",
+          "explanation": "Used in negative sentences."
+        },
+        {
+          "number": 9,
+          "sentence": "More than a (9) ___ artists today, however, are very aware of this",
+          "answer": "few",
+          "explanation": "'More than a few' means quite a lot."
+        },
+        {
+          "number": 10,
+          "sentence": "but only allow a certain (10) ___ of them, say eight, to be sold.",
+          "answer": "number",
+          "explanation": "'A certain number of' for countable nouns (paintings)."
+        },
+        {
+          "number": 11,
+          "sentence": "The other two they keep, in (11) ___ hope that when they sell them in later years",
+          "answer": "the",
+          "explanation": "Specific hope."
+        },
+        {
+          "number": 12,
+          "sentence": "However, since (12) ___ illegal transfer of digital music via the Internet",
+          "answer": "the",
+          "explanation": "Specific phenomenon."
+        },
+        {
+          "number": 13,
+          "sentence": "(13) ___ songwriters and performers have become worried",
+          "answer": "both",
+          "explanation": "Referring to two groups mentioned."
+        },
+        {
+          "number": 14,
+          "sentence": "Certainly, the (14) ___ music industry",
+          "answer": "whole / entire",
+          "explanation": "Meaning all of the industry."
+        },
+        {
+          "number": 15,
+          "sentence": "There is still a huge (15) ___ of money to be made from live performances.",
+          "answer": "amount",
+          "explanation": "'Amount' for uncountable nouns (money)."
+        }
+      ]
+    }
+  ]
+}

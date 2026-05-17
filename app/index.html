@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Destination C1&C2 — IELTS Study App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+
+<div id="app">
+  <!-- Sidebar -->
+  <aside id="sidebar">
+    <div id="sidebar-header">
+      <h1>Destination<br><span>C1 &amp; C2</span></h1>
+      <div id="overall-progress">
+        <div id="overall-bar"><div id="overall-fill"></div></div>
+        <span id="overall-label">0 / 26 units</span>
+      </div>
+    </div>
+
+    <div id="unit-list"></div>
+
+    <div id="sidebar-footer">
+      <button id="btn-theme" title="Toggle theme">☀</button>
+      <button id="btn-reset" title="Reset all progress">↺ Reset</button>
+    </div>
+  </aside>
+
+  <!-- Main content -->
+  <main id="main">
+    <div id="welcome" class="screen active">
+      <div class="welcome-inner">
+        <div class="welcome-icon">📚</div>
+        <h2>Destination C1 &amp; C2</h2>
+        <p>Grammar &amp; Vocabulary — Song ngữ Anh–Việt</p>
+        <p class="muted">Chọn một Unit từ sidebar để bắt đầu học.</p>
+        <div id="load-status"></div>
+      </div>
+    </div>
+
+    <div id="unit-screen" class="screen">
+      <div id="unit-header">
+        <div id="unit-meta">
+          <span id="unit-badge"></span>
+          <h2 id="unit-title"></h2>
+        </div>
+        <div id="unit-tabs">
+          <button class="tab-btn active" data-tab="theory">Theory</button>
+          <button class="tab-btn" data-tab="exercises">Exercises</button>
+          <button class="tab-btn" data-tab="vocab" id="tab-vocab-btn">Vocabulary</button>
+        </div>
+        <div id="unit-score-display"></div>
+      </div>
+
+      <!-- Theory tab -->
+      <div id="tab-theory" class="tab-content active">
+        <div id="theory-content"></div>
+      </div>
+
+      <!-- Exercises tab -->
+      <div id="tab-exercises" class="tab-content">
+        <div id="exercises-header">
+          <span id="ex-progress-label"></span>
+          <button id="btn-check-all" class="btn-primary">Check All</button>
+          <button id="btn-retry">Retry Wrong</button>
+          <button id="btn-show-answers">Show Answers</button>
+        </div>
+        <div id="exercises-content"></div>
+        <div id="exercises-result" class="hidden">
+          <div id="result-score"></div>
+          <div id="result-breakdown"></div>
+          <button id="btn-retry-all" class="btn-primary">Retry All</button>
+        </div>
+      </div>
+
+      <!-- Vocabulary tab -->
+      <div id="tab-vocab" class="tab-content">
+        <div id="vocab-mode-bar">
+          <button class="vocab-mode-btn active" data-mode="browse">Browse</button>
+          <button class="vocab-mode-btn" data-mode="flashcard">Flashcards</button>
+          <button class="vocab-mode-btn" data-mode="quiz">Quiz</button>
+        </div>
+        <div id="vocab-content"></div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="data_bundle.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

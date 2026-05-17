@@ -1,0 +1,1751 @@
+{
+  "unit_id": 14,
+  "unit_type": "Vocabulary",
+  "title": "Quantity and money",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Quantity",
+      "words": [
+        {
+          "word": "abundant",
+          "pos": "adj",
+          "definition_en": "existing in large quantities",
+          "definition_vi": "dồi dào, phong phú",
+          "example": "Fish are abundant in the lake.",
+          "synonyms": ["plentiful", "copious"],
+          "collocations": ["abundant supply", "abundant evidence"]
+        },
+        {
+          "word": "ample",
+          "pos": "adj",
+          "definition_en": "enough, and often more than you need",
+          "definition_vi": "dư dả, nhiều hơn mức cần thiết",
+          "example": "There is ample time for discussion.",
+          "synonyms": ["sufficient", "adequate"],
+          "collocations": ["ample opportunity", "ample evidence"]
+        },
+        {
+          "word": "area",
+          "pos": "n",
+          "definition_en": "a part of a place or building",
+          "definition_vi": "khu vực, diện tích",
+          "example": "The local area is very quiet.",
+          "synonyms": ["region", "zone"],
+          "collocations": ["residential area", "surface area"]
+        },
+        {
+          "word": "average",
+          "pos": "n, adj",
+          "definition_en": "the amount, level, standard etc that is typical of a group",
+          "definition_vi": "trung bình",
+          "example": "The average age of the students is 20.",
+          "synonyms": ["mean", "standard"],
+          "collocations": ["on average", "above average"]
+        },
+        {
+          "word": "batch",
+          "pos": "v, n",
+          "definition_en": "a number of people or things that are dealt with as a group",
+          "definition_vi": "mẻ (bánh), đợt, lô hàng",
+          "example": "We processed a new batch of orders.",
+          "synonyms": ["group", "set"],
+          "collocations": ["a batch of cookies", "in batches"]
+        },
+        {
+          "word": "bulk",
+          "pos": "n",
+          "definition_en": "the majority or large size/quantity of something",
+          "definition_vi": "số lượng lớn, phần lớn",
+          "example": "The bulk of the work is done.",
+          "synonyms": ["majority", "mass"],
+          "collocations": ["in bulk", "the bulk of"]
+        },
+        {
+          "word": "considerable",
+          "pos": "adj",
+          "definition_en": "large in size, amount, or degree",
+          "definition_vi": "đáng kể, to tát",
+          "example": "We made considerable progress today.",
+          "synonyms": ["significant", "substantial"],
+          "collocations": ["considerable amount", "considerable influence"]
+        },
+        {
+          "word": "countless",
+          "pos": "adj",
+          "definition_en": "very many, too many to be counted",
+          "definition_vi": "vô số, không đếm xuể",
+          "example": "I've told him countless times.",
+          "synonyms": ["innumerable", "infinite"],
+          "collocations": ["countless hours", "countless opportunities"]
+        },
+        {
+          "word": "dimension",
+          "pos": "n",
+          "definition_en": "a measurement of something in a particular direction",
+          "definition_vi": "kích thước, chiều, khía cạnh",
+          "example": "A square has two dimensions.",
+          "synonyms": ["measurement", "aspect"],
+          "collocations": ["added dimension", "third dimension"]
+        },
+        {
+          "word": "diminish",
+          "pos": "v",
+          "definition_en": "to become or make something become smaller or less important",
+          "definition_vi": "giảm bớt, làm suy giảm",
+          "example": "Our resources are diminishing rapidly.",
+          "synonyms": ["decrease", "reduce"],
+          "collocations": ["diminishing returns", "diminish in importance"]
+        },
+        {
+          "word": "equation",
+          "pos": "n",
+          "definition_en": "a mathematical statement that two amounts are equal",
+          "definition_vi": "phương trình, sự cân bằng",
+          "example": "Can you solve this equation?",
+          "synonyms": ["formula"],
+          "collocations": ["solve an equation", "mathematical equation"]
+        },
+        {
+          "word": "equidistant",
+          "pos": "adj",
+          "definition_en": "at the same distance from two places",
+          "definition_vi": "cách đều",
+          "example": "The house is equidistant from the two cities.",
+          "synonyms": ["midway"],
+          "collocations": ["equidistant from"]
+        },
+        {
+          "word": "expand",
+          "pos": "v",
+          "definition_en": "to become larger in size, number, or amount",
+          "definition_vi": "mở rộng, giãn nở",
+          "example": "The universe is expanding.",
+          "synonyms": ["enlarge", "grow"],
+          "collocations": ["expand rapidly", "expand a business"]
+        },
+        {
+          "word": "extent",
+          "pos": "n",
+          "definition_en": "the size or importance of something",
+          "definition_vi": "mức độ, quy mô",
+          "example": "We didn't realize the extent of the damage.",
+          "synonyms": ["degree", "scope"],
+          "collocations": ["to a certain extent", "full extent"]
+        },
+        {
+          "word": "finite",
+          "pos": "adj",
+          "definition_en": "having an end or a limit",
+          "definition_vi": "có hạn, có giới hạn",
+          "example": "The earth has finite resources.",
+          "synonyms": ["limited"],
+          "collocations": ["finite amount", "finite number"]
+        },
+        {
+          "word": "force",
+          "pos": "v, n",
+          "definition_en": "physical strength or power",
+          "definition_vi": "lực lượng, sức mạnh, ép buộc",
+          "example": "The force of the explosion was immense.",
+          "synonyms": ["power", "strength"],
+          "collocations": ["by force", "centrifugal force"]
+        },
+        {
+          "word": "fraction",
+          "pos": "n",
+          "definition_en": "a small part or amount of something",
+          "definition_vi": "phân số, một phần nhỏ",
+          "example": "She only ate a fraction of her dinner.",
+          "synonyms": ["portion", "segment"],
+          "collocations": ["a fraction of a second", "decimal fraction"]
+        },
+        {
+          "word": "heap",
+          "pos": "v, n",
+          "definition_en": "a large pile of something",
+          "definition_vi": "đống",
+          "example": "There's a heap of clothes on the floor.",
+          "synonyms": ["pile", "stack"],
+          "collocations": ["in a heap", "heap of praise"]
+        },
+        {
+          "word": "imbalance",
+          "pos": "n",
+          "definition_en": "a lack of balance between things",
+          "definition_vi": "sự mất cân bằng",
+          "example": "There is a trade imbalance between the two countries.",
+          "synonyms": ["disparity", "inequality"],
+          "collocations": ["hormonal imbalance", "serious imbalance"]
+        },
+        {
+          "word": "immense",
+          "pos": "adj",
+          "definition_en": "extremely large",
+          "definition_vi": "mênh mông, bao la, cực kỳ lớn",
+          "example": "The cost of the project was immense.",
+          "synonyms": ["enormous", "huge"],
+          "collocations": ["immense pressure", "immense amount"]
+        },
+        {
+          "word": "intensity",
+          "pos": "n",
+          "definition_en": "the strength or power of something",
+          "definition_vi": "cường độ, độ mãnh liệt",
+          "example": "The intensity of the sun's rays was unbearable.",
+          "synonyms": ["strength", "force"],
+          "collocations": ["high intensity", "increase in intensity"]
+        },
+        {
+          "word": "magnitude",
+          "pos": "n",
+          "definition_en": "the great size or importance of something",
+          "definition_vi": "tầm vóc, cường độ (động đất)",
+          "example": "We realized the magnitude of the problem.",
+          "synonyms": ["scale", "importance"],
+          "collocations": ["order of magnitude", "magnitude of 7.0"]
+        },
+        {
+          "word": "major",
+          "pos": "adj",
+          "definition_en": "very large, important, or serious",
+          "definition_vi": "chính, chủ yếu, quan trọng",
+          "example": "This is a major discovery.",
+          "synonyms": ["main", "significant"],
+          "collocations": ["major factor", "major role"]
+        },
+        {
+          "word": "mass",
+          "pos": "n",
+          "definition_en": "a large amount of a substance that has no particular shape",
+          "definition_vi": "khối, quần chúng, số đông",
+          "example": "The sun is a mass of gas.",
+          "synonyms": ["bulk", "quantity"],
+          "collocations": ["mass production", "the masses"]
+        },
+        {
+          "word": "meagre",
+          "pos": "adj",
+          "definition_en": "very small in amount or number",
+          "definition_vi": "ít ỏi, nghèo nàn",
+          "example": "He earns a meagre salary.",
+          "synonyms": ["paltry", "scanty"],
+          "collocations": ["meagre income", "meagre resources"]
+        },
+        {
+          "word": "minor",
+          "pos": "adj",
+          "definition_en": "not very large, important, or serious",
+          "definition_vi": "nhỏ, không quan trọng",
+          "example": "It was only a minor accident.",
+          "synonyms": ["small", "insignificant"],
+          "collocations": ["minor injuries", "minor changes"]
+        },
+        {
+          "word": "minute",
+          "pos": "adj",
+          "definition_en": "extremely small",
+          "definition_vi": "rất nhỏ, chi tiết",
+          "example": "The machine can detect minute amounts of gas.",
+          "synonyms": ["tiny", "microscopic"],
+          "collocations": ["minute detail", "minute quantity"]
+        },
+        {
+          "word": "multiple",
+          "pos": "n, adj",
+          "definition_en": "many, or involving many things",
+          "definition_vi": "nhiều, phức tạp, bội số",
+          "example": "She suffered multiple injuries.",
+          "synonyms": ["various", "numerous"],
+          "collocations": ["multiple choice", "multiple personality"]
+        },
+        {
+          "word": "proportion",
+          "pos": "n",
+          "definition_en": "a part of a number or amount",
+          "definition_vi": "tỷ lệ, phần",
+          "example": "A large proportion of the students are from abroad.",
+          "synonyms": ["percentage", "ratio"],
+          "collocations": ["in proportion to", "out of proportion"]
+        },
+        {
+          "word": "quantify",
+          "pos": "v",
+          "definition_en": "to measure or state the amount of something",
+          "definition_vi": "định lượng",
+          "example": "It is difficult to quantify the risks.",
+          "synonyms": ["measure", "calculate"],
+          "collocations": ["quantify the benefits"]
+        },
+        {
+          "word": "rate",
+          "pos": "v, n",
+          "definition_en": "the speed or frequency of something",
+          "definition_vi": "tỷ lệ, tốc độ, đánh giá",
+          "example": "The inflation rate is rising.",
+          "synonyms": ["speed", "pace"],
+          "collocations": ["at a rate of", "unemployment rate"]
+        },
+        {
+          "word": "ratio",
+          "pos": "n",
+          "definition_en": "a relationship between two amounts showing how much bigger one is",
+          "definition_vi": "tỷ số",
+          "example": "The ratio of men to women was 2 to 1.",
+          "synonyms": ["proportion"],
+          "collocations": ["ratio of A to B"]
+        },
+        {
+          "word": "ration",
+          "pos": "v, n",
+          "definition_en": "a fixed amount of something that you are allowed to have",
+          "definition_vi": "khẩu phần, định mức",
+          "example": "Petrol was rationed during the war.",
+          "synonyms": ["allowance", "quota"],
+          "collocations": ["food rations", "daily ration"]
+        },
+        {
+          "word": "shrink",
+          "pos": "v",
+          "definition_en": "to become smaller in size",
+          "definition_vi": "co lại, rút ngắn",
+          "example": "My shirt shrank in the wash.",
+          "synonyms": ["contract", "decrease"],
+          "collocations": ["shrink by 10%"]
+        },
+        {
+          "word": "sufficient",
+          "pos": "adj",
+          "definition_en": "as much as is needed",
+          "definition_vi": "đủ",
+          "example": "We have sufficient evidence to convict him.",
+          "synonyms": ["enough", "adequate"],
+          "collocations": ["sufficient time", "sufficient funds"]
+        },
+        {
+          "word": "sum",
+          "pos": "n",
+          "definition_en": "an amount of money",
+          "definition_vi": "tổng, số tiền",
+          "example": "A large sum of money was stolen.",
+          "synonyms": ["amount", "total"],
+          "collocations": ["a tidy sum", "in sum"]
+        },
+        {
+          "word": "uneven",
+          "pos": "adj",
+          "definition_en": "not smooth, flat, or level",
+          "definition_vi": "không bằng phẳng, không đều",
+          "example": "The floor was uneven.",
+          "synonyms": ["bumpy", "irregular"],
+          "collocations": ["uneven surface", "uneven distribution"]
+        },
+        {
+          "word": "vast",
+          "pos": "adj",
+          "definition_en": "extremely large",
+          "definition_vi": "bao la, rộng lớn",
+          "example": "The vast majority of people agree.",
+          "synonyms": ["immense", "huge"],
+          "collocations": ["vast area", "vast experience"]
+        },
+        {
+          "word": "volume",
+          "pos": "n",
+          "definition_en": "the amount of space something fills",
+          "definition_vi": "thể tích, âm lượng, khối lượng",
+          "example": "The volume of traffic is increasing.",
+          "synonyms": ["capacity", "quantity"],
+          "collocations": ["sales volume", "volume of business"]
+        },
+        {
+          "word": "widespread",
+          "pos": "adj",
+          "definition_en": "existing or happening in many places",
+          "definition_vi": "lan rộng, phổ biến",
+          "example": "There is widespread support for the new law.",
+          "synonyms": ["common", "prevalent"],
+          "collocations": ["widespread belief", "widespread use"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Money",
+      "words": [
+        {
+          "word": "benefit",
+          "pos": "v, n",
+          "definition_en": "money given by the government to people who are poor, ill, or unemployed",
+          "definition_vi": "lợi ích, tiền trợ cấp",
+          "example": "He's on unemployment benefit.",
+          "synonyms": ["allowance", "welfare"],
+          "collocations": ["fringe benefits", "health benefit"]
+        },
+        {
+          "word": "compensation",
+          "pos": "n",
+          "definition_en": "money paid to someone because they have suffered injury or loss",
+          "definition_vi": "sự bồi thường",
+          "example": "She received compensation for her injuries.",
+          "synonyms": ["reimbursement", "reparation"],
+          "collocations": ["financial compensation", "claim compensation"]
+        },
+        {
+          "word": "damages",
+          "pos": "n",
+          "definition_en": "money that a court orders someone to pay to someone else for harming them",
+          "definition_vi": "tiền bồi thường thiệt hại (theo lệnh tòa)",
+          "example": "The judge awarded damages of £5,000.",
+          "synonyms": ["indemnity"],
+          "collocations": ["sue for damages", "award damages"]
+        },
+        {
+          "word": "debt",
+          "pos": "n",
+          "definition_en": "an amount of money that you owe",
+          "definition_vi": "nợ",
+          "example": "I'm in debt to the bank.",
+          "synonyms": ["liability", "arrears"],
+          "collocations": ["in debt", "run up a debt"]
+        },
+        {
+          "word": "deduct",
+          "pos": "v",
+          "definition_en": "to take an amount from a total",
+          "definition_vi": "khấu trừ",
+          "example": "Tax is deducted from your salary.",
+          "synonyms": ["subtract"],
+          "collocations": ["deduct from", "automatically deducted"]
+        },
+        {
+          "word": "deposit",
+          "pos": "v, n",
+          "definition_en": "to put money into a bank account",
+          "definition_vi": "tiền đặt cọc, gửi tiền",
+          "example": "I deposited £100 in my account.",
+          "synonyms": ["pay in"],
+          "collocations": ["pay a deposit", "non-refundable deposit"]
+        },
+        {
+          "word": "direct debit",
+          "pos": "n phr",
+          "definition_en": "an instruction to your bank to pay money directly to an organization",
+          "definition_vi": "ghi nợ trực tiếp",
+          "example": "I pay my bills by direct debit.",
+          "collocations": ["set up a direct debit"]
+        },
+        {
+          "word": "dividend",
+          "pos": "n",
+          "definition_en": "a part of a company's profit that is divided among shareholders",
+          "definition_vi": "cổ tức",
+          "example": "The company paid a high dividend this year.",
+          "collocations": ["share dividend", "annual dividend"]
+        },
+        {
+          "word": "down payment",
+          "pos": "n phr",
+          "definition_en": "a first payment made when buying something expensive",
+          "definition_vi": "tiền đặt cọc trả trước (khi mua trả góp)",
+          "example": "We made a down payment on a new car.",
+          "synonyms": ["deposit"],
+          "collocations": ["initial down payment"]
+        },
+        {
+          "word": "finance",
+          "pos": "v, n",
+          "definition_en": "money provided by a bank or other institution to help start or run a business",
+          "definition_vi": "tài chính, cấp vốn",
+          "example": "They are looking for finance for their new project.",
+          "synonyms": ["funding", "capital"],
+          "collocations": ["public finance", "corporate finance"]
+        },
+        {
+          "word": "insurance",
+          "pos": "n",
+          "definition_en": "an arrangement in which you pay a company and they pay your costs if you are ill/injured",
+          "definition_vi": "bảo hiểm",
+          "example": "Do you have health insurance?",
+          "collocations": ["life insurance", "insurance policy"]
+        },
+        {
+          "word": "interest",
+          "pos": "n",
+          "definition_en": "money that you must pay to a bank that has lent you money",
+          "definition_vi": "lãi suất, tiền lãi",
+          "example": "The interest on the loan is 5%.",
+          "collocations": ["rate of interest", "interest-free"]
+        },
+        {
+          "word": "investment",
+          "pos": "n",
+          "definition_en": "money put into a business to make a profit",
+          "definition_vi": "sự đầu tư",
+          "example": "The project was a good investment.",
+          "collocations": ["foreign investment", "capital investment"]
+        },
+        {
+          "word": "lump sum",
+          "pos": "n phr",
+          "definition_en": "an amount of money paid at one time and not in small amounts",
+          "definition_vi": "tiền trả một cục",
+          "example": "He received his pension as a lump sum.",
+          "collocations": ["receive a lump sum"]
+        },
+        {
+          "word": "mortgage",
+          "pos": "n",
+          "definition_en": "a legal arrangement by which you borrow money from a bank to buy a house",
+          "definition_vi": "thế chấp, tiền vay mua nhà",
+          "example": "We've just taken out a mortgage.",
+          "collocations": ["repay a mortgage", "mortgage rate"]
+        },
+        {
+          "word": "overdraft",
+          "pos": "n",
+          "definition_en": "an amount of money spent that is more than in your bank account",
+          "definition_vi": "thanh toán quá số dư, thấu chi",
+          "example": "I have a £500 overdraft.",
+          "collocations": ["run up an overdraft", "overdraft limit"]
+        },
+        {
+          "word": "pension",
+          "pos": "n",
+          "definition_en": "money paid regularly to someone who has retired",
+          "definition_vi": "lương hưu",
+          "example": "He lives on his state pension.",
+          "collocations": ["pension scheme", "draw a pension"]
+        },
+        {
+          "word": "share",
+          "pos": "n",
+          "definition_en": "one of the equal parts into which the ownership of a company is divided",
+          "definition_vi": "cổ phiếu, cổ phần",
+          "example": "The value of the shares fell.",
+          "synonyms": ["stock"],
+          "collocations": ["shareholder", "share price"]
+        },
+        {
+          "word": "speculate",
+          "pos": "v",
+          "definition_en": "to buy shares or property hoping to make a profit when you sell them",
+          "definition_vi": "đầu cơ, suy đoán",
+          "example": "He lost a lot of money speculating on the stock market.",
+          "synonyms": ["gamble"],
+          "collocations": ["speculate on"]
+        },
+        {
+          "word": "withdraw",
+          "pos": "v",
+          "definition_en": "to take money out of a bank account",
+          "definition_vi": "rút tiền",
+          "example": "I'd like to withdraw £50, please.",
+          "synonyms": ["take out"],
+          "collocations": ["withdraw cash", "withdrawal slip"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "add up to",
+          "pos": "phr v",
+          "definition_en": "if separate amounts add up to a total, they form that total; combine to produce a result",
+          "definition_vi": "tổng cộng là, dẫn đến kết quả",
+          "example": "The small costs add up to a lot of money.",
+          "synonyms": ["amount to"]
+        },
+        {
+          "word": "break down",
+          "pos": "phr v",
+          "definition_en": "divide something such as a total amount into separate parts",
+          "definition_vi": "chia nhỏ ra, phân tích",
+          "example": "Let's break down the costs into monthly payments.",
+          "synonyms": ["analyze", "categorize"]
+        },
+        {
+          "word": "build up",
+          "pos": "phr v",
+          "definition_en": "increase or make something increase; gradually develop",
+          "definition_vi": "tích lũy, xây dựng dần lên",
+          "example": "She's building up a successful business.",
+          "synonyms": ["accumulate"]
+        },
+        {
+          "word": "buy off",
+          "pos": "phr v",
+          "definition_en": "give someone money so that they do not act against you",
+          "definition_vi": "đút lót, mua chuộc",
+          "example": "They tried to buy off the witnesses.",
+          "synonyms": ["bribe"]
+        },
+        {
+          "word": "buy out",
+          "pos": "phr v",
+          "definition_en": "pay money to your business partner so that you can control all of a business",
+          "definition_vi": "mua lại cổ phần (để nắm quyền kiểm soát)",
+          "example": "The company was bought out by its management.",
+          "collocations": ["management buyout"]
+        },
+        {
+          "word": "buy up",
+          "pos": "phr v",
+          "definition_en": "buy large amounts of something or all of it that is available",
+          "definition_vi": "mua sạch, mua hết",
+          "example": "Investors are buying up land in the area."
+        },
+        {
+          "word": "carry over",
+          "pos": "phr v",
+          "definition_en": "take something from one year or period into the next one",
+          "definition_vi": "chuyển sang (kì sau, năm sau)",
+          "example": "You can carry over your unused holiday to next year."
+        },
+        {
+          "word": "clock up",
+          "pos": "phr v",
+          "definition_en": "reach a particular number or amount",
+          "definition_vi": "đạt được con số, ghi được (thành tích)",
+          "example": "He has clocked up 100 goals for the team."
+        },
+        {
+          "word": "club together",
+          "pos": "phr v",
+          "definition_en": "if people club together, each gives some money to buy something",
+          "definition_vi": "góp tiền chung",
+          "example": "We clubbed together to buy her a present."
+        },
+        {
+          "word": "drum up",
+          "pos": "phr v",
+          "definition_en": "try to make people support you or buy something",
+          "definition_vi": "vận động, lôi kéo (sự ủng hộ, khách hàng)",
+          "example": "He's trying to drum up some business."
+        },
+        {
+          "word": "mount up",
+          "pos": "phr v",
+          "definition_en": "get much larger",
+          "definition_vi": "tăng lên nhiều",
+          "example": "The debts are beginning to mount up."
+        },
+        {
+          "word": "pay back",
+          "pos": "phr v",
+          "definition_en": "give someone the same amount of money that you borrowed",
+          "definition_vi": "trả nợ, hoàn tiền",
+          "example": "I'll pay you back on Friday.",
+          "synonyms": ["repay"]
+        },
+        {
+          "word": "pay out",
+          "pos": "phr v",
+          "definition_en": "spend or pay a lot of money; provide money from an investment",
+          "definition_vi": "chi trả (một số tiền lớn)",
+          "example": "The insurance company paid out £10,000."
+        },
+        {
+          "word": "size up",
+          "pos": "phr v",
+          "definition_en": "think carefully and form an opinion about a person or situation",
+          "definition_vi": "đánh giá, xem xét",
+          "example": "He sized up the situation before speaking."
+        },
+        {
+          "word": "take away",
+          "pos": "phr v",
+          "definition_en": "remove one number or quantity from another",
+          "definition_vi": "trừ đi",
+          "example": "Take 5 away from 12 and you get 7.",
+          "synonyms": ["subtract"]
+        },
+        {
+          "word": "weigh down",
+          "pos": "phr v",
+          "definition_en": "make someone heavy or cause problems/worry for someone",
+          "definition_vi": "đè nặng, làm lo lắng",
+          "example": "She was weighed down with bags."
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "a drop in the ocean",
+          "pos": "idiom",
+          "definition_en": "a very small amount that will not have much effect",
+          "definition_vi": "muối bỏ bể, giọt nước giữa đại dương",
+          "example": "The money is just a drop in the ocean compared to what we need."
+        },
+        {
+          "word": "break even",
+          "pos": "idiom",
+          "definition_en": "neither make a profit nor lose money",
+          "definition_vi": "hòa vốn",
+          "example": "We hope to break even in our first year of business."
+        },
+        {
+          "word": "fall short",
+          "pos": "idiom",
+          "definition_en": "not reach a particular level or achieve something",
+          "definition_vi": "không đạt được mục tiêu, thiếu hụt",
+          "example": "The total fell short of our expectations."
+        },
+        {
+          "word": "fifty-fifty",
+          "pos": "idiom",
+          "definition_en": "equal, or into two equal parts",
+          "definition_vi": "năm mươi - năm mươi, chia đôi",
+          "example": "We split the profits fifty-fifty."
+        },
+        {
+          "word": "go halves",
+          "pos": "idiom",
+          "definition_en": "share the cost of something with someone so that you each pay 50%",
+          "definition_vi": "chia đôi tiền",
+          "example": "Shall we go halves on the taxi?"
+        },
+        {
+          "word": "it's as broad as it's long",
+          "pos": "idiom",
+          "definition_en": "used for saying that you cannot choose between two things because they are equal",
+          "definition_vi": "kẻ tám lạng người nửa cân, không khác gì nhau",
+          "example": "Whether we go by train or car, it's as broad as it's long - it takes the same time."
+        },
+        {
+          "word": "keep up with the Joneses",
+          "pos": "idiom",
+          "definition_en": "try to be as rich, successful, etc as your neighbours",
+          "definition_vi": "đua đòi, luôn muốn bằng bạn bằng bè",
+          "example": "They bought a new car just to keep up with the Joneses."
+        },
+        {
+          "word": "knee-high to a grasshopper",
+          "pos": "idiom",
+          "definition_en": "very small, because you were very young",
+          "definition_vi": "còn bé tí, khi còn nhỏ",
+          "example": "I haven't seen him since I was knee-high to a grasshopper."
+        },
+        {
+          "word": "line your pocket(s)",
+          "pos": "idiom",
+          "definition_en": "obtain money, especially by acting dishonestly",
+          "definition_vi": "trục lợi, làm giàu bất chính",
+          "example": "He's just trying to line his own pockets."
+        },
+        {
+          "word": "lock, stock and barrel",
+          "pos": "idiom",
+          "definition_en": "including every part of a particular thing",
+          "definition_vi": "toàn bộ, tất tần tật",
+          "example": "They sold the business lock, stock and barrel."
+        },
+        {
+          "word": "six of one (and) half a dozen of the other",
+          "pos": "idiom",
+          "definition_en": "used for saying that two things are equally good or bad",
+          "definition_vi": "như nhau cả thôi, tám lạng nửa cân",
+          "example": "It's six of one and half a dozen of the other - both options are fine."
+        },
+        {
+          "word": "tidy sum/amount",
+          "pos": "idiom",
+          "definition_en": "large sum/amount",
+          "definition_vi": "số tiền khá lớn",
+          "example": "He made a tidy sum when he sold the house."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u14_A",
+      "label": "A",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Thankfully, she only suffered ___ injuries in the accident.",
+          "options": ["minor", "meagre", "minute", "tiny"],
+          "answer": "minor",
+          "explanation": "'Minor injuries' is a standard collocation meaning small and not serious."
+        },
+        {
+          "number": 2,
+          "sentence": "A half, written as a/an ___ , looks like this: 1/2.",
+          "options": ["fraction", "rate", "ratio", "equation"],
+          "answer": "fraction",
+          "explanation": "A fraction represents a part of a whole, such as 1/2."
+        },
+        {
+          "number": 3,
+          "sentence": "In a few hundred years' time, oil will not be nearly so ___ here on Earth.",
+          "options": ["abundant", "ample", "considerable", "immense"],
+          "answer": "abundant",
+          "explanation": "'Abundant' means existing in large quantities, suitable for natural resources."
+        },
+        {
+          "number": 4,
+          "sentence": "___ is measured in cm3 or m3.",
+          "options": ["Mass", "Extent", "Volume", "Magnitude"],
+          "answer": "Volume",
+          "explanation": "Volume is the amount of space occupied by an object, measured in cubic units."
+        },
+        {
+          "number": 5,
+          "sentence": "Don't wash that sweater in really hot water or it'll ___ .",
+          "options": ["diminish", "shrink", "reduce", "decrease"],
+          "answer": "shrink",
+          "explanation": "Clothes 'shrink' (become smaller) when washed in hot water."
+        },
+        {
+          "number": 6,
+          "sentence": "Maps on paper can only show the world in two ___ .",
+          "options": ["areas", "masses", "dimensions", "proportions"],
+          "answer": "dimensions",
+          "explanation": "Paper is a flat surface, so it has two dimensions (length and width)."
+        },
+        {
+          "number": 7,
+          "sentence": "Why are all your clothes in a ___ on the floor?",
+          "options": ["bulk", "batch", "heap", "sum"],
+          "answer": "heap",
+          "explanation": "A 'heap' is an untidy pile of things."
+        },
+        {
+          "number": 8,
+          "sentence": "Sending out e-mails that people haven't asked for to ___ addresses is often known as 'spamming'.",
+          "options": ["sufficient", "widespread", "countless", "multiple"],
+          "answer": "multiple",
+          "explanation": "'Multiple' means many or various; spam involves sending to many addresses."
+        }
+      ]
+    },
+    {
+      "id": "u14_B",
+      "label": "B",
+      "type": "word_replacement",
+      "instruction": "Each of the words in bold is in the wrong sentence. Write the correct words on the lines.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The ___ (uneven) age of everyone in this class is 16.5 .",
+          "answer": "average",
+          "explanation": "'Average age' refers to the mean age of a group."
+        },
+        {
+          "number": 2,
+          "sentence": "It's impossible to ___ (expand) how much destruction the hurricane has caused .",
+          "answer": "quantify",
+          "explanation": "'Quantify' means to measure or state the amount of something."
+        },
+        {
+          "number": 3,
+          "sentence": "There was a severe shortage of food in the Second World War so many governments had to ___ (force) it.",
+          "answer": "ration",
+          "explanation": "'Ration' means to limit the distribution of something scarce."
+        },
+        {
+          "number": 4,
+          "sentence": "Balloons ___ (ration) when you blow into them .",
+          "answer": "expand",
+          "explanation": "Balloons get larger (expand) when filled with air."
+        },
+        {
+          "number": 5,
+          "sentence": "There isn't a/an ___ (equidistant) number of numbers because you can always add one more onto the biggest number you can think of .",
+          "answer": "finite",
+          "explanation": "A 'finite' number is limited; numbers are infinite."
+        },
+        {
+          "number": 6,
+          "sentence": "Russia is an absolutely ___ (finite) country - it can take two weeks to travel from one side to the other by train.",
+          "answer": "vast",
+          "explanation": "'Vast' means extremely large in area."
+        },
+        {
+          "number": 7,
+          "sentence": "Any point on a circle is ___ (vast) from the centre .",
+          "answer": "equidistant",
+          "explanation": "By definition, all points on a circle's circumference are the same distance (equidistant) from the center."
+        },
+        {
+          "number": 8,
+          "sentence": "There's a huge ___ (quantify) between what the rich and the poorest members of society earn .",
+          "answer": "imbalance",
+          "explanation": "'Imbalance' refers to an unequal distribution or difference."
+        },
+        {
+          "number": 9,
+          "sentence": "The ___ (imbalance) that makes things drop to the ground is called gravity .",
+          "answer": "force",
+          "explanation": "Gravity is a natural 'force'."
+        },
+        {
+          "number": 10,
+          "sentence": "The walls of the old cottage were rough and ___ (average) in height.",
+          "answer": "uneven",
+          "explanation": "'Uneven' means not smooth or level."
+        },
+        {
+          "number": 11,
+          "sentence": "The density of an object is calculated by dividing its ___ (intensity) by its volume .",
+          "answer": "mass",
+          "explanation": "Scientific formula: Density = Mass / Volume."
+        },
+        {
+          "number": 12,
+          "sentence": "The storm hit the coast with such ___ (mass) that many buildings in the region were destroyed .",
+          "answer": "intensity",
+          "explanation": "'Intensity' refers to the strength or power of a storm."
+        }
+      ]
+    },
+    {
+      "id": "u14_C",
+      "label": "C",
+      "type": "gap_fill",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The judge awarded us 1,000 euros ___ (damage/ damages) when the builder admitted he hadn't followed safety standards.",
+          "answer": "damages",
+          "explanation": "'Damages' (plural) is the legal term for money awarded by a court."
+        },
+        {
+          "number": 2,
+          "sentence": "The hotel was so bad I'm thinking of asking for ___ (compensation / debit) from the travel agency.",
+          "answer": "compensation",
+          "explanation": "Compensation is money paid to make up for poor service or loss."
+        },
+        {
+          "number": 3,
+          "sentence": "Many companies ___ (withdraw/ deduct) tax from your salary before you get paid.",
+          "answer": "deduct",
+          "explanation": "'Deduct' means to take away an amount from a total (like tax from salary)."
+        },
+        {
+          "number": 4,
+          "sentence": "Hello. I'd like to ___ (withdraw/ deduct) 500 euros from my account, please.",
+          "answer": "withdraw",
+          "explanation": "'Withdraw' is the standard term for taking money out of a bank account."
+        },
+        {
+          "number": 5,
+          "sentence": "You can pay in 12 monthly instalments, but you'll have to make an initial ___ (lump sum/ down payment) of £25.",
+          "answer": "down payment",
+          "explanation": "A 'down payment' is the first part of a payment made when buying something on credit."
+        },
+        {
+          "number": 6,
+          "sentence": "If you win, you can choose to receive it all in one go as a ___ (lump sum/ down payment) or you can have a certain amount per year for life.",
+          "answer": "lump sum",
+          "explanation": "A 'lump sum' is a single large payment instead of several smaller ones."
+        },
+        {
+          "number": 7,
+          "sentence": "I'll ___ (finance/ deposit) the money in your bank account in the morning.",
+          "answer": "deposit",
+          "explanation": "'Deposit' means to put money into a bank account."
+        },
+        {
+          "number": 8,
+          "sentence": "I'm thinking of ___ (speculating/ depositing) on the stock exchange. Do you think it's risky?",
+          "answer": "speculating",
+          "explanation": "'Speculating' involves buying assets (like shares) hoping to make a profit despite the risk."
+        },
+        {
+          "number": 9,
+          "sentence": "Why don't you arrange to pay your bills by direct ___ (debt/ debit)? That way, they're automatically paid from your account.",
+          "answer": "debit",
+          "explanation": "'Direct debit' is a specific banking arrangement."
+        },
+        {
+          "number": 10,
+          "sentence": "Where is the company planning to get the ___ (sum / finance) for this project from?",
+          "answer": "finance",
+          "explanation": "'Finance' refers to the funding needed for a business or project."
+        }
+      ]
+    },
+    {
+      "id": "u14_D",
+      "label": "D",
+      "type": "gap_fill",
+      "instruction": "Write a word from the box in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Different bank accounts pay different amounts of ___ .",
+          "answer": "interest",
+          "explanation": "Banks pay interest on the money you keep in an account."
+        },
+        {
+          "number": 2,
+          "sentence": "If your salary doesn't always get you to the end of the month, you'll have to arrange a/an ___ with your bank.",
+          "answer": "overdraft",
+          "explanation": "An 'overdraft' allows you to spend more money than you have in your account."
+        },
+        {
+          "number": 3,
+          "sentence": "If you're planning to buy a house, you'll probably need to get a/an ___ .",
+          "answer": "mortgage",
+          "explanation": "A 'mortgage' is a loan specifically for buying property."
+        },
+        {
+          "number": 4,
+          "sentence": "If you're thinking about taking out life ___ , make sure you talk to an independent financial advisor.",
+          "answer": "insurance",
+          "explanation": "Life insurance provides financial protection in case of death."
+        },
+        {
+          "number": 5,
+          "sentence": "Make sure you know what ___ you're entitled to. If you're on a low income... you may receive [money] from the state.",
+          "answer": "benefits",
+          "explanation": "'Benefits' are payments from the government to those in need."
+        },
+        {
+          "number": 6,
+          "sentence": "Start paying into a/an ___ scheme now to ensure you have a comfortable retirement.",
+          "answer": "pension",
+          "explanation": "A 'pension' is a fund set up for retirement."
+        },
+        {
+          "number": 7,
+          "sentence": "It goes without saying that you should try to avoid getting into too much ___ .",
+          "answer": "debt",
+          "explanation": "'Debt' is money that you owe to others."
+        },
+        {
+          "number": 8,
+          "sentence": "If you do manage to start saving a little each month, you might want to think about buying some ___ .",
+          "answer": "shares",
+          "explanation": "'Shares' are units of ownership in a company."
+        },
+        {
+          "number": 9,
+          "sentence": "Their value can go down of course, but they can be a good ___ , particularly in the mid- to long-term.",
+          "answer": "investment",
+          "explanation": "Buying shares is a form of investment."
+        },
+        {
+          "number": 10,
+          "sentence": "Many companies pay an annual ___ to shareholders.",
+          "answer": "dividend",
+          "explanation": "A 'dividend' is a portion of a company's profit paid to shareholders."
+        }
+      ]
+    },
+    {
+      "id": "u14_E",
+      "label": "E",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If your debts are mounting ___ and your financial problems are weighing you...",
+          "answer": "up",
+          "explanation": "'Mount up' means to increase in size or amount."
+        },
+        {
+          "number": 2,
+          "sentence": "...your financial problems are weighing you ___ , the first thing to do is to stay calm.",
+          "answer": "down",
+          "explanation": "'Weigh down' means to cause someone worry or problems."
+        },
+        {
+          "number": 3,
+          "sentence": "Sizing ___ your financial situation - however painful - is far better than just ignoring it.",
+          "answer": "up",
+          "explanation": "'Size up' means to assess or form an opinion about a situation."
+        },
+        {
+          "number": 4,
+          "sentence": "Break these outgoings ___ into essentials (such as electricity bills and food) and luxuries.",
+          "answer": "down",
+          "explanation": "'Break down' means to divide a total into smaller parts."
+        },
+        {
+          "number": 5,
+          "sentence": "...and take your essential outgoings ___ from your income.",
+          "answer": "away",
+          "explanation": "'Take away' means to subtract."
+        },
+        {
+          "number": 6,
+          "sentence": "The amount that's remaining is the amount you can afford to pay ___ to your creditors each month.",
+          "answer": "back",
+          "explanation": "'Pay back' means to repay money owed."
+        },
+        {
+          "number": 7,
+          "sentence": "...they know that if you - and they - just let the debt build ___ indefinitely it will never be paid off.",
+          "answer": "up",
+          "explanation": "'Build up' means to increase gradually."
+        },
+        {
+          "number": 8,
+          "sentence": "If your essential expenses add up ___ more than your income, then your situation is more serious.",
+          "answer": "to",
+          "explanation": "'Add up to' means to total a certain amount."
+        },
+        {
+          "number": 9,
+          "sentence": "...reduce the amount of money you have to pay ___ each month on essentials.",
+          "answer": "out",
+          "explanation": "'Pay out' means to spend or distribute money."
+        }
+      ]
+    },
+    {
+      "id": "u14_F",
+      "label": "F",
+      "type": "matching",
+      "instruction": "Match to make sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The big supermarket chains have bought ___",
+          "answer": "up most of the land round here already.",
+          "explanation": "'Buy up' means to buy all or a large amount of something."
+        },
+        {
+          "number": 2,
+          "sentence": "If we club ___",
+          "answer": "together, I'm sure we can afford to get Mrs Timms a nice leaving present.",
+          "explanation": "'Club together' means to pool money with others for a common purpose."
+        },
+        {
+          "number": 3,
+          "sentence": "Phil's clocked ___",
+          "answer": "up over 700 hours of flying time already.",
+          "explanation": "'Clock up' means to reach or record a particular number."
+        },
+        {
+          "number": 4,
+          "sentence": "One good way to drum ___",
+          "answer": "up support is to get people in the high street to sign a petition.",
+          "explanation": "'Drum up' means to try to obtain support or business."
+        },
+        {
+          "number": 5,
+          "sentence": "Six managers bought ___",
+          "answer": "out the company when it was threatened with closure.",
+          "explanation": "'Buy out' means to pay someone to take over their share of a business."
+        },
+        {
+          "number": 6,
+          "sentence": "I've got two weeks' holiday left but I think I'll carry ___",
+          "answer": "it over till next year and take it in January.",
+          "explanation": "'Carry over' means to take something from one period into the next."
+        },
+        {
+          "number": 7,
+          "sentence": "I'd never buy ___",
+          "answer": "blackmailers off - I'd rather go to the police and face the consequences.",
+          "explanation": "'Buy off' means to bribe someone to stop them from acting against you."
+        }
+      ]
+    },
+    {
+      "id": "u14_G",
+      "label": "G",
+      "type": "matching",
+      "instruction": "Phrasal verbs with together, such as club together, often contain the idea of people doing something as a group. Tick the sentences which contain that idea.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Eight countries in the region have banded together to make a free-trade zone .",
+          "answer": "Tick",
+          "explanation": "'Band together' involves a group of people/entities acting as one."
+        },
+        {
+          "number": 2,
+          "sentence": "I didn't know anyone was coming to dinner, so I had to cobble a meal together from whatever was in the fridge .",
+          "answer": "No Tick",
+          "explanation": "'Cobble together' means to put something together quickly/clumsily, not necessarily as a group."
+        },
+        {
+          "number": 3,
+          "sentence": "Why don't we all get together on Tuesday evening?",
+          "answer": "Tick",
+          "explanation": "'Get together' means to meet as a group."
+        },
+        {
+          "number": 4,
+          "sentence": "The twins have been behaving so badly recently. I should knock their heads together!",
+          "answer": "No Tick",
+          "explanation": "This is an idiom for punishing people, not people acting together as a group."
+        },
+        {
+          "number": 5,
+          "sentence": "Everyone in the village pulled together to make the carnival a success .",
+          "answer": "Tick",
+          "explanation": "'Pull together' means to work together as a team."
+        },
+        {
+          "number": 6,
+          "sentence": "The only way we'll all get off this mountain alive is if we stick together .",
+          "answer": "Tick",
+          "explanation": "'Stick together' means to stay with each other as a group."
+        },
+        {
+          "number": 7,
+          "sentence": "The three of us put together quite an interesting proposal.",
+          "answer": "Tick",
+          "explanation": "'Put together' here implies a collaborative effort by three people."
+        }
+      ]
+    },
+    {
+      "id": "u14_H",
+      "label": "H",
+      "type": "gap_fill",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It took quite a while but at ___ (slow / long) last the website's starting to take off.",
+          "answer": "long",
+          "explanation": "'At long last' is a fixed idiom meaning finally after a long time."
+        },
+        {
+          "number": 2,
+          "sentence": "Did you really offer Liz a 50 per cent ___ (share / piece) in the business?",
+          "answer": "share",
+          "explanation": "A 'share in a business' refers to the portion of ownership."
+        },
+        {
+          "number": 3,
+          "sentence": "No, you can't borrow a thousand euros! I'm not made ___ (of / with) money, you know!",
+          "answer": "of",
+          "explanation": "'Made of money' is a common idiom meaning very rich."
+        },
+        {
+          "number": 4,
+          "sentence": "Nice apartments are a bit ___ (thin / slim) on the ground round here.",
+          "answer": "thin",
+          "explanation": "'Thin on the ground' is an idiom meaning scarce or few in number."
+        },
+        {
+          "number": 5,
+          "sentence": "I literally went weak ___ (on / at) the knees when he told me how much he'd won.",
+          "answer": "at",
+          "explanation": "'Weak at the knees' is a fixed idiom describing a physical reaction to strong emotion."
+        },
+        {
+          "number": 6,
+          "sentence": "Let's discuss this ___ (in / with) depth tomorrow.",
+          "answer": "in",
+          "explanation": "'In depth' is the correct prepositional phrase meaning thoroughly."
+        },
+        {
+          "number": 7,
+          "sentence": "The field's just over four hectares ___ (at / in) size.",
+          "answer": "in",
+          "explanation": "'In size' is the standard phrase for describing dimensions."
+        },
+        {
+          "number": 8,
+          "sentence": "They said on the news the escaped convict's still ___ (at / in) large.",
+          "answer": "at",
+          "explanation": "'At large' is a fixed phrase meaning free, not captured."
+        },
+        {
+          "number": 9,
+          "sentence": "The problem with Jimmy is that he's such a ___ (weak / poor) loser.",
+          "answer": "poor",
+          "explanation": "A 'poor loser' is someone who gets angry or upset when they lose."
+        },
+        {
+          "number": 10,
+          "sentence": "I hate landlords who grow ___ (fat / large) on the rent they collect.",
+          "answer": "fat",
+          "explanation": "'Grow fat on' is an idiom meaning to become rich because of something, often at the expense of others."
+        },
+        {
+          "number": 11,
+          "sentence": "The area used to be very ___ (rich / wealthy) in tin and copper.",
+          "answer": "rich",
+          "explanation": "'Rich in' means having a lot of a particular resource."
+        },
+        {
+          "number": 12,
+          "sentence": "It's a good business opportunity ___ (for / with) my money.",
+          "answer": "for",
+          "explanation": "'For my money' is an idiom meaning 'in my opinion'."
+        },
+        {
+          "number": 13,
+          "sentence": "There were a whole ___ (number / load) of people I knew at the opening.",
+          "answer": "load",
+          "explanation": "'A whole load of' is an informal phrase meaning many."
+        }
+      ]
+    },
+    {
+      "id": "u14_I",
+      "label": "I",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Jane just stood there and watched while we did all the work. A ___ lot of use that was!",
+          "answer": "fat",
+          "explanation": "'A fat lot of use' is an ironic idiom meaning not useful at all."
+        },
+        {
+          "number": 2,
+          "sentence": "You can make a lot of money if you work in ___ finance.",
+          "answer": "high",
+          "explanation": "'High finance' refers to the activity of lending/investing very large sums of money."
+        },
+        {
+          "number": 3,
+          "sentence": "We've travelled the length and ___ of the country looking for the next Teen Star!",
+          "answer": "breadth",
+          "explanation": "'The length and breadth of' is a fixed phrase meaning everywhere in a place."
+        },
+        {
+          "number": 4,
+          "sentence": "Hi Chloe! Long time no ___ !",
+          "answer": "see",
+          "explanation": "'Long time no see' is a fixed expression used when meeting someone after a long time."
+        },
+        {
+          "number": 5,
+          "sentence": "The first moments of the universe are often known as the Big ___ .",
+          "answer": "Bang",
+          "explanation": "The 'Big Bang' theory of the origin of the universe."
+        },
+        {
+          "number": 6,
+          "sentence": "It only cost five euros and we were there all day. We really did get our money's ___ .",
+          "answer": "worth",
+          "explanation": "'Get your money's worth' means to get good value for the money you spend."
+        },
+        {
+          "number": 7,
+          "sentence": "It's a pay and ___ car park, so get a ticket from the machine before you go shopping.",
+          "answer": "display",
+          "explanation": "'Pay and display' is a system where you buy a ticket and show it in your car window."
+        },
+        {
+          "number": 8,
+          "sentence": "'Share and share ___ , that's what I say.'",
+          "answer": "alike",
+          "explanation": "'Share and share alike' means that everyone should have an equal share."
+        },
+        {
+          "number": 9,
+          "sentence": "And suddenly Diana appeared out of ___ air.",
+          "answer": "thin",
+          "explanation": "'Out of thin air' means suddenly and unexpectedly."
+        },
+        {
+          "number": 10,
+          "sentence": "I think you're on very weak ___ with that argument.",
+          "answer": "ground",
+          "explanation": "'On weak ground' means that your argument or position is not supported by facts."
+        }
+      ]
+    },
+    {
+      "id": "u14_J",
+      "label": "J",
+      "type": "gap_fill",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I think we're running ___ of petrol. / Nick has got such a ___ temper. / ...at such ___ notice.",
+          "answer": "short",
+          "explanation": "'Running short', 'short temper', and 'short notice' all use the word 'short'."
+        },
+        {
+          "number": 2,
+          "sentence": "It ___ to shop around... / ...as long as he ___ his way. / ...when someone ___ me a compliment.",
+          "answer": "pays",
+          "explanation": "'It pays to', 'pays his way', and 'pays a compliment' all use the word 'pay/pays'."
+        },
+        {
+          "number": 3,
+          "sentence": "Maybe that's your ___ . / ...my ___ in life... / ...got a ___ on this weekend...",
+          "answer": "lot",
+          "explanation": "'That's your lot', 'lot in life', and 'have a lot on' all use the word 'lot'."
+        },
+        {
+          "number": 4,
+          "sentence": "Pauline seems to be in very ___ spirits... / ...quite a ___ risk... / It's ___ time you started...",
+          "answer": "high",
+          "explanation": "'High spirits', 'high risk', and 'high time' all use the word 'high'."
+        },
+        {
+          "number": 5,
+          "sentence": "Tom's actually quite a ___ name... / ...make such a ___ thing out of it. / ...make it ___ in the entertainment business.",
+          "answer": "big",
+          "explanation": "'Big name', 'big thing', and 'make it big' all use the word 'big'."
+        },
+        {
+          "number": 6,
+          "sentence": "I don't think I've got any ___ change... / You made me feel so ___ ... / ...keen on making ___ talk at parties.",
+          "answer": "small",
+          "explanation": "'Small change', 'feel small', and 'small talk' all use the word 'small'."
+        }
+      ]
+    },
+    {
+      "id": "u14_K",
+      "label": "K",
+      "type": "gap_fill",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Some people will do anything to make money. -> Some people will ___ to make money.",
+          "answer": "go to great lengths",
+          "explanation": "'Go to great lengths' means to do anything necessary to achieve something."
+        },
+        {
+          "number": 2,
+          "sentence": "I don't know why you're saying this is so important. -> I don't know why you're ___ this.",
+          "answer": "making such a big deal out of",
+          "explanation": "'Make a big deal out of' means to treat something as very important."
+        },
+        {
+          "number": 3,
+          "sentence": "Simon said he had no idea what he was doing for the first few weeks of his new job. -> Simon said he ___ for the first few weeks of his new job.",
+          "answer": "was out of his depth",
+          "explanation": "'Out of your depth' means in a situation that is too difficult for you."
+        },
+        {
+          "number": 4,
+          "sentence": "I think they're largely responsible for what's happened. -> I hold them ___ responsible for what's happened.",
+          "answer": "in no small way",
+          "explanation": "'In no small way' is a formal way of saying 'largely' or 'significantly'."
+        },
+        {
+          "number": 5,
+          "sentence": "We've searched everywhere for the lottery ticket and can't find it anywhere. -> We've searched ___ for the lottery ticket and can't find it anywhere.",
+          "answer": "high and low",
+          "explanation": "'Search high and low' means to search everywhere."
+        },
+        {
+          "number": 6,
+          "sentence": "We talked about investments for a very long time. -> We talked ___ about investments.",
+          "answer": "at great length",
+          "explanation": "'At (great) length' means for a long time and in detail."
+        }
+      ]
+    },
+    {
+      "id": "u14_L",
+      "label": "L",
+      "type": "word_replacement",
+      "instruction": "Each of the words or phrases in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I was hoping I'd raise about 1,000 euros for the local hospital, but I fell ___ (small) by a few hundred euros.",
+          "answer": "short",
+          "explanation": "'Fall short' means to fail to reach an amount or standard."
+        },
+        {
+          "number": 2,
+          "sentence": "Jerry and I agreed to split the costs ___ (twenty-twenty) so we'd each pay exactly half .",
+          "answer": "fifty-fifty",
+          "explanation": "Splitting 'fifty-fifty' means dividing something into two equal halves."
+        },
+        {
+          "number": 3,
+          "sentence": "There are two ways to get to Innsbruck, but I think it's as ___ (wide) as it's long .",
+          "answer": "broad",
+          "explanation": "'As broad as it's long' means that two choices are equal."
+        },
+        {
+          "number": 4,
+          "sentence": "My dad taught me about the importance of saving money when I was knee-high to a ___ (locust).",
+          "answer": "grasshopper",
+          "explanation": "'Knee-high to a grasshopper' is a common idiom meaning very young."
+        },
+        {
+          "number": 5,
+          "sentence": "So many politicians just seem to be trying to line their own ___ (wallets) these days - it's disgraceful.",
+          "answer": "pockets",
+          "explanation": "'Line your own pockets' means to make yourself rich, usually dishonestly."
+        },
+        {
+          "number": 6,
+          "sentence": "The cost is a drop in the ___ (sea) in terms of the whole marketing budget.",
+          "answer": "ocean",
+          "explanation": "The idiom is 'a drop in the ocean', meaning a tiny, insignificant amount."
+        },
+        {
+          "number": 7,
+          "sentence": "I've decided to sell the whole business - lock, stock and ___ (trigger) .",
+          "answer": "barrel",
+          "explanation": "'Lock, stock and barrel' means including everything, derived from parts of a gun."
+        },
+        {
+          "number": 8,
+          "sentence": "Don't pay the whole bill. Let's go ___ (half) .",
+          "answer": "halves",
+          "explanation": "The idiom for sharing a cost is 'go halves'."
+        },
+        {
+          "number": 9,
+          "sentence": "There are two ways to get to Innsbruck, but I think it's six of one and half a ___ (twelve) of the other.",
+          "answer": "dozen",
+          "explanation": "The phrase is 'six of one and half a dozen of the other'."
+        },
+        {
+          "number": 10,
+          "sentence": "Lucy managed to save quite a ___ (clean) sum last summer .",
+          "answer": "tidy",
+          "explanation": "A 'tidy sum' is an idiom for a large amount of money."
+        },
+        {
+          "number": 11,
+          "sentence": "We're not going to make a profit this year, but we should just break ___ (equal) .",
+          "answer": "even",
+          "explanation": "'Break even' means to reach a point where income equals expenses."
+        },
+        {
+          "number": 12,
+          "sentence": "He's just trying to ___ (stay) up with the Joneses, if you ask me.",
+          "answer": "keep",
+          "explanation": "The idiom is 'keep up with the Joneses'."
+        }
+      ]
+    },
+    {
+      "id": "u14_M",
+      "label": "M",
+      "type": "word_form",
+      "instruction": "Complete the sentences by changing the form of the word in capitals.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "How dare they ___ blame without knowing all the facts first? (PORTION)",
+          "answer": "apportion",
+          "explanation": "'Apportion' means to distribute or assign (blame, responsibility)."
+        },
+        {
+          "number": 2,
+          "sentence": "At the ___ of summer, the temperature can reach 50C. (HIGH)",
+          "answer": "height",
+          "explanation": "'Height' is the noun form of high, used here for 'peak'."
+        },
+        {
+          "number": 3,
+          "sentence": "I'd like to make a ___ from my bank account, please. (DRAW)",
+          "answer": "withdrawal",
+          "explanation": "'Withdrawal' is the noun form of withdraw."
+        },
+        {
+          "number": 4,
+          "sentence": "Doris Carter... puts her ___ down to having a loving family... (LONG)",
+          "answer": "longevity",
+          "explanation": "'Longevity' means long life."
+        },
+        {
+          "number": 5,
+          "sentence": "A ___ of residents now support the proposal... (MAJOR)",
+          "answer": "majority",
+          "explanation": "'Majority' is the noun form meaning most people."
+        },
+        {
+          "number": 6,
+          "sentence": "What strength ___ do those binoculars have? (MAGNIFY)",
+          "answer": "magnification",
+          "explanation": "'Magnification' is the noun form for the power of making things look larger."
+        },
+        {
+          "number": 7,
+          "sentence": "We took out a loan... so we're going to have to make monthly ___ for the next five years. (PAY)",
+          "answer": "payments",
+          "explanation": "'Payments' is the plural noun for money paid."
+        },
+        {
+          "number": 8,
+          "sentence": "Liskeard and Callington are basically ___ from here... (DISTANT)",
+          "answer": "equidistant",
+          "explanation": "'Equidistant' means at the same distance."
+        },
+        {
+          "number": 9,
+          "sentence": "Their help was hugely ___ . (BENEFIT)",
+          "answer": "beneficial",
+          "explanation": "'Beneficial' is the adjective form of benefit."
+        },
+        {
+          "number": 10,
+          "sentence": "Please keep e-mails short. ___ makes everyone's lives easier. (BRIEF)",
+          "answer": "Brevity",
+          "explanation": "'Brevity' is the noun form meaning the quality of being brief."
+        },
+        {
+          "number": 11,
+          "sentence": "The school's football pitch has been ___ over the summer... (LONG)",
+          "answer": "lengthened",
+          "explanation": "'Lengthened' is the verb form meaning made longer."
+        },
+        {
+          "number": 12,
+          "sentence": "I don't want to ___ the agony for you... (LONG)",
+          "answer": "prolong",
+          "explanation": "'Prolong' means to make something last longer."
+        },
+        {
+          "number": 13,
+          "sentence": "You might find it hard to answer all the questions in the ___ time. (LOT)",
+          "answer": "allotted",
+          "explanation": "'Allotted' is the adjective form meaning given or assigned."
+        }
+      ]
+    },
+    {
+      "id": "u14_N",
+      "label": "N",
+      "type": "gap_fill",
+      "instruction": "Use the word given in capitals to form a word that fits in the space.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Albert Einstein's work has enormously ___ our understanding... (BROAD)",
+          "answer": "broadened",
+          "explanation": "Verb form 'broadened' means made wider/more extensive."
+        },
+        {
+          "number": 2,
+          "sentence": "...and has had a ___ impact on all our lives. (CONSIDER)",
+          "answer": "considerable",
+          "explanation": "Adjective form 'considerable' means great or significant."
+        },
+        {
+          "number": 3,
+          "sentence": "To a very great ___ , it is Einstein who is responsible... (EXTEND)",
+          "answer": "extent",
+          "explanation": "Noun form 'extent' used in the phrase 'to a great extent'."
+        },
+        {
+          "number": 4,
+          "sentence": "___ , without E=mc2, we would not have nuclear power... (ADD)",
+          "answer": "Additionally",
+          "explanation": "Adverbial connector used to add information."
+        },
+        {
+          "number": 5,
+          "sentence": "At the time, his paper was ___ ignored... (LARGE)",
+          "answer": "largely",
+          "explanation": "Adverb meaning mostly or to a great degree."
+        },
+        {
+          "number": 6,
+          "sentence": "...which was an ___ of his 1905 paper... (EXTEND)",
+          "answer": "extension",
+          "explanation": "Noun form meaning a development that includes more things."
+        },
+        {
+          "number": 7,
+          "sentence": "The idea that only a tiny ___ of scientists... (MINOR)",
+          "answer": "minority",
+          "explanation": "Noun form meaning a small part of a larger group."
+        },
+        {
+          "number": 8,
+          "sentence": "As he was clearly out of his ___ ... (DEEP)",
+          "answer": "depth",
+          "explanation": "In the idiom 'out of one's depth'."
+        },
+        {
+          "number": 9,
+          "sentence": "Space, time, energy and mass are ___ subjects... (WEIGH)",
+          "answer": "weighty",
+          "explanation": "Adjective meaning serious and important."
+        },
+        {
+          "number": 10,
+          "sentence": "The implications... may well be ___ . (FINITE)",
+          "answer": "infinite",
+          "explanation": "Adjective meaning without end or limit."
+        }
+      ]
+    },
+    {
+      "id": "u14_O",
+      "label": "O",
+      "type": "gap_fill",
+      "instruction": "The prefix en-, as in enlarge, can be put on some adjectives, nouns and verbs to make verbs. Write these words, with en-, in the correct category.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "put in/on (a) ...",
+          "answer": "encircle, endanger, enlist, enthrone, entomb, entrap",
+          "explanation": "These verbs mean putting someone/something in a circle, danger, a list, on a throne, in a tomb, or in a trap."
+        },
+        {
+          "number": 2,
+          "sentence": "make ...",
+          "answer": "enable, endear, enlarge, enrich, enslave",
+          "explanation": "These verbs mean to make something/someone able, dear, large, rich, or a slave."
+        },
+        {
+          "number": 3,
+          "sentence": "bring into effect",
+          "answer": "enact, encode, enforce, enrage",
+          "explanation": "These verbs mean to put into action/law, code, force, or a state of rage."
+        }
+      ]
+    },
+    {
+      "id": "u14_P",
+      "label": "P",
+      "type": "gap_fill",
+      "instruction": "Write a word with en- from exercise O in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Are you really thinking of ___ in the army?",
+          "answer": "enlisting",
+          "explanation": "'Enlist' means to join the armed forces."
+        },
+        {
+          "number": 2,
+          "sentence": "This new software should ___ us to speed up the distribution process no end.",
+          "answer": "enable",
+          "explanation": "'Enable' means to make it possible for someone to do something."
+        },
+        {
+          "number": 3,
+          "sentence": "There's no point having a law if the police can't ___ it.",
+          "answer": "enforce",
+          "explanation": "'Enforce' means to make sure that people obey a law or rule."
+        },
+        {
+          "number": 4,
+          "sentence": "We were completely ___ by journalists and photographers and couldn't get to the car.",
+          "answer": "encircled",
+          "explanation": "'Encircle' means to surround someone or something completely."
+        },
+        {
+          "number": 5,
+          "sentence": "The destruction of the rainforests is ___ the survival of a number of species.",
+          "answer": "endangering",
+          "explanation": "'Endanger' means to put someone or something in a situation where they might be harmed."
+        },
+        {
+          "number": 6,
+          "sentence": "Can we ___ the photo so we can see their faces in a bit more detail?",
+          "answer": "enlarge",
+          "explanation": "'Enlarge' means to make something bigger."
+        }
+      ]
+    }
+  ]
+}

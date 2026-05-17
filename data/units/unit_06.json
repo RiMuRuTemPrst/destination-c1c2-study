@@ -1,0 +1,1520 @@
+{
+  "unit_id": 6,
+  "unit_type": "Vocabulary",
+  "title": "Time and work",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Time",
+      "words": [
+        {
+          "word": "abrupt",
+          "pos": "adj",
+          "definition_en": "sudden and unexpected, often in an unpleasant way",
+          "definition_vi": "đột ngột, bất ngờ (thường gây khó chịu)",
+          "example": "The bus came to an abrupt halt.",
+          "synonyms": ["sudden", "unexpected"],
+          "antonyms": ["gradual"]
+        },
+        {
+          "word": "anachronism",
+          "pos": "n",
+          "definition_en": "something that is out of place in time, especially something that belongs to an earlier period",
+          "definition_vi": "sự lỗi thời, sự nhầm lẫn về thời đại",
+          "example": "She said that for her, a typewriter is an anachronism.",
+          "synonyms": ["mismatch"]
+        },
+        {
+          "word": "annual",
+          "pos": "adj",
+          "definition_en": "happening or produced once a year",
+          "definition_vi": "hàng năm",
+          "example": "The company holds an annual general meeting.",
+          "synonyms": ["yearly"],
+          "collocations": ["annual report", "annual event"]
+        },
+        {
+          "word": "antique",
+          "pos": "adj, n",
+          "definition_en": "old and often valuable; an object made in an earlier period",
+          "definition_vi": "cổ, đồ cổ",
+          "example": "He owns an antique desk from the 18th century.",
+          "synonyms": ["ancient", "vintage"],
+          "collocations": ["antique furniture", "antique shop"]
+        },
+        {
+          "word": "century",
+          "pos": "n",
+          "definition_en": "a period of 100 years",
+          "definition_vi": "thế kỷ",
+          "example": "The castle was built over a century ago.",
+          "collocations": ["21st century", "turn of the century"]
+        },
+        {
+          "word": "chronological",
+          "pos": "adj",
+          "definition_en": "arranged in the order in which events happened",
+          "definition_vi": "theo thứ tự thời gian",
+          "example": "The events were listed in chronological order.",
+          "collocations": ["chronological order"]
+        },
+        {
+          "word": "contemporary",
+          "pos": "n, adj",
+          "definition_en": "modern, or relating to the present time; existing or happening at the same time",
+          "definition_vi": "đương đại; người cùng thời",
+          "example": "She is an expert in contemporary art.",
+          "synonyms": ["modern", "current"]
+        },
+        {
+          "word": "decade",
+          "pos": "n",
+          "definition_en": "a period of ten years",
+          "definition_vi": "thập kỷ",
+          "example": "Prices have risen sharply over the last decade.",
+          "collocations": ["last decade", "past decade"]
+        },
+        {
+          "word": "duration",
+          "pos": "n",
+          "definition_en": "the length of time that something continues or lasts",
+          "definition_vi": "khoảng thời gian kéo dài",
+          "example": "The course was of three years' duration.",
+          "synonyms": ["length", "period"]
+        },
+        {
+          "word": "elapse",
+          "pos": "v",
+          "definition_en": "if time elapses, it goes past",
+          "definition_vi": "(thời gian) trôi qua",
+          "example": "Many years had elapsed since they last met.",
+          "synonyms": ["pass", "go by"]
+        },
+        {
+          "word": "era",
+          "pos": "n",
+          "definition_en": "a period of time that has a particular quality or character",
+          "definition_vi": "thời đại, kỷ nguyên",
+          "example": "The fall of the Berlin Wall marked the end of an era.",
+          "synonyms": ["epoch", "period"]
+        },
+        {
+          "word": "eternal",
+          "pos": "adj",
+          "definition_en": "lasting forever or for a very long time",
+          "definition_vi": "vĩnh hằng, bất diệt",
+          "example": "She promised him her eternal love.",
+          "synonyms": ["everlasting", "perpetual"]
+        },
+        {
+          "word": "expire",
+          "pos": "v",
+          "definition_en": "if something expires, it comes to an end or stops being valid",
+          "definition_vi": "hết hạn, kết thúc",
+          "example": "My passport expires next month.",
+          "synonyms": ["end", "run out"]
+        },
+        {
+          "word": "frequency",
+          "pos": "n",
+          "definition_en": "the number of times that something happens during a particular period",
+          "definition_vi": "tần suất",
+          "example": "The frequency of bus services has been increased.",
+          "collocations": ["high frequency", "low frequency"]
+        },
+        {
+          "word": "instantaneous",
+          "pos": "adj",
+          "definition_en": "happening immediately",
+          "definition_vi": "tức thời, ngay lập tức",
+          "example": "The reaction of the audience was instantaneous.",
+          "synonyms": ["immediate", "prompt"]
+        },
+        {
+          "word": "interim",
+          "pos": "n, adj",
+          "definition_en": "intended to last for only a short time until something permanent is found",
+          "definition_vi": "tạm thời, lâm thời",
+          "example": "An interim government was set up after the revolution.",
+          "synonyms": ["temporary", "provisional"]
+        },
+        {
+          "word": "interval",
+          "pos": "n",
+          "definition_en": "a period of time between two events",
+          "definition_vi": "khoảng thời gian nghỉ, khoảng cách",
+          "example": "There will be a short interval between the two acts.",
+          "synonyms": ["break", "gap"]
+        },
+        {
+          "word": "lapse",
+          "pos": "v, n",
+          "definition_en": "a short period of time when you fail to do something correctly; a period of time between two events",
+          "definition_vi": "sự lơ đễnh, sự trôi qua, khoảng thời gian gián đoạn",
+          "example": "A lapse of concentration caused the accident.",
+          "synonyms": ["failure", "interval"]
+        },
+        {
+          "word": "lifetime",
+          "pos": "n",
+          "definition_en": "the period of time during which someone is alive or something exists",
+          "definition_vi": "cuộc đời, đời người",
+          "example": "She has lived in this village for a lifetime.",
+          "collocations": ["in my lifetime", "lifetime experience"]
+        },
+        {
+          "word": "long-standing",
+          "pos": "adj",
+          "definition_en": "having existed for a long time",
+          "definition_vi": "lâu đời, có từ lâu",
+          "example": "They have a long-standing agreement to meet every year.",
+          "synonyms": ["established", "enduring"]
+        },
+        {
+          "word": "millennium",
+          "pos": "n",
+          "definition_en": "a period of 1,000 years",
+          "definition_vi": "thiên niên kỷ",
+          "example": "The church celebrated its first millennium last year.",
+          "collocations": ["turn of the millennium"]
+        },
+        {
+          "word": "obsolete",
+          "pos": "adj",
+          "definition_en": "no longer used because something newer and better has been invented",
+          "definition_vi": "lỗi thời, không còn sử dụng",
+          "example": "Gas lamps became obsolete after the invention of electric lights.",
+          "synonyms": ["outdated", "archaic"]
+        },
+        {
+          "word": "overdue",
+          "pos": "adj",
+          "definition_en": "if something is overdue, it should have happened or been done before now",
+          "definition_vi": "quá hạn",
+          "example": "The library books are three weeks overdue.",
+          "antonyms": ["early", "on time"]
+        },
+        {
+          "word": "period",
+          "pos": "n",
+          "definition_en": "a particular length of time",
+          "definition_vi": "giai đoạn, thời kỳ",
+          "example": "The 1920s was a period of great social change.",
+          "synonyms": ["era", "phase"]
+        },
+        {
+          "word": "permanent",
+          "pos": "adj",
+          "definition_en": "happening or existing for a long time or for all time in the future",
+          "definition_vi": "vĩnh viễn, lâu dài",
+          "example": "She is looking for a permanent job.",
+          "antonyms": ["temporary"]
+        },
+        {
+          "word": "phase",
+          "pos": "n",
+          "definition_en": "a particular stage of a process that involves several stages",
+          "definition_vi": "giai đoạn",
+          "example": "The first phase of the project is complete.",
+          "synonyms": ["stage", "step"]
+        },
+        {
+          "word": "postpone",
+          "pos": "v",
+          "definition_en": "to decide that something will not be done at the time when it was planned",
+          "definition_vi": "trì hoãn",
+          "example": "The meeting has been postponed until next week.",
+          "synonyms": ["put off", "delay"]
+        },
+        {
+          "word": "prior",
+          "pos": "adj",
+          "definition_en": "happening or existing before something else",
+          "definition_vi": "trước đó",
+          "example": "I had a prior engagement and couldn't attend.",
+          "synonyms": ["previous", "preceding"]
+        },
+        {
+          "word": "prompt",
+          "pos": "adj",
+          "definition_en": "immediate or quick; happening without delay",
+          "definition_vi": "nhanh chóng, tức thời",
+          "example": "We received a prompt reply to our letter.",
+          "synonyms": ["quick", "immediate"]
+        },
+        {
+          "word": "provisional",
+          "pos": "adj",
+          "definition_en": "if something is provisional, it is intended to be changed later",
+          "definition_vi": "tạm thời, dự kiến",
+          "example": "We have made a provisional booking for the hotel.",
+          "synonyms": ["tentative", "interim"]
+        },
+        {
+          "word": "punctual",
+          "pos": "adj",
+          "definition_en": "arriving or happening at exactly the time that has been arranged",
+          "definition_vi": "đúng giờ",
+          "example": "She is always very punctual for appointments.",
+          "synonyms": ["on time"]
+        },
+        {
+          "word": "seasonal",
+          "pos": "adj",
+          "definition_en": "available or happening only at particular times of the year",
+          "definition_vi": "theo mùa",
+          "example": "Fruit picking is a seasonal job.",
+          "collocations": ["seasonal changes", "seasonal worker"]
+        },
+        {
+          "word": "simultaneous",
+          "pos": "adj",
+          "definition_en": "happening or existing at the same time",
+          "definition_vi": "đồng thời, cùng lúc",
+          "example": "There were simultaneous explosions in three different cities.",
+          "synonyms": ["concurrent", "synchronous"]
+        },
+        {
+          "word": "span",
+          "pos": "v, n",
+          "definition_en": "to continue for a particular amount of time; the length of time that something lasts",
+          "definition_vi": "kéo dài qua; quãng thời gian",
+          "example": "His career spanned half a century.",
+          "synonyms": ["last", "extend"]
+        },
+        {
+          "word": "spell",
+          "pos": "n",
+          "definition_en": "a short period of time",
+          "definition_vi": "một đợt, một khoảng thời gian ngắn",
+          "example": "We had a spell of cold weather last month.",
+          "synonyms": ["period", "interval"]
+        },
+        {
+          "word": "stint",
+          "pos": "n",
+          "definition_en": "a period of time spent doing something",
+          "definition_vi": "một khoảng thời gian làm việc",
+          "example": "He did a two-year stint in the army.",
+          "synonyms": ["period", "term"]
+        },
+        {
+          "word": "subsequent",
+          "pos": "adj",
+          "definition_en": "happening or coming after something else",
+          "definition_vi": "xảy ra sau đó",
+          "example": "Subsequent events proved that he was right.",
+          "synonyms": ["following", "successive"]
+        },
+        {
+          "word": "temporary",
+          "pos": "adj",
+          "definition_en": "existing or lasting for only a limited period of time",
+          "definition_vi": "tạm thời",
+          "example": "I'm looking for a temporary job for the summer.",
+          "antonyms": ["permanent"]
+        },
+        {
+          "word": "timely",
+          "pos": "adj",
+          "definition_en": "happening at the most useful or suitable time",
+          "definition_vi": "kịp thời, đúng lúc",
+          "example": "The warning was very timely and saved many lives.",
+          "synonyms": ["opportune", "well-timed"]
+        },
+        {
+          "word": "vintage",
+          "pos": "n, adj",
+          "definition_en": "old and of very high quality; characteristic of a particular period",
+          "definition_vi": "cổ điển, đặc trưng cho một thời kỳ",
+          "example": "She collects vintage clothing.",
+          "collocations": ["vintage car", "vintage wine"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Work",
+      "words": [
+        {
+          "word": "civil service",
+          "pos": "n phr",
+          "definition_en": "the government departments that manage a country",
+          "definition_vi": "ngành công chức, dịch vụ công",
+          "example": "He has a high-ranking job in the civil service.",
+          "collocations": ["civil servant"]
+        },
+        {
+          "word": "client",
+          "pos": "n",
+          "definition_en": "someone who pays for a professional person or organisation to help them",
+          "definition_vi": "khách hàng (sử dụng dịch vụ chuyên nghiệp)",
+          "example": "The lawyer spent the morning meeting with clients.",
+          "synonyms": ["customer"]
+        },
+        {
+          "word": "colleague",
+          "pos": "n",
+          "definition_en": "someone you work with",
+          "definition_vi": "đồng nghiệp",
+          "example": "I asked a colleague to help me with the report.",
+          "synonyms": ["co-worker", "associate"]
+        },
+        {
+          "word": "consultant",
+          "pos": "n",
+          "definition_en": "an expert whose job is to give advice and help to people in a particular subject",
+          "definition_vi": "cố vấn, chuyên gia tư vấn",
+          "example": "She works as a marketing consultant.",
+          "collocations": ["business consultant", "management consultant"]
+        },
+        {
+          "word": "effective",
+          "pos": "adj",
+          "definition_en": "successful, and achieving the results that you want",
+          "definition_vi": "hiệu quả (đạt kết quả mong muốn)",
+          "example": "The new law has been very effective in reducing crime.",
+          "synonyms": ["successful", "efficient"]
+        },
+        {
+          "word": "efficient",
+          "pos": "adj",
+          "definition_en": "working or operating quickly and effectively in an organised way",
+          "definition_vi": "hiệu quả (năng suất, tiết kiệm)",
+          "example": "The new system is much more efficient than the old one.",
+          "antonyms": ["inefficient"]
+        },
+        {
+          "word": "executive",
+          "pos": "n",
+          "definition_en": "a senior manager in a business or other organisation",
+          "definition_vi": "người điều hành, giám đốc",
+          "example": "He is a top executive in a large multinational company.",
+          "collocations": ["chief executive"]
+        },
+        {
+          "word": "fire",
+          "pos": "v",
+          "definition_en": "to make someone leave their job, especially because they have done something wrong",
+          "definition_vi": "sa thải, đuổi việc",
+          "example": "She was fired for being late every day.",
+          "synonyms": ["dismiss", "sack"]
+        },
+        {
+          "word": "headhunt",
+          "pos": "v",
+          "definition_en": "to try to persuade someone who has a high-level job to leave it and join another company",
+          "definition_vi": "săn đầu người",
+          "example": "He was headhunted by a rival law firm.",
+          "collocations": ["headhunter"]
+        },
+        {
+          "word": "leave",
+          "pos": "n",
+          "definition_en": "a period of time when you are allowed to be away from work",
+          "definition_vi": "phép nghỉ",
+          "example": "She is on maternity leave.",
+          "collocations": ["on leave", "annual leave"]
+        },
+        {
+          "word": "marketing",
+          "pos": "n",
+          "definition_en": "the ways in which a company encourages people to buy its products",
+          "definition_vi": "tiếp thị, marketing",
+          "example": "The company is spending more money on marketing.",
+          "collocations": ["marketing campaign", "marketing strategy"]
+        },
+        {
+          "word": "multinational",
+          "pos": "n, adj",
+          "definition_en": "a large company that has offices or factories in many different countries",
+          "definition_vi": "đa quốc gia; công ty đa quốc gia",
+          "example": "She works for a large multinational corporation.",
+          "collocations": ["multinational company"]
+        },
+        {
+          "word": "promotion",
+          "pos": "n",
+          "definition_en": "a move to a higher level in an organisation",
+          "definition_vi": "sự thăng chức",
+          "example": "He is hoping for a promotion next year.",
+          "antonyms": ["demotion"]
+        },
+        {
+          "word": "prospects",
+          "pos": "n pl",
+          "definition_en": "the possibility that something will happen in the future, especially a good thing",
+          "definition_vi": "triển vọng (nghề nghiệp)",
+          "example": "The job offers excellent career prospects.",
+          "synonyms": ["possibilities", "outlook"]
+        },
+        {
+          "word": "public/private sector",
+          "pos": "n phr",
+          "definition_en": "the parts of a country's economy that are controlled by the government / by private companies",
+          "definition_vi": "khu vực công / khu vực tư nhân",
+          "example": "Jobs in the public sector usually offer better security.",
+          "collocations": ["public sector workers"]
+        },
+        {
+          "word": "recruit",
+          "pos": "v, n",
+          "definition_en": "to get someone to work in a company or join an organisation; someone who has just joined a company or organisation",
+          "definition_vi": "tuyển dụng; nhân viên mới",
+          "example": "The company is recruiting more staff.",
+          "collocations": ["new recruit"]
+        },
+        {
+          "word": "redundant",
+          "pos": "adj",
+          "definition_en": "if someone is redundant, they have been told they must leave their job because they are no longer needed",
+          "definition_vi": "dư thừa, bị sa thải (do thu hẹp quy mô)",
+          "example": "The factory closed and 500 workers were made redundant.",
+          "collocations": ["make sb redundant"]
+        },
+        {
+          "word": "sack",
+          "pos": "v",
+          "definition_en": "to tell someone they can no longer work at their job (informal)",
+          "definition_vi": "sa thải, đuổi việc (thông tục)",
+          "example": "He got the sack for being rude to a customer.",
+          "synonyms": ["fire", "dismiss"]
+        },
+        {
+          "word": "strike",
+          "pos": "v, n",
+          "definition_en": "to stop working because of a disagreement with your employer; a period of time when workers stop working",
+          "definition_vi": "đình công; cuộc đình công",
+          "example": "The train drivers are going on strike.",
+          "collocations": ["go on strike"]
+        },
+        {
+          "word": "union",
+          "pos": "n",
+          "definition_en": "an organisation that represents the people who work in a particular industry",
+          "definition_vi": "công đoàn, hiệp hội",
+          "example": "The union is negotiating a pay rise for its members.",
+          "synonyms": ["trade union"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "crop up",
+          "pos": "v phr",
+          "definition_en": "appear or happen suddenly or unexpectedly",
+          "definition_vi": "nảy sinh, xuất hiện bất ngờ",
+          "example": "Something's cropped up, so I'm afraid I won't be able to make it.",
+          "synonyms": ["arise", "emerge"]
+        },
+        {
+          "word": "dive in",
+          "pos": "v phr",
+          "definition_en": "start doing something in a very enthusiastic way",
+          "definition_vi": "bắt đầu một việc gì đó một cách nhiệt tình",
+          "example": "As soon as the food was brought out, everyone dived in.",
+          "synonyms": ["plunge into"]
+        },
+        {
+          "word": "end up",
+          "pos": "v phr",
+          "definition_en": "be in a particular place or state after doing something or because of doing it",
+          "definition_vi": "kết thúc ở, rốt cuộc thì",
+          "example": "We ended up having to scrap the whole campaign.",
+          "synonyms": ["finish up"]
+        },
+        {
+          "word": "kick off (with)",
+          "pos": "v phr",
+          "definition_en": "begin (with)",
+          "definition_vi": "bắt đầu (với)",
+          "example": "Let's kick off this session by introducing ourselves.",
+          "synonyms": ["start", "commence"]
+        },
+        {
+          "word": "knock off",
+          "pos": "v phr",
+          "definition_en": "stop working",
+          "definition_vi": "ngừng làm việc, tan làm",
+          "example": "I usually knock off work at about half five.",
+          "synonyms": ["finish work"]
+        },
+        {
+          "word": "knuckle down",
+          "pos": "v phr",
+          "definition_en": "start working hard, especially when you should have done this earlier",
+          "definition_vi": "bắt đầu làm việc chăm chỉ, nghiêm túc",
+          "example": "It's time to knuckle down and get on with your homework.",
+          "synonyms": ["get down to work"]
+        },
+        {
+          "word": "lay off",
+          "pos": "v phr",
+          "definition_en": "end someone's employment, especially temporarily, because there is not enough work for them; stop doing or using something",
+          "definition_vi": "sa thải (do thiếu việc); ngừng làm/dùng việc gì",
+          "example": "The company's announced it's laying off over 1,000 workers.",
+          "synonyms": ["make redundant"]
+        },
+        {
+          "word": "lie ahead",
+          "pos": "v phr",
+          "definition_en": "if something lies ahead, it is going to happen to you in the future",
+          "definition_vi": "đang chờ đợi ở phía trước (tương lai)",
+          "example": "No teenager really knows what lies ahead for them career-wise.",
+          "synonyms": ["await"]
+        },
+        {
+          "word": "make up",
+          "pos": "v phr",
+          "definition_en": "work at different times from usual because you have not worked enough at the normal times",
+          "definition_vi": "làm bù thời gian",
+          "example": "Mona's going to leave early but she says she'll make up the hours tomorrow.",
+          "synonyms": ["compensate"]
+        },
+        {
+          "word": "press ahead/on (with)",
+          "pos": "v phr",
+          "definition_en": "continue doing something in a determined way, despite difficulties, opposition or interruptions",
+          "definition_vi": "tiếp tục kiên trì thực hiện, thúc đẩy",
+          "example": "I'll try to press ahead with it anyway.",
+          "synonyms": ["proceed", "persevere"]
+        },
+        {
+          "word": "set out",
+          "pos": "v phr",
+          "definition_en": "start doing or working on something in order to achieve an aim",
+          "definition_vi": "bắt đầu thực hiện (với một mục tiêu cụ thể)",
+          "example": "I didn't set out to be a millionaire - I just wanted to run a successful business.",
+          "synonyms": ["aim", "intend"]
+        },
+        {
+          "word": "snow under",
+          "pos": "v phr",
+          "definition_en": "if you are snowed under, you have too much of sth to deal with",
+          "definition_vi": "ngập đầu trong công việc",
+          "example": "I'm so snowed under with work at the moment.",
+          "synonyms": ["overwhelm"]
+        },
+        {
+          "word": "take on",
+          "pos": "v phr",
+          "definition_en": "start to employ someone; accept some work or responsibility",
+          "definition_vi": "tuyển dụng; đảm nhận (trách nhiệm)",
+          "example": "I'll hopefully be able to take on a part-time assistant.",
+          "synonyms": ["hire", "accept"]
+        },
+        {
+          "word": "tide over",
+          "pos": "v phr",
+          "definition_en": "help someone to get to the end of a difficult period of time, especially by giving them money until they can get some more",
+          "definition_vi": "giúp ai vượt qua khó khăn (thường bằng tiền bạc)",
+          "example": "Could you lend me some money to tide me over to the end of the month?",
+          "synonyms": ["help out"]
+        },
+        {
+          "word": "while away",
+          "pos": "v phr",
+          "definition_en": "spend time in a relaxed way when you have nothing else to do",
+          "definition_vi": "giết thời gian (thư giãn)",
+          "example": "Josh can while away a whole day playing online games.",
+          "synonyms": ["pass the time"]
+        },
+        {
+          "word": "wind down",
+          "pos": "v phr",
+          "definition_en": "end or finish something gradually; gradually reduce work before stopping completely; relax after a period of excitement or worry",
+          "definition_vi": "kết thúc dần dần; nghỉ ngơi thư giãn",
+          "example": "They're planning to wind down their operation in Greece.",
+          "synonyms": ["relax", "phase out"]
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "a stitch in time (saves nine)",
+          "pos": "idiom",
+          "definition_en": "used for saying that it is better to solve a problem now, rather than leave it until later when it may be more difficult to deal with",
+          "definition_vi": "việc hôm nay chớ để ngày mai; giải quyết sớm để tránh rắc rối sau này",
+          "example": "I thought the photocopier needed a service - a stitch in time saves nine!",
+          "synonyms": ["prevention is better than cure"]
+        },
+        {
+          "word": "all in good time",
+          "pos": "idiom",
+          "definition_en": "used for telling someone to wait for something and not try to make you hurry",
+          "definition_vi": "mọi việc đều có thời điểm của nó; đừng vội vàng",
+          "example": "You'll get your results soon, all in good time.",
+          "synonyms": ["be patient"]
+        },
+        {
+          "word": "at the drop of a hat",
+          "pos": "idiom",
+          "definition_en": "immediately or in a way that shows that you have no doubts about doing something",
+          "definition_vi": "ngay lập tức, không chút do dự",
+          "example": "If you need help, I'll be there at the drop of a hat.",
+          "synonyms": ["instantly", "without hesitation"]
+        },
+        {
+          "word": "before your time",
+          "pos": "idiom",
+          "definition_en": "used for saying that something happened or existed before you were born or before you lived or worked somewhere",
+          "definition_vi": "trước thời của bạn",
+          "example": "The old factory was closed down long before your time.",
+          "synonyms": ["before one was born"]
+        },
+        {
+          "word": "for good",
+          "pos": "idiom",
+          "definition_en": "permanently, without the possibility of change in the future",
+          "definition_vi": "mãi mãi, vĩnh viễn",
+          "example": "He's given up smoking for good.",
+          "synonyms": ["permanently", "forever"]
+        },
+        {
+          "word": "for the time being",
+          "pos": "idiom",
+          "definition_en": "for now",
+          "definition_vi": "trong lúc này, tạm thời",
+          "example": "I'm staying with my parents for the time being.",
+          "synonyms": ["temporarily", "for now"]
+        },
+        {
+          "word": "from time to time",
+          "pos": "idiom",
+          "definition_en": "sometimes, but not often",
+          "definition_vi": "thỉnh thoảng",
+          "example": "We see each other from time to time.",
+          "synonyms": ["occasionally", "once in a while"]
+        },
+        {
+          "word": "in/for donkey's years",
+          "pos": "idiom",
+          "definition_en": "an extremely long time",
+          "definition_vi": "một thời gian rất dài",
+          "example": "I haven't seen her in donkey's years.",
+          "synonyms": ["for ages"]
+        },
+        {
+          "word": "in the nick of time",
+          "pos": "idiom",
+          "definition_en": "just in time to prevent something bad happening",
+          "definition_vi": "vừa kịp lúc (để tránh rắc rối)",
+          "example": "The ambulance arrived in the nick of time.",
+          "synonyms": ["just in time"]
+        },
+        {
+          "word": "once in a blue moon",
+          "pos": "idiom",
+          "definition_en": "very rarely",
+          "definition_vi": "hiếm khi, năm thì mười họa",
+          "example": "He goes to the cinema once in a blue moon.",
+          "synonyms": ["rarely", "seldom"]
+        },
+        {
+          "word": "on the spur of the moment",
+          "pos": "idiom",
+          "definition_en": "if you do something on the spur of the moment, you do it suddenly and do not take time to plan it or think carefully about it",
+          "definition_vi": "bất chợt, ngẫu hứng, không chuẩn bị trước",
+          "example": "I invited them to dinner on the spur of the moment.",
+          "synonyms": ["impulsively"]
+        },
+        {
+          "word": "the other day",
+          "pos": "idiom",
+          "definition_en": "recently",
+          "definition_vi": "vài ngày trước, gần đây",
+          "example": "I saw Sandra in the street the other day.",
+          "synonyms": ["recently"]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u6_A",
+      "label": "A",
+      "type": "fill_blank",
+      "instruction": "Write a word from the box in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "'I'll only be working here for a couple of weeks. I'm a ___ worker.'",
+          "answer": "temporary",
+          "explanation": "'a couple of weeks' (vài tuần) chỉ một khoảng thời gian ngắn, không ổn định nên dùng 'temporary' (tạm thời)."
+        },
+        {
+          "number": 2,
+          "sentence": "'It couldn't have happened at a better time! What a ___ arrival!'",
+          "answer": "timely",
+          "explanation": "'at a better time' (đúng lúc tốt nhất) tương đương với 'timely' (kịp thời/đúng lúc)."
+        },
+        {
+          "number": 3,
+          "sentence": "'It depends on the time of year. It's a ___ problem.'",
+          "answer": "seasonal",
+          "explanation": "'time of year' (thời điểm trong năm) liên quan đến mùa màng, nên dùng 'seasonal' (theo mùa)."
+        },
+        {
+          "number": 4,
+          "sentence": "'I get to work at nine o'clock on the dot every day. I try to be ___ '",
+          "answer": "punctual",
+          "explanation": "'nine o'clock on the dot' (đúng 9 giờ không lệch) chỉ sự 'punctual' (đúng giờ)."
+        },
+        {
+          "number": 5,
+          "sentence": "'We both said it at exactly the same time. Our answer was ___ .'",
+          "answer": "simultaneous",
+          "explanation": "'exactly the same time' (chính xác cùng một lúc) là định nghĩa của 'simultaneous' (đồng thời)."
+        },
+        {
+          "number": 6,
+          "sentence": "'We can't use that software on our new computers. It's ___ !'",
+          "answer": "obsolete",
+          "explanation": "Phần mềm không còn dùng được trên máy tính mới là phần mềm 'obsolete' (lỗi thời)."
+        },
+        {
+          "number": 7,
+          "sentence": "'It's the first draft of the text. We can change it later if we want. It's only ___ .'",
+          "answer": "provisional",
+          "explanation": "'first draft' (bản thảo đầu) và 'change later' (thay đổi sau) chỉ tính chất 'provisional' (tạm thời/dự kiến)."
+        },
+        {
+          "number": 8,
+          "sentence": "'They should have sent that to us ages ago. It's long ___ .'",
+          "answer": "overdue",
+          "explanation": "'should have sent... ages ago' (đáng lẽ phải gửi từ lâu rồi) nghĩa là nó đã 'overdue' (quá hạn)."
+        }
+      ]
+    },
+    {
+      "id": "u6_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Write a word from the box in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "We live in a/an ___ of mass communication.",
+          "answer": "era",
+          "explanation": "'Era of mass communication' (kỷ nguyên truyền thông đại chúng) là một cụm từ phổ biến."
+        },
+        {
+          "number": 2,
+          "sentence": "After a short ___ of being unemployed, I decided to set up my own business.",
+          "answer": "spell",
+          "explanation": "'a short spell' chỉ một khoảng thời gian ngắn làm việc gì đó hoặc trong trạng thái nào đó."
+        },
+        {
+          "number": 3,
+          "sentence": "It was in the twentieth ___ that humans first developed nuclear weapons.",
+          "answer": "century",
+          "explanation": "'Twentieth century' (thế kỷ 20) là đơn vị thời gian phù hợp với lịch sử phát triển vũ khí hạt nhân."
+        },
+        {
+          "number": 4,
+          "sentence": "Despite advances in technology, no human being will ever live for a ___ in my opinion.",
+          "answer": "millennium",
+          "explanation": "'Millennium' (1000 năm) là khoảng thời gian quá dài mà con người không thể sống tới."
+        },
+        {
+          "number": 5,
+          "sentence": "The council is planning to increase the ___ of buses to the city centre.",
+          "answer": "frequency",
+          "explanation": "'Frequency of buses' (tần suất xe buýt) là cách diễn đạt đúng khi nói về số chuyến xe."
+        },
+        {
+          "number": 6,
+          "sentence": "I did a brief ___ in the navy, and then decided it wasn't for me.",
+          "answer": "stint",
+          "explanation": "'Stint' dùng để chỉ một khoảng thời gian cố định làm một công việc cụ thể (ví dụ: nghĩa vụ quân sự)."
+        },
+        {
+          "number": 7,
+          "sentence": "I've got a very short concentration ___ .",
+          "answer": "span",
+          "explanation": "'Concentration span' (khoảng thời gian tập trung) là một cụm từ cố định."
+        },
+        {
+          "number": 8,
+          "sentence": "It's just a ___ that most teenagers go through. Don't worry!",
+          "answer": "phase",
+          "explanation": "'Phase' chỉ một giai đoạn trong quá trình phát triển (giai đoạn tuổi teen)."
+        }
+      ]
+    },
+    {
+      "id": "u6_C",
+      "label": "C",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I am writing to thank the organisation for the (1) ___ service I received",
+          "options": ["prior", "prompt"],
+          "answer": "prompt",
+          "explanation": "'Prompt service' (dịch vụ nhanh chóng) là lời khen phù hợp trong thư cảm ơn."
+        },
+        {
+          "number": 2,
+          "sentence": "when my membership (2) ___.",
+          "options": ["postponed", "expired"],
+          "answer": "expired",
+          "explanation": "Thành viên (membership) thì dùng 'expired' (hết hạn)."
+        },
+        {
+          "number": 3,
+          "sentence": "I am a (3) ___ member of the Chavershaw",
+          "options": ["long-standing", "timely"],
+          "answer": "long-standing",
+          "explanation": "'Long-standing member' (thành viên lâu năm) chỉ sự gắn bó lâu dài."
+        },
+        {
+          "number": 4,
+          "sentence": "(4) ___ Car Club",
+          "options": ["Vintage", "Antique"],
+          "answer": "Vintage",
+          "explanation": "'Vintage Car Club' là tên phổ biến cho câu lạc bộ xe cổ."
+        },
+        {
+          "number": 5,
+          "sentence": "having spent most of my (5) ___ working with cars",
+          "options": ["spell", "lifetime"],
+          "answer": "lifetime",
+          "explanation": "'Spend most of my lifetime' (dành hầu hết cuộc đời) phù hợp với ngữ cảnh làm việc lâu dài."
+        },
+        {
+          "number": 6,
+          "sentence": "built in the (6) ___ fallowing the first World War",
+          "options": ["duration", "decade"],
+          "answer": "decade",
+          "explanation": "'Decade' (thập kỷ) chỉ khoảng thời gian 10 năm sau thế chiến thứ nhất."
+        },
+        {
+          "number": 7,
+          "sentence": "granted the status of '(7) ___ member'",
+          "options": ["chronological", "permanent"],
+          "answer": "permanent",
+          "explanation": "'Permanent member' (thành viên vĩnh viễn) là một chức danh."
+        },
+        {
+          "number": 8,
+          "sentence": "for the (8) ___ I spent as Chairperson",
+          "options": ["period", "interval"],
+          "answer": "period",
+          "explanation": "'Period' (khoảng thời gian) chỉ quãng thời gian làm chủ tịch."
+        },
+        {
+          "number": 9,
+          "sentence": "to receive a rather (9) ___ e-mail",
+          "options": ["interim", "abrupt"],
+          "answer": "abrupt",
+          "explanation": "'Abrupt email' (email cộc lốc/đột ngột) mang sắc thái không hài lòng."
+        },
+        {
+          "number": 10,
+          "sentence": "since three months had (10) ___",
+          "options": ["lapsed", "elapsed"],
+          "answer": "elapsed",
+          "explanation": "'Elapsed' là động từ dùng cho thời gian trôi qua."
+        },
+        {
+          "number": 11,
+          "sentence": "to attend the (11) ___ dinner next month",
+          "options": ["annual", "eternal"],
+          "answer": "annual",
+          "explanation": "'Annual dinner' (bữa tối hàng năm) là sự kiện thường niên của câu lạc bộ."
+        },
+        {
+          "number": 12,
+          "sentence": "I received a (12) ___ e-mail from the same person",
+          "options": ["subsequent", "temporary"],
+          "answer": "subsequent",
+          "explanation": "'Subsequent email' (email sau đó) chỉ email gửi đến sau khi tác giả đã phản hồi."
+        },
+        {
+          "number": 13,
+          "sentence": "was literally (13) ___",
+          "options": ["simultaneous", "instantaneous"],
+          "answer": "instantaneous",
+          "explanation": "'Instantaneous' (tức thì) diễn tả việc thay đổi trạng thái thành viên diễn ra ngay lập tức."
+        },
+        {
+          "number": 14,
+          "sentence": "meeting up with some of my (14) ___",
+          "options": ["anachronisms", "contemporaries"],
+          "answer": "contemporaries",
+          "explanation": "'Contemporaries' (những người cùng thời/cùng lứa) phù hợp với buổi họp mặt câu lạc bộ."
+        }
+      ]
+    },
+    {
+      "id": "u6_D",
+      "label": "D",
+      "type": "fill_blank",
+      "instruction": "Write a word from the boxes in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Would you like to work for a large ___ corporation?",
+          "answer": "multinational",
+          "explanation": "'Multinational corporation' (tập đoàn đa quốc gia) là cụm từ cố định."
+        },
+        {
+          "number": 2,
+          "sentence": "How much budget is there for the ___ campaign?",
+          "answer": "marketing",
+          "explanation": "'Marketing campaign' (chiến dịch tiếp thị) là cụm từ cố định."
+        },
+        {
+          "number": 3,
+          "sentence": "Charlene is a freelance business ___ ; companies hire her to solve particular problems they are facing.",
+          "answer": "consultant",
+          "explanation": "Người được thuê để giải quyết vấn đề cho công ty là 'consultant' (cố vấn/tư vấn)."
+        },
+        {
+          "number": 4,
+          "sentence": "My dad's a senior ___ in a huge American corporation.",
+          "answer": "executive",
+          "explanation": "'Senior executive' (giám đốc/người điều hành cấp cao) là một vị trí công việc."
+        },
+        {
+          "number": 5,
+          "sentence": "The advertising campaign was ___ in that it increased sales by over 50%.",
+          "answer": "effective",
+          "explanation": "'Effective' (hiệu quả) vì nó mang lại kết quả cụ thể (tăng doanh số)."
+        },
+        {
+          "number": 6,
+          "sentence": "Robots are often much more ___ than people because they can work 24 hours a day without getting tired, and they don't make mistakes!",
+          "answer": "efficient",
+          "explanation": "'Efficient' (năng suất/hiệu suất cao) vì làm việc liên tục không lỗi và không lãng phí."
+        },
+        {
+          "number": 7,
+          "sentence": "The paper had to make several journalists ___ last week due to loss of sales.",
+          "answer": "redundant",
+          "explanation": "'Make sb redundant' là sa thải vì công ty gặp khó khăn/không cần vị trí đó nữa."
+        },
+        {
+          "number": 8,
+          "sentence": "Darren's home on ___ from the army at the moment.",
+          "answer": "leave",
+          "explanation": "'On leave' (đang trong kỳ nghỉ phép) thường dùng trong quân đội."
+        },
+        {
+          "number": 9,
+          "sentence": "How long is the union planning to ___ for?",
+          "answer": "strike",
+          "explanation": "Công đoàn (union) thường liên quan đến hoạt động 'strike' (đình công)."
+        },
+        {
+          "number": 10,
+          "sentence": "They wouldn't ___ someone just for stealing a bit of stationery, would they?",
+          "answer": "fire",
+          "explanation": "'Fire' (sa thải) do nhân viên phạm lỗi (trộm đồ văn phòng)."
+        },
+        {
+          "number": 11,
+          "sentence": "Sue used to work here, but then she was ___ by a major law firm.",
+          "answer": "headhunted",
+          "explanation": "'Headhunted' (được săn đầu người) khi một công ty khác tìm đến tuyển dụng nhân tài."
+        },
+        {
+          "number": 12,
+          "sentence": "I can't believe they ___ Jack just for taking a few paperclips home with him.",
+          "answer": "sacked",
+          "explanation": "'Sacked' (bị đuổi việc) là cách nói thông tục của sa thải khi phạm lỗi nhẹ."
+        }
+      ]
+    },
+    {
+      "id": "u6_E",
+      "label": "E",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "why not consider a career in the (1) state / civil service?",
+          "options": ["state", "civil"],
+          "answer": "civil",
+          "explanation": "'Civil service' (ngành công chức) là cụm từ chuẩn."
+        },
+        {
+          "number": 2,
+          "sentence": "Working in the public (2) area / sector provides job security",
+          "options": ["area", "sector"],
+          "answer": "sector",
+          "explanation": "'Public sector' (khu vực công) là thuật ngữ kinh tế."
+        },
+        {
+          "number": 3,
+          "sentence": "There are excellent (3) prospects / predictions for promotion",
+          "options": ["prospects", "predictions"],
+          "answer": "prospects",
+          "explanation": "'Career prospects' (triển vọng nghề nghiệp) là cụm từ cố định."
+        },
+        {
+          "number": 4,
+          "sentence": "for (4) promotion / progress",
+          "options": ["promotion", "progress"],
+          "answer": "promotion",
+          "explanation": "'Promotion' (sự thăng chức) phù hợp với ngữ cảnh thăng tiến trong công việc."
+        },
+        {
+          "number": 5,
+          "sentence": "working with highly experienced and professional (5) colleagues / clients",
+          "options": ["colleagues", "clients"],
+          "answer": "colleagues",
+          "explanation": "Làm việc cùng với những người khác trong cùng môi trường là 'colleagues' (đồng nghiệp)."
+        },
+        {
+          "number": 6,
+          "sentence": "be part of a (6) club / union.",
+          "options": ["club", "union"],
+          "answer": "union",
+          "explanation": "'Union' (công đoàn) là tổ chức bảo vệ quyền lợi người lao động."
+        },
+        {
+          "number": 7,
+          "sentence": "We want to (7) recruit / elect the brightest and the best.",
+          "options": ["recruit", "elect"],
+          "answer": "recruit",
+          "explanation": "Trong tuyển dụng nhân sự, ta dùng 'recruit' (tuyển dụng)."
+        }
+      ]
+    },
+    {
+      "id": "u6_F",
+      "label": "F",
+      "type": "multiple_choice",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I'm so ___ under with work at the moment - it's awful!",
+          "options": ["iced", "rained", "snowed", "fogged"],
+          "answer": "C",
+          "explanation": "'Snowed under with work' (ngập đầu trong công việc) là cụm từ phrasal verb cố định."
+        },
+        {
+          "number": 2,
+          "sentence": "The company's announced it's ___ off over 1,000 workers.",
+          "options": ["leaving", "laying", "setting", "giving"],
+          "answer": "B",
+          "explanation": "'Lay off' (sa thải do thiếu việc/thu hẹp quy mô)."
+        },
+        {
+          "number": 3,
+          "sentence": "They're planning to ___ down their operation in Greece",
+          "options": ["wind", "tie", "roll", "stretch"],
+          "answer": "A",
+          "explanation": "'Wind down' (thu hẹp/dừng dần dần hoạt động kinh doanh)."
+        },
+        {
+          "number": 4,
+          "sentence": "I'll try to ___ ahead with it anyway.",
+          "options": ["drive", "bang", "touch", "press"],
+          "answer": "D",
+          "explanation": "'Press ahead/on' (tiếp tục thực hiện một cách quyết tâm)."
+        },
+        {
+          "number": 5,
+          "sentence": "Something's ___ up, so I'm afraid I won't be able to make it",
+          "options": ["shown", "pulled", "cropped", "cut"],
+          "answer": "C",
+          "explanation": "'Crop up' (xảy ra bất ngờ)."
+        },
+        {
+          "number": 6,
+          "sentence": "Could you lend me some money to ___ me over to the end of the month?",
+          "options": ["hand", "tide", "get", "make"],
+          "answer": "B",
+          "explanation": "'Tide sb over' (giúp ai vượt qua giai đoạn khó khăn tài chính)."
+        },
+        {
+          "number": 7,
+          "sentence": "I didn't ___ out to be a millionaire",
+          "options": ["set", "go", "begin", "watch"],
+          "answer": "A",
+          "explanation": "'Set out to do sth' (bắt đầu với ý định làm gì)."
+        },
+        {
+          "number": 8,
+          "sentence": "Mona's going to leave early... she'll ___ up the hours tomorrow.",
+          "options": ["find", "make", "catch", "bring"],
+          "answer": "B",
+          "explanation": "'Make up' (làm bù giờ)."
+        }
+      ]
+    },
+    {
+      "id": "u6_G",
+      "label": "G",
+      "type": "fill_blank",
+      "instruction": "Write a phrasal verb from the box in the correct form in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "If the business does well, I'll hopefully be able to ___ a part-time assistant in the spring.",
+          "answer": "take on",
+          "explanation": "'Take on' (tuyển dụng nhân viên)."
+        },
+        {
+          "number": 2,
+          "sentence": "We ___ having to scrap the whole advertising campaign and start again.",
+          "answer": "ended up",
+          "explanation": "'Ended up' (rốt cuộc thì/kết thúc ở tình trạng nào đó)."
+        },
+        {
+          "number": 3,
+          "sentence": "Let's ___ this session by introducing ourselves, shall we?",
+          "answer": "kick off",
+          "explanation": "'Kick off' (bắt đầu một sự kiện/buổi họp)."
+        },
+        {
+          "number": 4,
+          "sentence": "Josh can ___ a whole day playing online computer games with his mates.",
+          "answer": "while away",
+          "explanation": "'While away' (giết thời gian/dành thời gian thư giãn)."
+        },
+        {
+          "number": 5,
+          "sentence": "No teenager really knows what ___ for them career-wise in the future.",
+          "answer": "lies ahead",
+          "explanation": "'Lie ahead' (đang chờ đợi ở phía trước/tương lai)."
+        },
+        {
+          "number": 6,
+          "sentence": "That's enough TV! It's time to ___ and get on with your homework now.",
+          "answer": "knuckle down",
+          "explanation": "'Knuckle down' (bắt đầu làm việc nghiêm túc/chăm chỉ)."
+        },
+        {
+          "number": 7,
+          "sentence": "I usually ___ work at about half five so I'm home by six thirty most nights.",
+          "answer": "knock off",
+          "explanation": "'Knock off' (ngừng làm việc/tan sở)."
+        },
+        {
+          "number": 8,
+          "sentence": "As soon as the food was brought out, everyone ___ and helped themselves.",
+          "answer": "dived in",
+          "explanation": "'Dive in' (bắt đầu một việc gì đó nhiệt tình, ở đây là ăn uống)."
+        }
+      ]
+    },
+    {
+      "id": "u6_H",
+      "label": "H",
+      "type": "matching",
+      "instruction": "Phrasal verbs with away are often connected to the idea of an action continuing for a long time. Which of these phrasal verbs with away are also connected to this idea?",
+      "items": [
+        { "number": 1, "sentence": "Mary was **beavering away** at her desk when I last popped in to see her.", "answer": "Yes", "explanation": "'Beaver away' (làm việc cần mẫn trong thời gian dài)." },
+        { "number": 2, "sentence": "Let's **break away** from the main crowd and go over there for a while.", "answer": "No", "explanation": "'Break away' (tách ra khỏi một nhóm)." },
+        { "number": 3, "sentence": "You can't **explain it away** as a simple mistake.", "answer": "No", "explanation": "'Explain away' (cố gắng bào chữa/giảm nhẹ mức độ sai lầm)." },
+        { "number": 4, "sentence": "I think I'll **give these old clothes away**.", "answer": "No", "explanation": "'Give away' (tặng/cho đi)." },
+        { "number": 5, "sentence": "I've been **hammering away** at this keyboard for hours.", "answer": "Yes", "explanation": "'Hammer away' (làm việc miệt mài/đánh máy liên tục)." },
+        { "number": 6, "sentence": "your great-grandfather **passed away** during the night.", "answer": "No", "explanation": "'Pass away' (qua đời)." },
+        { "number": 7, "sentence": "Keep **plodding away** and you'll finish your novel eventually.", "answer": "Yes", "explanation": "'Plod away' (làm việc chậm rãi nhưng bền bỉ)." },
+        { "number": 8, "sentence": "We've been **slaving away** all morning.", "answer": "Yes", "explanation": "'Slave away' (làm việc cực nhọc như nô lệ trong thời gian dài)." },
+        { "number": 9, "sentence": "Can we hear Carol **typing away** at her keyboard from the living room.", "answer": "Yes", "explanation": "'Type away' (đánh máy liên tục)." },
+        { "number": 10, "sentence": "He's **working away** on some designs at the moment.", "answer": "Yes", "explanation": "'Work away' (tiếp tục làm việc chăm chỉ)." }
+      ]
+    },
+    {
+      "id": "u6_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        { "number": 1, "sentence": "The President's just been elected to a second term ___ office.", "answer": "of", "explanation": "'Term of office' (nhiệm kỳ)." },
+        { "number": 2, "sentence": "I don't know how anyone can sit in front of a computer for hours ___ end.", "answer": "on", "explanation": "'Hours on end' (nhiều giờ liền)." },
+        { "number": 3, "sentence": "My great-grandmother used to work ___ a servant in a huge mansion.", "answer": "as", "explanation": "'Work as + nghề nghiệp' (làm nghề gì)." },
+        { "number": 4, "sentence": "My exam results should come ___ day now.", "answer": "any", "explanation": "'Any day now' (bất cứ ngày nào kể từ bây giờ)." },
+        { "number": 5, "sentence": "Applicants must be at least 18 years ___ age.", "answer": "of", "explanation": "'Years of age' (tuổi)." },
+        { "number": 6, "sentence": "You'd better start working a bit harder or you'll be ___ of a job!", "answer": "out", "explanation": "'Out of a job' (thất nghiệp)." },
+        { "number": 7, "sentence": "Never mind ___ you get paid for it or not, you can't work this weekend.", "answer": "whether", "explanation": "'Never mind whether... or not' (đừng quan tâm dù có... hay không)." },
+        { "number": 8, "sentence": "___ the time Jeremy got there, we'd already left.", "answer": "By", "explanation": "'By the time' (vào lúc/trước lúc)." }
+      ]
+    },
+    {
+      "id": "u6_J",
+      "label": "J",
+      "type": "word_form",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The government needs to stop this ridiculous bureaucratic system. (put) -> The government needs to ___ this ridiculous bureaucratic system.",
+          "answer": "put an end to",
+          "explanation": "'Put an end to sth' (chấm dứt cái gì)."
+        },
+        {
+          "number": 2,
+          "sentence": "No one except Jake has ever beaten me at a game of chess. (only) -> Jake ___ beat me at a game of chess.",
+          "answer": "is the only person to ever",
+          "explanation": "'The only person to ever do sth' (người duy nhất từng làm gì)."
+        },
+        {
+          "number": 3,
+          "sentence": "It's time we began to sort through these cupboards. (start) -> It's time we ___ through these cupboards.",
+          "answer": "made a start on sorting",
+          "explanation": "'Make a start on sth' (bắt đầu làm gì)."
+        },
+        {
+          "number": 4,
+          "sentence": "Julie asked for a second's thinking time before she answered. (just) -> 'Could ___ think before I answer?' asked Julie.",
+          "answer": "I just have a second to",
+          "explanation": "'Have a second to think' (có một giây để nghĩ)."
+        },
+        {
+          "number": 5,
+          "sentence": "I can't really remember the last time I had a day off. (ages) -> It feels ___ I had a day off.",
+          "answer": "like ages since",
+          "explanation": "'It feels like ages since' (đã từ rất lâu rồi kể từ khi)."
+        },
+        {
+          "number": 6,
+          "sentence": "Sorry, Alan, but right now I'm rather busy. (in) -> Sorry, Alan, but at ___ I'm rather busy.",
+          "answer": "this moment in time",
+          "explanation": "'At this moment in time' (ngay lúc này)."
+        },
+        {
+          "number": 7,
+          "sentence": "They painted the wall very well. (made) -> They ___ the wall.",
+          "answer": "made a good job of painting",
+          "explanation": "'Make a good job of sth' (làm tốt việc gì)."
+        }
+      ]
+    },
+    {
+      "id": "u6_K",
+      "label": "K",
+      "type": "gap_fill",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Jenny, ___ you've been here for three years... / I'm sure Harold was here just ___ , wasn't he? / You can share my computer for ___ , but...",
+          "answer": "now",
+          "explanation": "'Now that/Now' (vì giờ đây), 'just now' (vừa nãy), 'for now' (tạm thời)."
+        },
+        {
+          "number": 2,
+          "sentence": "Thanks so much for the flowers - they really made my ___ . / My grandparents love going on ___ trips... / You'd think that, in this ___ and age...",
+          "answer": "day",
+          "explanation": "'Make one's day' (làm ai hạnh phúc), 'day trips' (chuyến đi trong ngày), 'in this day and age' (trong thời đại này)."
+        },
+        {
+          "number": 3,
+          "sentence": "I was just ___ to go home, but that's okay. / It's ___ time you got home... / We're definitely going to have to do something ___ increasing...",
+          "answer": "about",
+          "explanation": "'Be about to do' (sắp sửa làm gì), 'it's about time' (đã đến lúc), 'do sth about' (làm gì đó để giải quyết)."
+        },
+        {
+          "number": 4,
+          "sentence": "I should get a reply from them any ___ now. / It'll only take them a ___ to update... / Now is the ___ of truth!",
+          "answer": "moment",
+          "explanation": "'Any moment now' (bất cứ lúc nào), 'take a moment' (tốn một lát), 'moment of truth' (giây phút quyết định)."
+        },
+        {
+          "number": 5,
+          "sentence": "We're definitely living in the ___ of information. / This particular wine doesn't really mature with ___ . / It's time you started acting your ___ , young man!",
+          "answer": "age",
+          "explanation": "'Age of information' (thời đại thông tin), 'mature with age' (chín muồi theo thời gian), 'act your age' (hành xử đúng lứa tuổi)."
+        },
+        {
+          "number": 6,
+          "sentence": "It's just a typical 1960s ___ block. / The media start prying into your private life when you run for public ___ . / You'd better talk to Derek at head ___ .",
+          "answer": "office",
+          "explanation": "'Office block' (tòa nhà văn phòng), 'public office' (chức vụ công), 'head office' (trụ sở chính)."
+        },
+        {
+          "number": 7,
+          "sentence": "I began to realise in the ___ of the meeting... / We're going to have to decide on a ___ of action... / All they said was that they'd contact me in due ___ .",
+          "answer": "course",
+          "explanation": "'In the course of' (trong quá trình), 'course of action' (hướng giải quyết), 'in due course' (vào thời điểm thích hợp)."
+        },
+        {
+          "number": 8,
+          "sentence": "I do hope we're going to arrive ___ time. / How anyone could work in that office for years ___ end... / 'You're ___ !'",
+          "answer": "on",
+          "explanation": "'On time' (đúng giờ), 'years on end' (nhiều năm liền), 'You're on!' (Đồng ý/Cá luôn!)."
+        }
+      ]
+    },
+    {
+      "id": "u6_L",
+      "label": "L",
+      "type": "sentence_correction",
+      "instruction": "Each of the words in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        { "number": 1, "sentence": "I haven't seen Carol in **monkey's** years.", "answer": "donkey's", "explanation": "Thành ngữ đúng là 'in donkey's years' (trong một thời gian rất dài)." },
+        { "number": 2, "sentence": "That was long before your **moment**.", "answer": "time", "explanation": "Thành ngữ đúng là 'before your time' (trước thời của bạn)." },
+        { "number": 3, "sentence": "I was talking to Sandra... the **recent** day", "answer": "other", "explanation": "'The other day' (vài ngày trước/gần đây)." },
+        { "number": 4, "sentence": "I realised in the **bill** of time.", "answer": "nick", "explanation": "Thành ngữ đúng là 'in the nick of time' (vừa kịp lúc)." },
+        { "number": 5, "sentence": "Tina's happy with her job for the time **coming**", "answer": "being", "explanation": "Thành ngữ đúng là 'for the time being' (trong lúc này/tạm thời)." },
+        { "number": 6, "sentence": "take you out for a meal once in a blue **planet**", "answer": "moon", "explanation": "Thành ngữ đúng là 'once in a blue moon' (hiếm khi)." },
+        { "number": 7, "sentence": "given up smoking **with** good", "answer": "for", "explanation": "Thành ngữ đúng là 'for good' (vĩnh viễn)." },
+        { "number": 8, "sentence": "trips from **once** to time", "answer": "time", "explanation": "Thành ngữ đúng là 'from time to time' (thỉnh thoảng)." },
+        { "number": 9, "sentence": "invited Graham to dinner on the **edge** of the moment.", "answer": "spur", "explanation": "Thành ngữ đúng là 'on the spur of the moment' (bất chợt/ngẫu hứng)." },
+        { "number": 10, "sentence": "I'll be there at the drop of a **pen**!", "answer": "hat", "explanation": "Thành ngữ đúng là 'at the drop of a hat' (ngay lập tức)." },
+        { "number": 11, "sentence": "'Not yet. All in **nice** time!'", "answer": "good", "explanation": "Thành ngữ đúng là 'all in good time' (mọi thứ đều có lúc của nó)." },
+        { "number": 12, "sentence": "a **repair** in time saves nine", "answer": "stitch", "explanation": "Thành ngữ đúng là 'a stitch in time saves nine'." }
+      ]
+    },
+    {
+      "id": "u6_M",
+      "label": "M",
+      "type": "word_form",
+      "instruction": "Each of the words in bold is in an incorrect form. Rewrite them correctly.",
+      "items": [
+        { "number": 1, "sentence": "The salary they offered me exceeded my wildest **expecting**!", "answer": "expectations", "explanation": "Cần danh từ số nhiều 'expectations' (kỳ vọng)." },
+        { "number": 2, "sentence": "I hope I **last** his previous secretary", "answer": "outlast", "explanation": "Cần động từ 'outlast' (tồn tại lâu hơn/làm việc lâu hơn ai đó)." },
+        { "number": 3, "sentence": "difficult to become just another company **employer** again.", "answer": "employee", "explanation": "Ngữ cảnh là nhân viên công ty, nên dùng 'employee'." },
+        { "number": 4, "sentence": "Hargreaves & Son are one of our main **competitions**.", "answer": "competitors", "explanation": "Cần danh từ chỉ đối thủ cạnh tranh 'competitors'." },
+        { "number": 5, "sentence": "There were over 100 **appliers** for the position", "answer": "applicants", "explanation": "Người nộp đơn ứng tuyển là 'applicants'." },
+        { "number": 6, "sentence": "Your supervisor will be checking up on you **period**.", "answer": "periodically", "explanation": "Cần trạng từ 'periodically' (một cách định kỳ)." },
+        { "number": 7, "sentence": "the possibilities for expansion are **unending**.", "answer": "endless", "explanation": "'Endless possibilities' là cụm từ phổ biến hơn để chỉ khả năng vô tận." },
+        { "number": 8, "sentence": "A good business suit is **timely** - it never goes out of fashion.", "answer": "timeless", "explanation": "'Timeless' (vượt thời gian/không bao giờ lỗi mốt)." },
+        { "number": 9, "sentence": "The building looks a bit **future** from the outside", "answer": "futuristic", "explanation": "Cần tính từ 'futuristic' (thuộc về tương lai/có phong cách tương lai)." },
+        { "number": 10, "sentence": "You have to be prepared for every **event** in this line of work.", "answer": "eventuality", "explanation": "'Eventuality' (tình huống có thể xảy ra/biến cố)." },
+        { "number": 11, "sentence": "Getting angry with your boss is **productive**", "answer": "counterproductive", "explanation": "'Counterproductive' (phản tác dụng)." }
+      ]
+    },
+    {
+      "id": "u6_N",
+      "label": "N",
+      "type": "fill_blank",
+      "instruction": "Write each of these words with counter- in the correct gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "As a spy... I was often involved in ___ , where we tried to stop the enemy from discovering our secrets.",
+          "answer": "counterintelligence",
+          "explanation": "'Counterintelligence' (phản gián)."
+        },
+        {
+          "number": 2,
+          "sentence": "The government will have to take some ___ to stop inflation from increasing.",
+          "answer": "countermeasures",
+          "explanation": "'Countermeasures' (biện pháp đối phó)."
+        },
+        {
+          "number": 3,
+          "sentence": "The reports... will hopefully ___ the government's inaccurate propaganda.",
+          "answer": "counterbalance",
+          "explanation": "'Counterbalance' (đối trọng/làm cân bằng lại) các thông tin tuyên truyền sai lệch."
+        },
+        {
+          "number": 4,
+          "sentence": "The army's planning to mount a ___ later today.",
+          "answer": "counteroffensive",
+          "explanation": "'Mount a counteroffensive' (mở một cuộc phản công - thuật ngữ quân sự)."
+        },
+        {
+          "number": 5,
+          "sentence": "You'll have to speak to my ___ in the New York office.",
+          "answer": "counterpart",
+          "explanation": "'Counterpart' (người đồng cấp/người có vị trí tương đương ở tổ chức khác)."
+        },
+        {
+          "number": 6,
+          "sentence": "We have to ___ this rise in crime by toughening up the sentencing laws.",
+          "answer": "counteract",
+          "explanation": "'Counteract' (chống lại/làm mất tác dụng) sự gia tăng tội phạm."
+        },
+        {
+          "number": 7,
+          "sentence": "art produced in the ___ .",
+          "answer": "counterculture",
+          "explanation": "'Counterculture' (phản văn hóa - phong trào văn hóa đi ngược lại với số đông)."
+        },
+        {
+          "number": 8,
+          "sentence": "If he accuses me... I'm going to ___ by saying I know he lied...",
+          "answer": "counterattack",
+          "explanation": "'Counterattack' (phản công/đáp trả lại lời cáo buộc)."
+        }
+      ]
+    },
+    {
+      "id": "u6_O",
+      "label": "O",
+      "type": "word_form",
+      "instruction": "Use the word given in capitals at the end of the line to form a word that fits in the space in the same line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "It is not (1) ___ that, during her premiership, Britain went through a period of...",
+          "answer": "incidental",
+          "explanation": "(INCIDENT) 'It is not incidental' (không phải là ngẫu nhiên)."
+        },
+        {
+          "number": 2,
+          "sentence": "went through a period of (2) ___ change.",
+          "answer": "momentous",
+          "explanation": "(MOMENT) 'Momentous change' (thay đổi quan trọng/có tính lịch sử)."
+        },
+        {
+          "number": 3,
+          "sentence": "changing Britain's (3) ___ union laws",
+          "answer": "antiquated",
+          "explanation": "(ANTIQUE) 'Antiquated laws' (những luật lệ cũ kỹ/lỗi thời)."
+        },
+        {
+          "number": 4,
+          "sentence": "creation of a modern, (4) ___ economy",
+          "answer": "competitive",
+          "explanation": "(COMPETE) 'Competitive economy' (nền kinh tế có tính cạnh tranh)."
+        },
+        {
+          "number": 5,
+          "sentence": "which required much higher (5) ___ , efficiency",
+          "answer": "productivity",
+          "explanation": "(PRODUCE) 'Productivity' (năng suất)."
+        },
+        {
+          "number": 6,
+          "sentence": "on the part of the (6) ___ than in the past.",
+          "answer": "workforce",
+          "explanation": "(WORK) 'Workforce' (lực lượng lao động)."
+        },
+        {
+          "number": 7,
+          "sentence": "which was responsible for running companies, rather than unions or the government.",
+          "answer": "management",
+          "explanation": "(MANAGE) 'Management' (ban quản lý/sự quản lý)."
+        },
+        {
+          "number": 8,
+          "sentence": "point to the very high (8) ___ figures of the 1980s",
+          "answer": "unemployment",
+          "explanation": "(EMPLOY) 'Unemployment figures' (số liệu thất nghiệp)."
+        },
+        {
+          "number": 9,
+          "sentence": "the official (9) ___ total had risen",
+          "answer": "jobless",
+          "explanation": "(JOB) 'Jobless total' (tổng số người không có việc làm)."
+        },
+        {
+          "number": 10,
+          "sentence": "Some saw her resignation as (10) ___ , and wished she would continue.",
+          "answer": "untimely",
+          "explanation": "(TIME) 'Untimely resignation' (sự từ chức không đúng lúc/đáng tiếc)."
+        },
+        {
+          "number": 11,
+          "sentence": "Even today, (11) ___ and economists are divided",
+          "answer": "historians",
+          "explanation": "(HISTORY) 'Historians' (nhà sử học)."
+        }
+      ]
+    }
+  ]
+}

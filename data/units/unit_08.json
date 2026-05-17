@@ -1,0 +1,1871 @@
+{
+  "unit_id": 8,
+  "unit_type": "Vocabulary",
+  "title": "Movement and transport",
+  "vocabulary_sections": [
+    {
+      "section_name": "Topic vocabulary: Movement",
+      "words": [
+        {
+          "word": "accelerate",
+          "pos": "verb",
+          "definition_en": "to move faster or to make something move faster",
+          "definition_vi": "tăng tốc",
+          "example": "The car accelerated as it overtook me.",
+          "synonyms": ["speed up", "hasten"],
+          "collocations": ["accelerate sharply", "accelerate smoothly"]
+        },
+        {
+          "word": "approach",
+          "pos": "verb, noun",
+          "definition_en": "to move closer to someone or something; a way of considering or doing something",
+          "definition_vi": "tiếp cận, lại gần; cách tiếp cận",
+          "example": "As we approached the city, the traffic got heavier.",
+          "synonyms": ["come near", "advance"],
+          "collocations": ["approach carefully", "a cautious approach"]
+        },
+        {
+          "word": "ascend",
+          "pos": "verb",
+          "definition_en": "to move up or to go up something",
+          "definition_vi": "đi lên",
+          "example": "The path ascends steeply up the hill.",
+          "synonyms": ["climb", "rise"],
+          "collocations": ["ascend the stairs", "ascend the throne"]
+        },
+        {
+          "word": "bounce",
+          "pos": "verb, noun",
+          "definition_en": "to move up or away after hitting a surface",
+          "definition_vi": "nảy lên",
+          "example": "The ball bounced off the wall.",
+          "synonyms": ["rebound", "spring"],
+          "collocations": ["bounce back", "on the bounce"]
+        },
+        {
+          "word": "clamber",
+          "pos": "verb",
+          "definition_en": "to climb up, across, or into somewhere with difficulty, using your hands and feet",
+          "definition_vi": "leo trèo, bò (một cách vất vả)",
+          "example": "They clambered over the rocks.",
+          "synonyms": ["scramble", "scale"],
+          "collocations": ["clamber over", "clamber up"]
+        },
+        {
+          "word": "clench",
+          "pos": "verb",
+          "definition_en": "to close or hold something very tightly, often because of anger or pain",
+          "definition_vi": "mím chặt, nắm chặt (răng, nắm đấm)",
+          "example": "He clenched his fists in frustration.",
+          "synonyms": ["grip", "clamp"],
+          "collocations": ["clench one's teeth", "clench one's jaw"]
+        },
+        {
+          "word": "clutch",
+          "pos": "verb",
+          "definition_en": "to hold something tightly, usually because you are afraid or in pain",
+          "definition_vi": "giật lấy, nắm chặt (vì sợ hoặc đau)",
+          "example": "She clutched her handbag tightly as she walked through the crowd.",
+          "synonyms": ["grasp", "cling to"],
+          "collocations": ["clutch at straws", "clutch to one's chest"]
+        },
+        {
+          "word": "crawl",
+          "pos": "verb",
+          "definition_en": "to move on your hands and knees",
+          "definition_vi": "bò, trườn",
+          "example": "The baby is just starting to crawl.",
+          "synonyms": ["creep", "inch"],
+          "collocations": ["crawl along", "at a crawl"]
+        },
+        {
+          "word": "creep",
+          "pos": "verb",
+          "definition_en": "to move slowly, quietly, and carefully, usually in order to avoid being noticed",
+          "definition_vi": "rón rén, lẻn",
+          "example": "I saw someone creeping around the house.",
+          "synonyms": ["tiptoe", "sneak"],
+          "collocations": ["creep in", "creep up on"]
+        },
+        {
+          "word": "dash",
+          "pos": "verb",
+          "definition_en": "to go somewhere very quickly",
+          "definition_vi": "lao tới, xông tới",
+          "example": "I must dash or I'll be late for work.",
+          "synonyms": ["rush", "sprint"],
+          "collocations": ["make a dash for", "dash off"]
+        },
+        {
+          "word": "descend",
+          "pos": "verb",
+          "definition_en": "to go down",
+          "definition_vi": "đi xuống",
+          "example": "The sun gradually descended below the horizon.",
+          "synonyms": ["go down", "drop"],
+          "collocations": ["descend the stairs", "descend from"]
+        },
+        {
+          "word": "drift",
+          "pos": "verb, noun",
+          "definition_en": "to be pushed along by moving water or air",
+          "definition_vi": "trôi dạt",
+          "example": "The boat drifted out to sea.",
+          "synonyms": ["float", "waft"],
+          "collocations": ["drift apart", "snow drift"]
+        },
+        {
+          "word": "emigrate",
+          "pos": "verb",
+          "definition_en": "to leave your own country and go to live permanently in another country",
+          "definition_vi": "di cư (rời khỏi đất nước)",
+          "example": "His family emigrated from Italy to Australia in the 1950s.",
+          "synonyms": ["migrate", "relocate"],
+          "collocations": ["emigrate to", "emigrate from"]
+        },
+        {
+          "word": "float",
+          "pos": "verb",
+          "definition_en": "to stay on the surface of a liquid and not sink",
+          "definition_vi": "nổi, trôi lềnh bềnh",
+          "example": "Leaves floated on the surface of the pond.",
+          "synonyms": ["drift", "hover"],
+          "collocations": ["float on water", "float in the air"]
+        },
+        {
+          "word": "flow",
+          "pos": "verb, noun",
+          "definition_en": "the continuous movement of a liquid in one direction",
+          "definition_vi": "chảy, luồng, dòng",
+          "example": "The river flows through the city center.",
+          "synonyms": ["stream", "run"],
+          "collocations": ["flow freely", "ebb and flow"]
+        },
+        {
+          "word": "fumble",
+          "pos": "verb",
+          "definition_en": "to use your hands with difficulty to try to get hold of something or find something",
+          "definition_vi": "lóng ngóng, mò mẫm",
+          "example": "She fumbled in her bag for her keys.",
+          "synonyms": ["grope", "mumble"],
+          "collocations": ["fumble for words", "fumble with buttons"]
+        },
+        {
+          "word": "gesture",
+          "pos": "verb, noun",
+          "definition_en": "to move your hand, arm, or head to express an idea or feeling",
+          "definition_vi": "điệu bộ, cử chỉ, ra hiệu",
+          "example": "He gestured towards the door, indicating that we should leave.",
+          "synonyms": ["signal", "motion"],
+          "collocations": ["make a gesture", "gestures of support"]
+        },
+        {
+          "word": "glide",
+          "pos": "verb",
+          "definition_en": "to move smoothly and easily, as if without effort",
+          "definition_vi": "lướt đi",
+          "example": "The skaters glided across the ice.",
+          "synonyms": ["slide", "sail"],
+          "collocations": ["glide through", "glide over"]
+        },
+        {
+          "word": "grab",
+          "pos": "verb",
+          "definition_en": "to take hold of something or someone suddenly and roughly",
+          "definition_vi": "vồ lấy, chộp lấy",
+          "example": "I grabbed my coat and ran out.",
+          "synonyms": ["seize", "snatch"],
+          "collocations": ["grab a bite", "grab someone's attention"]
+        },
+        {
+          "word": "grasp",
+          "pos": "verb",
+          "definition_en": "to take hold of something or someone firmly with your hands",
+          "definition_vi": "nắm chặt, thấu hiểu",
+          "example": "He grasped my hand and shook it firmly.",
+          "synonyms": ["grip", "understand"],
+          "collocations": ["grasp the opportunity", "grasp the meaning"]
+        },
+        {
+          "word": "hop",
+          "pos": "verb, noun",
+          "definition_en": "to move by jumping on one foot",
+          "definition_vi": "nhảy lò cò",
+          "example": "I had to hop because I'd hurt my foot.",
+          "synonyms": ["jump", "bound"],
+          "collocations": ["hop on", "a quick hop"]
+        },
+        {
+          "word": "immigrant",
+          "pos": "noun",
+          "definition_en": "someone who comes to live in a different country",
+          "definition_vi": "người nhập cư",
+          "example": "The government is trying to restrict the number of illegal immigrants.",
+          "synonyms": ["newcomer", "settler"],
+          "collocations": ["illegal immigrant", "first-generation immigrant"]
+        },
+        {
+          "word": "jog",
+          "pos": "verb, noun",
+          "definition_en": "to run at a slow, steady speed, especially for exercise",
+          "definition_vi": "chạy bộ",
+          "example": "I go jogging every morning.",
+          "synonyms": ["trot", "run"],
+          "collocations": ["go for a jog", "jog someone's memory"]
+        },
+        {
+          "word": "leap",
+          "pos": "verb, noun",
+          "definition_en": "to jump high into the air or over something",
+          "definition_vi": "nhảy vọt",
+          "example": "The salmon were leaping out of the water.",
+          "synonyms": ["jump", "spring"],
+          "collocations": ["a leap in the dark", "leap year"]
+        },
+        {
+          "word": "march",
+          "pos": "verb, noun",
+          "definition_en": "to walk with regular steps of equal length, like a soldier",
+          "definition_vi": "diễu hành, hành quân",
+          "example": "The soldiers marched past the palace.",
+          "synonyms": ["stride", "parade"],
+          "collocations": ["on the march", "protest march"]
+        },
+        {
+          "word": "migrate",
+          "pos": "verb",
+          "definition_en": "if birds or animals migrate, they travel from one part of the world to another at the same time each year",
+          "definition_vi": "di cư (động vật, hoặc theo mùa)",
+          "example": "These birds migrate south for the winter.",
+          "synonyms": ["relocate", "roam"],
+          "collocations": ["migrate to", "migrate seasonally"]
+        },
+        {
+          "word": "point",
+          "pos": "verb",
+          "definition_en": "to show where something is by holding out your finger or a long thin object",
+          "definition_vi": "chỉ, trỏ",
+          "example": "She pointed to the map on the wall.",
+          "synonyms": ["indicate", "direct"],
+          "collocations": ["point out", "point at"]
+        },
+        {
+          "word": "punch",
+          "pos": "verb",
+          "definition_en": "to hit someone or something with your fist",
+          "definition_vi": "đấm",
+          "example": "He punched the wall in anger.",
+          "synonyms": ["hit", "strike"],
+          "collocations": ["punch someone in the face", "punch-up"]
+        },
+        {
+          "word": "refugee",
+          "pos": "noun",
+          "definition_en": "someone who has been forced to leave their country for help and protection in another country",
+          "definition_vi": "người tị nạn",
+          "example": "Thousands of refugees are fleeing the war.",
+          "synonyms": ["exile", "asylum seeker"],
+          "collocations": ["refugee camp", "political refugee"]
+        },
+        {
+          "word": "roam",
+          "pos": "verb",
+          "definition_en": "to move or travel around an area without any definite aim or direction",
+          "definition_vi": "đi lang thang, rong chơi",
+          "example": "The sheep are allowed to roam freely on the hills.",
+          "synonyms": ["wander", "ramble"],
+          "collocations": ["roam around", "roam the streets"]
+        },
+        {
+          "word": "roll",
+          "pos": "verb",
+          "definition_en": "to move by turning over and over",
+          "definition_vi": "lăn",
+          "example": "The ball rolled down the hill.",
+          "synonyms": ["turn", "rotate"],
+          "collocations": ["roll over", "roll up"]
+        },
+        {
+          "word": "rotate",
+          "pos": "verb",
+          "definition_en": "to move or turn in a circle around a central point",
+          "definition_vi": "quay quanh trục, xoay",
+          "example": "The Earth rotates once every 24 hours.",
+          "synonyms": ["revolve", "spin"],
+          "collocations": ["rotate crops", "rotate around"]
+        },
+        {
+          "word": "route",
+          "pos": "noun",
+          "definition_en": "the way from one place to another",
+          "definition_vi": "tuyến đường, lộ trình",
+          "example": "Which is the quickest route to the airport?",
+          "synonyms": ["way", "path"],
+          "collocations": ["bus route", "scenic route"]
+        },
+        {
+          "word": "sink",
+          "pos": "verb",
+          "definition_en": "to go down below the surface of water, mud, etc.",
+          "definition_vi": "chìm",
+          "example": "The Titanic sank after hitting an iceberg.",
+          "synonyms": ["submerge", "go down"],
+          "collocations": ["sink without a trace", "sink in"]
+        },
+        {
+          "word": "skid",
+          "pos": "verb, noun",
+          "definition_en": "to slide across the ground in an uncontrolled way",
+          "definition_vi": "trượt (xe)",
+          "example": "The car skidded on the icy road.",
+          "synonyms": ["slide", "slip"],
+          "collocations": ["go into a skid", "skid mark"]
+        },
+        {
+          "word": "skip",
+          "pos": "verb",
+          "definition_en": "to move forwards by jumping first on one foot and then on the other",
+          "definition_vi": "nhảy chân sáo, bỏ qua",
+          "example": "The little girl skipped happily along the path.",
+          "synonyms": ["hop", "bounce"],
+          "collocations": ["skip school", "skip a meal"]
+        },
+        {
+          "word": "slide",
+          "pos": "verb, noun",
+          "definition_en": "to move smoothly over a surface",
+          "definition_vi": "trượt, lướt",
+          "example": "The kids were sliding on the ice.",
+          "synonyms": ["glide", "slip"],
+          "collocations": ["let something slide", "slide into"]
+        },
+        {
+          "word": "slip",
+          "pos": "verb",
+          "definition_en": "to slide a short distance by accident so that you fall or nearly fall",
+          "definition_vi": "trượt chân",
+          "example": "I slipped on a banana skin.",
+          "synonyms": ["skid", "slide"],
+          "collocations": ["slip up", "slip of the tongue"]
+        },
+        {
+          "word": "step",
+          "pos": "verb, noun",
+          "definition_en": "to move by lifting your foot and putting it down in a different place",
+          "definition_vi": "bước đi; bước chân",
+          "example": "She took a step towards him.",
+          "synonyms": ["pace", "stride"],
+          "collocations": ["step by step", "take steps"]
+        },
+        {
+          "word": "stride",
+          "pos": "verb, noun",
+          "definition_en": "to walk with long steps",
+          "definition_vi": "sải bước",
+          "example": "He strode across the room to greet her.",
+          "synonyms": ["march", "pace"],
+          "collocations": ["make strides", "in one's stride"]
+        },
+        {
+          "word": "trip",
+          "pos": "verb",
+          "definition_en": "to hit your foot on something and fall or nearly fall",
+          "definition_vi": "vấp ngã",
+          "example": "I tripped over the cat and fell.",
+          "synonyms": ["stumble", "tumble"],
+          "collocations": ["trip up", "trip over"]
+        },
+        {
+          "word": "velocity",
+          "pos": "noun",
+          "definition_en": "the speed of something in a particular direction",
+          "definition_vi": "vận tốc",
+          "example": "The missile reached a velocity of 3,000 miles per hour.",
+          "synonyms": ["speed", "pace"],
+          "collocations": ["terminal velocity", "high velocity"]
+        },
+        {
+          "word": "wander",
+          "pos": "verb",
+          "definition_en": "to travel from place to place without a particular direction or purpose",
+          "definition_vi": "đi lang thang",
+          "example": "We spent the morning wandering around the old town.",
+          "synonyms": ["roam", "meander"],
+          "collocations": ["wander off", "mind wanders"]
+        },
+        {
+          "word": "wave",
+          "pos": "verb, noun",
+          "definition_en": "to move your hand from side to side in the air to say hello or goodbye",
+          "definition_vi": "vẫy tay; làn sóng",
+          "example": "She waved goodbye as the train left the station.",
+          "synonyms": ["signal", "motion"],
+          "collocations": ["wave at", "give a wave"]
+        }
+      ]
+    },
+    {
+      "section_name": "Topic vocabulary: Transport",
+      "words": [
+        {
+          "word": "airline",
+          "pos": "noun",
+          "definition_en": "a company that provides regular flights for passengers or goods",
+          "definition_vi": "hãng hàng không",
+          "example": "Which airline are you flying with?",
+          "synonyms": ["carrier"],
+          "collocations": ["budget airline", "commercial airline"]
+        },
+        {
+          "word": "cargo",
+          "pos": "noun",
+          "definition_en": "the goods carried by a ship, aircraft, or other large vehicle",
+          "definition_vi": "hàng hóa (vận chuyển bằng tàu/máy bay)",
+          "example": "The ship was carrying a cargo of timber.",
+          "synonyms": ["freight", "load"],
+          "collocations": ["cargo ship", "cargo plane"]
+        },
+        {
+          "word": "carriage",
+          "pos": "noun",
+          "definition_en": "one of the vehicles that are joined together to make a train",
+          "definition_vi": "toa hành khách",
+          "example": "The front carriage of the train was damaged in the accident.",
+          "synonyms": ["coach", "wagon"],
+          "collocations": ["railway carriage", "first-class carriage"]
+        },
+        {
+          "word": "charter",
+          "pos": "verb",
+          "definition_en": "to hire a boat, plane, or bus for a particular use",
+          "definition_vi": "thuê riêng (tàu, máy bay)",
+          "example": "They chartered a boat to go fishing.",
+          "synonyms": ["hire", "lease"],
+          "collocations": ["charter flight", "charter a bus"]
+        },
+        {
+          "word": "commute",
+          "pos": "verb",
+          "definition_en": "to travel regularly to and from work",
+          "definition_vi": "đi làm đều đặn hàng ngày",
+          "example": "He commutes to London every day.",
+          "synonyms": ["travel"],
+          "collocations": ["commute by train", "daily commute"]
+        },
+        {
+          "word": "destination",
+          "pos": "noun",
+          "definition_en": "the place where someone or something is going",
+          "definition_vi": "điểm đến",
+          "example": "We reached our destination after a long journey.",
+          "synonyms": ["goal", "endpoint"],
+          "collocations": ["final destination", "holiday destination"]
+        },
+        {
+          "word": "hiker",
+          "pos": "noun",
+          "definition_en": "someone who walks long distances in the mountains or country for pleasure",
+          "definition_vi": "người đi bộ đường dài",
+          "example": "The hills are popular with hikers.",
+          "synonyms": ["walker", "rambler"],
+          "collocations": ["keen hiker", "group of hikers"]
+        },
+        {
+          "word": "hitchhiker",
+          "pos": "noun",
+          "definition_en": "someone who travels by asking other people to take them in their car",
+          "definition_vi": "người đi nhờ xe",
+          "example": "I used to be a hitchhiker when I was a student.",
+          "synonyms": ["thumber"],
+          "collocations": ["pick up a hitchhiker"]
+        },
+        {
+          "word": "jet lag",
+          "pos": "noun",
+          "definition_en": "the feeling of being very tired and sometimes confused after a long flight",
+          "definition_vi": "mệt mỏi sau chuyến bay dài (lệch múi giờ)",
+          "example": "I'm still suffering from jet lag.",
+          "synonyms": [],
+          "collocations": ["suffer from jet lag"]
+        },
+        {
+          "word": "legroom",
+          "pos": "noun",
+          "definition_en": "the amount of space available for your legs when you are sitting in a car, plane, etc.",
+          "definition_vi": "chỗ để chân",
+          "example": "There's not much legroom in the back of this car.",
+          "synonyms": [],
+          "collocations": ["ample legroom", "extra legroom"]
+        },
+        {
+          "word": "load",
+          "pos": "verb, noun",
+          "definition_en": "to put a large quantity of things into a vehicle or container",
+          "definition_vi": "chất hàng, vật nặng",
+          "example": "The truck was carrying a heavy load.",
+          "synonyms": ["cargo", "burden"],
+          "collocations": ["heavy load", "load the car"]
+        },
+        {
+          "word": "passerby",
+          "pos": "noun",
+          "definition_en": "someone who is walking past a place by chance",
+          "definition_vi": "người qua đường",
+          "example": "The accident was witnessed by several passersby.",
+          "synonyms": ["onlooker", "witness"],
+          "collocations": ["innocent passerby"]
+        },
+        {
+          "word": "pedestrian",
+          "pos": "noun",
+          "definition_en": "someone who is walking, especially in a town or city",
+          "definition_vi": "người đi bộ",
+          "example": "This area is for pedestrians only.",
+          "synonyms": ["walker"],
+          "collocations": ["pedestrian crossing", "pedestrian zone"]
+        },
+        {
+          "word": "pier",
+          "pos": "noun",
+          "definition_en": "a structure built out from the land over water",
+          "definition_vi": "cầu tàu, bến tàu",
+          "example": "We walked along the pier to see the boats.",
+          "synonyms": ["jetty", "dock"],
+          "collocations": ["pleasure pier"]
+        },
+        {
+          "word": "pilot",
+          "pos": "verb, noun",
+          "definition_en": "someone who flies an aircraft; to fly an aircraft",
+          "definition_vi": "phi công; điều khiển (máy bay, tàu)",
+          "example": "He's a pilot for a major airline.",
+          "synonyms": ["aviator"],
+          "collocations": ["pilot an aircraft", "fighter pilot"]
+        },
+        {
+          "word": "quay",
+          "pos": "noun",
+          "definition_en": "a hard surface next to a sea or river, where boats can stop",
+          "definition_vi": "bến cảng, bến tàu",
+          "example": "A crowd gathered on the quay to see the ship arrive.",
+          "synonyms": ["wharf", "dock"],
+          "collocations": ["on the quay"]
+        },
+        {
+          "word": "return fare",
+          "pos": "noun phr",
+          "definition_en": "the price of a journey to a place and back again",
+          "definition_vi": "giá vé khứ hồi",
+          "example": "The return fare is much cheaper than two singles.",
+          "synonyms": [],
+          "collocations": ["cheap return fare"]
+        },
+        {
+          "word": "round trip",
+          "pos": "noun phr",
+          "definition_en": "a journey to a place and back again",
+          "definition_vi": "chuyến đi khứ hồi",
+          "example": "The round trip takes about four hours.",
+          "synonyms": [],
+          "collocations": ["make a round trip"]
+        },
+        {
+          "word": "steer",
+          "pos": "verb",
+          "definition_en": "to control the direction in which a vehicle moves",
+          "definition_vi": "lái (vô lăng, hướng đi)",
+          "example": "He steered the car through the narrow streets.",
+          "synonyms": ["guide", "direct"],
+          "collocations": ["steer clear of", "steer a course"]
+        },
+        {
+          "word": "steward",
+          "pos": "noun",
+          "definition_en": "a man whose job is to look after the passengers on a plane, train, or ship",
+          "definition_vi": "tiếp viên, người phục vụ",
+          "example": "The steward brought us some drinks.",
+          "synonyms": ["attendant"],
+          "collocations": ["flight steward"]
+        }
+      ]
+    },
+    {
+      "section_name": "Phrasal verbs",
+      "words": [
+        {
+          "word": "cordon off",
+          "pos": "phrasal verb",
+          "definition_en": "stop people from entering an area by putting something such as a rope around it",
+          "definition_vi": "phong tỏa bằng rào chắn/dây thừng",
+          "example": "The police cordoned off the area around the suspicious package.",
+          "synonyms": ["block off", "seal off"],
+          "collocations": []
+        },
+        {
+          "word": "creep up on",
+          "pos": "phrasal verb",
+          "definition_en": "move towards someone quietly and slowly, especially because you want to surprise them",
+          "definition_vi": "rón rén lại gần (để gây bất ngờ)",
+          "example": "Don't creep up on me like that!",
+          "synonyms": ["sneak up on"],
+          "collocations": []
+        },
+        {
+          "word": "fall behind",
+          "pos": "phrasal verb",
+          "definition_en": "move more slowly than other people so that you are behind them; make less progress or be less successful than other people",
+          "definition_vi": "tụt lại phía sau; chậm trễ tiến độ",
+          "example": "He fell behind in his schoolwork after being ill.",
+          "synonyms": ["lag"],
+          "collocations": []
+        },
+        {
+          "word": "go astray",
+          "pos": "phrasal verb",
+          "definition_en": "become lost or go to the wrong place",
+          "definition_vi": "thất lạc, đi chệch hướng",
+          "example": "The letter must have gone astray in the post.",
+          "synonyms": ["get lost"],
+          "collocations": []
+        },
+        {
+          "word": "head off",
+          "pos": "phrasal verb",
+          "definition_en": "prevent someone from going somewhere by getting in front of them; prevent something from taking place",
+          "definition_vi": "chặn đầu; ngăn chặn điều gì xảy ra",
+          "example": "We'll head them off at the bridge.",
+          "synonyms": ["intercept", "forestall"],
+          "collocations": []
+        },
+        {
+          "word": "hold back",
+          "pos": "phrasal verb",
+          "definition_en": "stop someone or something from moving forwards",
+          "definition_vi": "ngăn lại, giữ lại",
+          "example": "Police struggled to hold back the crowd.",
+          "synonyms": ["restrain"],
+          "collocations": []
+        },
+        {
+          "word": "move in (with)",
+          "pos": "phrasal verb",
+          "definition_en": "start living in a different house or flat (with)",
+          "definition_vi": "chuyển đến ở cùng",
+          "example": "She's moving in with her boyfriend.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "move out",
+          "pos": "phrasal verb",
+          "definition_en": "permanently leave the house or flat where you live",
+          "definition_vi": "chuyển đi",
+          "example": "Our neighbors moved out last week.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "move over",
+          "pos": "phrasal verb",
+          "definition_en": "change your position in order to make space for someone or something",
+          "definition_vi": "né sang một bên, xê ra",
+          "example": "Move over so I can sit down.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "pull over",
+          "pos": "phrasal verb",
+          "definition_en": "stop by the side of the road in a car or other vehicle",
+          "definition_vi": "tấp xe vào lề",
+          "example": "The police pulled him over for speeding.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "slip away",
+          "pos": "phrasal verb",
+          "definition_en": "leave secretly",
+          "definition_vi": "lẻn đi, chuồn đi",
+          "example": "We slipped away before the party ended.",
+          "synonyms": ["sneak out"],
+          "collocations": []
+        },
+        {
+          "word": "step aside",
+          "pos": "phrasal verb",
+          "definition_en": "move so that sb can pass you; leave a job so that sb else can take over",
+          "definition_vi": "bước sang bên; nhường chỗ/nhường chức",
+          "example": "It's time for the director to step aside and let a younger person take over.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "stop off",
+          "pos": "phrasal verb",
+          "definition_en": "visit somewhere before continuing to another place",
+          "definition_vi": "ghé thăm, dừng lại giữa chặng",
+          "example": "We stopped off in Paris on our way to Rome.",
+          "synonyms": ["break the journey"],
+          "collocations": []
+        },
+        {
+          "word": "tip up",
+          "pos": "phrasal verb",
+          "definition_en": "(of an object) have one end move upwards; turn a container upside down",
+          "definition_vi": "lật ngược, làm nghiêng",
+          "example": "The bench tipped up when I sat on the end.",
+          "synonyms": ["tilt"],
+          "collocations": []
+        },
+        {
+          "word": "move on",
+          "pos": "phrasal verb",
+          "definition_en": "leave one place and travel to another; stop discussing sth and begin discussing sth different",
+          "definition_vi": "tiếp tục đi; chuyển sang chủ đề khác",
+          "example": "Let's move on to the next item on the agenda.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "walk out",
+          "pos": "phrasal verb",
+          "definition_en": "leave a meeting, performance, etc before the end; suddenly leave a relationship, family, job, etc",
+          "definition_vi": "bỏ cuộc giữa chừng; rời bỏ (gia đình, công việc)",
+          "example": "He walked out on his wife and children.",
+          "synonyms": ["abandon"],
+          "collocations": []
+        }
+      ]
+    },
+    {
+      "section_name": "Idioms",
+      "words": [
+        {
+          "word": "a stone's throw (away/from)",
+          "pos": "idiom",
+          "definition_en": "very close (to)",
+          "definition_vi": "rất gần",
+          "example": "The hotel is just a stone's throw from the beach.",
+          "synonyms": ["nearby"],
+          "collocations": []
+        },
+        {
+          "word": "as the crow flies",
+          "pos": "idiom",
+          "definition_en": "in a straight line (used for measuring distance)",
+          "definition_vi": "theo đường chim bay",
+          "example": "It's five miles as the crow flies, but about seven by road.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "follow your nose",
+          "pos": "idiom",
+          "definition_en": "go straight forward; do what you feel is right in a situation",
+          "definition_vi": "cứ đi thẳng; làm theo trực giác",
+          "example": "Just follow your nose and you'll find the station.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "in the middle of nowhere",
+          "pos": "idiom",
+          "definition_en": "a long way from any town or city",
+          "definition_vi": "ở nơi hẻo lánh, đồng không mông quạnh",
+          "example": "The car broke down in the middle of nowhere.",
+          "synonyms": ["remote", "isolated"],
+          "collocations": []
+        },
+        {
+          "word": "lose your bearings",
+          "pos": "idiom",
+          "definition_en": "become confused about where you are",
+          "definition_vi": "mất phương hướng",
+          "example": "I lost my bearings in the dark and couldn't find the way back.",
+          "synonyms": ["get lost"],
+          "collocations": []
+        },
+        {
+          "word": "make a beeline for",
+          "pos": "idiom",
+          "definition_en": "go towards someone or something in the quickest and most direct way",
+          "definition_vi": "đi thẳng tới",
+          "example": "As soon as he arrived, he made a beeline for the food.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "off the beaten track",
+          "pos": "idiom",
+          "definition_en": "away from populated areas or areas popular with tourists",
+          "definition_vi": "nơi hẻo lánh, ít người lui tới",
+          "example": "We found a tiny hotel off the beaten track.",
+          "synonyms": ["secluded"],
+          "collocations": []
+        },
+        {
+          "word": "stop dead in your tracks",
+          "pos": "idiom",
+          "definition_en": "suddenly stop, for example because you are surprised",
+          "definition_vi": "dừng sững lại (vì ngạc nhiên, sợ hãi)",
+          "example": "I stopped dead in my tracks when I saw the snake.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "take a short cut to",
+          "pos": "idiom",
+          "definition_en": "follow a path that is quicker and shorter than the usual way",
+          "definition_vi": "đi đường tắt",
+          "example": "If we take a short cut through the park, we'll be there in five minutes.",
+          "synonyms": [],
+          "collocations": []
+        },
+        {
+          "word": "take the scenic route",
+          "pos": "idiom",
+          "definition_en": "follow a longer path than the usual one because it is more attractive",
+          "definition_vi": "đi đường vòng để ngắm cảnh",
+          "example": "We decided to take the scenic route home.",
+          "synonyms": [],
+          "collocations": []
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u8_a",
+      "label": "A",
+      "type": "fill_blank",
+      "instruction": "Complete using the correct form of the words in the boxes.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I ___ my school bag from the table and rushed out of the house.",
+          "answer": "grabbed",
+          "explanation": "'Grab' means to take hold of something suddenly and roughly."
+        },
+        {
+          "number": 2,
+          "sentence": "Grace ___ in her bag for her car keys and finally found them.",
+          "answer": "fumbled",
+          "explanation": "'Fumble' means to use your hands with difficulty to try to find something."
+        },
+        {
+          "number": 3,
+          "sentence": "A man ran from the burning house, ___ a baby in his arms.",
+          "answer": "clutching",
+          "explanation": "'Clutching' describes holding something tightly, often in a desperate situation."
+        },
+        {
+          "number": 4,
+          "sentence": "The old man ___ his finger straight at me and I felt a chill go down my spine.",
+          "answer": "pointed",
+          "explanation": "'Point' is to show where something is with a finger."
+        },
+        {
+          "number": 5,
+          "sentence": "As the train left the station, Charlie ___ goodbye.",
+          "answer": "waved",
+          "explanation": "'Wave' is the motion of the hand to say goodbye."
+        },
+        {
+          "number": 6,
+          "sentence": "Jamie came home from school with a black eye because someone had ___ him.",
+          "answer": "punched",
+          "explanation": "'Punch' means to hit someone with a fist."
+        },
+        {
+          "number": 7,
+          "sentence": "I asked Karen where the phone was and without taking her eyes off the TV she ___ lazily in the direction of the kitchen.",
+          "answer": "gestured",
+          "explanation": "'Gesture' is to move a hand to express or indicate something."
+        },
+        {
+          "number": 8,
+          "sentence": "Lina ___ her fists tightly in anger but managed to control herself.",
+          "answer": "clenched",
+          "explanation": "'Clenched' is used specifically for fists or teeth being held tightly."
+        },
+        {
+          "number": 9,
+          "sentence": "He ___ my hand firmly and I could see that he was trying to thank me.",
+          "answer": "grasped",
+          "explanation": "'Grasp' means to take hold of something firmly."
+        },
+        {
+          "number": 10,
+          "sentence": "The burglar ___ very quietly along the corridor, trying not to wake anybody.",
+          "answer": "crept",
+          "explanation": "'Crept' (past of creep) means to move quietly and slowly to avoid being noticed."
+        },
+        {
+          "number": 11,
+          "sentence": "How long do you think you could ___ on one leg?",
+          "answer": "hop",
+          "explanation": "'Hop' means to jump on one foot."
+        },
+        {
+          "number": 12,
+          "sentence": "I ___ in the park most mornings because I like to keep myself in shape.",
+          "answer": "jog",
+          "explanation": "'Jog' is a slow, steady run for exercise."
+        },
+        {
+          "number": 13,
+          "sentence": "Just ___ this way, sir, and the customer services manager will be with you in a moment.",
+          "answer": "step",
+          "explanation": "'Step' is used here to mean walk a short distance."
+        },
+        {
+          "number": 14,
+          "sentence": "When we heard the noise, we quickly ___ round the corner to see what had happened.",
+          "answer": "dashed",
+          "explanation": "'Dashed' means to move very quickly."
+        },
+        {
+          "number": 15,
+          "sentence": "Before he learnt to walk, my younger brother used to ___ everywhere on all fours.",
+          "answer": "crawl",
+          "explanation": "'Crawl' is the movement of babies on hands and knees."
+        },
+        {
+          "number": 16,
+          "sentence": "The army ___ for two days before they came to the outskirts of the city.",
+          "answer": "marched",
+          "explanation": "'Marched' is the regular, rhythmic walking of soldiers."
+        },
+        {
+          "number": 17,
+          "sentence": "The speaker ___ onto the stage and smiled confidently at the audience.",
+          "answer": "strode",
+          "explanation": "'Strode' (past of stride) means to walk with long, confident steps."
+        },
+        {
+          "number": 18,
+          "sentence": "When he saw me coming, our dog ___ over the gate and came to greet me.",
+          "answer": "leapt",
+          "explanation": "'Leapt' (past of leap) means to jump a large distance/height."
+        },
+        {
+          "number": 19,
+          "sentence": "Polly was so happy she ___ along the pavement to school, jumping from one foot to the other.",
+          "answer": "skipped",
+          "explanation": "'Skipped' is a rhythmic jump-walk expressing happiness."
+        },
+        {
+          "number": 20,
+          "sentence": "When the men were finally found, they had been ___ at sea in a tiny boat for days.",
+          "answer": "drifting",
+          "explanation": "'Drifting' means being moved by water without control."
+        },
+        {
+          "number": 21,
+          "sentence": "Wolves used to ___ this whole area, looking for food.",
+          "answer": "roam",
+          "explanation": "'Roam' means to wander over a large area."
+        },
+        {
+          "number": 22,
+          "sentence": "I was bored so I ___ into the centre of town and did a bit of window shopping.",
+          "answer": "wandered",
+          "explanation": "'Wandered' means to walk without a specific destination."
+        },
+        {
+          "number": 23,
+          "sentence": "I didn't see the oil on the floor and I ___ on it.",
+          "answer": "slipped",
+          "explanation": "'Slipped' is an accidental slide, usually leading to a fall."
+        },
+        {
+          "number": 24,
+          "sentence": "This wardrobe is really heavy, but maybe we can ___ it along the ground.",
+          "answer": "slide",
+          "explanation": "'Slide' is to move something smoothly along a surface."
+        },
+        {
+          "number": 25,
+          "sentence": "I didn't see the step and I ___ over it.",
+          "answer": "tripped",
+          "explanation": "'Tripped' means to catch one's foot and fall."
+        },
+        {
+          "number": 26,
+          "sentence": "The road was wet, so when I pressed the brakes the car ___.",
+          "answer": "skidded",
+          "explanation": "'Skidded' refers to a vehicle's wheels sliding uncontrollably."
+        }
+      ]
+    },
+    {
+      "id": "u8_b",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Complete using the words in bold in the correct form.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I ___ over a rock and looked down into the valley below us. We had ___ to 6,000 metres above sea level and the air was getting thin. Nick was injured, and I knew we would have to ___ soon to get medical treatment.",
+          "answer": "clambered, ascended, descend",
+          "explanation": "'Clambered' (to climb with difficulty), 'ascended' (to go up), 'descend' (to go down)."
+        },
+        {
+          "number": 2,
+          "sentence": "The pilot held the controls. The engines were dead and the plane was ___ towards the airfield. She knew that if she didn't have the ___ to reach the runway, there was no way she could ___ . She just hoped that the air would continue to ___ over the wings and stop her from ___ too low. She ___ the runway with her heart in her throat.",
+          "answer": "gliding, velocity, accelerate, flow, sinking, approached",
+          "explanation": "'Gliding' (flying without engine), 'velocity' (speed), 'accelerate' (speed up), 'flow' (air movement), 'sinking' (going down), 'approached' (got closer)."
+        },
+        {
+          "number": 3,
+          "sentence": "The arctic tern is an incredible bird. It ___ thousands of miles each year, stopping occasionally to ___ on the ocean to rest. How it remembers the ___ is still not fully understood.",
+          "answer": "migrates, float, route",
+          "explanation": "'Migrates' (seasonal travel), 'float' (rest on water), 'route' (the path taken)."
+        },
+        {
+          "number": 4,
+          "sentence": "In basketball, you must ___ the ball when you are moving with it. When you take a shot, you should let the ball ___ off your fingers so that it ___ in the air. That makes it more accurate.",
+          "answer": "bounce, roll, rotate",
+          "explanation": "'Bounce' (dribbling), 'roll' (moving off fingers), 'rotate' (spinning in the air)."
+        },
+        {
+          "number": 5,
+          "sentence": "In the 1950s, many people ___ from the West Indies to England. Life was often hard for these ___ , but they eventually became part of British life. Today, Britain also welcomes ___ from parts of the world that are affected by war.",
+          "answer": "emigrated, immigrants, refugees",
+          "explanation": "'Emigrated' (left country), 'immigrants' (people coming to live), 'refugees' (fleeing war)."
+        }
+      ]
+    },
+    {
+      "id": "u8_c",
+      "label": "C",
+      "type": "fill_blank",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "People started to ___ to work, travelling home in a crowded train...",
+          "answer": "commute",
+          "explanation": "To travel regularly between home and work."
+        },
+        {
+          "number": 2,
+          "sentence": "...train ___ each day.",
+          "answer": "carriage",
+          "explanation": "A section of a train."
+        },
+        {
+          "number": 3,
+          "sentence": "Now a new ___ , Officeways, plans to extend the idea...",
+          "answer": "airline",
+          "explanation": "A company providing air travel."
+        },
+        {
+          "number": 4,
+          "sentence": "...who could afford to ___ a plane or helicopter...",
+          "answer": "charter",
+          "explanation": "To hire a vehicle for private use."
+        },
+        {
+          "number": 5,
+          "sentence": "...which travels to ___ throughout Europe...",
+          "answer": "destinations",
+          "explanation": "Places where someone is going."
+        },
+        {
+          "number": 6,
+          "sentence": "You might have less ___ than on the train...",
+          "answer": "legroom",
+          "explanation": "Space for legs while sitting."
+        },
+        {
+          "number": 7,
+          "sentence": "...Officeways claims their ___ are specially trained...",
+          "answer": "stewards",
+          "explanation": "Personnel serving passengers on a plane/train."
+        },
+        {
+          "number": 8,
+          "sentence": "...there's no risk of ___ !",
+          "answer": "jet lag",
+          "explanation": "Tiredness from flying across time zones."
+        }
+      ]
+    },
+    {
+      "id": "u8_d",
+      "label": "D",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Running along the seafront, there was a short concrete (pier / quay), where a dozen fishing boats bobbed in the afternoon sun.",
+          "options": ["pier", "quay"],
+          "answer": "quay",
+          "explanation": "A quay is a stone or metal platform alongside water for loading/unloading boats."
+        },
+        {
+          "number": 2,
+          "sentence": "Quite a few resorts in Britain have long (piers / quays), which stick out into the sea...",
+          "options": ["piers", "quays"],
+          "answer": "piers",
+          "explanation": "A pier is a structure leading out from the shore into a body of water."
+        },
+        {
+          "number": 3,
+          "sentence": "This area is for (passersby / pedestrians) only and is closed to all traffic.",
+          "options": ["passersby", "pedestrians"],
+          "answer": "pedestrians",
+          "explanation": "Pedestrians are people walking in a specific area (like a street)."
+        },
+        {
+          "number": 4,
+          "sentence": "After the accident, (passersby / pedestrians) described the driver...",
+          "options": ["passersby", "pedestrians"],
+          "answer": "passersby",
+          "explanation": "Passersby are people who happen to be walking past a scene."
+        },
+        {
+          "number": 5,
+          "sentence": "Keep both hands on the wheel and you'll find it easier to (pilot / steer) the car.",
+          "options": ["pilot", "steer"],
+          "answer": "steer",
+          "explanation": "Steer is used for controlling land vehicles like cars."
+        },
+        {
+          "number": 6,
+          "sentence": "I'm hoping to train so that I can (pilot / steer) commercial aircraft.",
+          "options": ["pilot", "steer"],
+          "answer": "pilot",
+          "explanation": "Pilot is the specific verb for controlling aircraft."
+        },
+        {
+          "number": 7,
+          "sentence": "As I came out of the petrol station, I saw a (hiker / hitchhiker) with his thumb out...",
+          "options": ["hiker", "hitchhiker"],
+          "answer": "hitchhiker",
+          "explanation": "A hitchhiker thumbs a lift from cars."
+        },
+        {
+          "number": 8,
+          "sentence": "Local (hikers / hitchhikers) insist that they have the right to walk across the field...",
+          "options": ["hikers", "hitchhikers"],
+          "answer": "hikers",
+          "explanation": "Hikers walk long distances for pleasure/exercise."
+        },
+        {
+          "number": 9,
+          "sentence": "It's three and a half hours each way, so the (return fare / round trip) takes seven hours.",
+          "options": ["return fare", "round trip"],
+          "answer": "round trip",
+          "explanation": "Round trip refers to the whole journey there and back."
+        },
+        {
+          "number": 10,
+          "sentence": "A single is €40, but the (return fare / round trip) is actually only €55.",
+          "options": ["return fare", "round trip"],
+          "answer": "return fare",
+          "explanation": "Return fare refers to the price of the ticket."
+        },
+        {
+          "number": 11,
+          "sentence": "A lorry lost its (cargo / load) on the motorway and there's white paint everywhere.",
+          "options": ["cargo", "load"],
+          "answer": "load",
+          "explanation": "Load is used for things carried by a vehicle like a lorry."
+        },
+        {
+          "number": 12,
+          "sentence": "The area where the (cargo / load) is stored on a plane can actually get extremely cold...",
+          "options": ["cargo", "load"],
+          "answer": "cargo",
+          "explanation": "Cargo is the standard term for goods on a ship or plane."
+        }
+      ]
+    },
+    {
+      "id": "u8_e",
+      "label": "E",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The police officer told the homeless man to move ___ and he walked slowly and painfully down the road.",
+          "answer": "on",
+          "explanation": "'Move on' means to leave a place and go elsewhere."
+        },
+        {
+          "number": 2,
+          "sentence": "Len has already left on foot, but if we take the car then maybe we can still head him ___ before he gets home.",
+          "answer": "off",
+          "explanation": "'Head sb off' means to intercept someone."
+        },
+        {
+          "number": 3,
+          "sentence": "Would you mind moving ___ so that I can sit here?",
+          "answer": "over",
+          "explanation": "'Move over' means to shift position to make space."
+        },
+        {
+          "number": 4,
+          "sentence": "A young man was riding his motorbike on the pavement and everyone was forced to step ___ to let him go past.",
+          "answer": "aside",
+          "explanation": "'Step aside' means to move out of the way."
+        },
+        {
+          "number": 5,
+          "sentence": "The area has been cordoned ___ following a bomb threat.",
+          "answer": "off",
+          "explanation": "'Cordon off' means to seal an area."
+        },
+        {
+          "number": 6,
+          "sentence": "As I leant on the table, it tipped ___ and I fell over.",
+          "answer": "up",
+          "explanation": "'Tip up' means one end rises while the other falls."
+        },
+        {
+          "number": 7,
+          "sentence": "My mum's a bit upset because my sister's moving ___ to go to university next week.",
+          "answer": "out",
+          "explanation": "'Move out' means to leave one's home permanently."
+        },
+        {
+          "number": 8,
+          "sentence": "Daryl managed to keep up with the leader for most of the race, but eventually he started to fall ___ .",
+          "answer": "behind",
+          "explanation": "'Fall behind' means to move slower and get left behind."
+        }
+      ]
+    },
+    {
+      "id": "u8_f",
+      "label": "F",
+      "type": "fill_blank",
+      "instruction": "Complete using a phrasal verb with a word from box A in the right form and a word from box B.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Dimitri thought he heard a funny noise coming from the car engine, so he ___ to investigate.",
+          "answer": "pulled over",
+          "explanation": "To move to the side of the road and stop."
+        },
+        {
+          "number": 2,
+          "sentence": "The police ___ the crowd ___ so that the ambulances could get to the scene more quickly.",
+          "answer": "held ... back",
+          "explanation": "To prevent someone from moving forward."
+        },
+        {
+          "number": 3,
+          "sentence": "The show was so boring that we ___ after half an hour.",
+          "answer": "walked out",
+          "explanation": "To leave a performance/meeting early."
+        },
+        {
+          "number": 4,
+          "sentence": "Remind me to ___ on the way to your grandma's to get her a birthday card.",
+          "answer": "stop off",
+          "explanation": "To visit a place briefly during a journey."
+        },
+        {
+          "number": 5,
+          "sentence": "I wish you wouldn't ___ on me like that! You frightened me to death!",
+          "answer": "creep up",
+          "explanation": "To approach someone quietly and surprise them."
+        },
+        {
+          "number": 6,
+          "sentence": "Martha didn't want to interrupt the party, so she just ___ quietly without anyone noticing.",
+          "answer": "slipped away",
+          "explanation": "To leave secretly or quietly."
+        },
+        {
+          "number": 7,
+          "sentence": "Are you really thinking of ___ with Josie? What about your own flat?",
+          "answer": "moving in",
+          "explanation": "To start living in a new house with someone."
+        },
+        {
+          "number": 8,
+          "sentence": "It seems that the explorers ___ after losing their map and wandered in the jungle for days.",
+          "answer": "went astray",
+          "explanation": "To get lost or go the wrong way."
+        }
+      ]
+    },
+    {
+      "id": "u8_g",
+      "label": "G",
+      "type": "matching",
+      "instruction": "The phrasal verb cordon off means something like 'prevent people entering'. Tick the words which could be used to complete this sentence to form phrasal verbs with a similar meaning.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "block off",
+          "answer": "tick",
+          "explanation": "Similar meaning to cordon off."
+        },
+        {
+          "number": 2,
+          "sentence": "close off",
+          "answer": "tick",
+          "explanation": "Similar meaning to cordon off."
+        },
+        {
+          "number": 3,
+          "sentence": "line off",
+          "answer": "no",
+          "explanation": "Not a common phrasal verb with this meaning."
+        },
+        {
+          "number": 4,
+          "sentence": "fence off",
+          "answer": "tick",
+          "explanation": "Similar meaning, specifically with a fence."
+        },
+        {
+          "number": 5,
+          "sentence": "put off",
+          "answer": "no",
+          "explanation": "Means to delay."
+        },
+        {
+          "number": 6,
+          "sentence": "rope off",
+          "answer": "tick",
+          "explanation": "Similar meaning, specifically with a rope."
+        },
+        {
+          "number": 7,
+          "sentence": "seal off",
+          "answer": "tick",
+          "explanation": "Similar meaning to cordon off."
+        },
+        {
+          "number": 8,
+          "sentence": "take off",
+          "answer": "no",
+          "explanation": "Means to leave the ground (plane)."
+        }
+      ]
+    },
+    {
+      "id": "u8_h",
+      "label": "H",
+      "type": "fill_blank",
+      "instruction": "Complete using the phrases in the box in the correct form. Change sb, sth or do into something appropriate.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Look at the time! We'd better ___ or we're going to be late.",
+          "answer": "get a move on",
+          "explanation": "Collocation meaning to hurry up."
+        },
+        {
+          "number": 2,
+          "sentence": "My parents say they ___ when they met on holiday in Turkey.",
+          "answer": "fell in love",
+          "explanation": "Standard phrase."
+        },
+        {
+          "number": 3,
+          "sentence": "Your essay isn't good enough. It's obvious to me that you ___ , rather than taking your time.",
+          "answer": "did it in a rush",
+          "explanation": "To do something quickly and likely carelessly."
+        },
+        {
+          "number": 4,
+          "sentence": "I've always wanted to fly and I would ___ to visit the pilot in the cockpit.",
+          "answer": "jump at the chance",
+          "explanation": "To eagerly accept an opportunity."
+        },
+        {
+          "number": 5,
+          "sentence": "One of the things I love about this house is that it ___ the river.",
+          "answer": "backs onto",
+          "explanation": "To have its back facing something."
+        },
+        {
+          "number": 6,
+          "sentence": "I don't want to ___ , but there's a chance we might be flying to America!",
+          "answer": "raise your hopes",
+          "explanation": "To make someone expect something good."
+        },
+        {
+          "number": 7,
+          "sentence": "I can't believe you ___ Ben what I said about him.",
+          "answer": "went and told",
+          "explanation": "Phrase 'go and do sth' usually expresses annoyance."
+        },
+        {
+          "number": 8,
+          "sentence": "There's no need to ___ me - I wasn't the one who crashed the car!",
+          "answer": "fly at",
+          "explanation": "To attack or criticize someone suddenly."
+        },
+        {
+          "number": 9,
+          "sentence": "I've got a lot of homework, so let me ___ first and then I'll call you.",
+          "answer": "get it out of the way",
+          "explanation": "To finish a task so it's no longer a burden."
+        },
+        {
+          "number": 10,
+          "sentence": "You travel so much! I can't ___ all the countries you've been to.",
+          "answer": "keep track of",
+          "explanation": "To stay informed about something."
+        },
+        {
+          "number": 11,
+          "sentence": "Since you're going that way, do you think you could ___ my house?",
+          "answer": "drop me at",
+          "explanation": "To let someone out of a vehicle at a certain place."
+        },
+        {
+          "number": 12,
+          "sentence": "Those sunglasses were expensive - take them off in the pool or you'll ___ .",
+          "answer": "get them wet",
+          "explanation": "Standard phrase."
+        }
+      ]
+    },
+    {
+      "id": "u8_i",
+      "label": "I",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "In the distance, a steam train ___ slowly into view.",
+          "answer": "came",
+          "explanation": "'Come into view' is a common collocation."
+        },
+        {
+          "number": 2,
+          "sentence": "Don't ___ your voice at me! I haven't done anything wrong!",
+          "answer": "raise",
+          "explanation": "'Raise your voice' means to shout."
+        },
+        {
+          "number": 3,
+          "sentence": "We need to book our ferry tickets ___ some point, so remind me later.",
+          "answer": "at",
+          "explanation": "'At some point' means sometime."
+        },
+        {
+          "number": 4,
+          "sentence": "Suddenly, the door flew ___ and there stood Mrs Singh.",
+          "answer": "open",
+          "explanation": "'Fly open' means to open suddenly and with force."
+        },
+        {
+          "number": 5,
+          "sentence": "It's the ___ hour, so there'll be a lot of traffic on the roads.",
+          "answer": "rush",
+          "explanation": "'Rush hour' is the peak traffic time."
+        },
+        {
+          "number": 6,
+          "sentence": "My dad's beginning to ___ grey, and he's only 35.",
+          "answer": "turn",
+          "explanation": "'Turn grey' refers to hair color changing."
+        },
+        {
+          "number": 7,
+          "sentence": "Even when his flight was cancelled, Jake still managed to ___ a smile.",
+          "answer": "raise",
+          "explanation": "'Raise a smile' means to show a smile."
+        },
+        {
+          "number": 8,
+          "sentence": "Do you know the ___ to Ed's house from here?",
+          "answer": "way",
+          "explanation": "'Know the way' means to know the route."
+        },
+        {
+          "number": 9,
+          "sentence": "Sam's not coming, but lsabelle's ___ the way, so she should be here soon.",
+          "answer": "on",
+          "explanation": "'On the way' means in the process of traveling."
+        },
+        {
+          "number": 10,
+          "sentence": "I can't believe that woman just tried to ___ the queue and get to the front first.",
+          "answer": "jump",
+          "explanation": "'Jump the queue' means to go ahead of others waiting."
+        }
+      ]
+    },
+    {
+      "id": "u8_j",
+      "label": "J",
+      "type": "gap_fill",
+      "instruction": "For each question, write one word which can be used in all three sentences.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I don't understand what ___ Michael to leave his family like that. / The kids almost ___ me crazy when we were on holiday. / I thought the journalist ___ his point home well...",
+          "answer": "drove",
+          "explanation": "Drove (past of drive) works in 'drive sb crazy', 'drive a point home', and as a motivation."
+        },
+        {
+          "number": 2,
+          "sentence": "We decided to ___ towards the small town... / Joshua Reed has been appointed to ___ the committee... / Which places would you say ___ the list of most popular...?",
+          "answer": "head",
+          "explanation": "Head (verb) means to go in a direction, lead a committee, or be at the top of a list."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm starting to ___ to the conclusion that you don't... / How did you ___ to lose your passport? / I know it's going to ___ as a bit of a shock to you...",
+          "answer": "come",
+          "explanation": "Come to a conclusion, come to lose sth, come as a shock."
+        },
+        {
+          "number": 4,
+          "sentence": "We need to keep up a ___ pace... / Corey and Angela seem to have a very ___ relationship... / Kelly gave me a ___ look...",
+          "answer": "steady",
+          "explanation": "Steady pace, steady relationship, steady look."
+        },
+        {
+          "number": 5,
+          "sentence": "We always make a ___ of inviting... / Don't mention the fact... - it's a bit of a sore ___ with him. / ...that's beside the ___ ...",
+          "answer": "point",
+          "explanation": "Make a point of, a sore point, beside the point."
+        },
+        {
+          "number": 6,
+          "sentence": "It's hard to believe that Sandra ___ 50 this year... / The police officer ___ her gun on the man... / I ___ to say something to Connor, but he had already left.",
+          "answer": "turned",
+          "explanation": "Turned (reached an age), turned a gun on sb, turned to do sth."
+        },
+        {
+          "number": 7,
+          "sentence": "Jacob ___ his doctor's advice... / Hannah decided... and her friends soon ___ suit. / I ___ the speaker's argument up to the final point...",
+          "answer": "followed",
+          "explanation": "Followed advice, followed suit, followed an argument."
+        },
+        {
+          "number": 8,
+          "sentence": "My dad's involved in ___ a campaign... / These vehicles have the advantage of ___ on electricity... / You won't be able to avoid ___ into problems...",
+          "answer": "running",
+          "explanation": "Running a campaign, running on petrol/electricity, running into problems."
+        }
+      ]
+    },
+    {
+      "id": "u8_k",
+      "label": "K",
+      "type": "gap_fill",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "From our house to the centre of town is about four miles as the ___ flies.",
+          "answer": "crow",
+          "explanation": "'As the crow flies' means in a straight line."
+        },
+        {
+          "number": 2,
+          "sentence": "I know the brochure said the villa was 'peaceful', but it was actually in the ___ of nowhere.",
+          "answer": "middle",
+          "explanation": "'In the middle of nowhere' means very remote."
+        },
+        {
+          "number": 3,
+          "sentence": "As soon as we got to the pool, the kids made a ___ for the shop selling ice creams.",
+          "answer": "beeline",
+          "explanation": "'Make a beeline for' means to go directly towards something."
+        },
+        {
+          "number": 4,
+          "sentence": "The soldier shouted 'Halt!' and I stopped dead in my ___ .",
+          "answer": "tracks",
+          "explanation": "'Stop dead in your tracks' means to stop suddenly."
+        },
+        {
+          "number": 5,
+          "sentence": "Cambodia? That's a bit off the beaten ___ , isn't it?",
+          "answer": "track",
+          "explanation": "'Off the beaten track' means in an isolated place."
+        },
+        {
+          "number": 6,
+          "sentence": "Take the next left, then first right, and just follow your ___ until you see the stadium on your left.",
+          "answer": "nose",
+          "explanation": "'Follow your nose' means to go straight forward."
+        },
+        {
+          "number": 7,
+          "sentence": "Wandering the streets of Prague, I lost my ___ , so I had to ask the way to the castle.",
+          "answer": "bearings",
+          "explanation": "'Lose your bearings' means to become lost or confused about direction."
+        },
+        {
+          "number": 8,
+          "sentence": "We were quite lucky because our hotel was only a ___ throw away from the beach.",
+          "answer": "stone's",
+          "explanation": "'A stone's throw away' means very close."
+        },
+        {
+          "number": 9,
+          "sentence": "It's about 20 minutes longer, but if we take the scenic ___ you'll be able to take some photos.",
+          "answer": "route",
+          "explanation": "'Take the scenic route' means to take a more attractive path."
+        },
+        {
+          "number": 10,
+          "sentence": "Turn right here and we'll ___ a short cut through the side roads.",
+          "answer": "take",
+          "explanation": "'Take a short cut' means to follow a shorter path."
+        }
+      ]
+    },
+    {
+      "id": "u8_l",
+      "label": "L",
+      "type": "word_form",
+      "instruction": "Use the word given in capitals at the end of the line to form a word that fits in the space in the same line.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "...provide access to the ___ floors of buildings...",
+          "answer": "upper",
+          "explanation": "From UP. Refers to higher floors."
+        },
+        {
+          "number": 2,
+          "sentence": "...often, in fact, make them ___ .",
+          "answer": "inaccessible",
+          "explanation": "From ACCESS. Means impossible to reach."
+        },
+        {
+          "number": 3,
+          "sentence": "For many elderly people and others with limited ___ ...",
+          "answer": "mobility",
+          "explanation": "From MOBILE. The ability to move."
+        },
+        {
+          "number": 4,
+          "sentence": "...getting upstairs can be a daily problem to be ___ .",
+          "answer": "overcome",
+          "explanation": "From COME. To succeed in dealing with a problem."
+        },
+        {
+          "number": 5,
+          "sentence": "Designs have ___ many changes over the years...",
+          "answer": "undergone",
+          "explanation": "From GO. To experience something."
+        },
+        {
+          "number": 6,
+          "sentence": "...stairlifts have become ___ safer and easier to use.",
+          "answer": "progressively",
+          "explanation": "From PROGRESS. Gradually."
+        },
+        {
+          "number": 7,
+          "sentence": "The user controls how ___ the seat moves...",
+          "answer": "rapidly",
+          "explanation": "From RAPID. Quickly."
+        },
+        {
+          "number": 8,
+          "sentence": "...as it travels from the bottom of the stairs to the ___ at the top.",
+          "answer": "landing",
+          "explanation": "From LAND. The flat area at the top of a staircase."
+        },
+        {
+          "number": 9,
+          "sentence": "In today's models, the ___ is controlled by computers...",
+          "answer": "movement",
+          "explanation": "From MOVE. The act of moving."
+        },
+        {
+          "number": 10,
+          "sentence": "...designed to ___ constant use.",
+          "answer": "withstand",
+          "explanation": "From STAND. To be strong enough to remain undamaged."
+        }
+      ]
+    },
+    {
+      "id": "u8_m",
+      "label": "M",
+      "type": "word_form",
+      "instruction": "Each of the words in bold is in an incorrect form. Rewrite them correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "The situation has been getting ___ worse for many years now.",
+          "answer": "steadily",
+          "explanation": "Adverb form required."
+        },
+        {
+          "number": 2,
+          "sentence": "The heavy snow meant that the mountain roads were ___ for over a week.",
+          "answer": "impassable",
+          "explanation": "Meaning 'impossible to travel through'."
+        },
+        {
+          "number": 3,
+          "sentence": "People are being advised not to travel to the area because of the ___ conflict.",
+          "answer": "ongoing",
+          "explanation": "Meaning 'continuing to exist'."
+        },
+        {
+          "number": 4,
+          "sentence": "Luckily, Tyrone made a very ___ recovery after the car accident.",
+          "answer": "speedy",
+          "explanation": "Adjective form required."
+        },
+        {
+          "number": 5,
+          "sentence": "The service at the hotel was ___ , and I'd definitely recommend it.",
+          "answer": "outstanding",
+          "explanation": "Meaning 'excellent'."
+        },
+        {
+          "number": 6,
+          "sentence": "Every child needs security and ___ in their life.",
+          "answer": "stability",
+          "explanation": "Noun form required."
+        },
+        {
+          "number": 7,
+          "sentence": "It's not always easy to make the ___ from primary school to secondary school.",
+          "answer": "transition",
+          "explanation": "Noun form required."
+        },
+        {
+          "number": 8,
+          "sentence": "I sat completely ___ as the spider crawled along my arm.",
+          "answer": "motionless",
+          "explanation": "Meaning 'without moving'."
+        }
+      ]
+    },
+    {
+      "id": "u8_n",
+      "label": "N",
+      "type": "matching",
+      "instruction": "The prefix de-, as in destabilise, can be added to some verbs, nouns and adjectives in order to give them a negative meaning. Tick the words which can be made negative by adding de-.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "caffeinated",
+          "answer": "decaffeinated",
+          "explanation": "Valid with de-."
+        },
+        {
+          "number": 2,
+          "sentence": "direct",
+          "answer": "indirect",
+          "explanation": "Uses in-, not de-."
+        },
+        {
+          "number": 3,
+          "sentence": "form",
+          "answer": "deform",
+          "explanation": "Valid with de-."
+        },
+        {
+          "number": 4,
+          "sentence": "hydrate",
+          "answer": "dehydrate",
+          "explanation": "Valid with de-."
+        },
+        {
+          "number": 5,
+          "sentence": "motivate",
+          "answer": "demotivate",
+          "explanation": "Valid with de-."
+        },
+        {
+          "number": 6,
+          "sentence": "regulate",
+          "answer": "deregulate",
+          "explanation": "Valid with de-."
+        },
+        {
+          "number": 7,
+          "sentence": "satisfy",
+          "answer": "dissatisfy",
+          "explanation": "Uses dis-, not de-."
+        },
+        {
+          "number": 8,
+          "sentence": "sensitise",
+          "answer": "desensitise",
+          "explanation": "Valid with de-."
+        },
+        {
+          "number": 9,
+          "sentence": "understand",
+          "answer": "misunderstand",
+          "explanation": "Uses mis-, not de-."
+        },
+        {
+          "number": 10,
+          "sentence": "value",
+          "answer": "devalue",
+          "explanation": "Valid with de-."
+        }
+      ]
+    },
+    {
+      "id": "u8_o",
+      "label": "O",
+      "type": "fill_blank",
+      "instruction": "Complete the sentences using words formed in exercise N.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Drinking alcohol when it's very hot can ___ you.",
+          "answer": "dehydrate",
+          "explanation": "To lose too much water from the body."
+        },
+        {
+          "number": 2,
+          "sentence": "The government should ___ this industry.",
+          "answer": "deregulate",
+          "explanation": "To remove government controls."
+        },
+        {
+          "number": 3,
+          "sentence": "I have to drink ___ coffee or I can't sleep.",
+          "answer": "decaffeinated",
+          "explanation": "Coffee without caffeine."
+        },
+        {
+          "number": 4,
+          "sentence": "If you don't tell staff how well they're doing, it can ___ them.",
+          "answer": "demotivate",
+          "explanation": "To make someone less interested in their work."
+        },
+        {
+          "number": 5,
+          "sentence": "Don't you think violent films ___ people to violence in real life?",
+          "answer": "desensitise",
+          "explanation": "To make someone less sensitive to something."
+        },
+        {
+          "number": 6,
+          "sentence": "You'll ___ your feet if you don't get shoes that fit you properly.",
+          "answer": "deform",
+          "explanation": "To damage the shape of something."
+        },
+        {
+          "number": 7,
+          "sentence": "They've decided to ___ the currency, so it'll be worth a lot less.",
+          "answer": "devalue",
+          "explanation": "To reduce the value of a currency."
+        }
+      ]
+    }
+  ]
+}

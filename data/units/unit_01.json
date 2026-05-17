@@ -1,0 +1,1081 @@
+{
+  "unit_id": 1,
+  "unit_type": "Grammar",
+  "title": "Present time",
+  "grammar_topics": [
+    {
+      "topic": "Present simple",
+      "explanation_en": "Used for general truths, current habits, permanent situations, jokes, live commentary, headlines, and future fixed events.",
+      "explanation_vi": "Thì Hiện tại đơn được dùng để diễn tả các sự thật hiển nhiên, thói quen hiện tại, các tình huống mang tính lâu dài, kể chuyện cười, tường thuật trực tiếp, tiêu đề báo chí và các sự kiện cố định trong tương lai.",
+      "rules": [
+        "General truths: The left-hand side of the brain controls the right-hand side of the body.",
+        "Current habits: I don't always go to lectures that are early in the morning.",
+        "Permanent situations and states: Angie teaches French at a local adult education centre.",
+        "Telling jokes and other informal stories: So, a man goes to see his psychiatrist...",
+        "Live sports commentary: Adams passes to Kareshi. It's a goal!",
+        "Newspaper headlines: HAWKING WINS NOBEL PRIZE",
+        "Reviews and summaries: The film ends with us not knowing whether they have been successful or not.",
+        "Instructions and directions: You turn left at the end of the road and the school is up ahead.",
+        "Proverbs and sayings: Too many cooks spoil the broth.",
+        "The future (for fixed events): Term ends on 21st December.",
+        "The future (in time clauses): I'll be so relieved when I finish this crossword.",
+        "Emphatic present simple (contrast/strong feeling): Adam doesn't know much about psychiatry but he does know quite a lot about psychology."
+      ],
+      "examples": [
+        {
+          "sentence": "The left-hand side of the brain controls the right-hand side of the body.",
+          "translation": "Bán cầu não trái điều khiển phần bên phải của cơ thể."
+        },
+        {
+          "sentence": "I do like playing word games!",
+          "translation": "Tớ thực sự rất thích chơi các trò chơi đố chữ!"
+        }
+      ],
+      "watch_out": [
+        "Words and phrases often used: always, usually, generally, often, sometimes, rarely, seldom, never, whenever, nowadays, these days, from time to time, every now and then, most/much of the time, It's/That's the last time."
+      ]
+    },
+    {
+      "topic": "Present continuous",
+      "explanation_en": "Used for actions happening now or around now, temporary situations, changing situations, and annoying habits.",
+      "explanation_vi": "Thì Hiện tại tiếp diễn được dùng cho các hành động đang xảy ra ngay lúc này hoặc xung quanh thời điểm nói, các tình huống tạm thời, các tình huống đang thay đổi và phát triển, hoặc các thói quen gây khó chịu (thường đi với 'always').",
+      "rules": [
+        "Actions happening now: The boys are doing their homework right now.",
+        "Actions happening around now: What book are you doing in English at the moment?",
+        "Temporary situations: We aren't having any exams while the lecturers are still on strike.",
+        "Changing and developing situations: More and more people are recognising the advantages of being able to speak a foreign language.",
+        "Annoying or amusing habits (usually with always): Dan's always coming up with the craziest ideas!",
+        "Background information in jokes: A man goes to see his psychiatrist. He's carrying a bag full of honey...",
+        "The future (for arrangements): When are you taking your driving test?",
+        "The future (in time clauses): I'll probably be a bit scared when I'm waiting outside for the exam to start."
+      ],
+      "examples": [
+        {
+          "sentence": "More and more people are recognising the advantages of being able to speak a foreign language.",
+          "translation": "Ngày càng có nhiều người nhận ra lợi ích của việc có thể nói một ngoại ngữ."
+        }
+      ],
+      "watch_out": [
+        "Words and phrases often used: now, right now, for now, currently, at the moment, for the time being, at present, today, this week, It's/That's the last time."
+      ]
+    },
+    {
+      "topic": "Present perfect simple",
+      "explanation_en": "Used for situations started in the past and still true, series of actions continuing up to now, or completed actions with current relevance.",
+      "explanation_vi": "Thì Hiện tại hoàn thành đơn được dùng cho các tình huống bắt đầu trong quá khứ và vẫn còn đúng, một chuỗi các hành động kéo dài đến hiện tại, hoặc các hành động đã hoàn thành nhưng thời gian không quan trọng hoặc có kết quả liên quan đến hiện tại.",
+      "rules": [
+        "Situations and states started in the past and still true: I've been a member of MENSA for over five years.",
+        "A series of actions continuing up to now: She's done a BA, an MA and a PhD so far.",
+        "Completed actions at an unspecified time: Have you ever read any books by Edward De Bono?",
+        "Completed actions with a present result: She's been awarded a scholarship to study at Harvard.",
+        "Recently completed actions: I've just received my exam results.",
+        "The future (in time clauses): Tell me when you've finished the report."
+      ],
+      "examples": [
+        {
+          "sentence": "I've just received my exam results.",
+          "translation": "Tớ vừa mới nhận được kết quả thi."
+        }
+      ],
+      "watch_out": [
+        "In American English, the past simple is often used instead of the present perfect simple.",
+        "US: Did you find the answer yet? / UK: Have you found the answer yet?",
+        "Words often used: since, for, It's the first/second/etc time, before, already, yet, ever, just, still, recently, up to now, so far."
+      ]
+    },
+    {
+      "topic": "Present perfect continuous",
+      "explanation_en": "Used for actions continuing up to the present, emphasizing the duration.",
+      "explanation_vi": "Thì Hiện tại hoàn thành tiếp diễn được dùng cho các hành động kéo dài liên tục đến hiện tại, nhấn mạnh vào khoảng thời gian hoặc tính liên tục của hành động.",
+      "rules": [
+        "Actions and situations continuing up to the present: We've all been wondering what to get Tony for his birthday.",
+        "The future (in time clauses): I won't take my driving test until I've been having lessons for at least two months."
+      ],
+      "examples": [
+        {
+          "sentence": "I've been working here for five years.",
+          "translation": "Tớ đã làm việc ở đây được năm năm rồi (nhấn mạnh quá trình làm việc liên tục)."
+        }
+      ],
+      "watch_out": [
+        "Use present perfect simple for a particular number of times/things: I've written two essays this week.",
+        "Words often used: since, for, just, all day/week/etc."
+      ]
+    },
+    {
+      "topic": "Stative and non-stative use",
+      "explanation_en": "Stative verbs describe states and are generally used in simple tenses. Some can be used in continuous tenses when they describe actions.",
+      "explanation_vi": "Các động từ chỉ trạng thái thường được dùng ở các thì đơn. Một số động từ có thể dùng ở thì tiếp diễn khi chúng diễn tả một hành động thay vì một trạng thái.",
+      "rules": [
+        "Communication: agree, deny, disagree",
+        "Thinking: believe, consider, doubt, expect, imagine, know, mean, realise, suppose, suspect, think, understand",
+        "Existence: be, exist",
+        "Emotions: adore, appeal, appreciate, desire, despise, detest, dislike, envy, fear, feel, forgive, hate, like, love, mind, need, pity, prefer, satisfy, trust, want, wish",
+        "Perception: appear, hear, look, notice, recognise, resemble, see, seem, smell, sound, taste",
+        "Possession: belong, concern, consist, contain, cost, depend, equal, fit, have, include, involve, lack, measure, owe, own, possess, suit, weigh",
+        "Other: deserve, matter"
+      ],
+      "examples": [
+        {
+          "sentence": "I think it's important to know how to use a computer. (state = believe)",
+          "translation": "Tớ nghĩ rằng việc biết cách sử dụng máy tính là rất quan trọng."
+        },
+        {
+          "sentence": "I'm thinking about going on a computer course. (action = consider)",
+          "translation": "Tớ đang cân nhắc việc tham gia một khóa học máy tính."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "u1_A",
+      "label": "A",
+      "type": "word_form",
+      "instruction": "Write the verb in brackets in the correct form, present simple or present continuous, in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "My brother ___ (do) a degree at university so I ___ (see) him very often, unfortunately.",
+          "answer": "is doing / don't see",
+          "explanation": "First blank: action happening around now (is doing). Second blank: current habit/frequency (don't see)."
+        },
+        {
+          "number": 2,
+          "sentence": "Darren ___ usually ___ (get) home until about eight o'clock.",
+          "answer": "doesn't ... get",
+          "explanation": "Current habit, typically used with 'usually' and 'until'."
+        },
+        {
+          "number": 3,
+          "sentence": "I'm sorry to hear that your parents ___ (get) divorced.",
+          "answer": "are getting",
+          "explanation": "Changing and developing situation/process happening around now."
+        },
+        {
+          "number": 4,
+          "sentence": "You ___ (go) to the end of the street and ___ (turn) right.",
+          "answer": "go / turn",
+          "explanation": "Giving directions/instructions uses the present simple."
+        },
+        {
+          "number": 5,
+          "sentence": "Why ___ ice ___ (float)?",
+          "answer": "does ... float",
+          "explanation": "General truth/scientific fact uses present simple."
+        },
+        {
+          "number": 6,
+          "sentence": "It's lovely now the evenings ___ (get) longer, isn't it?",
+          "answer": "are getting",
+          "explanation": "Changing/developing situation uses present continuous."
+        },
+        {
+          "number": 7,
+          "sentence": "My dad ___ (eat) meat at all - he's a vegetarian.",
+          "answer": "doesn't eat",
+          "explanation": "Permanent state/habit uses present simple."
+        },
+        {
+          "number": 8,
+          "sentence": "Actually, we ___ (listen) to The Libertines at all - this is Pete Docherty's second band, Babyshambles.",
+          "answer": "aren't listening",
+          "explanation": "Action not happening at the moment of speaking."
+        },
+        {
+          "number": 9,
+          "sentence": "A man ___ (walk) into a bar. Ouch! Not a good idea to walk into an iron bar!",
+          "answer": "walks",
+          "explanation": "Telling a joke or informal story uses present simple."
+        },
+        {
+          "number": 10,
+          "sentence": "___ you ___ (phone) me from your mobile? The line's not very good.",
+          "answer": "Are ... phoning",
+          "explanation": "Action happening exactly at the moment of speaking."
+        },
+        {
+          "number": 11,
+          "sentence": "___ you often ___ (order) things online?",
+          "answer": "Do ... order",
+          "explanation": "Questions about current habits use present simple."
+        },
+        {
+          "number": 12,
+          "sentence": "There's an Englishman, an Irishman and a Scotsman. They ___ (walk) across the desert when one of them ___ (spot) a camel in the distance...",
+          "answer": "are walking / spots",
+          "explanation": "Present continuous provides background information in a joke, present simple for the main action."
+        },
+        {
+          "number": 13,
+          "sentence": "Beckham ___ (have) control of the ball ... It's Beckham ... And he ___ (score)!",
+          "answer": "has / scores",
+          "explanation": "Live sports commentary uses present simple."
+        },
+        {
+          "number": 14,
+          "sentence": "WOMAN ___ (give) €500 MILLION LOTTERY WIN TO CHARITY",
+          "answer": "GIVES",
+          "explanation": "Newspaper headlines use present simple."
+        },
+        {
+          "number": 15,
+          "sentence": "My dad ___ (always/ tell) jokes! They're usually rubbish, though.",
+          "answer": "is always telling",
+          "explanation": "Annoying or amusing habit with 'always' uses present continuous."
+        },
+        {
+          "number": 16,
+          "sentence": "'Phil ___ (wear) ties, does he?' 'Actually, he ___ (wear) a tie to work most days.'",
+          "answer": "doesn't wear / wears",
+          "explanation": "Current habit/regular action uses present simple."
+        }
+      ]
+    },
+    {
+      "id": "u1_B",
+      "label": "B",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Why do you ___ leave the light on when you go out of the room? You wait till you start paying the electricity bill!",
+          "answer": "always",
+          "explanation": "'Always' is used to express an annoying habit."
+        },
+        {
+          "number": 2,
+          "sentence": "Fifteen teachers are teaching here full-time at ___ .",
+          "answer": "present",
+          "explanation": "'At present' means now/currently."
+        },
+        {
+          "number": 3,
+          "sentence": "My sister's revising for her GCSEs at the ___ .",
+          "answer": "moment",
+          "explanation": "'At the moment' means now."
+        },
+        {
+          "number": 4,
+          "sentence": "I'm quite happy living at home for the time ___ , but I guess I'll have to get my own place eventually.",
+          "answer": "being",
+          "explanation": "'For the time being' means temporarily for now."
+        },
+        {
+          "number": 5,
+          "sentence": "It's true that Ralph calls us quite ___ , but most students only call their parents when they need something, don't they?",
+          "answer": "often",
+          "explanation": "'Often' fits the context of frequency."
+        },
+        {
+          "number": 6,
+          "sentence": "We go to the cinema ___ now and then, but only if there's something good on.",
+          "answer": "every",
+          "explanation": "The phrase 'every now and then' means occasionally."
+        },
+        {
+          "number": 7,
+          "sentence": "I'm alone in my study bedroom reading ___ of the time.",
+          "answer": "most",
+          "explanation": "'Most of the time' means usually."
+        },
+        {
+          "number": 8,
+          "sentence": "Tim ___ goes out to play until he's done all his homework. I just don't allow it!",
+          "answer": "never",
+          "explanation": "'Never... until' expresses a strict rule/habit."
+        },
+        {
+          "number": 9,
+          "sentence": "I see Lucinda from ___ to time, but not on a regular basis.",
+          "answer": "time",
+          "explanation": "The phrase 'from time to time' means occasionally."
+        },
+        {
+          "number": 10,
+          "sentence": "I'm sitting in the garden ___ now talking to you on my mobile.",
+          "answer": "right",
+          "explanation": "'Right now' emphasizes the action is happening exactly now."
+        },
+        {
+          "number": 11,
+          "sentence": "That's the last ___ we're inviting Dave to one of our parties!",
+          "answer": "time",
+          "explanation": "'That's the last time' is a common expression of decision/result."
+        },
+        {
+          "number": 12,
+          "sentence": "Do young people these ___ have more free time than they did in the past?",
+          "answer": "days",
+          "explanation": "'These days' means nowadays."
+        },
+        {
+          "number": 13,
+          "sentence": "My mum fills up with petrol ___ she goes to the supermarket.",
+          "answer": "whenever",
+          "explanation": "'Whenever' means every time that."
+        },
+        {
+          "number": 14,
+          "sentence": "I'm staying in ___ now, but I might go out a bit later on.",
+          "answer": "for",
+          "explanation": "'For now' means temporarily for this moment."
+        },
+        {
+          "number": 15,
+          "sentence": "___ is the last time I ever order from that pizzeria. It was disgusting!",
+          "answer": "This",
+          "explanation": "'This is the last time' is used to state a firm decision based on a recent event."
+        }
+      ]
+    },
+    {
+      "id": "u1_C",
+      "label": "C",
+      "type": "word_form",
+      "instruction": "Write a verb from the box in the correct form, present simple or present continuous, in each gap. Use the words in brackets with the verb. Use contractions where possible. You can use the verbs more than once.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Sandy: Hey, George! How's things? What (1) (you) ___ ?",
+          "answer": "are you doing",
+          "explanation": "Asking about an action happening now (do)."
+        },
+        {
+          "number": 2,
+          "sentence": "George: Hi, Sandy! Fine! (2) (I / just) ___ some research for that history project.",
+          "answer": "I'm just doing",
+          "explanation": "Action happening now (do)."
+        },
+        {
+          "number": 3,
+          "sentence": "Sandy: (3) (how / it) ___ ?",
+          "answer": "how is it going",
+          "explanation": "Asking about the progress of a current situation (go)."
+        },
+        {
+          "number": 4,
+          "sentence": "George: Yeah, (4) (it / well) ___ , thanks.",
+          "answer": "it's going well",
+          "explanation": "Stating the progress of a current situation (go)."
+        },
+        {
+          "number": 5,
+          "sentence": "The website (5) (I) ___ at now is very good. It's got loads of useful information.",
+          "answer": "I'm looking",
+          "explanation": "Action happening exactly now (look)."
+        },
+        {
+          "number": 6,
+          "sentence": "Sandy: Great! Listen, the reason (6) (I) ___ you is that my (7) (mum) ___ past the library every morning on the way to work...",
+          "answer": "I'm contacting",
+          "explanation": "Reason for current communication (contact)."
+        },
+        {
+          "number": 7,
+          "sentence": "mum (7) ___ past the library every morning on the way to work",
+          "answer": "drives",
+          "explanation": "Regular habit/routine (drive)."
+        },
+        {
+          "number": 8,
+          "sentence": "and (8) (she) ___ she can give you a lift tomorrow morning, if you like.",
+          "answer": "says",
+          "explanation": "Reporting a current state/offer (say)."
+        },
+        {
+          "number": 9,
+          "sentence": "George: Wow, that's really kind of her, but actually (9) (it) ___ long to walk there from here...",
+          "answer": "it doesn't take",
+          "explanation": "General fact about distance/time (take)."
+        },
+        {
+          "number": 10,
+          "sentence": "so (10) (she) ___ to worry. Can you thank her for me, though?",
+          "answer": "she doesn't need",
+          "explanation": "Current state/necessity (need)."
+        },
+        {
+          "number": 11,
+          "sentence": "George: (11) (what) ___ with your project?",
+          "answer": "what is happening",
+          "explanation": "Asking about current progress (happen)."
+        },
+        {
+          "number": 12,
+          "sentence": "(12) (you) ___ a title yet?",
+          "answer": "Do you have",
+          "explanation": "State of possession (have)."
+        },
+        {
+          "number": 13,
+          "sentence": "Sandy: No! (13) (I / even) ___ a topic yet!",
+          "answer": "I don't even have",
+          "explanation": "State of possession (have)."
+        },
+        {
+          "number": 14,
+          "sentence": "(14) (I / really) ___ on it at the moment, though.",
+          "answer": "I'm really working",
+          "explanation": "Action happening around now (work)."
+        },
+        {
+          "number": 15,
+          "sentence": "(15) (I) ___ to finish my physics project first.",
+          "answer": "I'm trying",
+          "explanation": "Action happening around now (try)."
+        },
+        {
+          "number": 16,
+          "sentence": "George: Why (16) (you) ___ something on the Second World War? That's interesting.",
+          "answer": "don't you do",
+          "explanation": "Making a suggestion (do)."
+        },
+        {
+          "number": 17,
+          "sentence": "Sandy: No, (17) (I) ___ wars!",
+          "answer": "I don't like",
+          "explanation": "Stative verb of emotion/preference (like)."
+        },
+        {
+          "number": 18,
+          "sentence": "I'd rather do something (18) (that) ___ more on social history.",
+          "answer": "focuses",
+          "explanation": "General characteristic of the topic (focus)."
+        },
+        {
+          "number": 19,
+          "sentence": "George: (19) (that) ___ good.",
+          "answer": "That sounds",
+          "explanation": "Stative verb of perception (sound)."
+        },
+        {
+          "number": 20,
+          "sentence": "Sandy: (20) (you) ___ so? Okay. Maybe I'll do that, then.",
+          "answer": "Do you think",
+          "explanation": "Stative verb of opinion (think)."
+        }
+      ]
+    },
+    {
+      "id": "u1_D",
+      "label": "D",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Could you explain what 'antidisestablishmentarianism' ___ , please?",
+          "options": ["means", "is meaning"],
+          "answer": "means",
+          "explanation": "'Mean' is a stative verb (thinking/meaning)."
+        },
+        {
+          "number": 2,
+          "sentence": "Each song only ___ 50 cents at the moment because they're on special offer.",
+          "options": ["costs", "is only costing"],
+          "answer": "costs",
+          "explanation": "'Cost' is a stative verb of possession/value."
+        },
+        {
+          "number": 3,
+          "sentence": "It ___ which of the books we've studied this term you do your essay on.",
+          "options": ["doesn't matter", "isn't mattering"],
+          "answer": "doesn't matter",
+          "explanation": "'Matter' is a stative verb."
+        },
+        {
+          "number": 4,
+          "sentence": "It's only a quick call as ___ from my mobile.",
+          "options": ["I ring", "I'm ringing"],
+          "answer": "I'm ringing",
+          "explanation": "Action happening right now."
+        },
+        {
+          "number": 5,
+          "sentence": "I think I ___ that woman over there. Wasn't she on that quiz show last night?",
+          "options": ["recognise", "I'm recognising"],
+          "answer": "recognise",
+          "explanation": "'Recognise' is a stative verb of perception."
+        },
+        {
+          "number": 6,
+          "sentence": "Excuse me, ___ walnuts? I'm allergic to them.",
+          "options": ["does the nut cake contain", "is the nut cake containing"],
+          "answer": "does the nut cake contain",
+          "explanation": "'Contain' is a stative verb of possession."
+        },
+        {
+          "number": 7,
+          "sentence": "I really ___ that capital punishment deters people from committing murder.",
+          "options": ["don't agree", "I'm really not agreeing"],
+          "answer": "don't agree",
+          "explanation": "'Agree' is a stative verb of communication/opinion."
+        },
+        {
+          "number": 8,
+          "sentence": "Why ___ football, Mark? I thought you had a match this afternoon.",
+          "options": ["don't you play", "aren't you playing"],
+          "answer": "aren't you playing",
+          "explanation": "Asking about an action that should be happening now."
+        },
+        {
+          "number": 9,
+          "sentence": "Stay out of this, Simon, it ___ you at all.",
+          "options": ["doesn't concern", "isn't concerning"],
+          "answer": "doesn't concern",
+          "explanation": "'Concern' is a stative verb."
+        },
+        {
+          "number": 10,
+          "sentence": "You really ___ your father when you frown like that.",
+          "options": ["resemble", "are resembling"],
+          "answer": "resemble",
+          "explanation": "'Resemble' is a stative verb."
+        },
+        {
+          "number": 11,
+          "sentence": "If ___ TV, turn it off!",
+          "options": ["you're not watching", "you don't watch"],
+          "answer": "you're not watching",
+          "explanation": "Action happening (or not) at this moment."
+        },
+        {
+          "number": 12,
+          "sentence": "The number you have dialled ___ . Please try again.",
+          "options": ["does not exist", "is not existing"],
+          "answer": "does not exist",
+          "explanation": "'Exist' is a stative verb."
+        },
+        {
+          "number": 13,
+          "sentence": "I want everyone to do exercise H, and that ___ you too, Anne!",
+          "options": ["includes", "is including"],
+          "answer": "includes",
+          "explanation": "'Include' is a stative verb."
+        },
+        {
+          "number": 14,
+          "sentence": "___ the living room repainted so it's probably best if we go into the kitchen.",
+          "options": ["We're having", "We have"],
+          "answer": "We're having",
+          "explanation": "Action happening around now/Temporary situation."
+        },
+        {
+          "number": 15,
+          "sentence": "Right now, my job ___ a huge amount of foreign travel.",
+          "options": ["involves", "is involving"],
+          "answer": "involves",
+          "explanation": "'Involve' is a stative verb."
+        }
+      ]
+    },
+    {
+      "id": "u1_E",
+      "label": "E",
+      "type": "word_form",
+      "instruction": "Write a verb from the box in the correct form, present simple or present continuous, in each pair of sentences.",
+      "items": [
+        {
+          "number": "1A",
+          "sentence": "I ___ for a book on fly fishing. Do you have any in stock?",
+          "answer": "am looking",
+          "explanation": "Action: physically searching for something."
+        },
+        {
+          "number": "1B",
+          "sentence": "Stan ___ like he's in a bad mood this morning.",
+          "answer": "looks",
+          "explanation": "State: appearing/seeming."
+        },
+        {
+          "number": "2A",
+          "sentence": "How ___ you ___ about inviting Jackie to come with us on Saturday?",
+          "answer": "do ... feel",
+          "explanation": "State: opinion."
+        },
+        {
+          "number": "2B",
+          "sentence": "Britney ___ very well, so I've told her she can go home.",
+          "answer": "isn't feeling",
+          "explanation": "Action: physical sensation (continuous is common for health)."
+        },
+        {
+          "number": "3A",
+          "sentence": "Jan and I ___ buying a new flat.",
+          "answer": "are considering",
+          "explanation": "Action: currently thinking about/weighing options."
+        },
+        {
+          "number": "3B",
+          "sentence": "Why ___ you ___ Ray Davis to be a better songwriter than Paul McCartney?",
+          "answer": "do ... consider",
+          "explanation": "State: belief/opinion."
+        },
+        {
+          "number": "4A",
+          "sentence": "We ___ a barbecue right now, so can I call you back this evening?",
+          "answer": "are having",
+          "explanation": "Action: performing an activity."
+        },
+        {
+          "number": "4B",
+          "sentence": "___ the Deacons ___ a swimming pool?",
+          "answer": "Do ... have",
+          "explanation": "State: possession."
+        },
+        {
+          "number": "5A",
+          "sentence": "The idea of going to a Greek island really ___ to me.",
+          "answer": "appeals",
+          "explanation": "State: being attractive."
+        },
+        {
+          "number": "5B",
+          "sentence": "Police ___ for witnesses to the attack.",
+          "answer": "are appealing",
+          "explanation": "Action: making an urgent request."
+        },
+        {
+          "number": "6A",
+          "sentence": "This chicken ___ very fresh. I think I'll throw it away just to be on the safe side.",
+          "answer": "doesn't smell",
+          "explanation": "State: characteristic/odor."
+        },
+        {
+          "number": "6B",
+          "sentence": "Why ___ you ___ that chicken, Mum?",
+          "answer": "are ... smelling",
+          "explanation": "Action: sniffing."
+        },
+        {
+          "number": "7A",
+          "sentence": "I ___ on you, James. Don't let me down!",
+          "answer": "am depending",
+          "explanation": "Action: relying on (currently)."
+        },
+        {
+          "number": "7B",
+          "sentence": "Whether we get there by six ___ on the traffic.",
+          "answer": "depends",
+          "explanation": "State: logical consequence/contingency."
+        },
+        {
+          "number": "8A",
+          "sentence": "Julian ___ a bit busy at the moment, actually.",
+          "answer": "is",
+          "explanation": "State: current situation."
+        },
+        {
+          "number": "8B",
+          "sentence": "Guys, you ___ too noisy! Can't you keep it down, please?",
+          "answer": "are being",
+          "explanation": "Temporary behavior."
+        },
+        {
+          "number": "9A",
+          "sentence": "___ you ___ Bob would like a CD for his birthday?",
+          "answer": "Do ... think",
+          "explanation": "State: belief/opinion."
+        },
+        {
+          "number": "9B",
+          "sentence": "Oliver said he ___ about moving out of the city.",
+          "answer": "is thinking",
+          "explanation": "Action: considering."
+        },
+        {
+          "number": "10A",
+          "sentence": "I hear that Doug ___ quite a lot of Katy these days. Is that true?",
+          "answer": "is seeing",
+          "explanation": "Action: dating/meeting someone."
+        },
+        {
+          "number": "10B",
+          "sentence": "I ___ Manchester United lost again.",
+          "answer": "see",
+          "explanation": "State: understanding/noticing (perception)."
+        }
+      ]
+    },
+    {
+      "id": "u1_F",
+      "label": "F",
+      "type": "error_correction",
+      "instruction": "Each of the words or phrases in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Tammy *been able* to swim since she was one year old.",
+          "answer": "has been able",
+          "explanation": "Present perfect simple is required for a state starting in the past and still true."
+        },
+        {
+          "number": 2,
+          "sentence": "How many articles has Greg *wrote* for Newsweek?",
+          "answer": "written",
+          "explanation": "The past participle of 'write' is 'written'."
+        },
+        {
+          "number": 3,
+          "sentence": "Tina and Phil *still not* managed to sell their flat.",
+          "answer": "have still not",
+          "explanation": "Present perfect requires the auxiliary verb 'have'."
+        },
+        {
+          "number": 4,
+          "sentence": "I'm *never been* to China - what's it like?",
+          "answer": "have never been",
+          "explanation": "Present perfect simple for life experience (have + never + been)."
+        },
+        {
+          "number": 5,
+          "sentence": "Have you heard? Carol's *breaking* her leg again.",
+          "answer": "broken",
+          "explanation": "Recently completed action with present result requires present perfect simple ('s broken)."
+        },
+        {
+          "number": 6,
+          "sentence": "You're lucky you caught me - I've just *came* through the front door.",
+          "answer": "come",
+          "explanation": "The past participle of 'come' is 'come'."
+        },
+        {
+          "number": 7,
+          "sentence": "Why you *haven't tell* Sue yet that you're thinking of dropping out of the course?",
+          "answer": "haven't you told",
+          "explanation": "Question form of present perfect: aux + subject + past participle."
+        },
+        {
+          "number": 8,
+          "sentence": "Our family *is living* in this village for over two hundred years and we're not leaving now!",
+          "answer": "has been living",
+          "explanation": "Present perfect continuous for a situation starting in the past and continuing to the present."
+        }
+      ]
+    },
+    {
+      "id": "u1_G",
+      "label": "G",
+      "type": "multiple_choice",
+      "instruction": "Circle the correct word or phrase. If both are correct, circle both.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "They ___ over six bags with rubbish from the beach already.",
+          "options": ["'ve filled", "been filling"],
+          "answer": "'ve filled",
+          "explanation": "Present perfect simple is used to specify a particular number of things."
+        },
+        {
+          "number": 2,
+          "sentence": "Have you ___ that story in the papers about the elephant that escaped from the zoo? Apparently, they've just ___ it.",
+          "options": ["followed / been following", "caught / been catching"],
+          "answer": "been following / caught",
+          "explanation": "First blank: ongoing duration. Second blank: recently completed action."
+        },
+        {
+          "number": 3,
+          "sentence": "We ___ the Tower of London, Buckingham Palace and Oxford Street, and we've only been in London for three hours!",
+          "options": ["'ve seen", "been seeing"],
+          "answer": "'ve seen",
+          "explanation": "Completed actions (results) up to now."
+        },
+        {
+          "number": 4,
+          "sentence": "It's the first time ___ The Editors play live.",
+          "options": ["I've heard", "been hearing"],
+          "answer": "I've heard",
+          "explanation": "The structure 'It's the first/second time...' is followed by present perfect simple."
+        },
+        {
+          "number": 5,
+          "sentence": "Jake and I have ___ about where to go on holiday for weeks but we just can't decide.",
+          "options": ["thought", "been thinking"],
+          "answer": "been thinking",
+          "explanation": "Emphasizes the duration of the action."
+        },
+        {
+          "number": 6,
+          "sentence": "You can't want to go to the toilet already - we've only ___ for about ten minutes so far!",
+          "options": ["driven", "been driving"],
+          "answer": "been driving",
+          "explanation": "Emphasizes the duration/process."
+        },
+        {
+          "number": 7,
+          "sentence": "I've ___ up all day and my feet are killing me!",
+          "options": ["stood", "been standing"],
+          "answer": "been standing",
+          "explanation": "Emphasizes the continuous nature/duration of the action."
+        },
+        {
+          "number": 8,
+          "sentence": "Has Jan ___ for the company since it started?",
+          "options": ["worked", "been working"],
+          "answer": "worked / been working",
+          "explanation": "Both are correct for verbs like 'work' and 'live' with 'since/for'."
+        }
+      ]
+    },
+    {
+      "id": "u1_H",
+      "label": "H",
+      "type": "word_form",
+      "instruction": "Write the verb in brackets in the correct form, present perfect simple or present perfect continuous. Use contractions where possible.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "___ (I / send off) over 18 press releases this morning so far.",
+          "answer": "I've sent off",
+          "explanation": "Specifying a number of things (18 press releases)."
+        },
+        {
+          "number": 2,
+          "sentence": "Is it the first time ___ (you / ever / eat) squid?",
+          "answer": "you've ever eaten",
+          "explanation": "'It's the first time...' takes present perfect simple."
+        },
+        {
+          "number": 3,
+          "sentence": "___ (we/ wait) for you for the past two hours. Where ___ (you / be)?",
+          "answer": "We've been waiting / have you been",
+          "explanation": "First blank: emphasizes duration (for two hours). Second blank: state (be) in present perfect simple."
+        },
+        {
+          "number": 4,
+          "sentence": "___ (you/ just/ receive) an e-mail from Ruth?",
+          "answer": "Have you just received",
+          "explanation": "Recently completed action (just)."
+        },
+        {
+          "number": 5,
+          "sentence": "I'm afraid ___ (we / get) any milk. ___ (we / expect) a delivery for the past four hours but ___ (they/ show up) yet.",
+          "answer": "we haven't got / we've been expecting / they haven't shown up",
+          "explanation": "1. current result/possession. 2. duration. 3. action not completed yet."
+        },
+        {
+          "number": 6,
+          "sentence": "___ (I / draw up) a list of people to invite to the wedding but ___ (I / get) very far so far. ___ (you / have) any thoughts about it?",
+          "answer": "I've drawn up / I haven't got / Have you had",
+          "explanation": "1. recently completed. 2. result up to now. 3. state/possession of ideas."
+        },
+        {
+          "number": 7,
+          "sentence": "Oh, Clair, my ___ (mum/ mean) to ask you for a while. Would you like to come with us to Wimbledon?",
+          "answer": "mum's been meaning",
+          "explanation": "Action continuing up to present (duration 'for a while')."
+        }
+      ]
+    },
+    {
+      "id": "u1_I",
+      "label": "I",
+      "type": "fill_blank",
+      "instruction": "Write a word from the box in each gap. You can use each word more than once.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "I've ___ realised what's different! You've changed your hair.",
+          "answer": "just",
+          "explanation": "Indicates a very recently completed action/realization."
+        },
+        {
+          "number": 2,
+          "sentence": "My grandmother's been quite ill ___ , so she's coming to stay with us for a week or two.",
+          "answer": "recently",
+          "explanation": "Means in the near past."
+        },
+        {
+          "number": 3,
+          "sentence": "We've had broadband at home ___ about 2005.",
+          "answer": "since",
+          "explanation": "Indicates a specific point in time in the past."
+        },
+        {
+          "number": 4,
+          "sentence": "Have you really finished your homework ___ ? Okay, you can watch TV, then.",
+          "answer": "already",
+          "explanation": "Expresses surprise that something is finished sooner than expected."
+        },
+        {
+          "number": 5,
+          "sentence": "We've won every match we've played ___ far this season.",
+          "answer": "so",
+          "explanation": "Part of the phrase 'so far'."
+        },
+        {
+          "number": 6,
+          "sentence": "I've always lived in a big house ___ now, so it's taking some time to get used to being in a small flat.",
+          "answer": "until",
+          "explanation": "Indicates the end of a long-term state."
+        },
+        {
+          "number": 7,
+          "sentence": "We can't cancel the party now - I've ___ invited everyone!",
+          "answer": "already",
+          "explanation": "Action completed before the current moment."
+        },
+        {
+          "number": 8,
+          "sentence": "How long has Sue gone abroad ___ ?",
+          "answer": "for",
+          "explanation": "Asks about the duration of the trip."
+        },
+        {
+          "number": 9,
+          "sentence": "Don't get Matthew that game; I'm pretty sure he's got it ___ .",
+          "answer": "already",
+          "explanation": "Completed before now."
+        },
+        {
+          "number": 10,
+          "sentence": "Have you ___ thought of going into business on your own?",
+          "answer": "ever",
+          "explanation": "Means 'at any time' (experience)."
+        },
+        {
+          "number": 11,
+          "sentence": "We haven't started ___ so you can join in if you like.",
+          "answer": "yet",
+          "explanation": "Used in negative sentences to show something hasn't happened yet."
+        },
+        {
+          "number": 12,
+          "sentence": "We've never been to New York ___ , so we're both really looking forward to it.",
+          "answer": "before",
+          "explanation": "Means at any time previously."
+        },
+        {
+          "number": 13,
+          "sentence": "Have they been living in the neighbourhood ___ you moved in?",
+          "answer": "since",
+          "explanation": "Point in time when an event occurred."
+        },
+        {
+          "number": 14,
+          "sentence": "I ___ haven't found my sunglasses.",
+          "answer": "still",
+          "explanation": "Used to show a situation is continuing even though we expect it to stop."
+        },
+        {
+          "number": 15,
+          "sentence": "I've been looking for a website like this ___ ages!",
+          "answer": "for",
+          "explanation": "Indicates a period of time."
+        },
+        {
+          "number": 16,
+          "sentence": "It's strange you should ring now. We've ___ been talking about you.",
+          "answer": "just",
+          "explanation": "Very recently."
+        },
+        {
+          "number": 17,
+          "sentence": "Michael, haven't you done your homework ___ ? I think it's time you started, isn't it?",
+          "answer": "yet",
+          "explanation": "Expecting the action to be finished by now."
+        }
+      ]
+    },
+    {
+      "id": "u1_J",
+      "label": "J",
+      "type": "fill_blank",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "number": 1,
+          "sentence": "Humans (1) ___ much in common with other life forms on Earth.",
+          "answer": "have",
+          "explanation": "General truth/Possession state (have)."
+        },
+        {
+          "number": 2,
+          "sentence": "(2) ___ the very first life forms appeared...",
+          "answer": "Since",
+          "explanation": "Indicates the starting point in time."
+        },
+        {
+          "number": 3,
+          "sentence": "...all living things have (3) ___ desperately struggling to survive...",
+          "answer": "been",
+          "explanation": "Part of present perfect continuous (have been struggling)."
+        },
+        {
+          "number": 4,
+          "sentence": "This has (4) ___ adapting to new situations...",
+          "answer": "meant",
+          "explanation": "Result/logical consequence (mean)."
+        },
+        {
+          "number": 5,
+          "sentence": "...and, in many cases, has (5) ___ to either evolution or extinction.",
+          "answer": "led",
+          "explanation": "Past participle of 'lead' (lead to)."
+        },
+        {
+          "number": 6,
+          "sentence": "We are (6) ___ alone in making use of the world around us...",
+          "answer": "not",
+          "explanation": "Negative statement of fact."
+        },
+        {
+          "number": 7,
+          "sentence": "Where we (7) ___ differ from other life forms, however...",
+          "answer": "do",
+          "explanation": "Emphatic present simple to emphasize contrast."
+        },
+        {
+          "number": 8,
+          "sentence": "...however, (8) ___ in our ability to record, and learn from, our collective history.",
+          "answer": "is",
+          "explanation": "Main verb (be) for the subject 'Where we differ'."
+        },
+        {
+          "number": 9,
+          "sentence": "In this, it (9) ___ that we (10) ___ unique.",
+          "answer": "seems",
+          "explanation": "Stative verb of perception (seem/appear)."
+        },
+        {
+          "number": 10,
+          "sentence": "that we (10) ___ unique",
+          "answer": "are",
+          "explanation": "Verb 'be' for state."
+        },
+        {
+          "number": 11,
+          "sentence": "(11) ___ is still much mankind (12) ___ not know...",
+          "answer": "There",
+          "explanation": "Existence (There is)."
+        },
+        {
+          "number": 12,
+          "sentence": "mankind (12) ___ not know about the earliest humans...",
+          "answer": "does",
+          "explanation": "Negative present simple for a current state of knowledge."
+        },
+        {
+          "number": 13,
+          "sentence": "...but we are increasingly (13) ___ a species with detailed knowledge...",
+          "answer": "becoming",
+          "explanation": "Changing/developing situation (continuous)."
+        },
+        {
+          "number": 14,
+          "sentence": "The more we learn, the better (14) ___ our chances of survival in the future.",
+          "answer": "are",
+          "explanation": "Subject-verb agreement (chances are better)."
+        },
+        {
+          "number": 15,
+          "sentence": "...the only species on Earth which (15) ___ managed to create the means...",
+          "answer": "has",
+          "explanation": "Present perfect simple (has managed) for an achievement."
+        }
+      ]
+    }
+  ]
+}
