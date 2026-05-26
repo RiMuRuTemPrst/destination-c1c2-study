@@ -76,6 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('btn-retry').addEventListener('click', retryWrong);
   document.getElementById('btn-retry-all').addEventListener('click', retryAll);
   document.getElementById('btn-show-answers').addEventListener('click', showAllAnswers);
+  document.getElementById('btn-clear-all').addEventListener('click', clearAllExercises);
 
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => switchTab(btn.dataset.tab));
@@ -345,7 +346,10 @@ function renderExerciseBlock(ex) {
       <div class="exercise-block-header">
         <div class="exercise-label">${esc(ex.label || ex.id)}</div>
         <div class="exercise-instruction">${esc(ex.instruction || '')}</div>
-        <div class="exercise-type-badge">${esc(typeLabel)}</div>
+        <div class="exercise-header-right">
+          <div class="exercise-type-badge">${esc(typeLabel)}</div>
+          <button class="check-block-btn" data-exid="${esc(ex.id)}">Check</button>
+        </div>
       </div>
       <div class="exercise-items">${items}</div>
     </div>`;
@@ -382,12 +386,32 @@ function renderExItem(exId, type, item, idx) {
 }
 
 function renderSentenceWithInput(sentence, itemId) {
-  // Replace ___ with input, or append input if no blank marker
   if (sentence.includes('___')) {
     return sentence.replace(/_{2,}/g,
       `<input class="blank-input" data-itemid="${itemId}" placeholder="…" autocomplete="off" spellcheck="false">`);
   }
   return `${esc(sentence)} <input class="blank-input" data-itemid="${itemId}" placeholder="…" autocomplete="off" spellcheck="false">`;
+}
+
+function checkExerciseBlock(exId) {
+  if (!currentData) return;
+  const ex = (currentData.exercises || []).find(e => e.id === exId);
+  if (!ex) return;
+  (ex.items || []).forEach((item, idx) => {
+    const itemId = `${exId}_${idx}`;
+    if (!exState[itemId]?.answered) checkItemAnswer(ex.id, ex.type, item, idx);
+  });
+  updateExProgress();
+}
+
+function findExerciseItem(itemId) {
+  if (!currentData) return null;
+  for (const ex of currentData.exercises || []) {
+    for (let idx = 0; idx < (ex.items || []).length; idx++) {
+      if (`${ex.id}_${idx}` === itemId) return { ex, item: ex.items[idx], idx };
+    }
+  }
+  return null;
 }
 
 // ── Exercise Grading ───────────────────────────────────────────────────────
@@ -408,6 +432,12 @@ const CONTRACTIONS = {
   "who's": "who is", "who've": "who have", "who'll": "who will",
   "what's": "what is", "where's": "where is", "when's": "when is",
 };
+
+function splitAnswer(answer) {
+  if (answer.includes(' / ')) return answer.split(' / ');
+  if (answer.includes(' ... ')) return answer.split(' ... ');
+  return [answer];
+}
 
 function expandContractions(s) {
   return s.replace(/[\w'']+/g, w => CONTRACTIONS[w.toLowerCase()] || w);
@@ -448,13 +478,26 @@ function checkItemAnswer(exId, type, item, idx) {
       else if (el.classList.contains('selected')) el.classList.add('wrong');
     });
   } else {
-    const input = document.querySelector(`input.blank-input[data-itemid="${itemId}"]`);
-    userAnswer = input ? normalizeAnswer(input.value) : '';
-    isCorrect = answersMatch(userAnswer, correct);
-    if (input) {
-      input.classList.remove('correct', 'wrong');
-      input.classList.add(isCorrect ? 'correct' : 'wrong');
-      input.disabled = true;
+    const inputs = [...document.querySelectorAll(`input.blank-input[data-itemid="${itemId}"]`)];
+    const answerParts = splitAnswer(correct);
+    if (inputs.length > 1 && answerParts.length > 1) {
+      const blankResults = inputs.map((inp, i) =>
+        answersMatch(normalizeAnswer(inp.value), answerParts[i] || ''));
+      isCorrect = blankResults.every(Boolean);
+      userAnswer = inputs.map(i => normalizeAnswer(i.value)).join(' / ');
+      inputs.forEach((inp, i) => {
+        inp.classList.remove('correct', 'wrong');
+        inp.classList.add(blankResults[i] ? 'correct' : 'wrong');
+        inp.disabled = true;
+      });
+    } else {
+      userAnswer = inputs[0] ? normalizeAnswer(inputs[0].value) : '';
+      isCorrect = answersMatch(userAnswer, correct);
+      inputs.forEach(inp => {
+        inp.classList.remove('correct', 'wrong');
+        inp.classList.add(isCorrect ? 'correct' : 'wrong');
+        inp.disabled = true;
+      });
     }
   }
 
@@ -462,9 +505,10 @@ function checkItemAnswer(exId, type, item, idx) {
   const fb = document.getElementById(`fb_${itemId}`);
   if (fb) {
     fb.className = `ex-feedback show ${isCorrect ? 'correct-fb' : 'wrong-fb'}`;
+    const resetBtn = `<button class="reset-item-btn" data-itemid="${itemId}" title="Làm lại">↺</button>`;
     fb.innerHTML = isCorrect
-      ? `✓ Correct`
-      : `✗ <span class="correct-answer">Answer: ${esc(item.answer)}</span>${item.explanation ? `<div class="explanation">${esc(item.explanation)}</div>` : ''}`;
+      ? `✓ Correct ${resetBtn}`
+      : `✗ <span class="correct-answer">Answer: ${esc(item.answer)}</span>${item.explanation ? `<div class="explanation">${esc(item.explanation)}</div>` : ''} ${resetBtn}`;
   }
 
   exState[itemId] = { answered: true, correct: isCorrect, userAnswer };
@@ -521,6 +565,28 @@ function retryAll() {
   setupMCHandlers();
 }
 
+function clearAllExercises() {
+  if (!currentData) return;
+  exState = {};
+  saveExState(currentUnit);
+  setUnitProgress(currentUnit, { ex_score: null, ex_correct: 0, ex_total: 0 });
+  // Clear all inputs directly
+  document.querySelectorAll('#exercises-content .blank-input').forEach(inp => {
+    inp.value = ''; inp.classList.remove('correct', 'wrong'); inp.disabled = false;
+  });
+  // Clear all MC options
+  document.querySelectorAll('#exercises-content .mc-option').forEach(el => {
+    el.classList.remove('selected', 'correct', 'wrong', 'reveal-correct');
+  });
+  // Clear all feedback + reset buttons
+  document.querySelectorAll('#exercises-content .ex-feedback').forEach(fb => {
+    fb.className = 'ex-feedback'; fb.innerHTML = '';
+  });
+  document.getElementById('exercises-result').classList.add('hidden');
+  updateExProgress();
+  updateScoreDisplay();
+}
+
 function showAllAnswers() {
   if (!currentData) return;
   (currentData.exercises || []).forEach(ex => {
@@ -533,10 +599,10 @@ function showAllAnswers() {
             el.classList.add('reveal-correct');
         });
       } else {
-        const input = document.querySelector(`input.blank-input[data-itemid="${itemId}"]`);
-        if (input && !input.disabled) {
-          input.value = item.answer;
-          input.classList.add('correct');
+        const inputs = [...document.querySelectorAll(`input.blank-input[data-itemid="${itemId}"]`)];
+        if (inputs.length && !inputs[0].disabled) {
+          const parts = splitAnswer(item.answer);
+          inputs.forEach((inp, i) => { inp.value = parts[i] ?? item.answer; inp.classList.add('correct'); });
         }
       }
       const fb = document.getElementById(`fb_${itemId}`);
@@ -555,8 +621,9 @@ function resetItem(type, itemId) {
       el.classList.remove('selected', 'correct', 'wrong', 'reveal-correct');
     });
   } else {
-    const input = document.querySelector(`input.blank-input[data-itemid="${itemId}"]`);
-    if (input) { input.value = ''; input.classList.remove('correct', 'wrong'); input.disabled = false; }
+    document.querySelectorAll(`input.blank-input[data-itemid="${itemId}"]`).forEach(inp => {
+      inp.value = ''; inp.classList.remove('correct', 'wrong'); inp.disabled = false;
+    });
   }
   const fb = document.getElementById(`fb_${itemId}`);
   if (fb) { fb.className = 'ex-feedback'; fb.innerHTML = ''; }
@@ -601,19 +668,21 @@ function restoreExStateUI() {
           else if (normalizeAnswer(saved.userAnswer) === optNorm) el.classList.add('wrong');
         });
       } else {
-        const input = document.querySelector(`input.blank-input[data-itemid="${itemId}"]`);
-        if (input) {
-          input.value = saved.userAnswer;
-          input.classList.add(saved.correct ? 'correct' : 'wrong');
-          input.disabled = true;
-        }
+        const inputs = [...document.querySelectorAll(`input.blank-input[data-itemid="${itemId}"]`)];
+        const parts = saved.userAnswer.split(' / ');
+        inputs.forEach((inp, i) => {
+          inp.value = parts[i] ?? saved.userAnswer;
+          inp.classList.add(saved.correct ? 'correct' : 'wrong');
+          inp.disabled = true;
+        });
       }
       const fb = document.getElementById(`fb_${itemId}`);
       if (fb) {
         fb.className = `ex-feedback show ${saved.correct ? 'correct-fb' : 'wrong-fb'}`;
+        const resetBtn = `<button class="reset-item-btn" data-itemid="${itemId}" title="Làm lại">↺</button>`;
         fb.innerHTML = saved.correct
-          ? `✓ Correct`
-          : `✗ <span class="correct-answer">Answer: ${esc(item.answer)}</span>${item.explanation ? `<div class="explanation">${esc(item.explanation)}</div>` : ''}`;
+          ? `✓ Correct ${resetBtn}`
+          : `✗ <span class="correct-answer">Answer: ${esc(item.answer)}</span>${item.explanation ? `<div class="explanation">${esc(item.explanation)}</div>` : ''} ${resetBtn}`;
       }
     });
   });
@@ -631,14 +700,36 @@ function setupMCHandlers() {
   });
 }
 
-// Re-attach MC handlers after DOM render
+// Per-item check handlers (delegated)
 document.addEventListener('click', e => {
+  // MC option: select then immediately check
   if (e.target.classList.contains('mc-option')) {
     const el = e.target;
     if (el.classList.contains('correct') || el.classList.contains('wrong')) return;
     const itemId = el.dataset.itemid;
     document.querySelectorAll(`.mc-option[data-itemid="${itemId}"]`).forEach(o => o.classList.remove('selected'));
     el.classList.add('selected');
+    const found = findExerciseItem(itemId);
+    if (found) { checkItemAnswer(found.ex.id, found.ex.type, found.item, found.idx); updateExProgress(); }
+  }
+  // Check button on exercise block header
+  if (e.target.classList.contains('check-block-btn')) {
+    checkExerciseBlock(e.target.dataset.exid);
+  }
+  // ↺ reset single item
+  if (e.target.classList.contains('reset-item-btn')) {
+    const itemId = e.target.dataset.itemid;
+    const found = findExerciseItem(itemId);
+    if (found) { resetItem(found.ex.type, itemId); saveExState(currentUnit); updateExProgress(); }
+  }
+});
+
+// Enter key: check the whole exercise block
+document.addEventListener('keydown', e => {
+  if (e.key === 'Enter' && e.target.classList.contains('blank-input')) {
+    const itemId = e.target.dataset.itemid;
+    const found = findExerciseItem(itemId);
+    if (found) checkExerciseBlock(found.ex.id);
   }
 });
 

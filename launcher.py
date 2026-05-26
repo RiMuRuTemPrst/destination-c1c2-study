@@ -14,6 +14,9 @@ APP_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "app")
 class Handler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=os.path.dirname(os.path.abspath(__file__)), **kwargs)
+    def end_headers(self):
+        self.send_header('Cache-Control', 'no-store, no-cache, must-revalidate')
+        super().end_headers()
     def log_message(self, fmt, *args):
         pass  # silent
 
