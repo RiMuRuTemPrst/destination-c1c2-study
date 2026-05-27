@@ -341,6 +341,9 @@ function renderExercises(data) {
 function renderExerciseBlock(ex) {
   const items = (ex.items || []).map((item, idx) => renderExItem(ex.id, ex.type, item, idx)).join('');
   const typeLabel = ex.type ? ex.type.replace(/_/g, ' ') : '';
+  const wordBankHTML = (ex.word_bank && ex.word_bank.length)
+    ? `<div class="word-bank"><span class="word-bank-label">Word bank:</span>${ex.word_bank.map(w => `<span class="word-bank-item">${esc(w)}</span>`).join('')}</div>`
+    : '';
   return `
     <div class="exercise-block" data-exid="${esc(ex.id)}">
       <div class="exercise-block-header">
@@ -348,9 +351,11 @@ function renderExerciseBlock(ex) {
         <div class="exercise-instruction">${esc(ex.instruction || '')}</div>
         <div class="exercise-header-right">
           <div class="exercise-type-badge">${esc(typeLabel)}</div>
+          <button class="retry-block-btn" data-exid="${esc(ex.id)}">Retry ✗</button>
           <button class="check-block-btn" data-exid="${esc(ex.id)}">Check</button>
         </div>
       </div>
+      ${wordBankHTML}
       <div class="exercise-items">${items}</div>
     </div>`;
 }
@@ -543,6 +548,18 @@ function checkAll() {
   updateExProgress();
 }
 
+function retryWrongBlock(exId) {
+  if (!currentData) return;
+  const ex = (currentData.exercises || []).find(e => e.id === exId);
+  if (!ex) return;
+  (ex.items || []).forEach((item, idx) => {
+    const itemId = `${exId}_${idx}`;
+    if (exState[itemId]?.answered && !exState[itemId].correct) resetItem(ex.type, itemId);
+  });
+  saveExState(currentUnit);
+  updateExProgress();
+}
+
 function retryWrong() {
   if (!currentData) return;
   (currentData.exercises || []).forEach(ex => {
@@ -715,6 +732,10 @@ document.addEventListener('click', e => {
   // Check button on exercise block header
   if (e.target.classList.contains('check-block-btn')) {
     checkExerciseBlock(e.target.dataset.exid);
+  }
+  // Retry wrong on exercise block
+  if (e.target.classList.contains('retry-block-btn')) {
+    retryWrongBlock(e.target.dataset.exid);
   }
   // ↺ reset single item
   if (e.target.classList.contains('reset-item-btn')) {

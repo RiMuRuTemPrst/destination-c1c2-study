@@ -57,6 +57,7 @@ GRAMMAR_SCHEMA = {
                     "label":       {"type": "string"},
                     "type":        {"type": "string"},
                     "instruction": {"type": "string"},
+                    "word_bank":   {"type": "array", "items": {"type": "string"}},
                     "items": {
                         "type": "array",
                         "items": {
@@ -115,6 +116,7 @@ VOCAB_SCHEMA = {
                     "label":       {"type": "string"},
                     "type":        {"type": "string"},
                     "instruction": {"type": "string"},
+                    "word_bank":   {"type": "array", "items": {"type": "string"}},
                     "items": {
                         "type": "array",
                         "items": {
@@ -144,6 +146,7 @@ Below is the raw extracted text of one Grammar unit. Your task:
 5. For multiple choice (circle correct): list all options in "options", mark correct in "answer"
 6. For error correction: "sentence" has the wrong word bolded (use *asterisks*), "answer" is the correction
 7. Exercise types: fill_blank, multiple_choice, error_correction, word_form, transformation, matching
+8. If the exercise has a word box/bank (e.g. "Write a verb from the box..."), list the EXACT words from the box in the "word_bank" array (base forms as printed in the book). Leave word_bank empty [] if no box is provided.
 
 Be thorough — do NOT skip any exercise items. Vietnamese explanations should be natural, not robotic.
 
@@ -160,6 +163,7 @@ Below is the raw extracted text of one Vocabulary unit. Your task:
 3. Extract ALL exercises exactly as they appear — preserve every item
 4. For each exercise item, provide correct answer AND explanation
 5. Exercise types: fill_blank, multiple_choice, word_form, matching, gap_fill
+6. If the exercise has a word box/bank (e.g. "Complete using the words in the box..."), list the EXACT words from the box in the "word_bank" array. Leave word_bank empty [] if no box is provided.
 
 Be thorough — do NOT skip any vocabulary items or exercises.
 

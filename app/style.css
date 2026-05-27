@@ -405,6 +405,40 @@ html, body { height: 100%; font-family: var(--font); font-size: 16px; background
 }
 .check-block-btn:hover { background: rgba(62,207,142,.2); }
 
+.word-bank {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+  padding: 8px 14px 10px;
+  background: rgba(139,92,246,.07);
+  border: 1px solid rgba(139,92,246,.25);
+  border-radius: 8px;
+  margin: 0 0 12px;
+}
+.word-bank-label {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .05em; color: #8b5cf6; opacity: .85;
+  margin-right: 4px; white-space: nowrap;
+}
+.word-bank-item {
+  padding: 2px 10px; border-radius: 12px;
+  background: rgba(139,92,246,.12);
+  border: 1px solid rgba(139,92,246,.3);
+  font-size: 13px; font-weight: 500; color: var(--text);
+}
+
+.retry-block-btn {
+  padding: 4px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--yellow);
+  background: rgba(255,214,0,.08);
+  color: var(--yellow);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+.retry-block-btn:hover { background: rgba(255,214,0,.2); }
+
 .reset-item-btn {
   padding: 2px 7px;
   border-radius: 4px;
