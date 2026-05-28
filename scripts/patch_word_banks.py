@@ -157,7 +157,7 @@ def main():
     group.add_argument("--unit", nargs="+", type=int)
     group.add_argument("--all", action="store_true")
     parser.add_argument("--key",   default=os.environ.get("GEMINI_API_KEY"))
-    parser.add_argument("--model", default="gemini-1.5-pro")
+    parser.add_argument("--model", default="gemini-2.0-flash")
     args = parser.parse_args()
 
     if not args.key:
