@@ -12,8 +12,17 @@
           "definition_en": "next to or near something else",
           "definition_vi": "kế bên, sát cạnh",
           "example": "We work in adjacent rooms.",
-          "synonyms": ["next door", "neighboring", "adjoining"],
-          "collocations": ["adjacent to", "adjacent rooms", "adjacent building"]
+          "synonyms": [
+            "next door",
+            "neighboring",
+            "adjoining"
+          ],
+          "collocations": [
+            "adjacent to",
+            "adjacent rooms",
+            "adjacent building"
+          ],
+          "example_vi": "Chúng tôi làm việc trong các phòng kế bên nhau."
         },
         {
           "word": "attach",
@@ -21,8 +30,16 @@
           "definition_en": "to fasten, join, or connect something",
           "definition_vi": "đính kèm, gắn vào",
           "example": "You need to attach the handle to the drawer using these screws.",
-          "synonyms": ["fasten", "fix", "affix"],
-          "collocations": ["attach something to", "be attached to"]
+          "synonyms": [
+            "fasten",
+            "fix",
+            "affix"
+          ],
+          "collocations": [
+            "attach something to",
+            "be attached to"
+          ],
+          "example_vi": "Bạn cần gắn tay cầm vào ngăn kéo bằng những con vít này."
         },
         {
           "word": "bond",
@@ -30,8 +47,17 @@
           "definition_en": "to develop a close connection or strong relationship with someone; a strong feeling of friendship, love, or shared beliefs",
           "definition_vi": "gắn kết; mối liên kết",
           "example": "The experience helped the team members to bond.",
-          "synonyms": ["connection", "tie", "link"],
-          "collocations": ["form a bond", "close bond", "emotional bond"]
+          "synonyms": [
+            "connection",
+            "tie",
+            "link"
+          ],
+          "collocations": [
+            "form a bond",
+            "close bond",
+            "emotional bond"
+          ],
+          "example_vi": "Trải nghiệm đó đã giúp các thành viên trong nhóm gắn kết với nhau hơn."
         },
         {
           "word": "coexist",
@@ -39,8 +65,15 @@
           "definition_en": "to live or exist together at the same time or in the same place",
           "definition_vi": "cùng tồn tại, chung sống",
           "example": "Different cultures can coexist peacefully within a single society.",
-          "synonyms": ["live together", "co-occur"],
-          "collocations": ["coexist peacefully", "coexist with"]
+          "synonyms": [
+            "live together",
+            "co-occur"
+          ],
+          "collocations": [
+            "coexist peacefully",
+            "coexist with"
+          ],
+          "example_vi": "Các nền văn hóa khác nhau có thể cùng chung sống hòa bình trong một xã hội duy nhất."
         },
         {
           "word": "coherent",
@@ -48,8 +81,17 @@
           "definition_en": "logical and consistent, easy to understand",
           "definition_vi": "mạch lạc, chặt chẽ",
           "example": "The government lacks a coherent strategy for energy.",
-          "synonyms": ["logical", "consistent", "lucid"],
-          "collocations": ["coherent argument", "coherent policy", "coherent whole"]
+          "synonyms": [
+            "logical",
+            "consistent",
+            "lucid"
+          ],
+          "collocations": [
+            "coherent argument",
+            "coherent policy",
+            "coherent whole"
+          ],
+          "example_vi": "Chính phủ thiếu một chiến lược năng lượng mạch lạc."
         },
         {
           "word": "compatible",
@@ -57,8 +99,15 @@
           "definition_en": "able to exist, live, or work together without problems",
           "definition_vi": "tương thích, hợp nhau",
           "example": "They are not very compatible, they argue all the time.",
-          "synonyms": ["harmonious", "consistent"],
-          "collocations": ["compatible with", "highly compatible"]
+          "synonyms": [
+            "harmonious",
+            "consistent"
+          ],
+          "collocations": [
+            "compatible with",
+            "highly compatible"
+          ],
+          "example_vi": "Họ không hợp nhau lắm, họ cãi nhau suốt ngày."
         },
         {
           "word": "comprise",
@@ -66,8 +115,15 @@
           "definition_en": "to consist of or to be made up of",
           "definition_vi": "bao gồm, gồm có",
           "example": "The course comprises ten individual modules.",
-          "synonyms": ["consist of", "be composed of", "make up"],
-          "collocations": ["be comprised of"]
+          "synonyms": [
+            "consist of",
+            "be composed of",
+            "make up"
+          ],
+          "collocations": [
+            "be comprised of"
+          ],
+          "example_vi": "Khóa học bao gồm mười học phần riêng biệt."
         },
         {
           "word": "compromise",
@@ -75,8 +131,16 @@
           "definition_en": "an agreement in an argument in which the people involved reduce their demands or change their opinion in order to agree",
           "definition_vi": "thỏa hiệp",
           "example": "It is hoped that a compromise will be reached in the next few days.",
-          "synonyms": ["agreement", "settlement"],
-          "collocations": ["reach a compromise", "make a compromise", "compromise on"]
+          "synonyms": [
+            "agreement",
+            "settlement"
+          ],
+          "collocations": [
+            "reach a compromise",
+            "make a compromise",
+            "compromise on"
+          ],
+          "example_vi": "Hy vọng rằng một sự thỏa hiệp sẽ đạt được trong vài ngày tới."
         },
         {
           "word": "conflict",
@@ -84,8 +148,17 @@
           "definition_en": "a state of disagreement or argument between people, groups, countries etc.",
           "definition_vi": "xung đột, mâu thuẫn",
           "example": "The Government is in conflict with the unions over pay.",
-          "synonyms": ["disagreement", "dispute", "clash"],
-          "collocations": ["in conflict with", "armed conflict", "conflict of interest"]
+          "synonyms": [
+            "disagreement",
+            "dispute",
+            "clash"
+          ],
+          "collocations": [
+            "in conflict with",
+            "armed conflict",
+            "conflict of interest"
+          ],
+          "example_vi": "Chính phủ đang xung đột với các công đoàn về vấn đề lương bổng."
         },
         {
           "word": "confront",
@@ -93,8 +166,16 @@
           "definition_en": "to face, meet, or deal with a difficult situation or person",
           "definition_vi": "đối mặt, đương đầu",
           "example": "I'm going to confront Roy about his behaviour.",
-          "synonyms": ["face", "tackle", "encounter"],
-          "collocations": ["confront someone about", "confront a problem"]
+          "synonyms": [
+            "face",
+            "tackle",
+            "encounter"
+          ],
+          "collocations": [
+            "confront someone about",
+            "confront a problem"
+          ],
+          "example_vi": "Tôi sẽ đối chất với Roy về hành vi của anh ta."
         },
         {
           "word": "consistent",
@@ -102,8 +183,17 @@
           "definition_en": "always behaving or happening in a similar, especially positive, way",
           "definition_vi": "nhất quán, kiên định",
           "example": "Your behavior is not consistent with what you said last week.",
-          "synonyms": ["steady", "constant", "uniform"],
-          "collocations": ["consistent with", "consistent performance", "consistent pattern"]
+          "synonyms": [
+            "steady",
+            "constant",
+            "uniform"
+          ],
+          "collocations": [
+            "consistent with",
+            "consistent performance",
+            "consistent pattern"
+          ],
+          "example_vi": "Hành vi của bạn không nhất quán với những gì bạn đã nói tuần trước."
         },
         {
           "word": "contradict",
@@ -111,8 +201,16 @@
           "definition_en": "to say that what someone else has said is wrong and that the opposite is true",
           "definition_vi": "mâu thuẫn, trái với",
           "example": "The witness's story contradicted the police report.",
-          "synonyms": ["deny", "refute", "counter"],
-          "collocations": ["contradict oneself", "directly contradict"]
+          "synonyms": [
+            "deny",
+            "refute",
+            "counter"
+          ],
+          "collocations": [
+            "contradict oneself",
+            "directly contradict"
+          ],
+          "example_vi": "Câu chuyện của nhân chứng mâu thuẫn với báo cáo của cảnh sát."
         },
         {
           "word": "contrasting",
@@ -120,8 +218,17 @@
           "definition_en": "very different from each other",
           "definition_vi": "tương phản, trái ngược",
           "example": "They have two very contrasting styles of management.",
-          "synonyms": ["different", "dissimilar", "opposing"],
-          "collocations": ["contrasting views", "contrasting colors", "contrasting styles"]
+          "synonyms": [
+            "different",
+            "dissimilar",
+            "opposing"
+          ],
+          "collocations": [
+            "contrasting views",
+            "contrasting colors",
+            "contrasting styles"
+          ],
+          "example_vi": "Họ có hai phong cách quản lý rất tương phản."
         },
         {
           "word": "cooperate",
@@ -129,8 +236,16 @@
           "definition_en": "to work together with someone else in order to achieve something",
           "definition_vi": "hợp tác",
           "example": "The two companies are cooperating on a joint venture.",
-          "synonyms": ["collaborate", "work together"],
-          "collocations": ["cooperate with", "cooperate in", "fully cooperate"]
+          "synonyms": [
+            "collaborate",
+            "work together"
+          ],
+          "collocations": [
+            "cooperate with",
+            "cooperate in",
+            "fully cooperate"
+          ],
+          "example_vi": "Hai công ty đang hợp tác trong một liên doanh."
         },
         {
           "word": "correspond",
@@ -138,8 +253,16 @@
           "definition_en": "to match or be similar or equal to something else",
           "definition_vi": "tương ứng, khớp với",
           "example": "Your answer should correspond to the one in the back of the book.",
-          "synonyms": ["match", "fit", "agree"],
-          "collocations": ["correspond to", "correspond with"]
+          "synonyms": [
+            "match",
+            "fit",
+            "agree"
+          ],
+          "collocations": [
+            "correspond to",
+            "correspond with"
+          ],
+          "example_vi": "Câu trả lời của bạn phải khớp với câu trả lời ở cuối sách."
         },
         {
           "word": "dispute",
@@ -147,8 +270,17 @@
           "definition_en": "an argument or disagreement, especially one that lasts a long time",
           "definition_vi": "tranh chấp, cuộc tranh luận",
           "example": "The union is in dispute with management over pay.",
-          "synonyms": ["argument", "disagreement", "controversy"],
-          "collocations": ["in dispute", "settle a dispute", "border dispute"]
+          "synonyms": [
+            "argument",
+            "disagreement",
+            "controversy"
+          ],
+          "collocations": [
+            "in dispute",
+            "settle a dispute",
+            "border dispute"
+          ],
+          "example_vi": "Công đoàn đang tranh chấp với ban quản lý về vấn đề lương bổng."
         },
         {
           "word": "distinguish",
@@ -156,8 +288,16 @@
           "definition_en": "to notice or understand the difference between two things",
           "definition_vi": "phân biệt",
           "example": "It's difficult to distinguish between the two brothers.",
-          "synonyms": ["differentiate", "discern", "tell apart"],
-          "collocations": ["distinguish between", "distinguish from"]
+          "synonyms": [
+            "differentiate",
+            "discern",
+            "tell apart"
+          ],
+          "collocations": [
+            "distinguish between",
+            "distinguish from"
+          ],
+          "example_vi": "Thật khó để phân biệt giữa hai anh em."
         },
         {
           "word": "diverse",
@@ -165,8 +305,17 @@
           "definition_en": "including many different types of people or things",
           "definition_vi": "đa dạng",
           "example": "The subjects they study are very diverse.",
-          "synonyms": ["varied", "various", "miscellaneous"],
-          "collocations": ["diverse range", "culturally diverse", "diverse background"]
+          "synonyms": [
+            "varied",
+            "various",
+            "miscellaneous"
+          ],
+          "collocations": [
+            "diverse range",
+            "culturally diverse",
+            "diverse background"
+          ],
+          "example_vi": "Các môn học họ nghiên cứu rất đa dạng."
         },
         {
           "word": "divorce",
@@ -174,8 +323,16 @@
           "definition_en": "the legal ending of a marriage",
           "definition_vi": "ly hôn",
           "example": "They got a divorce after five years of marriage.",
-          "synonyms": ["separation", "split-up"],
-          "collocations": ["get a divorce", "file for divorce", "divorce rate"]
+          "synonyms": [
+            "separation",
+            "split-up"
+          ],
+          "collocations": [
+            "get a divorce",
+            "file for divorce",
+            "divorce rate"
+          ],
+          "example_vi": "Họ đã ly hôn sau năm năm chung sống."
         },
         {
           "word": "equivalent",
@@ -183,8 +340,16 @@
           "definition_en": "having the same amount, value, purpose, qualities, etc.",
           "definition_vi": "tương đương",
           "example": "There is no equivalent for that word in English.",
-          "synonyms": ["equal", "parallel", "counterpart"],
-          "collocations": ["equivalent to", "the equivalent of"]
+          "synonyms": [
+            "equal",
+            "parallel",
+            "counterpart"
+          ],
+          "collocations": [
+            "equivalent to",
+            "the equivalent of"
+          ],
+          "example_vi": "Không có từ tương đương cho từ đó trong tiếng Anh."
         },
         {
           "word": "exclude",
@@ -192,8 +357,16 @@
           "definition_en": "to prevent someone or something from entering a place or taking part in an activity",
           "definition_vi": "loại trừ, ngăn chặn",
           "example": "The report does not exclude the possibility of human error.",
-          "synonyms": ["leave out", "omit", "keep out"],
-          "collocations": ["exclude from", "exclude the possibility"]
+          "synonyms": [
+            "leave out",
+            "omit",
+            "keep out"
+          ],
+          "collocations": [
+            "exclude from",
+            "exclude the possibility"
+          ],
+          "example_vi": "Báo cáo không loại trừ khả năng do sai sót của con người."
         },
         {
           "word": "external",
@@ -201,8 +374,17 @@
           "definition_en": "coming from or relating to the outside",
           "definition_vi": "bên ngoài, ngoại lai",
           "example": "The skin protects the body from external infection.",
-          "synonyms": ["outer", "outside", "exterior"],
-          "collocations": ["external factors", "external pressure", "external auditor"]
+          "synonyms": [
+            "outer",
+            "outside",
+            "exterior"
+          ],
+          "collocations": [
+            "external factors",
+            "external pressure",
+            "external auditor"
+          ],
+          "example_vi": "Da bảo vệ cơ thể khỏi bị nhiễm trùng từ bên ngoài."
         },
         {
           "word": "identify",
@@ -210,8 +392,17 @@
           "definition_en": "to recognize someone or something and say who or what they are; to feel that you can understand and share the feelings of somebody else",
           "definition_vi": "nhận dạng; đồng cảm",
           "example": "She identified the man as her attacker. / I identify with the characters in the film.",
-          "synonyms": ["recognize", "pinpoint", "empathize"],
-          "collocations": ["identify with", "identify as", "clearly identify"]
+          "synonyms": [
+            "recognize",
+            "pinpoint",
+            "empathize"
+          ],
+          "collocations": [
+            "identify with",
+            "identify as",
+            "clearly identify"
+          ],
+          "example_vi": "Cô ấy đã nhận dạng người đàn ông đó là kẻ tấn công mình. / Tôi thấy mình trong các nhân vật của bộ phim."
         },
         {
           "word": "integral",
@@ -219,8 +410,16 @@
           "definition_en": "necessary and important as a part of a whole",
           "definition_vi": "thiết yếu, không thể thiếu",
           "example": "Vegetables are an integral part of our diet.",
-          "synonyms": ["essential", "fundamental", "vital"],
-          "collocations": ["integral part", "integral to"]
+          "synonyms": [
+            "essential",
+            "fundamental",
+            "vital"
+          ],
+          "collocations": [
+            "integral part",
+            "integral to"
+          ],
+          "example_vi": "Rau củ là một phần thiết yếu trong chế độ ăn uống của chúng ta."
         },
         {
           "word": "integrate",
@@ -228,8 +427,17 @@
           "definition_en": "to combine two or more things so that they work together; to mix with and join a society or a group of people",
           "definition_vi": "tích hợp; hòa nhập",
           "example": "It's difficult for immigrants to integrate into the local community.",
-          "synonyms": ["incorporate", "combine", "merge"],
-          "collocations": ["integrate into", "fully integrate", "integrate with"]
+          "synonyms": [
+            "incorporate",
+            "combine",
+            "merge"
+          ],
+          "collocations": [
+            "integrate into",
+            "fully integrate",
+            "integrate with"
+          ],
+          "example_vi": "Thật khó để những người nhập cư hòa nhập vào cộng đồng địa phương."
         },
         {
           "word": "interfere",
@@ -237,8 +445,16 @@
           "definition_en": "to involve yourself in a situation when your involvement is not wanted or is not helpful",
           "definition_vi": "can thiệp, xía vào (tiêu cực)",
           "example": "I wish my mother-in-law would stop interfering in our lives.",
-          "synonyms": ["meddle", "intrude", "intervene"],
-          "collocations": ["interfere in", "interfere with"]
+          "synonyms": [
+            "meddle",
+            "intrude",
+            "intervene"
+          ],
+          "collocations": [
+            "interfere in",
+            "interfere with"
+          ],
+          "example_vi": "Tôi ước mẹ chồng mình đừng can thiệp vào cuộc sống của chúng tôi nữa."
         },
         {
           "word": "intermediate",
@@ -246,8 +462,15 @@
           "definition_en": "being between two other related things, levels, or points",
           "definition_vi": "trung cấp, trung gian",
           "example": "This course is for students of intermediate level.",
-          "synonyms": ["middle", "midway"],
-          "collocations": ["intermediate level", "intermediate stage"]
+          "synonyms": [
+            "middle",
+            "midway"
+          ],
+          "collocations": [
+            "intermediate level",
+            "intermediate stage"
+          ],
+          "example_vi": "Khóa học này dành cho sinh viên trình độ trung cấp."
         },
         {
           "word": "internal",
@@ -255,8 +478,17 @@
           "definition_en": "inside the body or within an organization",
           "definition_vi": "nội bộ, bên trong",
           "example": "The bank is conducting an internal investigation.",
-          "synonyms": ["inner", "inside", "interior"],
-          "collocations": ["internal affairs", "internal organs", "internal audit"]
+          "synonyms": [
+            "inner",
+            "inside",
+            "interior"
+          ],
+          "collocations": [
+            "internal affairs",
+            "internal organs",
+            "internal audit"
+          ],
+          "example_vi": "Ngân hàng đang tiến hành một cuộc điều tra nội bộ."
         },
         {
           "word": "intervene",
@@ -264,8 +496,15 @@
           "definition_en": "to intentionally become involved in a difficult situation in order to improve it",
           "definition_vi": "can thiệp (để giúp đỡ)",
           "example": "The government had to intervene to prevent a civil war.",
-          "synonyms": ["intercede", "step in"],
-          "collocations": ["intervene in", "military intervention"]
+          "synonyms": [
+            "intercede",
+            "step in"
+          ],
+          "collocations": [
+            "intervene in",
+            "military intervention"
+          ],
+          "example_vi": "Chính phủ đã phải can thiệp để ngăn chặn một cuộc nội chiến."
         },
         {
           "word": "intimate",
@@ -273,8 +512,17 @@
           "definition_en": "having a very close friendship or personal relationship",
           "definition_vi": "thân mật, sâu sắc",
           "example": "They are intimate friends.",
-          "synonyms": ["close", "dear", "near"],
-          "collocations": ["intimate relationship", "intimate details", "intimate knowledge"]
+          "synonyms": [
+            "close",
+            "dear",
+            "near"
+          ],
+          "collocations": [
+            "intimate relationship",
+            "intimate details",
+            "intimate knowledge"
+          ],
+          "example_vi": "Họ là những người bạn thân thiết."
         },
         {
           "word": "involve",
@@ -282,8 +530,16 @@
           "definition_en": "to include someone or something in an activity",
           "definition_vi": "liên quan, bao gồm",
           "example": "The job involves a lot of travelling.",
-          "synonyms": ["include", "entail", "require"],
-          "collocations": ["be involved in", "involve someone in"]
+          "synonyms": [
+            "include",
+            "entail",
+            "require"
+          ],
+          "collocations": [
+            "be involved in",
+            "involve someone in"
+          ],
+          "example_vi": "Công việc này đòi hỏi phải đi lại nhiều."
         },
         {
           "word": "joint",
@@ -291,8 +547,17 @@
           "definition_en": "belonging to or shared by two or more people",
           "definition_vi": "chung (giữa 2 hay nhiều người)",
           "example": "The project was a joint effort between the two schools.",
-          "synonyms": ["shared", "collective", "combined"],
-          "collocations": ["joint venture", "joint decision", "joint account"]
+          "synonyms": [
+            "shared",
+            "collective",
+            "combined"
+          ],
+          "collocations": [
+            "joint venture",
+            "joint decision",
+            "joint account"
+          ],
+          "example_vi": "Dự án là một nỗ lực chung giữa hai trường."
         },
         {
           "word": "liken",
@@ -300,8 +565,14 @@
           "definition_en": "to say that someone or something is similar to someone or something else",
           "definition_vi": "ví von, so sánh",
           "example": "She likened the experience to a nightmare.",
-          "synonyms": ["compare", "equate"],
-          "collocations": ["liken someone/something to"]
+          "synonyms": [
+            "compare",
+            "equate"
+          ],
+          "collocations": [
+            "liken someone/something to"
+          ],
+          "example_vi": "Cô ấy ví trải nghiệm đó như một cơn ác mộng."
         },
         {
           "word": "link",
@@ -309,8 +580,17 @@
           "definition_en": "a connection between two people, things, or ideas; to make a connection",
           "definition_vi": "liên kết, mối quan hệ",
           "example": "Police suspect there is a link between the two crimes.",
-          "synonyms": ["connection", "tie", "association"],
-          "collocations": ["link between", "link to", "direct link"]
+          "synonyms": [
+            "connection",
+            "tie",
+            "association"
+          ],
+          "collocations": [
+            "link between",
+            "link to",
+            "direct link"
+          ],
+          "example_vi": "Cảnh sát nghi ngờ có mối liên hệ giữa hai tội ác này."
         },
         {
           "word": "merge",
@@ -318,8 +598,16 @@
           "definition_en": "to combine or join together",
           "definition_vi": "sáp nhập, hợp nhất",
           "example": "The two companies merged to form a new giant.",
-          "synonyms": ["combine", "unite", "amalgamate"],
-          "collocations": ["merge with", "merge into"]
+          "synonyms": [
+            "combine",
+            "unite",
+            "amalgamate"
+          ],
+          "collocations": [
+            "merge with",
+            "merge into"
+          ],
+          "example_vi": "Hai công ty đã sáp nhập để tạo thành một gã khổng lồ mới."
         },
         {
           "word": "mutual",
@@ -327,8 +615,16 @@
           "definition_en": "(of two or more people) feeling the same emotion, or doing the same thing to or for each other",
           "definition_vi": "lẫn nhau, chung",
           "example": "The agreement was based on mutual respect.",
-          "synonyms": ["reciprocal", "shared"],
-          "collocations": ["mutual respect", "mutual friend", "mutual understanding"]
+          "synonyms": [
+            "reciprocal",
+            "shared"
+          ],
+          "collocations": [
+            "mutual respect",
+            "mutual friend",
+            "mutual understanding"
+          ],
+          "example_vi": "Thỏa thuận dựa trên sự tôn trọng lẫn nhau."
         },
         {
           "word": "negotiate",
@@ -336,8 +632,16 @@
           "definition_en": "to try to reach an agreement or compromise by discussion",
           "definition_vi": "đàm phán, thương lượng",
           "example": "We are negotiating with the company for a higher salary.",
-          "synonyms": ["bargain", "discuss"],
-          "collocations": ["negotiate with", "negotiate a deal", "successfully negotiate"]
+          "synonyms": [
+            "bargain",
+            "discuss"
+          ],
+          "collocations": [
+            "negotiate with",
+            "negotiate a deal",
+            "successfully negotiate"
+          ],
+          "example_vi": "Chúng tôi đang thương lượng với công ty để có mức lương cao hơn."
         },
         {
           "word": "related",
@@ -345,8 +649,16 @@
           "definition_en": "belonging to the same family; connected",
           "definition_vi": "có liên quan, có họ hàng",
           "example": "Are you related to the famous actor?",
-          "synonyms": ["connected", "associated", "kin"],
-          "collocations": ["related to", "closely related"]
+          "synonyms": [
+            "connected",
+            "associated",
+            "kin"
+          ],
+          "collocations": [
+            "related to",
+            "closely related"
+          ],
+          "example_vi": "Bạn có họ hàng với nam diễn viên nổi tiếng đó không?"
         },
         {
           "word": "relative",
@@ -354,8 +666,16 @@
           "definition_en": "a member of your family; considered in relation or in proportion to something else",
           "definition_vi": "họ hàng; tương đối",
           "example": "She has several relatives living in the city.",
-          "synonyms": ["relation", "kin"],
-          "collocations": ["close relative", "distant relative", "relative to"]
+          "synonyms": [
+            "relation",
+            "kin"
+          ],
+          "collocations": [
+            "close relative",
+            "distant relative",
+            "relative to"
+          ],
+          "example_vi": "Tôi nhận được một email từ một người họ hàng xa."
         },
         {
           "word": "resemblance",
@@ -363,8 +683,15 @@
           "definition_en": "the fact that two people or things look like each other",
           "definition_vi": "sự giống nhau",
           "example": "There's no resemblance between Gary and Mark.",
-          "synonyms": ["similarity", "likeness"],
-          "collocations": ["bear a resemblance to", "striking resemblance"]
+          "synonyms": [
+            "similarity",
+            "likeness"
+          ],
+          "collocations": [
+            "bear a resemblance to",
+            "striking resemblance"
+          ],
+          "example_vi": "Không có điểm nào giống nhau giữa Gary và Mark cả."
         }
       ]
     },
@@ -377,8 +704,15 @@
           "definition_en": "a person that you have met but do not know well",
           "definition_vi": "người quen",
           "example": "I wouldn't call him a friend, more of an acquaintance.",
-          "synonyms": ["contact", "associate"],
-          "collocations": ["business acquaintance", "casual acquaintance"]
+          "synonyms": [
+            "contact",
+            "associate"
+          ],
+          "collocations": [
+            "business acquaintance",
+            "casual acquaintance"
+          ],
+          "example_vi": "Tôi không gọi anh ta là bạn, đúng hơn là một người quen."
         },
         {
           "word": "adopt",
@@ -386,8 +720,14 @@
           "definition_en": "to legally take another person's child into your own family",
           "definition_vi": "nhận con nuôi",
           "example": "They were unable to have children of their own, so they decided to adopt.",
-          "synonyms": ["take in"],
-          "collocations": ["adopt a child", "legal adoption"]
+          "synonyms": [
+            "take in"
+          ],
+          "collocations": [
+            "adopt a child",
+            "legal adoption"
+          ],
+          "example_vi": "Họ không thể có con nên đã quyết định nhận con nuôi."
         },
         {
           "word": "ancestor",
@@ -395,8 +735,15 @@
           "definition_en": "a person related to you who lived a long time ago",
           "definition_vi": "tổ tiên",
           "example": "My ancestors came from Italy in the 19th century.",
-          "synonyms": ["forefather", "progenitor"],
-          "collocations": ["common ancestor", "distant ancestor"]
+          "synonyms": [
+            "forefather",
+            "progenitor"
+          ],
+          "collocations": [
+            "common ancestor",
+            "distant ancestor"
+          ],
+          "example_vi": "Tổ tiên tôi đến từ Ý vào thế kỷ 19."
         },
         {
           "word": "citizen",
@@ -404,8 +751,16 @@
           "definition_en": "a person who is a member of a particular country",
           "definition_vi": "công dân",
           "example": "He wanted to become an American citizen as soon as he could.",
-          "synonyms": ["national", "subject"],
-          "collocations": ["law-abiding citizen", "senior citizen", "global citizen"]
+          "synonyms": [
+            "national",
+            "subject"
+          ],
+          "collocations": [
+            "law-abiding citizen",
+            "senior citizen",
+            "global citizen"
+          ],
+          "example_vi": "Anh ấy muốn trở thành công dân Mỹ càng sớm càng tốt."
         },
         {
           "word": "companion",
@@ -413,8 +768,16 @@
           "definition_en": "a person you spend a lot of time with or travel with",
           "definition_vi": "bạn đồng hành",
           "example": "She was my constant companion during those difficult times.",
-          "synonyms": ["partner", "associate", "comrade"],
-          "collocations": ["travelling companion", "constant companion"]
+          "synonyms": [
+            "partner",
+            "associate",
+            "comrade"
+          ],
+          "collocations": [
+            "travelling companion",
+            "constant companion"
+          ],
+          "example_vi": "Cô ấy là người bạn đồng hành luôn bên cạnh tôi trong những thời điểm khó khăn đó."
         },
         {
           "word": "dependant",
@@ -422,8 +785,14 @@
           "definition_en": "a person who relies on another, especially a family member, for financial support",
           "definition_vi": "người phụ thuộc",
           "example": "He's got a large number of dependants, including three children.",
-          "synonyms": ["subordinate"],
-          "collocations": ["claim dependants", "financial dependant"]
+          "synonyms": [
+            "subordinate"
+          ],
+          "collocations": [
+            "claim dependants",
+            "financial dependant"
+          ],
+          "example_vi": "Anh ấy có nhiều người phụ thuộc, bao gồm cả ba đứa con."
         },
         {
           "word": "descendant",
@@ -431,8 +800,15 @@
           "definition_en": "a person who is related to you and who lives after you, such as your child or grandchild",
           "definition_vi": "hậu duệ",
           "example": "I'm a descendant of Isaac Newton.",
-          "synonyms": ["offspring", "successor"],
-          "collocations": ["direct descendant", "linear descendant"]
+          "synonyms": [
+            "offspring",
+            "successor"
+          ],
+          "collocations": [
+            "direct descendant",
+            "linear descendant"
+          ],
+          "example_vi": "Tôi là hậu duệ của Isaac Newton."
         },
         {
           "word": "empathise",
@@ -440,8 +816,14 @@
           "definition_en": "to be able to understand how someone else feels",
           "definition_vi": "thấu cảm",
           "example": "It's difficult to empathise with her when you haven't experienced anything similar.",
-          "synonyms": ["understand", "relate to"],
-          "collocations": ["empathise with someone"]
+          "synonyms": [
+            "understand",
+            "relate to"
+          ],
+          "collocations": [
+            "empathise with someone"
+          ],
+          "example_vi": "Thật khó để đồng cảm với cô ấy khi bạn chưa từng trải qua điều gì tương tự."
         },
         {
           "word": "extrovert",
@@ -449,8 +831,13 @@
           "definition_en": "an energetic happy person who enjoys being with other people",
           "definition_vi": "người hướng ngoại",
           "example": "Guy's a real extrovert; he'll chat to anybody.",
-          "synonyms": ["socializer"],
-          "collocations": ["outgoing extrovert"]
+          "synonyms": [
+            "socializer"
+          ],
+          "collocations": [
+            "outgoing extrovert"
+          ],
+          "example_vi": "Guy là một người hướng ngoại thực thụ; anh ấy sẽ trò chuyện với bất cứ ai."
         },
         {
           "word": "foster",
@@ -458,8 +845,16 @@
           "definition_en": "to take care of a child, usually for a limited time, without being the child's legal parent",
           "definition_vi": "nhận nuôi tạm thời",
           "example": "My parents often fostered children for a few months.",
-          "synonyms": ["bring up", "nurture"],
-          "collocations": ["foster child", "foster home", "foster parent"]
+          "synonyms": [
+            "bring up",
+            "nurture"
+          ],
+          "collocations": [
+            "foster child",
+            "foster home",
+            "foster parent"
+          ],
+          "example_vi": "Cha mẹ tôi thường nhận nuôi dưỡng trẻ em trong vài tháng."
         },
         {
           "word": "guardian",
@@ -467,8 +862,15 @@
           "definition_en": "a person who has the legal right and responsibility of taking care of someone who cannot take care of themselves",
           "definition_vi": "người giám hộ",
           "example": "You have to get your legal guardian to sign the form.",
-          "synonyms": ["protector", "custodian"],
-          "collocations": ["legal guardian", "appoint a guardian"]
+          "synonyms": [
+            "protector",
+            "custodian"
+          ],
+          "collocations": [
+            "legal guardian",
+            "appoint a guardian"
+          ],
+          "example_vi": "Bạn phải nhờ người giám hộ hợp pháp ký vào mẫu đơn."
         },
         {
           "word": "introvert",
@@ -476,8 +878,13 @@
           "definition_en": "someone who is shy, quiet, and prefers to spend time alone",
           "definition_vi": "người hướng nội",
           "example": "I suppose I'm something of an introvert; I'm quite shy.",
-          "synonyms": ["loner"],
-          "collocations": ["quiet introvert"]
+          "synonyms": [
+            "loner"
+          ],
+          "collocations": [
+            "quiet introvert"
+          ],
+          "example_vi": "Tôi cho rằng mình hơi hướng nội; tôi khá nhút nhát."
         },
         {
           "word": "partner",
@@ -485,8 +892,17 @@
           "definition_en": "a person you are closely involved with in a business or relationship",
           "definition_vi": "bạn đời, đối tác",
           "example": "The invitation didn't say that partners were invited.",
-          "synonyms": ["associate", "companion", "spouse"],
-          "collocations": ["business partner", "domestic partner", "life partner"]
+          "synonyms": [
+            "associate",
+            "companion",
+            "spouse"
+          ],
+          "collocations": [
+            "business partner",
+            "domestic partner",
+            "life partner"
+          ],
+          "example_vi": "Lời mời không nói rằng bạn đời cũng được mời."
         },
         {
           "word": "peer",
@@ -494,8 +910,16 @@
           "definition_en": "a person who is the same age or has the same social position",
           "definition_vi": "người cùng trang lứa, đồng nghiệp",
           "example": "It's important not to be different from your peers.",
-          "synonyms": ["equal", "contemporary"],
-          "collocations": ["peer pressure", "peer group", "peer review"]
+          "synonyms": [
+            "equal",
+            "contemporary"
+          ],
+          "collocations": [
+            "peer pressure",
+            "peer group",
+            "peer review"
+          ],
+          "example_vi": "Thanh thiếu niên thường cảm thấy bị áp lực bởi bạn bè cùng trang lứa."
         },
         {
           "word": "predecessor",
@@ -503,8 +927,15 @@
           "definition_en": "someone who had a job or a position before someone else",
           "definition_vi": "người tiền nhiệm",
           "example": "My predecessor in the job left things in a real mess.",
-          "synonyms": ["precursor", "ancestor"],
-          "collocations": ["immediate predecessor", "predecessor in office"]
+          "synonyms": [
+            "precursor",
+            "ancestor"
+          ],
+          "collocations": [
+            "immediate predecessor",
+            "predecessor in office"
+          ],
+          "example_vi": "Người tiền nhiệm của tôi trong công việc đã để lại mọi thứ trong một mớ hỗn độn."
         },
         {
           "word": "sibling",
@@ -512,8 +943,15 @@
           "definition_en": "a brother or sister",
           "definition_vi": "anh chị em ruột",
           "example": "I never really got on with any of my siblings.",
-          "synonyms": ["brother", "sister"],
-          "collocations": ["sibling rivalry", "only sibling"]
+          "synonyms": [
+            "brother",
+            "sister"
+          ],
+          "collocations": [
+            "sibling rivalry",
+            "only sibling"
+          ],
+          "example_vi": "Tôi chưa bao giờ thực sự hòa thuận với bất kỳ anh chị em nào của mình."
         },
         {
           "word": "spouse",
@@ -521,8 +959,16 @@
           "definition_en": "a person's husband or wife",
           "definition_vi": "vợ/chồng",
           "example": "Write the name of your spouse in the space provided.",
-          "synonyms": ["partner", "husband", "wife"],
-          "collocations": ["surviving spouse", "current spouse"]
+          "synonyms": [
+            "partner",
+            "husband",
+            "wife"
+          ],
+          "collocations": [
+            "surviving spouse",
+            "current spouse"
+          ],
+          "example_vi": "Viết tên vợ hoặc chồng của bạn vào chỗ trống được cung cấp."
         },
         {
           "word": "stepmother",
@@ -530,8 +976,13 @@
           "definition_en": "the woman who has married your father but is not your mother",
           "definition_vi": "mẹ kế",
           "example": "I don't get on that well with my stepmother.",
-          "synonyms": ["step-parent"],
-          "collocations": ["wicked stepmother"]
+          "synonyms": [
+            "step-parent"
+          ],
+          "collocations": [
+            "wicked stepmother"
+          ],
+          "example_vi": "Tôi không hòa hợp lắm với mẹ kế của mình."
         },
         {
           "word": "successor",
@@ -539,8 +990,15 @@
           "definition_en": "someone or something that takes the place of another person or thing",
           "definition_vi": "người kế nhiệm",
           "example": "I'm sure my successor will carry on the good work.",
-          "synonyms": ["heir", "replacement"],
-          "collocations": ["eventual successor", "successor to"]
+          "synonyms": [
+            "heir",
+            "replacement"
+          ],
+          "collocations": [
+            "eventual successor",
+            "successor to"
+          ],
+          "example_vi": "Tôi chắc chắn rằng người kế nhiệm tôi sẽ tiếp tục công việc tốt đẹp này."
         },
         {
           "word": "sympathise",
@@ -548,8 +1006,14 @@
           "definition_en": "to understand and care about someone else's suffering",
           "definition_vi": "thông cảm",
           "example": "I do sympathise with Kim, but I can't say I understand what she's going through.",
-          "synonyms": ["feel for", "pity"],
-          "collocations": ["sympathise with someone"]
+          "synonyms": [
+            "feel for",
+            "pity"
+          ],
+          "collocations": [
+            "sympathise with someone"
+          ],
+          "example_vi": "Tôi rất thông cảm với Kim, nhưng tôi không thể nói rằng tôi hiểu những gì cô ấy đang trải qua."
         }
       ]
     },
@@ -562,8 +1026,11 @@
           "definition_en": "reply rudely to someone who has more authority than you",
           "definition_vi": "cãi lại",
           "example": "Don't you dare answer me back!",
-          "synonyms": ["talk back"],
-          "collocations": []
+          "synonyms": [
+            "talk back"
+          ],
+          "collocations": [],
+          "example_vi": "Con không được phép cãi lại ta!"
         },
         {
           "word": "ask out",
@@ -571,8 +1038,11 @@
           "definition_en": "invite someone to go with you to a cinema, restaurant, etc because you want to start a romantic or sexual relationship with them",
           "definition_vi": "mời đi chơi (hẹn hò)",
           "example": "I'd like to ask Melanie out on a date.",
-          "synonyms": ["invite out"],
-          "collocations": []
+          "synonyms": [
+            "invite out"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi muốn mời Melanie đi chơi."
         },
         {
           "word": "break up",
@@ -580,8 +1050,12 @@
           "definition_en": "end a relationship; break something into smaller pieces; end an event",
           "definition_vi": "chia tay; đập nhỏ; tan họp",
           "example": "I haven't seen much of Cameron since he and Nicola broke up.",
-          "synonyms": ["split up", "separate"],
-          "collocations": []
+          "synonyms": [
+            "split up",
+            "separate"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi không gặp Cameron nhiều kể từ khi anh ấy và Nicola chia tay."
         },
         {
           "word": "bring out",
@@ -589,8 +1063,12 @@
           "definition_en": "make someone or something show a quality that they have; produce a new product and start to sell it",
           "definition_vi": "làm nổi bật; tung ra sản phẩm",
           "example": "The crisis brought out the best in him. / They're bringing out a new album.",
-          "synonyms": ["highlight", "release"],
-          "collocations": []
+          "synonyms": [
+            "highlight",
+            "release"
+          ],
+          "collocations": [],
+          "example_vi": "Cuộc khủng hoảng đã bộc lộ những phẩm chất tốt nhất trong anh ấy. / Họ sắp tung ra một album mới."
         },
         {
           "word": "bring together",
@@ -598,8 +1076,12 @@
           "definition_en": "create a situation in which people meet and do something together",
           "definition_vi": "tập hợp, gắn kết",
           "example": "The disaster brought the community together.",
-          "synonyms": ["unite", "gather"],
-          "collocations": []
+          "synonyms": [
+            "unite",
+            "gather"
+          ],
+          "collocations": [],
+          "example_vi": "Thảm họa đã gắn kết cộng đồng lại với nhau."
         },
         {
           "word": "bump into",
@@ -607,8 +1089,12 @@
           "definition_en": "meet someone unexpectedly; accidentally hit against something",
           "definition_vi": "tình cờ gặp; va phải",
           "example": "Guess who I bumped into in town today?",
-          "synonyms": ["run into", "encounter"],
-          "collocations": []
+          "synonyms": [
+            "run into",
+            "encounter"
+          ],
+          "collocations": [],
+          "example_vi": "Đoán xem hôm nay tôi đã tình cờ gặp ai ở trong thị trấn nào?"
         },
         {
           "word": "cancel out",
@@ -616,8 +1102,12 @@
           "definition_en": "stop something from having any effect",
           "definition_vi": "triệt tiêu, vô hiệu hóa",
           "example": "The gains and losses should cancel each other out.",
-          "synonyms": ["nullify", "neutralize"],
-          "collocations": []
+          "synonyms": [
+            "nullify",
+            "neutralize"
+          ],
+          "collocations": [],
+          "example_vi": "Các khoản lãi và lỗ sẽ bù trừ cho nhau."
         },
         {
           "word": "come between",
@@ -625,8 +1115,12 @@
           "definition_en": "cause a disagreement or argument between people",
           "definition_vi": "chia rẽ, xen ngang",
           "example": "She is determined not to let anything come between them.",
-          "synonyms": ["separate", "divide"],
-          "collocations": []
+          "synonyms": [
+            "separate",
+            "divide"
+          ],
+          "collocations": [],
+          "example_vi": "Cô ấy quyết tâm không để bất cứ điều gì xen vào giữa họ."
         },
         {
           "word": "crowd around",
@@ -634,8 +1128,12 @@
           "definition_en": "move to a particular place at the same time as a lot of other people",
           "definition_vi": "vây quanh, tụ tập quanh",
           "example": "The children crowded around the teacher to see the book.",
-          "synonyms": ["gather around", "swarm"],
-          "collocations": []
+          "synonyms": [
+            "gather around",
+            "swarm"
+          ],
+          "collocations": [],
+          "example_vi": "Những đứa trẻ vây quanh giáo viên để xem cuốn sách."
         },
         {
           "word": "go together",
@@ -643,8 +1141,12 @@
           "definition_en": "frequently exist together; seem good or attractive in combination",
           "definition_vi": "đi đôi với nhau; hợp nhau",
           "example": "Those two things often go together. / Do you think this tie and shirt go together?",
-          "synonyms": ["match", "accompany"],
-          "collocations": []
+          "synonyms": [
+            "match",
+            "accompany"
+          ],
+          "collocations": [],
+          "example_vi": "Hai thứ đó thường đi đôi với nhau. / Bạn có nghĩ chiếc cà vạt này và chiếc áo sơ mi này hợp nhau không?"
         },
         {
           "word": "meet up",
@@ -652,8 +1154,11 @@
           "definition_en": "come together with someone, either unexpectedly or as planned",
           "definition_vi": "gặp mặt",
           "example": "Why don't we meet up here again on the 12th?",
-          "synonyms": ["get together"],
-          "collocations": []
+          "synonyms": [
+            "get together"
+          ],
+          "collocations": [],
+          "example_vi": "Tại sao chúng ta không gặp lại nhau ở đây vào ngày 12 nhỉ?"
         },
         {
           "word": "open up",
@@ -661,8 +1166,11 @@
           "definition_en": "talk more about your personal feelings; open a locked door/building; make it easier to travel/do business",
           "definition_vi": "mở lòng, tâm sự; mở khóa; mở rộng (cơ hội)",
           "example": "He started to open up about his feelings.",
-          "synonyms": ["confide"],
-          "collocations": []
+          "synonyms": [
+            "confide"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy bắt đầu cởi mở hơn về cảm xúc của mình."
         },
         {
           "word": "pick on",
@@ -670,8 +1178,12 @@
           "definition_en": "keep treating someone badly or unfairly, especially by criticising them",
           "definition_vi": "bắt nạt, chỉ trích bất công",
           "example": "Why do you always pick on me?",
-          "synonyms": ["bully", "victimise"],
-          "collocations": []
+          "synonyms": [
+            "bully",
+            "victimise"
+          ],
+          "collocations": [],
+          "example_vi": "Tại sao bạn luôn bắt nạt tôi vậy?"
         },
         {
           "word": "sound out",
@@ -679,8 +1191,12 @@
           "definition_en": "try to find out someone's opinions, ideas, feelings, etc by talking to them",
           "definition_vi": "thăm dò ý kiến",
           "example": "You should sound your parents out and see what they think.",
-          "synonyms": ["investigate", "check out"],
-          "collocations": []
+          "synonyms": [
+            "investigate",
+            "check out"
+          ],
+          "collocations": [],
+          "example_vi": "Bạn nên hỏi dò ý kiến bố mẹ xem họ nghĩ gì."
         },
         {
           "word": "take after",
@@ -688,8 +1204,11 @@
           "definition_en": "look or behave like an older relative",
           "definition_vi": "giống (ai đó trong gia đình)",
           "example": "Michael really takes after his grandfather.",
-          "synonyms": ["resemble"],
-          "collocations": []
+          "synonyms": [
+            "resemble"
+          ],
+          "collocations": [],
+          "example_vi": "Michael thực sự rất giống ông nội mình."
         },
         {
           "word": "take to",
@@ -697,8 +1216,12 @@
           "definition_en": "begin to like someone or something; start doing something as a habit",
           "definition_vi": "bắt đầu thích; bắt đầu một thói quen",
           "example": "I didn't take to my stepbrother at first. / He's taken to staying up late.",
-          "synonyms": ["get used to", "begin to like"],
-          "collocations": []
+          "synonyms": [
+            "get used to",
+            "begin to like"
+          ],
+          "collocations": [],
+          "example_vi": "Lúc đầu tôi không có cảm tình với anh kế của mình. / Anh ấy bắt đầu có thói quen thức khuya."
         }
       ]
     },
@@ -712,7 +1235,8 @@
           "definition_vi": "sinh ra (các cụm từ liên quan)",
           "example": "He was born into a wealthy family.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Anh ấy sinh ra trong một gia đình giàu có."
         },
         {
           "word": "child",
@@ -721,7 +1245,8 @@
           "definition_vi": "đứa trẻ (các cụm từ liên quan)",
           "example": "This maths problem is child's play.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Bài toán này dễ như ăn cháo vậy."
         },
         {
           "word": "common",
@@ -730,7 +1255,8 @@
           "definition_vi": "chung, phổ biến (các cụm từ liên quan)",
           "example": "We have a lot in common.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Chúng tôi có rất nhiều điểm chung."
         },
         {
           "word": "equal",
@@ -739,7 +1265,8 @@
           "definition_vi": "bằng nhau, công bằng (các cụm từ liên quan)",
           "example": "They recognize that they are of equal value.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Họ công nhận rằng họ có giá trị ngang nhau."
         },
         {
           "word": "family",
@@ -748,7 +1275,8 @@
           "definition_vi": "gia đình (các cụm từ liên quan)",
           "example": "She very quickly became one of the family.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cô ấy nhanh chóng trở thành một thành viên trong gia đình."
         },
         {
           "word": "feature",
@@ -757,7 +1285,8 @@
           "definition_vi": "đặc điểm (các cụm từ liên quan)",
           "example": "The car has some excellent safety features.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Chiếc xe có một số tính năng an toàn tuyệt vời."
         },
         {
           "word": "friend",
@@ -766,7 +1295,8 @@
           "definition_vi": "bạn bè (các cụm từ liên quan)",
           "example": "I'm still friends with my ex-boyfriend.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi vẫn là bạn với bạn trai cũ của mình."
         },
         {
           "word": "generation",
@@ -775,7 +1305,8 @@
           "definition_vi": "thế hệ (các cụm từ liên quan)",
           "example": "The generation gap seems to be widening.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Khoảng cách thế hệ dường như đang ngày càng lớn dần."
         },
         {
           "word": "human",
@@ -784,7 +1315,8 @@
           "definition_vi": "con người (các cụm từ liên quan)",
           "example": "It's only human nature to want to settle down.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Bản tính tự nhiên của con người là muốn ổn định cuộc sống."
         },
         {
           "word": "love",
@@ -793,7 +1325,8 @@
           "definition_vi": "tình yêu (các cụm từ liên quan)",
           "example": "They fell in love at first sight.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Họ đã yêu nhau ngay từ cái nhìn đầu tiên."
         },
         {
           "word": "marriage",
@@ -802,7 +1335,8 @@
           "definition_vi": "hôn nhân (các cụm từ liên quan)",
           "example": "She's my aunt by marriage.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cô ấy là dì/mợ (vợ của cậu/chú/bác) của tôi."
         },
         {
           "word": "mother",
@@ -811,7 +1345,8 @@
           "definition_vi": "mẹ (các cụm từ liên quan)",
           "example": "Italian is her mother tongue.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tiếng Ý là tiếng mẹ đẻ của cô ấy."
         },
         {
           "word": "national",
@@ -820,7 +1355,8 @@
           "definition_vi": "quốc gia (các cụm từ liên quan)",
           "example": "Tomorrow is a national holiday.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Ngày mai là một ngày lễ quốc gia."
         },
         {
           "word": "native",
@@ -829,7 +1365,8 @@
           "definition_vi": "bản ngữ, bản địa (các cụm từ liên quan)",
           "example": "Native speakers of English often speak too fast.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Người bản ngữ tiếng Anh thường nói quá nhanh."
         },
         {
           "word": "near",
@@ -838,7 +1375,8 @@
           "definition_vi": "gần (các cụm từ liên quan)",
           "example": "People came from near and far to attend the wedding.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Mọi người từ khắp nơi đổ về để tham dự đám cưới."
         },
         {
           "word": "person",
@@ -847,7 +1385,8 @@
           "definition_vi": "người (các cụm từ liên quan)",
           "example": "I've never met him in person.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi chưa bao giờ gặp trực tiếp anh ta."
         },
         {
           "word": "relative",
@@ -856,7 +1395,8 @@
           "definition_vi": "họ hàng, tương đối (các cụm từ liên quan)",
           "example": "I got an e-mail from a distant relative.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi nhận được một email từ một người họ hàng xa."
         },
         {
           "word": "respect",
@@ -865,7 +1405,8 @@
           "definition_vi": "tôn trọng (các cụm từ liên quan)",
           "example": "He treats his wife with respect.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Anh ấy đối xử với vợ mình bằng sự tôn trọng."
         },
         {
           "word": "support",
@@ -874,7 +1415,8 @@
           "definition_vi": "ủng hộ, hỗ trợ (các cụm từ liên quan)",
           "example": "We supported our son while he was at university.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Chúng tôi đã nuôi nấng con trai mình khi nó còn học đại học."
         },
         {
           "word": "wedding",
@@ -883,7 +1425,8 @@
           "definition_vi": "đám cưới (các cụm từ liên quan)",
           "example": "It's their wedding anniversary next week.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tuần tới là kỷ niệm ngày cưới của họ."
         }
       ]
     },
@@ -897,7 +1440,8 @@
           "definition_vi": "sinh ra đã ở vạch đích / ngậm thìa vàng",
           "example": "She's never had to work; she was born with a silver spoon in her mouth.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cô ấy chưa bao giờ phải làm việc; cô ấy sinh ra đã ở vạch đích rồi."
         },
         {
           "word": "be on the same wavelength",
@@ -906,7 +1450,8 @@
           "definition_vi": "cùng tần số / có cùng suy nghĩ",
           "example": "Vivian and I usually agree; we're on the same wavelength.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Vivian và tôi thường đồng ý với nhau; chúng tôi có cùng tần số."
         },
         {
           "word": "get on like a house on fire",
@@ -915,7 +1460,8 @@
           "definition_vi": "nhanh chóng trở nên thân thiết",
           "example": "My brother and Jack got on like a house on fire when they first met.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Anh trai tôi và Jack đã rất hợp nhau ngay lần đầu gặp mặt."
         },
         {
           "word": "in sb's bad/good books",
@@ -924,7 +1470,8 @@
           "definition_vi": "làm ai đó bực mình / hài lòng",
           "example": "I'm in his bad books because I forgot his birthday.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi bị anh ấy ghét vì tôi đã quên sinh nhật của anh ấy."
         },
         {
           "word": "like two peas in a pod",
@@ -932,8 +1479,11 @@
           "definition_en": "used for saying that two people look, behave or think exactly the same",
           "definition_vi": "giống nhau như đúc",
           "example": "Jill and Emily are like two peas in a pod.",
-          "synonyms": ["identical"],
-          "collocations": []
+          "synonyms": [
+            "identical"
+          ],
+          "collocations": [],
+          "example_vi": "Jill và Emily giống nhau như đúc."
         },
         {
           "word": "on good terms (with)",
@@ -942,7 +1492,8 @@
           "definition_vi": "có mối quan hệ tốt (với ai)",
           "example": "I'm on good terms with her sister.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi có mối quan hệ tốt với chị gái cô ấy."
         },
         {
           "word": "put sth in perspective",
@@ -951,7 +1502,8 @@
           "definition_vi": "nhìn nhận khách quan / đặt điều gì đúng vào bối cảnh",
           "example": "That tragic accident really puts your own problems in perspective.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tai nạn thảm khốc đó thực sự khiến bạn phải nhìn nhận lại những vấn đề của chính mình."
         },
         {
           "word": "sb is only human",
@@ -960,7 +1512,8 @@
           "definition_vi": "con người ai cũng có lúc sai lầm",
           "example": "I know I made a mistake, but I'm only human.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi biết mình đã phạm sai lầm, nhưng tôi cũng chỉ là con người thôi."
         },
         {
           "word": "see eye to eye (with sb)",
@@ -968,8 +1521,11 @@
           "definition_en": "agree with someone or have the same opinion as them",
           "definition_vi": "có cùng quan điểm / đồng tình",
           "example": "I don't think we're ever going to see eye to eye on this issue.",
-          "synonyms": ["agree"],
-          "collocations": []
+          "synonyms": [
+            "agree"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi không nghĩ rằng chúng ta sẽ bao giờ có cùng quan điểm về vấn đề này."
         },
         {
           "word": "your flesh and blood",
@@ -977,8 +1533,11 @@
           "definition_en": "your relative",
           "definition_vi": "người thân máu mủ",
           "example": "It's a shame to fall out with your own flesh and blood.",
-          "synonyms": ["kin"],
-          "collocations": []
+          "synonyms": [
+            "kin"
+          ],
+          "collocations": [],
+          "example_vi": "Thật đáng xấu hổ khi lại bất hòa với chính người thân máu mủ của mình."
         }
       ]
     },
@@ -1001,7 +1560,8 @@
           "definition_vi": "trân trọng (các từ phái sinh)",
           "example": "",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Chúng tôi thực sự trân trọng tất cả sự giúp đỡ mà bạn dành cho chúng tôi."
         },
         {
           "word": "associate",
@@ -1010,7 +1570,8 @@
           "definition_vi": "liên tưởng, kết hợp (các từ phái sinh)",
           "example": "",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi nghĩ mình sẽ luôn gắn liền bài hát này với kỳ nghỉ của chúng ta ở Majorca."
         },
         {
           "word": "attach",
@@ -1019,7 +1580,8 @@
           "definition_vi": "đính kèm (các từ phái sinh)",
           "example": "",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Bạn cần gắn tay cầm vào ngăn kéo bằng những con vít này."
         },
         {
           "word": "character",
@@ -1055,7 +1617,8 @@
           "definition_vi": "con người (các từ phái sinh)",
           "example": "",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Bản tính tự nhiên của con người là muốn ổn định cuộc sống."
         },
         {
           "word": "individual",
@@ -1082,7 +1645,8 @@
           "definition_vi": "thân mật (các từ phái sinh)",
           "example": "",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Họ là những người bạn thân thiết."
         },
         {
           "word": "loyal",
@@ -1127,7 +1691,8 @@
           "definition_vi": "con người (các từ phái sinh)",
           "example": "",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi chưa bao giờ gặp trực tiếp anh ta."
         },
         {
           "word": "race",
@@ -1288,84 +1853,144 @@
         {
           "number": 1,
           "sentence": "I couldn't believe it when Marcy accused me of ___ in her relationship with Joe.",
-          "options": ["intervening", "interacting", "interfering", "intercepting"],
+          "options": [
+            "intervening",
+            "interacting",
+            "interfering",
+            "intercepting"
+          ],
           "answer": "interfering",
           "explanation": "'Interfering' has a negative connotation of meddling where not wanted."
         },
         {
           "number": 2,
           "sentence": "Do you think there might be a ___ between Angie's behaviour and the accident she had?",
-          "options": ["link", "tie", "bond", "junction"],
+          "options": [
+            "link",
+            "tie",
+            "bond",
+            "junction"
+          ],
           "answer": "link",
           "explanation": "'Link' is the standard word for a connection between two facts or situations."
         },
         {
           "number": 3,
           "sentence": "Suddenly, I overheard Melissa and Alex talking about me in the ___ room.",
-          "options": ["attached", "beside", "near", "adjacent"],
+          "options": [
+            "attached",
+            "beside",
+            "near",
+            "adjacent"
+          ],
           "answer": "adjacent",
           "explanation": "'Adjacent' means the room right next to the current one."
         },
         {
           "number": 4,
           "sentence": "It's difficult to translate because there's no ___ for that word in English.",
-          "options": ["twin", "clone", "copy", "equivalent"],
+          "options": [
+            "twin",
+            "clone",
+            "copy",
+            "equivalent"
+          ],
           "answer": "equivalent",
           "explanation": "'Equivalent' refers to something that has the same value or meaning."
         },
         {
           "number": 5,
           "sentence": "Andrea and Theresa are so different! You couldn't have two more ___ sisters.",
-          "options": ["dislike", "contrasting", "conflicting", "distinguished"],
+          "options": [
+            "dislike",
+            "contrasting",
+            "conflicting",
+            "distinguished"
+          ],
           "answer": "contrasting",
           "explanation": "'Contrasting' describes things that are very different from each other."
         },
         {
           "number": 6,
           "sentence": "Keeping a relationship going is hard enough, without any ___ pressure from parents.",
-          "options": ["external", "incoming", "outward", "outdoor"],
+          "options": [
+            "external",
+            "incoming",
+            "outward",
+            "outdoor"
+          ],
           "answer": "external",
           "explanation": "'External' refers to pressure coming from the outside (not from within the couple)."
         },
         {
           "number": 7,
           "sentence": "Having your heart broken is an ___ part of growing up.",
-          "options": ["inward", "inset", "integral", "internal"],
+          "options": [
+            "inward",
+            "inset",
+            "integral",
+            "internal"
+          ],
           "answer": "integral",
           "explanation": "'Integral' means a necessary and important part of a whole."
         },
         {
           "number": 8,
           "sentence": "Getting divorced was a ___ decision, so I don't blame my ex-wife.",
-          "options": ["relative", "related", "cooperative", "joint"],
+          "options": [
+            "relative",
+            "related",
+            "cooperative",
+            "joint"
+          ],
           "answer": "joint",
           "explanation": "'Joint' means shared or made by two or more people together."
         },
         {
           "number": 9,
           "sentence": "But what you're saying now isn't ___ with what you said last week.",
-          "options": ["coherent", "consistent", "confirmed", "continuous"],
+          "options": [
+            "coherent",
+            "consistent",
+            "confirmed",
+            "continuous"
+          ],
           "answer": "consistent",
           "explanation": "'Consistent' means staying the same or matching previous statements."
         },
         {
           "number": 10,
           "sentence": "You have to go through a number of ___ stages before you become an expert.",
-          "options": ["medium", "average", "moderate", "intermediate"],
+          "options": [
+            "medium",
+            "average",
+            "moderate",
+            "intermediate"
+          ],
           "answer": "intermediate",
           "explanation": "'Intermediate' refers to the levels between beginning and advanced."
         },
         {
           "number": 11,
           "sentence": "There's no ___ between Gary and Mark, even though they are brothers.",
-          "options": ["resemblance", "appearance", "correspondence", "reflection"],
+          "options": [
+            "resemblance",
+            "appearance",
+            "correspondence",
+            "reflection"
+          ],
           "answer": "resemblance",
           "explanation": "'Resemblance' means looking similar to someone else."
         },
         {
           "number": 12,
           "sentence": "There's no reason why people of different races can't ___ quite peacefully together.",
-          "options": ["endure", "be", "inhabit", "coexist"],
+          "options": [
+            "endure",
+            "be",
+            "inhabit",
+            "coexist"
+          ],
           "answer": "coexist",
           "explanation": "'Coexist' means to live together in the same place at the same time."
         }
@@ -1504,84 +2129,120 @@
         {
           "number": 1,
           "sentence": "I do ___ with Kim, but I can't say I really understand what she's going through.",
-          "options": ["empathise", "sympathise"],
+          "options": [
+            "empathise",
+            "sympathise"
+          ],
           "answer": "sympathise",
           "explanation": "Sympathise means feeling sorry for someone; empathise means sharing their feelings."
         },
         {
           "number": 2,
           "sentence": "I don't think you can really ___ with me when you haven't experienced anything similar.",
-          "options": ["empathise", "sympathise"],
+          "options": [
+            "empathise",
+            "sympathise"
+          ],
           "answer": "empathise",
           "explanation": "Empathise requires shared experience or deep understanding."
         },
         {
           "number": 3,
           "sentence": "My parents often ___ children for a few months when I was young.",
-          "options": ["adopted", "fostered"],
+          "options": [
+            "adopted",
+            "fostered"
+          ],
           "answer": "fostered",
           "explanation": "Foster means looking after a child temporarily."
         },
         {
           "number": 4,
           "sentence": "I was ___ by Frank and Mavis when I was just six weeks old, so they're the only parents I've ever known.",
-          "options": ["adopted", "fostered"],
+          "options": [
+            "adopted",
+            "fostered"
+          ],
           "answer": "adopted",
           "explanation": "Adopted means legally becoming a child's parent permanently."
         },
         {
           "number": 5,
           "sentence": "To some people, it's very important not to be different from their ___ and to fit in with the group.",
-          "options": ["partners", "peers"],
+          "options": [
+            "partners",
+            "peers"
+          ],
           "answer": "peers",
           "explanation": "Peers are people of the same age or status."
         },
         {
           "number": 6,
           "sentence": "I thought it strange that the invitation didn't say that ___ were invited.",
-          "options": ["partners", "peers"],
+          "options": [
+            "partners",
+            "peers"
+          ],
           "answer": "partners",
           "explanation": "Partners here refers to spouses or significant others."
         },
         {
           "number": 7,
           "sentence": "Jim lost his job because he's got a large number of ___ , including three children and a mother-in-law.",
-          "options": ["dependants", "siblings"],
+          "options": [
+            "dependants",
+            "siblings"
+          ],
           "answer": "dependants",
           "explanation": "People who rely on you for money."
         },
         {
           "number": 8,
           "sentence": "I never really got on with any of my ___ as I was growing up.",
-          "options": ["dependants", "siblings"],
+          "options": [
+            "dependants",
+            "siblings"
+          ],
           "answer": "siblings",
           "explanation": "Brothers and sisters."
         },
         {
           "number": 9,
           "sentence": "My ___ in the job left things in a real mess.",
-          "options": ["ancestor", "predecessor"],
+          "options": [
+            "ancestor",
+            "predecessor"
+          ],
           "answer": "predecessor",
           "explanation": "The person who held the job before you."
         },
         {
           "number": 10,
           "sentence": "The family home was built by an ___ of mine and six generations of Barretts have lived in it since then.",
-          "options": ["ancestor", "predecessor"],
+          "options": [
+            "ancestor",
+            "predecessor"
+          ],
           "answer": "ancestor",
           "explanation": "A relative from a long time ago."
         },
         {
           "number": 11,
           "sentence": "I have decided to leave the company, but I'm sure my ___ will carry on the good work.",
-          "options": ["descendant", "successor"],
+          "options": [
+            "descendant",
+            "successor"
+          ],
           "answer": "successor",
           "explanation": "The person who takes over your position."
         },
         {
           "number": 12,
           "sentence": "You won't believe me, but I'm a ___ of Isaac Newton, although I don't share the same name.",
-          "options": ["descendant", "successor"],
+          "options": [
+            "descendant",
+            "successor"
+          ],
           "answer": "descendant",
           "explanation": "A person related to someone from the past (child, grandchild, etc.)."
         }
@@ -2012,84 +2673,108 @@
         {
           "number": 1,
           "sentence": "Theo and his brother are always together. They're completely ___ .",
-          "options": ["SEPARATE"],
+          "options": [
+            "SEPARATE"
+          ],
           "answer": "inseparable",
           "explanation": "Inseparable: cannot be separated."
         },
         {
           "number": 2,
           "sentence": "It's very ___ of you to notice that Sean's not his usual self.",
-          "options": ["PERCEIVE"],
+          "options": [
+            "PERCEIVE"
+          ],
           "answer": "perceptive",
           "explanation": "Perceptive: quick to notice things."
         },
         {
           "number": 3,
           "sentence": "There was a long legal battle over the ___ , but in the end I did get quite a bit of money.",
-          "options": ["INHERIT"],
+          "options": [
+            "INHERIT"
+          ],
           "answer": "inheritance",
           "explanation": "Inheritance: money/property received from someone who died."
         },
         {
           "number": 4,
           "sentence": "I think saying that all black people are lazy is a very ___ remark, to be honest.",
-          "options": ["RACE"],
+          "options": [
+            "RACE"
+          ],
           "answer": "racist",
           "explanation": "Racist: relating to racism."
         },
         {
           "number": 5,
           "sentence": "Despite his ___ lack of concern, I think Gabriel really does care what other people think of him.",
-          "options": ["APPEAR"],
+          "options": [
+            "APPEAR"
+          ],
           "answer": "apparent",
           "explanation": "Apparent: seeming to be true."
         },
         {
           "number": 6,
           "sentence": "Don't feel that you're being ___ to Sharon if you tell me what's bothering you about her.",
-          "options": ["LOYAL"],
+          "options": [
+            "LOYAL"
+          ],
           "answer": "disloyal",
           "explanation": "Disloyal: not loyal."
         },
         {
           "number": 7,
           "sentence": "James got into trouble for ___ a police officer.",
-          "options": ["PERSON"],
+          "options": [
+            "PERSON"
+          ],
           "answer": "impersonating",
           "explanation": "Impersonate: pretend to be someone else."
         },
         {
           "number": 8,
           "sentence": "If you have any complaints about a neighbour, take them to your residents' ___ ...",
-          "options": ["ASSOCIATE"],
+          "options": [
+            "ASSOCIATE"
+          ],
           "answer": "association",
           "explanation": "Association: an organized group of people."
         },
         {
           "number": 9,
           "sentence": "Marvin used to be quite wild, but he's ___ calm these days.",
-          "options": ["RELATE"],
+          "options": [
+            "RELATE"
+          ],
           "answer": "relatively",
           "explanation": "Relatively: to a certain degree, compared to other times."
         },
         {
           "number": 10,
           "sentence": "According to Lionel, losing his job and then getting divorced were ___ , but I think there's probably a link.",
-          "options": ["CONNECT"],
+          "options": [
+            "CONNECT"
+          ],
           "answer": "unconnected",
           "explanation": "Unconnected: not joined or related."
         },
         {
           "number": 11,
           "sentence": "Young animals very quickly form a strong ___ to their mothers.",
-          "options": ["ATTACH"],
+          "options": [
+            "ATTACH"
+          ],
           "answer": "attachment",
           "explanation": "Attachment: a feeling of love and need for another."
         },
         {
           "number": 12,
           "sentence": "What I don't like about school uniform is that it completely destroys all ___ .",
-          "options": ["INDIVIDUAL"],
+          "options": [
+            "INDIVIDUAL"
+          ],
           "answer": "individuality",
           "explanation": "Individuality: the qualities that make a person different from others."
         }
@@ -2104,70 +2789,90 @@
         {
           "number": 1,
           "sentence": "Very little in our lives prepares us for ___ .",
-          "options": ["PARENT"],
+          "options": [
+            "PARENT"
+          ],
           "answer": "parenthood",
           "explanation": "Parenthood: the state of being a parent."
         },
         {
           "number": 2,
           "sentence": "...and all sorts of ___ demands are placed on you.",
-          "options": ["FAMILIAR"],
+          "options": [
+            "FAMILIAR"
+          ],
           "answer": "unfamiliar",
           "explanation": "Unfamiliar: not known or recognized."
         },
         {
           "number": 3,
           "sentence": "How we ourselves were treated by our parents in our ___ ...",
-          "options": ["YOUNG"],
+          "options": [
+            "YOUNG"
+          ],
           "answer": "youth",
           "explanation": "Youth: the time of life when you are young."
         },
         {
           "number": 4,
           "sentence": "...can have an ___ effect on who we become as parents.",
-          "options": ["APPRECIATE"],
+          "options": [
+            "APPRECIATE"
+          ],
           "answer": "appreciable",
           "explanation": "Appreciable: large enough to be noticed."
         },
         {
           "number": 5,
           "sentence": "Our own ___ of how our parents responded to us...",
-          "options": ["OBSERVE"],
+          "options": [
+            "OBSERVE"
+          ],
           "answer": "observation",
           "explanation": "Observation: the act of watching carefully."
         },
         {
           "number": 6,
           "sentence": "...creates a model of parenting that is ___ connected to the kind of parents we become.",
-          "options": ["INTIMATE"],
+          "options": [
+            "INTIMATE"
+          ],
           "answer": "intimately",
           "explanation": "Intimately: in a very close way."
         },
         {
           "number": 7,
           "sentence": "It's not uncommon for people to show the same child-rearing ___ as their own parents.",
-          "options": ["CHARACTER"],
+          "options": [
+            "CHARACTER"
+          ],
           "answer": "characteristics",
           "explanation": "Characteristics: typical features or qualities."
         },
         {
           "number": 8,
           "sentence": "If your father was an ___ figure who always seemed too busy...",
-          "options": ["SYMPATHY"],
+          "options": [
+            "SYMPATHY"
+          ],
           "answer": "unsympathetic",
           "explanation": "Unsympathetic: not showing kindness or understanding."
         },
         {
           "number": 9,
           "sentence": "If your mother was utterly ___ in her devotion...",
-          "options": ["SELF"],
+          "options": [
+            "SELF"
+          ],
           "answer": "selfless",
           "explanation": "Selfless: caring more about other people than yourself."
         },
         {
           "number": 10,
           "sentence": "...and do all that is ___ possible for your offspring.",
-          "options": ["HUMAN"],
+          "options": [
+            "HUMAN"
+          ],
           "answer": "humanly",
           "explanation": "Humanly: by human means."
         }
@@ -2179,30 +2884,126 @@
       "type": "matching",
       "instruction": "The prefix re-, as in reappear, can go before verbs, nouns and adjectives to mean 'again'. Tick the words below which can form words using re-.",
       "items": [
-        { "number": 1, "sentence": "arrange", "answer": "rearrange" },
-        { "number": 2, "sentence": "build", "answer": "rebuild" },
-        { "number": 3, "sentence": "consider", "answer": "reconsider" },
-        { "number": 4, "sentence": "count", "answer": "recount" },
-        { "number": 5, "sentence": "create", "answer": "recreate" },
-        { "number": 6, "sentence": "cycle", "answer": "recycle" },
-        { "number": 7, "sentence": "develop", "answer": "redevelop" },
-        { "number": 8, "sentence": "dial", "answer": "redial" },
-        { "number": 9, "sentence": "do", "answer": "redo" },
-        { "number": 10, "sentence": "fill", "answer": "refill" },
-        { "number": 11, "sentence": "fresh", "answer": "no" },
-        { "number": 12, "sentence": "heat", "answer": "reheat" },
-        { "number": 13, "sentence": "join", "answer": "rejoin" },
-        { "number": 14, "sentence": "new", "answer": "renew" },
-        { "number": 15, "sentence": "pass", "answer": "no" },
-        { "number": 16, "sentence": "print", "answer": "reprint" },
-        { "number": 17, "sentence": "produce", "answer": "reproduce" },
-        { "number": 18, "sentence": "say", "answer": "no" },
-        { "number": 19, "sentence": "think", "answer": "rethink" },
-        { "number": 20, "sentence": "train", "answer": "retrain" },
-        { "number": 21, "sentence": "trial", "answer": "retrial" },
-        { "number": 22, "sentence": "use", "answer": "reuse" },
-        { "number": 23, "sentence": "worry", "answer": "no" },
-        { "number": 24, "sentence": "write", "answer": "rewrite" }
+        {
+          "number": 1,
+          "sentence": "arrange",
+          "answer": "rearrange"
+        },
+        {
+          "number": 2,
+          "sentence": "build",
+          "answer": "rebuild"
+        },
+        {
+          "number": 3,
+          "sentence": "consider",
+          "answer": "reconsider"
+        },
+        {
+          "number": 4,
+          "sentence": "count",
+          "answer": "recount"
+        },
+        {
+          "number": 5,
+          "sentence": "create",
+          "answer": "recreate"
+        },
+        {
+          "number": 6,
+          "sentence": "cycle",
+          "answer": "recycle"
+        },
+        {
+          "number": 7,
+          "sentence": "develop",
+          "answer": "redevelop"
+        },
+        {
+          "number": 8,
+          "sentence": "dial",
+          "answer": "redial"
+        },
+        {
+          "number": 9,
+          "sentence": "do",
+          "answer": "redo"
+        },
+        {
+          "number": 10,
+          "sentence": "fill",
+          "answer": "refill"
+        },
+        {
+          "number": 11,
+          "sentence": "fresh",
+          "answer": "no"
+        },
+        {
+          "number": 12,
+          "sentence": "heat",
+          "answer": "reheat"
+        },
+        {
+          "number": 13,
+          "sentence": "join",
+          "answer": "rejoin"
+        },
+        {
+          "number": 14,
+          "sentence": "new",
+          "answer": "renew"
+        },
+        {
+          "number": 15,
+          "sentence": "pass",
+          "answer": "no"
+        },
+        {
+          "number": 16,
+          "sentence": "print",
+          "answer": "reprint"
+        },
+        {
+          "number": 17,
+          "sentence": "produce",
+          "answer": "reproduce"
+        },
+        {
+          "number": 18,
+          "sentence": "say",
+          "answer": "no"
+        },
+        {
+          "number": 19,
+          "sentence": "think",
+          "answer": "rethink"
+        },
+        {
+          "number": 20,
+          "sentence": "train",
+          "answer": "retrain"
+        },
+        {
+          "number": 21,
+          "sentence": "trial",
+          "answer": "retrial"
+        },
+        {
+          "number": 22,
+          "sentence": "use",
+          "answer": "reuse"
+        },
+        {
+          "number": 23,
+          "sentence": "worry",
+          "answer": "no"
+        },
+        {
+          "number": 24,
+          "sentence": "write",
+          "answer": "rewrite"
+        }
       ]
     },
     {

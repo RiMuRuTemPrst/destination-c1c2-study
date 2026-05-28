@@ -12,8 +12,16 @@
           "definition_en": "to carefully consider a situation, person or problem in order to make a judgment",
           "definition_vi": "đánh giá",
           "example": "It's not always easy to assess someone's suitability for a job just by talking to them.",
-          "synonyms": ["evaluate", "judge", "appraise"],
-          "collocations": ["assess the situation", "assess the damage"]
+          "synonyms": [
+            "evaluate",
+            "judge",
+            "appraise"
+          ],
+          "collocations": [
+            "assess the situation",
+            "assess the damage"
+          ],
+          "example_vi": "Không phải lúc nào cũng dễ dàng đánh giá sự phù hợp của ai đó cho một công việc chỉ qua việc trò chuyện với họ."
         },
         {
           "word": "assume",
@@ -21,8 +29,15 @@
           "definition_en": "to believe that something is true, even though no one has told you or even though you have no proof",
           "definition_vi": "giả định, cho là",
           "example": "I don't think you should presume that lots of people are going to help you.",
-          "synonyms": ["presume", "suppose"],
-          "collocations": ["assume responsibility", "assume the worst"]
+          "synonyms": [
+            "presume",
+            "suppose"
+          ],
+          "collocations": [
+            "assume responsibility",
+            "assume the worst"
+          ],
+          "example_vi": "Tôi không nghĩ bạn nên mặc định rằng sẽ có nhiều người giúp đỡ mình đâu."
         },
         {
           "word": "baffle",
@@ -30,8 +45,15 @@
           "definition_en": "if a problem, someone's behaviour, etc baffles you, you cannot understand it or solve it",
           "definition_vi": "làm bối rối, khó hiểu",
           "example": "Please don't baffle me with loads of technical terminology.",
-          "synonyms": ["puzzle", "perplex", "confuse"],
-          "collocations": ["completely baffle"]
+          "synonyms": [
+            "puzzle",
+            "perplex",
+            "confuse"
+          ],
+          "collocations": [
+            "completely baffle"
+          ],
+          "example_vi": "Làm ơn đừng làm tôi rối tung lên với cả mớ thuật ngữ chuyên môn đó nữa."
         },
         {
           "word": "biased",
@@ -39,8 +61,15 @@
           "definition_en": "preferring one person, thing or idea to another in a way that is unfair",
           "definition_vi": "thiên kiến, có thành kiến",
           "example": "Most newspapers are usually biased towards a certain political outlook.",
-          "synonyms": ["prejudiced", "partial"],
-          "collocations": ["biased against", "biased in favour of"]
+          "synonyms": [
+            "prejudiced",
+            "partial"
+          ],
+          "collocations": [
+            "biased against",
+            "biased in favour of"
+          ],
+          "example_vi": "Hầu hết các tờ báo thường có xu hướng thiên vị một quan điểm chính trị nhất định."
         },
         {
           "word": "concentrate",
@@ -48,8 +77,14 @@
           "definition_en": "to give all your attention to the thing you are doing",
           "definition_vi": "tập trung",
           "example": "You really have to concentrate very hard when you are doing calligraphy.",
-          "synonyms": ["focus"],
-          "collocations": ["concentrate on", "concentrate hard"]
+          "synonyms": [
+            "focus"
+          ],
+          "collocations": [
+            "concentrate on",
+            "concentrate hard"
+          ],
+          "example_vi": "Bạn thực sự phải tập trung cao độ khi viết thư pháp."
         },
         {
           "word": "consider",
@@ -57,8 +92,15 @@
           "definition_en": "to think about something carefully before making a decision or developing an opinion",
           "definition_vi": "cân nhắc, xem xét",
           "example": "I'm seriously considering asking for a pay rise tomorrow.",
-          "synonyms": ["contemplate", "ponder"],
-          "collocations": ["consider doing something", "consider the possibility"]
+          "synonyms": [
+            "contemplate",
+            "ponder"
+          ],
+          "collocations": [
+            "consider doing something",
+            "consider the possibility"
+          ],
+          "example_vi": "Tôi đang nghiêm túc cân nhắc việc xin tăng lương vào ngày mai."
         },
         {
           "word": "contemplate",
@@ -66,8 +108,14 @@
           "definition_en": "to consider doing something in the future",
           "definition_vi": "dự tính, liệu trước",
           "example": "Let's not even contemplate the possibility of failure.",
-          "synonyms": ["consider", "intend"],
-          "collocations": ["contemplate doing"]
+          "synonyms": [
+            "consider",
+            "intend"
+          ],
+          "collocations": [
+            "contemplate doing"
+          ],
+          "example_vi": "Đừng thậm chí nghĩ đến khả năng thất bại."
         },
         {
           "word": "cynical",
@@ -75,8 +123,14 @@
           "definition_en": "believing that people are only interested in themselves and are not sincere or honest",
           "definition_vi": "hoài nghi (theo hướng tiêu cực, cho rằng ai cũng ích kỷ)",
           "example": "I'm slightly dubious about whether Sean's idea is going to work.",
-          "synonyms": ["sceptical", "distrustful"],
-          "collocations": ["cynical about"]
+          "synonyms": [
+            "sceptical",
+            "distrustful"
+          ],
+          "collocations": [
+            "cynical about"
+          ],
+          "example_vi": "Tôi hơi nghi ngờ về việc liệu ý tưởng của Sean có thành công hay không."
         },
         {
           "word": "deduce",
@@ -84,8 +138,14 @@
           "definition_en": "to know something as a result of considering the information or evidence that you have",
           "definition_vi": "suy luận",
           "example": "Looking at the damage, I would deduce that the painting will cost at least €2,000 to restore.",
-          "synonyms": ["infer", "conclude"],
-          "collocations": ["deduce from"]
+          "synonyms": [
+            "infer",
+            "conclude"
+          ],
+          "collocations": [
+            "deduce from"
+          ],
+          "example_vi": "Nhìn vào những hư hại, tôi suy luận rằng bức tranh sẽ tốn ít nhất 2.000 euro để phục chế."
         },
         {
           "word": "deliberate",
@@ -93,8 +153,15 @@
           "definition_en": "to think about or discuss something very carefully, especially before you make an important decision",
           "definition_vi": "thảo luận kỹ lưỡng, cân nhắc",
           "example": "The jury are still deliberating, but they're expected to reach a verdict soon.",
-          "synonyms": ["debate", "ponder"],
-          "collocations": ["deliberate on", "deliberate over"]
+          "synonyms": [
+            "debate",
+            "ponder"
+          ],
+          "collocations": [
+            "deliberate on",
+            "deliberate over"
+          ],
+          "example_vi": "Ban bồi thẩm vẫn đang thảo luận kỹ lưỡng, nhưng họ dự kiến sẽ sớm đưa ra phán quyết."
         },
         {
           "word": "dilemma",
@@ -102,8 +169,15 @@
           "definition_en": "a situation in which you have to make a difficult decision",
           "definition_vi": "tình thế tiến thoái lưỡng nan",
           "example": "I'm in a real dilemma because I've been invited to two parties.",
-          "synonyms": ["quandary", "predicament"],
-          "collocations": ["face a dilemma", "in a dilemma"]
+          "synonyms": [
+            "quandary",
+            "predicament"
+          ],
+          "collocations": [
+            "face a dilemma",
+            "in a dilemma"
+          ],
+          "example_vi": "Tôi đang ở trong một tình thế tiến thoái lưỡng nan thực sự vì được mời đi tận hai bữa tiệc."
         },
         {
           "word": "discriminate",
@@ -111,8 +185,15 @@
           "definition_en": "to treat someone unfairly because of their religion, race or other personal features",
           "definition_vi": "phân biệt đối xử",
           "example": "Employers are not allowed to discriminate on the basis of gender.",
-          "synonyms": ["differentiate", "distinguish"],
-          "collocations": ["discriminate against", "discriminate between"]
+          "synonyms": [
+            "differentiate",
+            "distinguish"
+          ],
+          "collocations": [
+            "discriminate against",
+            "discriminate between"
+          ],
+          "example_vi": "Chủ lao động không được phép phân biệt đối xử dựa trên giới tính."
         },
         {
           "word": "dubious",
@@ -120,8 +201,14 @@
           "definition_en": "not completely good, safe or honest; doubting that something is true or useful",
           "definition_vi": "mơ hồ, đáng ngờ, hoài nghi",
           "example": "I'm slightly dubious about whether this plan will work.",
-          "synonyms": ["doubtful", "sceptical"],
-          "collocations": ["dubious about"]
+          "synonyms": [
+            "doubtful",
+            "sceptical"
+          ],
+          "collocations": [
+            "dubious about"
+          ],
+          "example_vi": "Tôi hơi hoài nghi về việc liệu kế hoạch này có hiệu quả hay không."
         },
         {
           "word": "estimate",
@@ -129,8 +216,15 @@
           "definition_en": "to guess or calculate an amount or value by using available information",
           "definition_vi": "ước tính",
           "example": "I would estimate that the project will take six months.",
-          "synonyms": ["calculate", "guess"],
-          "collocations": ["rough estimate", "estimate the cost"]
+          "synonyms": [
+            "calculate",
+            "guess"
+          ],
+          "collocations": [
+            "rough estimate",
+            "estimate the cost"
+          ],
+          "example_vi": "Tôi ước tính rằng dự án này sẽ mất khoảng sáu tháng."
         },
         {
           "word": "faith",
@@ -138,8 +232,15 @@
           "definition_en": "strong belief in or trust of someone or something",
           "definition_vi": "niềm tin, sự tin tưởng",
           "example": "Dave said he's got complete faith in us.",
-          "synonyms": ["trust", "belief"],
-          "collocations": ["have faith in", "lose faith"]
+          "synonyms": [
+            "trust",
+            "belief"
+          ],
+          "collocations": [
+            "have faith in",
+            "lose faith"
+          ],
+          "example_vi": "Dave nói rằng anh ấy hoàn toàn tin tưởng vào chúng ta."
         },
         {
           "word": "gather",
@@ -147,8 +248,14 @@
           "definition_en": "to believe that something is true, although no one has directly told you so",
           "definition_vi": "hiểu, nắm bắt được thông tin (qua nghe ngóng)",
           "example": "I gather from your tutor that you're thinking of changing course.",
-          "synonyms": ["understand", "conclude"],
-          "collocations": ["gather that"]
+          "synonyms": [
+            "understand",
+            "conclude"
+          ],
+          "collocations": [
+            "gather that"
+          ],
+          "example_vi": "Qua lời gia sư của bạn, tôi hiểu rằng bạn đang có ý định đổi khóa học."
         },
         {
           "word": "genius",
@@ -156,8 +263,15 @@
           "definition_en": "someone who is much more intelligent or skilful than other people",
           "definition_vi": "thiên tài",
           "example": "Sarah's a genius when it comes to astrophysics.",
-          "synonyms": ["prodigy", "intellect"],
-          "collocations": ["mathematical genius", "a stroke of genius"]
+          "synonyms": [
+            "prodigy",
+            "intellect"
+          ],
+          "collocations": [
+            "mathematical genius",
+            "a stroke of genius"
+          ],
+          "example_vi": "Sarah là một thiên tài khi nói đến lĩnh vực vật lý thiên văn."
         },
         {
           "word": "grasp",
@@ -165,8 +279,15 @@
           "definition_en": "to understand something",
           "definition_vi": "thấu hiểu, nắm bắt",
           "example": "It took me quite a long time to grasp what the aim of the game was.",
-          "synonyms": ["understand", "comprehend"],
-          "collocations": ["grasp the concept", "grasp the meaning"]
+          "synonyms": [
+            "understand",
+            "comprehend"
+          ],
+          "collocations": [
+            "grasp the concept",
+            "grasp the meaning"
+          ],
+          "example_vi": "Tôi đã mất khá nhiều thời gian mới nắm bắt được mục tiêu của trò chơi này là gì."
         },
         {
           "word": "guesswork",
@@ -174,8 +295,15 @@
           "definition_en": "the process of trying to find the answer to something by guessing, or the answer found by using this method",
           "definition_vi": "sự phỏng đoán",
           "example": "You often need to use a little educated guesswork when you're starting a cryptic crossword.",
-          "synonyms": ["conjecture", "surmise"],
-          "collocations": ["pure guesswork", "educated guesswork"]
+          "synonyms": [
+            "conjecture",
+            "surmise"
+          ],
+          "collocations": [
+            "pure guesswork",
+            "educated guesswork"
+          ],
+          "example_vi": "Bạn thường cần sử dụng một chút phán đoán có cơ sở khi bắt đầu giải một trò chơi ô chữ hóc búa."
         },
         {
           "word": "hunch",
@@ -183,8 +311,15 @@
           "definition_en": "a feeling that something is true or will happen, although you do not know any definite facts about it",
           "definition_vi": "linh cảm",
           "example": "I've got a hunch that someone in this office is going to get promoted.",
-          "synonyms": ["feeling", "intuition"],
-          "collocations": ["have a hunch", "follow a hunch"]
+          "synonyms": [
+            "feeling",
+            "intuition"
+          ],
+          "collocations": [
+            "have a hunch",
+            "follow a hunch"
+          ],
+          "example_vi": "Tôi có linh tính rằng ai đó trong văn phòng này sắp được thăng chức."
         },
         {
           "word": "ideology",
@@ -192,8 +327,14 @@
           "definition_en": "a set of ideas and beliefs on which a political or economic system is based",
           "definition_vi": "hệ tư tưởng",
           "example": "Communism and capitalism are very different types of ideology.",
-          "synonyms": ["belief system", "philosophy"],
-          "collocations": ["political ideology"]
+          "synonyms": [
+            "belief system",
+            "philosophy"
+          ],
+          "collocations": [
+            "political ideology"
+          ],
+          "example_vi": "Chủ nghĩa cộng sản và chủ nghĩa tư bản là những loại hình hệ tư tưởng rất khác nhau."
         },
         {
           "word": "ingenious",
@@ -201,8 +342,14 @@
           "definition_en": "an ingenious plan, piece of equipment, etc uses new and clever ideas",
           "definition_vi": "khéo léo, tài tình",
           "example": "The only ingenious explanation I can think of is that Jenna got the dates wrong.",
-          "synonyms": ["clever", "creative"],
-          "collocations": ["ingenious solution"]
+          "synonyms": [
+            "clever",
+            "creative"
+          ],
+          "collocations": [
+            "ingenious solution"
+          ],
+          "example_vi": "Giải thích khéo léo duy nhất mà tôi có thể nghĩ ra là Jenna đã nhầm ngày tháng."
         },
         {
           "word": "inspiration",
@@ -210,8 +357,15 @@
           "definition_en": "suddenly having an idea about what you should do or create",
           "definition_vi": "nguồn cảm hứng",
           "example": "Who gave you the inspiration for the main character in the book?",
-          "synonyms": ["motivation", "stimulus"],
-          "collocations": ["draw inspiration from", "sudden inspiration"]
+          "synonyms": [
+            "motivation",
+            "stimulus"
+          ],
+          "collocations": [
+            "draw inspiration from",
+            "sudden inspiration"
+          ],
+          "example_vi": "Ai đã truyền cảm hứng cho bạn để xây dựng nhân vật chính trong cuốn sách này vậy?"
         },
         {
           "word": "intuition",
@@ -219,8 +373,13 @@
           "definition_en": "an ability to know or understand something through your feelings, rather than by considering facts or evidence",
           "definition_vi": "trực giác",
           "example": "All his intuition told him that he was involved.",
-          "synonyms": ["instinct"],
-          "collocations": ["feminine intuition"]
+          "synonyms": [
+            "instinct"
+          ],
+          "collocations": [
+            "feminine intuition"
+          ],
+          "example_vi": "Tất cả trực giác đều mách bảo anh rằng ông ta có liên quan."
         },
         {
           "word": "justify",
@@ -228,8 +387,14 @@
           "definition_en": "to show that there is a good reason for something, especially something that other people think is wrong",
           "definition_vi": "biện minh, giải trình",
           "example": "How can the government justify spending so much on the armed forces?",
-          "synonyms": ["defend", "validate"],
-          "collocations": ["justify doing something"]
+          "synonyms": [
+            "defend",
+            "validate"
+          ],
+          "collocations": [
+            "justify doing something"
+          ],
+          "example_vi": "Làm sao chính phủ có thể biện minh cho việc chi tiêu quá nhiều vào lực lượng vũ trang?"
         },
         {
           "word": "naive",
@@ -237,8 +402,14 @@
           "definition_en": "a naive person lacks experience of life and tends to trust other people and believe things too easily",
           "definition_vi": "ngây thơ",
           "example": "It's a little naive to suggest that it's possible to create a society without crime.",
-          "synonyms": ["innocent", "artless"],
-          "collocations": ["naive to think"]
+          "synonyms": [
+            "innocent",
+            "artless"
+          ],
+          "collocations": [
+            "naive to think"
+          ],
+          "example_vi": "Có chút ngây thơ khi cho rằng có thể tạo ra một xã hội không có tội phạm."
         },
         {
           "word": "notion",
@@ -246,8 +417,15 @@
           "definition_en": "an idea or belief",
           "definition_vi": "quan niệm, ý niệm",
           "example": "Paying mothers a salary to raise their children is an interesting notion.",
-          "synonyms": ["idea", "concept"],
-          "collocations": ["vague notion", "preconceived notion"]
+          "synonyms": [
+            "idea",
+            "concept"
+          ],
+          "collocations": [
+            "vague notion",
+            "preconceived notion"
+          ],
+          "example_vi": "Trả lương cho những người mẹ để nuôi dạy con cái là một ý tưởng thú vị."
         },
         {
           "word": "optimistic",
@@ -255,8 +433,15 @@
           "definition_en": "someone who is optimistic is hopeful about the future and tends to expect that good things will happen",
           "definition_vi": "lạc quan",
           "example": "Everything's going to be fine, you'll see! Don't be so optimistic.",
-          "synonyms": ["hopeful", "positive"],
-          "collocations": ["optimistic about", "guardedly optimistic"]
+          "synonyms": [
+            "hopeful",
+            "positive"
+          ],
+          "collocations": [
+            "optimistic about",
+            "guardedly optimistic"
+          ],
+          "example_vi": "Mọi chuyện rồi sẽ ổn thôi, bạn xem này! Đừng có quá lạc quan như vậy."
         },
         {
           "word": "paradox",
@@ -264,8 +449,13 @@
           "definition_en": "a person, thing or situation that is strange because they have features or qualities that do not normally exist together",
           "definition_vi": "nghịch lý",
           "example": "The fact that more people would come here if the place wasn't so crowded is a real paradox.",
-          "synonyms": ["contradiction"],
-          "collocations": ["apparent paradox"]
+          "synonyms": [
+            "contradiction"
+          ],
+          "collocations": [
+            "apparent paradox"
+          ],
+          "example_vi": "Việc có nhiều người sẽ đến đây hơn nếu nơi này không quá đông đúc là một nghịch lý thực sự."
         },
         {
           "word": "pessimistic",
@@ -273,8 +463,14 @@
           "definition_en": "someone who is pessimistic is not hopeful about the future and tends to expect that bad things will happen",
           "definition_vi": "bi quan",
           "example": "Don't be so pessimistic. Everything's going to be fine.",
-          "synonyms": ["gloomy", "negative"],
-          "collocations": ["pessimistic about"]
+          "synonyms": [
+            "gloomy",
+            "negative"
+          ],
+          "collocations": [
+            "pessimistic about"
+          ],
+          "example_vi": "Đừng bi quan quá. Mọi chuyện rồi sẽ ổn thôi."
         },
         {
           "word": "plausible",
@@ -282,8 +478,15 @@
           "definition_en": "likely to be true, honest or suitable",
           "definition_vi": "hợp lý, đáng tin",
           "example": "The only plausible explanation I can think of is that Jenna got the dates wrong.",
-          "synonyms": ["believable", "reasonable"],
-          "collocations": ["plausible explanation", "perfectly plausible"]
+          "synonyms": [
+            "believable",
+            "reasonable"
+          ],
+          "collocations": [
+            "plausible explanation",
+            "perfectly plausible"
+          ],
+          "example_vi": "Giải thích hợp lý duy nhất mà tôi có thể nghĩ ra là Jenna đã nhầm ngày tháng."
         },
         {
           "word": "ponder",
@@ -291,8 +494,15 @@
           "definition_en": "to think carefully about something for a long time before reaching a decision",
           "definition_vi": "suy ngẫm",
           "example": "If you've ever pondered the question 'Why does the universe bother to exist?'",
-          "synonyms": ["contemplate", "consider"],
-          "collocations": ["ponder on", "ponder over"]
+          "synonyms": [
+            "contemplate",
+            "consider"
+          ],
+          "collocations": [
+            "ponder on",
+            "ponder over"
+          ],
+          "example_vi": "Nếu bạn đã từng suy ngẫm về câu hỏi 'Tại sao vũ trụ lại tồn tại làm gì?'"
         },
         {
           "word": "prejudiced",
@@ -300,8 +510,14 @@
           "definition_en": "someone who is prejudiced has an unreasonable opinion or feeling about someone or something, especially hatred or fear of a particular group of people",
           "definition_vi": "có thành kiến",
           "example": "Most newspapers are usually biased towards a certain political outlook.",
-          "synonyms": ["biased", "partial"],
-          "collocations": ["prejudiced against"]
+          "synonyms": [
+            "biased",
+            "partial"
+          ],
+          "collocations": [
+            "prejudiced against"
+          ],
+          "example_vi": "Hầu hết các tờ báo thường có định kiến thiên về một quan điểm chính trị nhất định."
         },
         {
           "word": "presume",
@@ -309,8 +525,14 @@
           "definition_en": "to think that something is true because it is likely, although you cannot be certain",
           "definition_vi": "cho là, đoán chừng",
           "example": "I don't think you should presume that lots of people are going to help you.",
-          "synonyms": ["assume", "suppose"],
-          "collocations": ["presume that"]
+          "synonyms": [
+            "assume",
+            "suppose"
+          ],
+          "collocations": [
+            "presume that"
+          ],
+          "example_vi": "Tôi không nghĩ bạn nên tự phụ rằng sẽ có nhiều người giúp đỡ mình đâu."
         },
         {
           "word": "query",
@@ -318,8 +540,15 @@
           "definition_en": "a question that you ask because you want information or because you are not certain about something",
           "definition_vi": "thắc mắc, câu hỏi",
           "example": "I've got a small query about the exam syllabus.",
-          "synonyms": ["question", "enquiry"],
-          "collocations": ["raise a query", "answer a query"]
+          "synonyms": [
+            "question",
+            "enquiry"
+          ],
+          "collocations": [
+            "raise a query",
+            "answer a query"
+          ],
+          "example_vi": "Tôi có một thắc mắc nhỏ về đề cương ôn thi."
         },
         {
           "word": "reckon",
@@ -327,8 +556,14 @@
           "definition_en": "to believe that something is true",
           "definition_vi": "cho là, tính toán là",
           "example": "How long do you reckon it'll take to get to Manchester?",
-          "synonyms": ["believe", "think"],
-          "collocations": ["reckon that"]
+          "synonyms": [
+            "believe",
+            "think"
+          ],
+          "collocations": [
+            "reckon that"
+          ],
+          "example_vi": "Bạn tính xem mất bao lâu để đến được Manchester?"
         },
         {
           "word": "reflect",
@@ -336,8 +571,14 @@
           "definition_en": "to think about something carefully and seriously",
           "definition_vi": "ngẫm nghĩ, phản chiếu",
           "example": "Josie reflected on how easily she could have been killed.",
-          "synonyms": ["contemplate", "ponder"],
-          "collocations": ["reflect on"]
+          "synonyms": [
+            "contemplate",
+            "ponder"
+          ],
+          "collocations": [
+            "reflect on"
+          ],
+          "example_vi": "Josie ngẫm lại việc cô ấy đã có thể mất mạng dễ dàng như thế nào."
         },
         {
           "word": "sceptical/skeptical",
@@ -345,8 +586,14 @@
           "definition_en": "having doubts about something that other people think is true or right",
           "definition_vi": "hoài nghi",
           "example": "Harrison was extremely sceptical about the whole idea.",
-          "synonyms": ["doubtful", "dubious"],
-          "collocations": ["sceptical about"]
+          "synonyms": [
+            "doubtful",
+            "dubious"
+          ],
+          "collocations": [
+            "sceptical about"
+          ],
+          "example_vi": "Harrison cực kỳ hoài nghi về toàn bộ ý tưởng này."
         },
         {
           "word": "speculate",
@@ -354,8 +601,15 @@
           "definition_en": "to consider or discuss why something has happened",
           "definition_vi": "đầu cơ, suy đoán",
           "example": "We can only speculate on the reasons for his decision.",
-          "synonyms": ["guess", "conjecture"],
-          "collocations": ["speculate on", "speculate about"]
+          "synonyms": [
+            "guess",
+            "conjecture"
+          ],
+          "collocations": [
+            "speculate on",
+            "speculate about"
+          ],
+          "example_vi": "Chúng ta chỉ có thể suy đoán về lý do đằng sau quyết định của anh ấy."
         },
         {
           "word": "suppose",
@@ -363,8 +617,14 @@
           "definition_en": "to believe that something is probably true, based on your experience, your knowledge and any other information that you have",
           "definition_vi": "giả sử, cho là",
           "example": "I don't suppose I could borrow your lecture notes, could I?",
-          "synonyms": ["assume", "presume"],
-          "collocations": ["suppose that"]
+          "synonyms": [
+            "assume",
+            "presume"
+          ],
+          "collocations": [
+            "suppose that"
+          ],
+          "example_vi": "Tôi đoán là tôi không thể mượn vở ghi bài của bạn được đâu nhỉ?"
         }
       ]
     },
@@ -377,8 +637,15 @@
           "definition_en": "relating to education, especially in colleges and universities",
           "definition_vi": "học thuật",
           "example": "The standard curriculum doesn't give students any tuition in developing practical skills.",
-          "synonyms": ["scholarly", "educational"],
-          "collocations": ["academic performance", "academic career"]
+          "synonyms": [
+            "scholarly",
+            "educational"
+          ],
+          "collocations": [
+            "academic performance",
+            "academic career"
+          ],
+          "example_vi": "Chương trình giảng dạy chuẩn không cung cấp cho sinh viên bất kỳ sự hướng dẫn nào trong việc phát triển các kỹ năng thực tế."
         },
         {
           "word": "conscientious",
@@ -386,8 +653,14 @@
           "definition_en": "working hard and being careful to do things well",
           "definition_vi": "tận tâm, chu đáo",
           "example": "The brightest and most conscientious students are not encouraged to develop to their full potential.",
-          "synonyms": ["diligent", "industrious"],
-          "collocations": ["conscientious student"]
+          "synonyms": [
+            "diligent",
+            "industrious"
+          ],
+          "collocations": [
+            "conscientious student"
+          ],
+          "example_vi": "Những sinh viên sáng giá và tận tâm nhất lại không được khuyến khích phát triển hết tiềm năng của mình."
         },
         {
           "word": "cram",
@@ -395,8 +668,13 @@
           "definition_en": "to study hard in a short period of time before an exam",
           "definition_vi": "học nhồi nhét",
           "example": "My daughter has just spent the last month cramming for exams.",
-          "synonyms": ["swot up"],
-          "collocations": ["cram for an exam"]
+          "synonyms": [
+            "swot up"
+          ],
+          "collocations": [
+            "cram for an exam"
+          ],
+          "example_vi": "Con gái tôi vừa dành cả tháng qua để học nhồi nhét cho kỳ thi."
         },
         {
           "word": "curriculum",
@@ -404,8 +682,13 @@
           "definition_en": "the subjects that students study at a particular school or college",
           "definition_vi": "chương trình giảng dạy",
           "example": "The standard curriculum doesn't give students any tuition in developing practical skills.",
-          "synonyms": ["syllabus"],
-          "collocations": ["national curriculum"]
+          "synonyms": [
+            "syllabus"
+          ],
+          "collocations": [
+            "national curriculum"
+          ],
+          "example_vi": "Chương trình học chuẩn không dạy cho học sinh bất kỳ kỹ năng thực hành nào."
         },
         {
           "word": "distance learning",
@@ -414,7 +697,8 @@
           "definition_vi": "học từ xa",
           "example": "Distance learning is becoming increasingly popular.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Học từ xa đang ngày càng trở nên phổ biến."
         },
         {
           "word": "graduate",
@@ -422,8 +706,13 @@
           "definition_en": "someone who has a degree from a university",
           "definition_vi": "tốt nghiệp, người tốt nghiệp",
           "example": "How many students graduate from university totally unable to spell?",
-          "synonyms": ["alumnus"],
-          "collocations": ["university graduate"]
+          "synonyms": [
+            "alumnus"
+          ],
+          "collocations": [
+            "university graduate"
+          ],
+          "example_vi": "Có bao nhiêu sinh viên tốt nghiệp đại học mà hoàn toàn không biết viết đúng chính tả nhỉ?"
         },
         {
           "word": "ignorant",
@@ -431,8 +720,14 @@
           "definition_en": "not knowing something that you should know",
           "definition_vi": "thiếu hiểu biết, dốt nát",
           "example": "I was ignorant of the fact that it was a holiday.",
-          "synonyms": ["uninformed", "unaware"],
-          "collocations": ["ignorant of"]
+          "synonyms": [
+            "uninformed",
+            "unaware"
+          ],
+          "collocations": [
+            "ignorant of"
+          ],
+          "example_vi": "Tôi đã không hề biết rằng hôm đó là ngày lễ."
         },
         {
           "word": "inattentive",
@@ -440,8 +735,11 @@
           "definition_en": "not giving much attention to someone or something",
           "definition_vi": "thiếu tập trung, lơ là",
           "example": "He was sometimes inattentive in class.",
-          "synonyms": ["distracted"],
-          "collocations": []
+          "synonyms": [
+            "distracted"
+          ],
+          "collocations": [],
+          "example_vi": "Đôi khi anh ấy lơ đãng trong giờ học."
         },
         {
           "word": "intellectual",
@@ -449,8 +747,14 @@
           "definition_en": "relating to the ability to think in an intelligent way and to understand complex ideas",
           "definition_vi": "thuộc trí tuệ, người trí thức",
           "example": "He's very intellectual and enjoys discussing philosophy.",
-          "synonyms": ["mental", "intelligent"],
-          "collocations": ["intellectual property"]
+          "synonyms": [
+            "mental",
+            "intelligent"
+          ],
+          "collocations": [
+            "intellectual property"
+          ],
+          "example_vi": "Anh ấy là người rất trí thức và thích thảo luận về triết học."
         },
         {
           "word": "intelligent",
@@ -458,8 +762,14 @@
           "definition_en": "good at thinking clearly and quickly, at understanding difficult ideas and subjects, and at gaining and using knowledge",
           "definition_vi": "thông minh",
           "example": "She's a very intelligent young woman.",
-          "synonyms": ["smart", "clever"],
-          "collocations": ["highly intelligent"]
+          "synonyms": [
+            "smart",
+            "clever"
+          ],
+          "collocations": [
+            "highly intelligent"
+          ],
+          "example_vi": "Cô ấy là một phụ nữ trẻ rất thông minh."
         },
         {
           "word": "intensive",
@@ -467,8 +777,13 @@
           "definition_en": "involving a lot of teaching or training in a short period of time",
           "definition_vi": "cấp tốc, chuyên sâu",
           "example": "I did an intensive course in German.",
-          "synonyms": ["concentrated"],
-          "collocations": ["intensive course"]
+          "synonyms": [
+            "concentrated"
+          ],
+          "collocations": [
+            "intensive course"
+          ],
+          "example_vi": "Tôi đã tham gia một khóa học tiếng Đức cấp tốc."
         },
         {
           "word": "knowledgeable",
@@ -476,8 +791,14 @@
           "definition_en": "knowing a lot about many different subjects or about one particular subject",
           "definition_vi": "có kiến thức, am hiểu",
           "example": "Is the work she's been doing really going to make her more knowledgeable about her subjects?",
-          "synonyms": ["informed", "well-informed"],
-          "collocations": ["knowledgeable about"]
+          "synonyms": [
+            "informed",
+            "well-informed"
+          ],
+          "collocations": [
+            "knowledgeable about"
+          ],
+          "example_vi": "Liệu công việc cô ấy đang làm có thực sự giúp cô ấy am hiểu hơn về các môn học của mình không?"
         },
         {
           "word": "lecture",
@@ -485,8 +806,15 @@
           "definition_en": "a talk to a group of people about a particular subject, especially at a college or university",
           "definition_vi": "bài giảng, thuyết trình",
           "example": "I don't suppose I could borrow your lecture notes this weekend.",
-          "synonyms": ["presentation", "talk"],
-          "collocations": ["give a lecture", "attend a lecture"]
+          "synonyms": [
+            "presentation",
+            "talk"
+          ],
+          "collocations": [
+            "give a lecture",
+            "attend a lecture"
+          ],
+          "example_vi": "Chắc là tôi không mượn được vở ghi bài của bạn cuối tuần này đâu nhỉ."
         },
         {
           "word": "mock exam",
@@ -494,8 +822,13 @@
           "definition_en": "an examination you take for practice before an important examination",
           "definition_vi": "kỳ thi thử",
           "example": "They're just mock exams. The real GCSEs will be next year.",
-          "synonyms": ["practice exam"],
-          "collocations": ["sit a mock exam"]
+          "synonyms": [
+            "practice exam"
+          ],
+          "collocations": [
+            "sit a mock exam"
+          ],
+          "example_vi": "Đó chỉ là các kỳ thi thử thôi. Kỳ thi GCSE chính thức sẽ diễn ra vào năm tới."
         },
         {
           "word": "plagiarise",
@@ -503,8 +836,12 @@
           "definition_en": "to take someone else's work, ideas or words and use them as if they were your own",
           "definition_vi": "đạo văn",
           "example": "How many students enter university with no idea of the difference between plagiarising and making good use of ideas?",
-          "synonyms": ["copy", "pirate"],
-          "collocations": []
+          "synonyms": [
+            "copy",
+            "pirate"
+          ],
+          "collocations": [],
+          "example_vi": "Có bao nhiêu sinh viên vào đại học mà không hề biết sự khác biệt giữa đạo văn và việc sử dụng tốt các ý tưởng?"
         },
         {
           "word": "self-study",
@@ -513,7 +850,8 @@
           "definition_vi": "tự học",
           "example": "How many of them are really able to go about self-study in an efficient way?",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Có bao nhiêu người trong số họ thực sự có khả năng tự học một cách hiệu quả?"
         },
         {
           "word": "seminar",
@@ -521,8 +859,13 @@
           "definition_en": "a class at a college or university in which a small group of students discuss a subject with a teacher",
           "definition_vi": "hội thảo, buổi chuyên đề",
           "example": "We had a very interesting seminar on history today.",
-          "synonyms": ["workshop"],
-          "collocations": ["hold a seminar"]
+          "synonyms": [
+            "workshop"
+          ],
+          "collocations": [
+            "hold a seminar"
+          ],
+          "example_vi": "Hôm nay chúng tôi đã có một buổi hội thảo rất thú vị về lịch sử."
         },
         {
           "word": "special needs",
@@ -531,7 +874,8 @@
           "definition_vi": "nhu cầu đặc biệt (cho người khuyết tật)",
           "example": "The system only views the weakest learners as having special needs.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Hệ thống này chỉ xem những người học yếu nhất là đối tượng có nhu cầu đặc biệt."
         },
         {
           "word": "tuition",
@@ -539,8 +883,14 @@
           "definition_en": "the work that a teacher does when they teach a particular subject, especially to one person or a small group",
           "definition_vi": "sự giảng dạy, học phí",
           "example": "The standard curriculum doesn't give students any tuition in developing practical skills.",
-          "synonyms": ["instruction", "teaching"],
-          "collocations": ["private tuition"]
+          "synonyms": [
+            "instruction",
+            "teaching"
+          ],
+          "collocations": [
+            "private tuition"
+          ],
+          "example_vi": "Chương trình học chuẩn không cung cấp sự chỉ dẫn nào về phát triển kỹ năng thực hành cho học sinh."
         },
         {
           "word": "tutorial",
@@ -548,8 +898,11 @@
           "definition_en": "a lesson in which a small group of students discuss a subject with a tutor, especially at university or college",
           "definition_vi": "buổi hướng dẫn, thảo luận nhóm nhỏ",
           "example": "We had a tutorial on the French Revolution.",
-          "synonyms": ["lesson"],
-          "collocations": []
+          "synonyms": [
+            "lesson"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã có một buổi hướng dẫn về Cách mạng Pháp."
         }
       ]
     },
@@ -562,8 +915,12 @@
           "definition_en": "practise and improve your skills or knowledge of something",
           "definition_vi": "ôn lại, trau dồi",
           "example": "I'm going to have to brush up on my spoken German before I go to Munich.",
-          "synonyms": ["review", "polish up"],
-          "collocations": []
+          "synonyms": [
+            "review",
+            "polish up"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi sẽ phải ôn lại kỹ năng nói tiếng Đức của mình trước khi đi Munich."
         },
         {
           "word": "come (a)round (to)",
@@ -571,8 +928,11 @@
           "definition_en": "change your opinion or decision because someone has persuaded you to agree with them",
           "definition_vi": "thay đổi ý kiến (bị thuyết phục)",
           "example": "I didn't like the idea at first but I've come round to it now.",
-          "synonyms": ["be won over"],
-          "collocations": []
+          "synonyms": [
+            "be won over"
+          ],
+          "collocations": [],
+          "example_vi": "Lúc đầu tôi không thích ý tưởng này nhưng giờ tôi đã dần chấp nhận nó rồi."
         },
         {
           "word": "come up with",
@@ -580,8 +940,12 @@
           "definition_en": "think of something such as an idea or a plan",
           "definition_vi": "nghĩ ra (ý tưởng, kế hoạch)",
           "example": "Lee came up with the brilliant idea of booking a clown.",
-          "synonyms": ["devise", "invent"],
-          "collocations": []
+          "synonyms": [
+            "devise",
+            "invent"
+          ],
+          "collocations": [],
+          "example_vi": "Lee đã nảy ra ý tưởng tuyệt vời là thuê một chú hề."
         },
         {
           "word": "face up to",
@@ -589,8 +953,12 @@
           "definition_en": "accept something and try to deal with it",
           "definition_vi": "đối mặt với",
           "example": "It's time you faced up to the fact that you've got responsibilities now.",
-          "synonyms": ["confront", "accept"],
-          "collocations": []
+          "synonyms": [
+            "confront",
+            "accept"
+          ],
+          "collocations": [],
+          "example_vi": "Đã đến lúc bạn phải đối mặt với sự thật rằng bây giờ bạn đã có những trách nhiệm riêng rồi."
         },
         {
           "word": "figure out",
@@ -598,8 +966,12 @@
           "definition_en": "be able to understand something or solve a problem; understand what someone is like and why they behave in the way they do",
           "definition_vi": "hiểu ra, giải quyết được",
           "example": "It took us ages to figure out how to get everyone to the sports centre.",
-          "synonyms": ["work out", "understand"],
-          "collocations": []
+          "synonyms": [
+            "work out",
+            "understand"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã mất rất nhiều thời gian mới tìm ra cách đưa mọi người đến trung tâm thể thao."
         },
         {
           "word": "hit upon",
@@ -607,8 +979,12 @@
           "definition_en": "suddenly have an idea; discover something by chance",
           "definition_vi": "nảy ra ý tưởng, tình cờ phát hiện",
           "example": "Tell us how you hit upon such a great idea for a website.",
-          "synonyms": ["come across", "discover"],
-          "collocations": []
+          "synonyms": [
+            "come across",
+            "discover"
+          ],
+          "collocations": [],
+          "example_vi": "Hãy kể cho chúng tôi nghe bạn đã tình cờ nghĩ ra ý tưởng tuyệt vời cho trang web đó như thế nào đi."
         },
         {
           "word": "make out",
@@ -616,8 +992,12 @@
           "definition_en": "see, hear or understand someone or something with difficulty; suggest, imply",
           "definition_vi": "nhìn/nghe/hiểu một cách khó khăn; giả vờ/quả quyết",
           "example": "I was unable to make out what the speaker was saying.",
-          "synonyms": ["distinguish", "discern"],
-          "collocations": []
+          "synonyms": [
+            "distinguish",
+            "discern"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi đã không thể nghe ra được người nói đang nói gì."
         },
         {
           "word": "mull over",
@@ -625,8 +1005,12 @@
           "definition_en": "think carefully about something over a period of time",
           "definition_vi": "suy ngẫm kỹ",
           "example": "I need to mull over your offer very carefully before I make a decision.",
-          "synonyms": ["ponder", "consider"],
-          "collocations": []
+          "synonyms": [
+            "ponder",
+            "consider"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi cần cân nhắc lời đề nghị của bạn thật kỹ trước khi đưa ra quyết định."
         },
         {
           "word": "piece together",
@@ -634,8 +1018,11 @@
           "definition_en": "learn the truth about something by considering all the separate bits of information you have",
           "definition_vi": "xâu chuỗi các thông tin",
           "example": "Detectives are still trying to piece together exactly what happened that evening.",
-          "synonyms": ["reconstruct"],
-          "collocations": []
+          "synonyms": [
+            "reconstruct"
+          ],
+          "collocations": [],
+          "example_vi": "Các thám tử vẫn đang cố gắng xâu chuỗi lại chính xác những gì đã xảy ra vào tối hôm đó."
         },
         {
           "word": "puzzle out",
@@ -643,8 +1030,12 @@
           "definition_en": "solve a confusing or complicated problem by thinking carefully about it",
           "definition_vi": "giải mã, tìm ra lời giải",
           "example": "We finally puzzled out a way to get the band into the hotel.",
-          "synonyms": ["figure out", "work out"],
-          "collocations": []
+          "synonyms": [
+            "figure out",
+            "work out"
+          ],
+          "collocations": [],
+          "example_vi": "Cuối cùng chúng tôi cũng tìm ra cách để đưa ban nhạc vào khách sạn."
         },
         {
           "word": "read up (on/about)",
@@ -652,8 +1043,12 @@
           "definition_en": "get information on a particular subject by reading a lot about it",
           "definition_vi": "tìm hiểu kỹ qua việc đọc",
           "example": "I've been reading up on the history of English language teaching recently.",
-          "synonyms": ["study", "research"],
-          "collocations": []
+          "synonyms": [
+            "study",
+            "research"
+          ],
+          "collocations": [],
+          "example_vi": "Gần đây tôi đang tìm đọc thêm về lịch sử giảng dạy tiếng Anh."
         },
         {
           "word": "swot up (on)",
@@ -661,8 +1056,12 @@
           "definition_en": "study something very hard, especially for an examination",
           "definition_vi": "học gạo, ôn thi kỹ",
           "example": "There's nothing to swot up on as it's a general knowledge quiz.",
-          "synonyms": ["cram", "bone up on"],
-          "collocations": []
+          "synonyms": [
+            "cram",
+            "bone up on"
+          ],
+          "collocations": [],
+          "example_vi": "Không có gì cần phải học gạo cả vì đây là một cuộc thi đố kiến thức tổng quát thôi."
         },
         {
           "word": "take in",
@@ -670,8 +1069,12 @@
           "definition_en": "understand and remember something that you hear or read; accept something as real or true; trick someone into believing something that is not true",
           "definition_vi": "hấp thụ kiến thức; lừa gạt; chấp nhận",
           "example": "It took him a very long time to take in the fact that he'd never see her again.",
-          "synonyms": ["absorb", "deceive"],
-          "collocations": []
+          "synonyms": [
+            "absorb",
+            "deceive"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy đã mất một thời gian rất dài để chấp nhận sự thật rằng mình sẽ không bao giờ được gặp lại cô ấy nữa."
         },
         {
           "word": "think over",
@@ -679,8 +1082,12 @@
           "definition_en": "consider a problem or decision carefully",
           "definition_vi": "cân nhắc kỹ",
           "example": "I'm going to have to think this over for a while before I make a final decision.",
-          "synonyms": ["consider", "mull over"],
-          "collocations": []
+          "synonyms": [
+            "consider",
+            "mull over"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi sẽ phải suy nghĩ kỹ về việc này một thời gian trước khi đưa ra quyết định cuối cùng."
         },
         {
           "word": "think through",
@@ -688,8 +1095,11 @@
           "definition_en": "consider the facts about something in an organised and thorough way",
           "definition_vi": "suy nghĩ thông suốt, kỹ lưỡng",
           "example": "I'm not sure we've thought this through properly yet.",
-          "synonyms": ["deliberate"],
-          "collocations": []
+          "synonyms": [
+            "deliberate"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi không chắc là chúng ta đã suy tính thấu đáo việc này chưa nữa."
         },
         {
           "word": "think up",
@@ -697,8 +1107,12 @@
           "definition_en": "invent or imagine something, especially an excuse",
           "definition_vi": "bịa ra, nghĩ ra",
           "example": "I've just thought up a brilliant excuse to tell Rachel.",
-          "synonyms": ["devise", "invent"],
-          "collocations": []
+          "synonyms": [
+            "devise",
+            "invent"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi vừa mới nghĩ ra một lý do thoái thác cực hay để nói với Rachel."
         }
       ]
     },
@@ -711,8 +1125,17 @@
           "definition_en": "a written or spoken description of an event",
           "definition_vi": "bản kê khai, sự giải thích",
           "example": "Could you give an account of your whereabouts last night?",
-          "synonyms": ["report", "description"],
-          "collocations": ["account for", "take into account", "on account of", "by all accounts"]
+          "synonyms": [
+            "report",
+            "description"
+          ],
+          "collocations": [
+            "account for",
+            "take into account",
+            "on account of",
+            "by all accounts"
+          ],
+          "example_vi": "Bạn có thể giải trình về việc bạn đã ở đâu tối qua không?"
         },
         {
           "word": "associate",
@@ -720,8 +1143,14 @@
           "definition_en": "to make a connection in your mind between one person or thing and another",
           "definition_vi": "liên kết, gắn liền với",
           "example": "I think I'll always associate this song with our holiday in Majorca.",
-          "synonyms": ["link", "connect"],
-          "collocations": ["associate something with"]
+          "synonyms": [
+            "link",
+            "connect"
+          ],
+          "collocations": [
+            "associate something with"
+          ],
+          "example_vi": "Tôi nghĩ mình sẽ luôn gắn liền bài hát này với kỳ nghỉ của chúng ta ở Majorca."
         },
         {
           "word": "balance",
@@ -729,8 +1158,15 @@
           "definition_en": "a state in which different things are of equal importance or are correct in relation to each other",
           "definition_vi": "sự cân bằng",
           "example": "You have to strike a balance between logic and lateral thinking.",
-          "synonyms": ["equilibrium"],
-          "collocations": ["hang in the balance", "strike a balance", "on balance"]
+          "synonyms": [
+            "equilibrium"
+          ],
+          "collocations": [
+            "hang in the balance",
+            "strike a balance",
+            "on balance"
+          ],
+          "example_vi": "Bạn phải giữ được sự cân bằng giữa tư duy logic và tư duy sáng tạo."
         },
         {
           "word": "basis",
@@ -738,8 +1174,14 @@
           "definition_en": "the facts, ideas, or things from which something can be developed",
           "definition_vi": "nền tảng, cơ sở",
           "example": "You were hired on the basis that you would be able to work on Sundays.",
-          "synonyms": ["foundation"],
-          "collocations": ["on a daily basis", "on the basis of"]
+          "synonyms": [
+            "foundation"
+          ],
+          "collocations": [
+            "on a daily basis",
+            "on the basis of"
+          ],
+          "example_vi": "Bạn được thuê dựa trên cơ sở là bạn có thể làm việc vào các ngày Chủ nhật."
         },
         {
           "word": "belief",
@@ -747,8 +1189,16 @@
           "definition_en": "a feeling that something is true or right",
           "definition_vi": "niềm tin",
           "example": "Where did Susan's belief in reincarnation come from?",
-          "synonyms": ["faith", "conviction"],
-          "collocations": ["belief in", "contrary to popular belief", "beyond belief"]
+          "synonyms": [
+            "faith",
+            "conviction"
+          ],
+          "collocations": [
+            "belief in",
+            "contrary to popular belief",
+            "beyond belief"
+          ],
+          "example_vi": "Niềm tin vào sự luân hồi của Susan bắt nguồn từ đâu vậy?"
         },
         {
           "word": "brain",
@@ -756,8 +1206,16 @@
           "definition_en": "the organ inside your head that allows you to think and feel",
           "definition_vi": "não bộ, trí thông minh",
           "example": "Could I just pick your brains about good places to eat?",
-          "synonyms": ["mind", "intellect"],
-          "collocations": ["pick someone's brain", "rack your brain", "the brains behind"]
+          "synonyms": [
+            "mind",
+            "intellect"
+          ],
+          "collocations": [
+            "pick someone's brain",
+            "rack your brain",
+            "the brains behind"
+          ],
+          "example_vi": "Tôi có thể hỏi ý kiến bạn một chút về những địa điểm ăn uống ngon không?"
         },
         {
           "word": "conclusion",
@@ -765,8 +1223,16 @@
           "definition_en": "something that you decide after considering all the information you have",
           "definition_vi": "kết luận",
           "example": "In conclusion, I'd like to thank everyone who supported me.",
-          "synonyms": ["end", "decision"],
-          "collocations": ["come to a conclusion", "jump to conclusions", "logical conclusion"]
+          "synonyms": [
+            "end",
+            "decision"
+          ],
+          "collocations": [
+            "come to a conclusion",
+            "jump to conclusions",
+            "logical conclusion"
+          ],
+          "example_vi": "Để kết luận, tôi muốn gửi lời cảm ơn đến tất cả những người đã ủng hộ tôi."
         },
         {
           "word": "consideration",
@@ -774,8 +1240,16 @@
           "definition_en": "careful thought before making a decision",
           "definition_vi": "sự cân nhắc, sự chu đáo",
           "example": "I'll give some consideration to your proposals.",
-          "synonyms": ["thought", "attention"],
-          "collocations": ["take into consideration", "give consideration to", "out of consideration for"]
+          "synonyms": [
+            "thought",
+            "attention"
+          ],
+          "collocations": [
+            "take into consideration",
+            "give consideration to",
+            "out of consideration for"
+          ],
+          "example_vi": "Tôi sẽ xem xét các đề xuất của bạn."
         },
         {
           "word": "doubt",
@@ -783,8 +1257,15 @@
           "definition_en": "a feeling of being not sure whether something is true or right",
           "definition_vi": "sự nghi ngờ",
           "example": "These findings cast doubt on previous research.",
-          "synonyms": ["uncertainty"],
-          "collocations": ["cast doubt on", "beyond any doubt", "without a doubt"]
+          "synonyms": [
+            "uncertainty"
+          ],
+          "collocations": [
+            "cast doubt on",
+            "beyond any doubt",
+            "without a doubt"
+          ],
+          "example_vi": "Những phát hiện này làm dấy lên nghi ngờ về các nghiên cứu trước đây."
         },
         {
           "word": "dream",
@@ -792,8 +1273,15 @@
           "definition_en": "something that you want to happen very much",
           "definition_vi": "giấc mơ, ước mơ",
           "example": "Winning a cruise was a dream come true for me.",
-          "synonyms": ["ambition"],
-          "collocations": ["dream of/about", "beyond your wildest dreams", "dream come true"]
+          "synonyms": [
+            "ambition"
+          ],
+          "collocations": [
+            "dream of/about",
+            "beyond your wildest dreams",
+            "dream come true"
+          ],
+          "example_vi": "Giành được một chuyến du hành trên biển là một giấc mơ có thật đối với tôi."
         },
         {
           "word": "focus",
@@ -801,8 +1289,17 @@
           "definition_en": "the thing that people are concentrating on or the most important part of something",
           "definition_vi": "tiêu điểm, sự tập trung",
           "example": "This photo's a little out of focus.",
-          "synonyms": ["center", "concentration"],
-          "collocations": ["focus on", "in focus", "out of focus", "main focus"]
+          "synonyms": [
+            "center",
+            "concentration"
+          ],
+          "collocations": [
+            "focus on",
+            "in focus",
+            "out of focus",
+            "main focus"
+          ],
+          "example_vi": "Bức ảnh này hơi bị mờ một chút."
         },
         {
           "word": "impression",
@@ -810,8 +1307,16 @@
           "definition_en": "the opinion or feeling you have about someone or something because of the way they seem",
           "definition_vi": "ấn tượng",
           "example": "Why was I under the impression that the exam was on Thursday?",
-          "synonyms": ["feeling", "opinion"],
-          "collocations": ["give the impression", "make an impression", "under the impression"]
+          "synonyms": [
+            "feeling",
+            "opinion"
+          ],
+          "collocations": [
+            "give the impression",
+            "make an impression",
+            "under the impression"
+          ],
+          "example_vi": "Tại sao tôi lại cứ đinh ninh rằng kỳ thi diễn ra vào thứ Năm nhỉ?"
         },
         {
           "word": "mental",
@@ -819,8 +1324,16 @@
           "definition_en": "relating to the mind and thinking",
           "definition_vi": "thuộc về tinh thần, trí tuệ",
           "example": "Many mental illnesses can be cured these days.",
-          "synonyms": ["cognitive"],
-          "collocations": ["mental note", "mental arithmetic", "mental illness", "mental health"]
+          "synonyms": [
+            "cognitive"
+          ],
+          "collocations": [
+            "mental note",
+            "mental arithmetic",
+            "mental illness",
+            "mental health"
+          ],
+          "example_vi": "Ngày nay có nhiều bệnh tâm thần có thể chữa khỏi được."
         },
         {
           "word": "mind",
@@ -828,8 +1341,17 @@
           "definition_en": "your thoughts, or your ability to think",
           "definition_vi": "tâm trí, tinh thần",
           "example": "It never crossed my mind that we'd have legal problems.",
-          "synonyms": ["intellect", "brain"],
-          "collocations": ["make up your mind", "cross your mind", "bear in mind", "on your mind"]
+          "synonyms": [
+            "intellect",
+            "brain"
+          ],
+          "collocations": [
+            "make up your mind",
+            "cross your mind",
+            "bear in mind",
+            "on your mind"
+          ],
+          "example_vi": "Tôi chưa bao giờ mảy may nghĩ đến việc chúng ta sẽ gặp rắc rối về pháp lý."
         },
         {
           "word": "misapprehension",
@@ -837,8 +1359,13 @@
           "definition_en": "a wrong idea about something",
           "definition_vi": "sự hiểu lầm",
           "example": "Jim seems to be under the misapprehension that tomorrow's a holiday.",
-          "synonyms": ["misunderstanding"],
-          "collocations": ["under the misapprehension that"]
+          "synonyms": [
+            "misunderstanding"
+          ],
+          "collocations": [
+            "under the misapprehension that"
+          ],
+          "example_vi": "Jim có vẻ như đang hiểu lầm rằng ngày mai là ngày lễ."
         },
         {
           "word": "perspective",
@@ -846,8 +1373,16 @@
           "definition_en": "a way of thinking about something",
           "definition_vi": "quan điểm, góc nhìn",
           "example": "Hearing the news put my small problems into perspective.",
-          "synonyms": ["viewpoint", "outlook"],
-          "collocations": ["put into perspective", "from another perspective", "point of view"]
+          "synonyms": [
+            "viewpoint",
+            "outlook"
+          ],
+          "collocations": [
+            "put into perspective",
+            "from another perspective",
+            "point of view"
+          ],
+          "example_vi": "Khi nghe tin tức đó, tôi thấy những rắc rối nhỏ nhặt của mình chẳng đáng là bao."
         },
         {
           "word": "principle",
@@ -855,8 +1390,16 @@
           "definition_en": "a basic belief, theory, or rule that has a major influence on the way in which something is done",
           "definition_vi": "nguyên tắc",
           "example": "I'm not against animal testing in principle.",
-          "synonyms": ["rule", "belief"],
-          "collocations": ["stick to your principles", "in principle", "matter of principle"]
+          "synonyms": [
+            "rule",
+            "belief"
+          ],
+          "collocations": [
+            "stick to your principles",
+            "in principle",
+            "matter of principle"
+          ],
+          "example_vi": "Về nguyên tắc, tôi không phản đối việc thử nghiệm trên động vật."
         },
         {
           "word": "question",
@@ -864,8 +1407,17 @@
           "definition_en": "a doubt about something",
           "definition_vi": "câu hỏi, sự nghi ngờ",
           "example": "Dad said that my borrowing the car tonight was out of the question.",
-          "synonyms": ["query", "doubt"],
-          "collocations": ["beg the question", "raise the question", "out of the question", "beyond question"]
+          "synonyms": [
+            "query",
+            "doubt"
+          ],
+          "collocations": [
+            "beg the question",
+            "raise the question",
+            "out of the question",
+            "beyond question"
+          ],
+          "example_vi": "Bố nói rằng việc tôi mượn xe tối nay là điều không thể."
         },
         {
           "word": "sense",
@@ -873,8 +1425,17 @@
           "definition_en": "a feeling about something",
           "definition_vi": "giác quan, ý thức",
           "example": "Unplugging a toaster before you fix it is just common sense.",
-          "synonyms": ["feeling", "perception"],
-          "collocations": ["sense that", "make sense", "common sense", "come to your senses"]
+          "synonyms": [
+            "feeling",
+            "perception"
+          ],
+          "collocations": [
+            "sense that",
+            "make sense",
+            "common sense",
+            "come to your senses"
+          ],
+          "example_vi": "Rút phích cắm lò nướng bánh trước khi sửa nó chỉ là lẽ thường tình thôi."
         },
         {
           "word": "side",
@@ -882,8 +1443,16 @@
           "definition_en": "one of the people, groups, or countries involved in an argument",
           "definition_vi": "khía cạnh, phía",
           "example": "Look on the bright side - it's nearly the end of term.",
-          "synonyms": ["aspect", "facet"],
-          "collocations": ["side with", "take sides", "look on the bright side"]
+          "synonyms": [
+            "aspect",
+            "facet"
+          ],
+          "collocations": [
+            "side with",
+            "take sides",
+            "look on the bright side"
+          ],
+          "example_vi": "Hãy nhìn vào mặt tích cực đi - sắp kết thúc học kỳ rồi mà."
         },
         {
           "word": "straight",
@@ -891,8 +1460,15 @@
           "definition_en": "not bending or curving; honest and direct",
           "definition_vi": "thẳng, trực tiếp",
           "example": "I'll come straight to the point - you're fired!",
-          "synonyms": ["direct"],
-          "collocations": ["set the record straight", "get straight to the point", "think straight"]
+          "synonyms": [
+            "direct"
+          ],
+          "collocations": [
+            "set the record straight",
+            "get straight to the point",
+            "think straight"
+          ],
+          "example_vi": "Tôi sẽ đi thẳng vào vấn đề luôn - bạn đã bị đuổi việc!"
         },
         {
           "word": "view",
@@ -900,8 +1476,17 @@
           "definition_en": "your opinion about something",
           "definition_vi": "quan điểm, tầm nhìn",
           "example": "What's the best course of action from your point of view?",
-          "synonyms": ["opinion", "belief"],
-          "collocations": ["view something as", "take the view that", "in view of", "point of view"]
+          "synonyms": [
+            "opinion",
+            "belief"
+          ],
+          "collocations": [
+            "view something as",
+            "take the view that",
+            "in view of",
+            "point of view"
+          ],
+          "example_vi": "Theo quan điểm của bạn, đâu là phương án hành động tốt nhất?"
         }
       ]
     },
@@ -914,8 +1499,11 @@
           "definition_en": "if success goes to your head, it makes you think that you are better or more important than you really are",
           "definition_vi": "làm cho ai đó kiêu ngạo",
           "example": "Don't let success go to your head, will you?",
-          "synonyms": ["become conceited"],
-          "collocations": []
+          "synonyms": [
+            "become conceited"
+          ],
+          "collocations": [],
+          "example_vi": "Đừng để thành công làm bạn ảo tưởng về bản thân nhé?"
         },
         {
           "word": "have your wits about you",
@@ -923,8 +1511,11 @@
           "definition_en": "be able to think quickly and make sensible decisions",
           "definition_vi": "giữ được sự bình tĩnh và sáng suốt",
           "example": "You've got to have your wits about you to succeed in advertising.",
-          "synonyms": ["stay alert"],
-          "collocations": []
+          "synonyms": [
+            "stay alert"
+          ],
+          "collocations": [],
+          "example_vi": "Bạn phải cực kỳ nhạy bén để thành công trong ngành quảng cáo."
         },
         {
           "word": "in the dark (about)",
@@ -932,8 +1523,11 @@
           "definition_en": "not knowing very much about something, because other people are keeping it secret from you",
           "definition_vi": "không được biết, bị giữ kín thông tin",
           "example": "How did they manage to keep me completely in the dark about this for so long?",
-          "synonyms": ["uninformed"],
-          "collocations": []
+          "synonyms": [
+            "uninformed"
+          ],
+          "collocations": [],
+          "example_vi": "Làm sao họ có thể giấu nhẹm chuyện này với tôi trong suốt một thời gian dài như vậy?"
         },
         {
           "word": "know what's what",
@@ -941,8 +1535,11 @@
           "definition_en": "know the important facts about a situation",
           "definition_vi": "biết rõ điều gì là quan trọng, thạo việc",
           "example": "Ask Simon about the sales targets. He always knows what's what.",
-          "synonyms": ["be knowledgeable"],
-          "collocations": []
+          "synonyms": [
+            "be knowledgeable"
+          ],
+          "collocations": [],
+          "example_vi": "Hãy hỏi Simon về các mục tiêu doanh số. Anh ấy luôn là người am hiểu mọi việc."
         },
         {
           "word": "not have a leg to stand on",
@@ -950,8 +1547,11 @@
           "definition_en": "not have any way of proving that you are right about something",
           "definition_vi": "không có lý lẽ để bào chữa",
           "example": "Frankly, you're completely wrong and you haven't got a leg to stand on.",
-          "synonyms": ["be indefensible"],
-          "collocations": []
+          "synonyms": [
+            "be indefensible"
+          ],
+          "collocations": [],
+          "example_vi": "Thẳng thắn mà nói, bạn hoàn toàn sai rồi và bạn chẳng có chút lý lẽ nào để tự bào chữa cả."
         },
         {
           "word": "not see the wood for the trees",
@@ -959,8 +1559,11 @@
           "definition_en": "used for saying that someone cannot understand what is important in a situation because they are thinking too much about small details",
           "definition_vi": "không thấy được toàn cảnh vì quá chú trọng chi tiết",
           "example": "The problem with Jane is that sometimes she can't see the wood for the trees.",
-          "synonyms": ["miss the big picture"],
-          "collocations": []
+          "synonyms": [
+            "miss the big picture"
+          ],
+          "collocations": [],
+          "example_vi": "Vấn đề của Jane là đôi khi cô ấy quá sa đà vào chi tiết mà quên mất cái nhìn tổng thể."
         },
         {
           "word": "put two and two together",
@@ -968,8 +1571,11 @@
           "definition_en": "guess what is happening or what something means based on what you have seen or heard",
           "definition_vi": "cứ thế mà suy ra (dựa trên bằng chứng có sẵn)",
           "example": "No one told us that Diana was leaving, but we all put two and two together.",
-          "synonyms": ["deduce"],
-          "collocations": []
+          "synonyms": [
+            "deduce"
+          ],
+          "collocations": [],
+          "example_vi": "Không ai nói với chúng tôi rằng Diana sẽ rời đi, nhưng tất cả chúng tôi đều tự suy luận ra được."
         },
         {
           "word": "quick/slow on the uptake",
@@ -977,8 +1583,11 @@
           "definition_en": "taking a very short/long time to understand or realise something",
           "definition_vi": "nhanh/chậm hiểu",
           "example": "How did Dan take so long? He's usually quicker on the uptake than that.",
-          "synonyms": ["quick-witted"],
-          "collocations": []
+          "synonyms": [
+            "quick-witted"
+          ],
+          "collocations": [],
+          "example_vi": "Sao Dan lại mất nhiều thời gian đến vậy nhỉ? Thường thì anh ấy tiếp thu nhanh hơn thế nhiều."
         },
         {
           "word": "ring a bell",
@@ -986,8 +1595,11 @@
           "definition_en": "something that rings a bell sounds familiar to you, although you cannot remember the exact details",
           "definition_vi": "nghe quen quen",
           "example": "The name Alan Hickson rings a bell, but I can't place him.",
-          "synonyms": ["sound familiar"],
-          "collocations": []
+          "synonyms": [
+            "sound familiar"
+          ],
+          "collocations": [],
+          "example_vi": "Cái tên Alan Hickson nghe quen lắm, nhưng tôi không thể nhớ ra ông ấy là ai."
         },
         {
           "word": "round the bend",
@@ -995,8 +1607,12 @@
           "definition_en": "crazy",
           "definition_vi": "điên rồ, mất trí",
           "example": "I'm going to go round the bend if they don't turn that music down soon.",
-          "synonyms": ["mad", "insane"],
-          "collocations": []
+          "synonyms": [
+            "mad",
+            "insane"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi sắp phát điên lên mất nếu họ không vặn nhỏ nhạc xuống sớm."
         },
         {
           "word": "split hairs",
@@ -1004,8 +1620,11 @@
           "definition_en": "argue or worry about very small details or differences that are not important",
           "definition_vi": "bới lông tìm vết, so đo những điều vụn vặt",
           "example": "Stop wasting time splitting hairs and look at the big picture.",
-          "synonyms": ["quibble"],
-          "collocations": []
+          "synonyms": [
+            "quibble"
+          ],
+          "collocations": [],
+          "example_vi": "Đừng lãng phí thời gian vào việc bắt bẻ vụn vặt nữa mà hãy nhìn vào bức tranh toàn cảnh đi."
         },
         {
           "word": "take stock of",
@@ -1013,8 +1632,11 @@
           "definition_en": "spend some time thinking about the situation you are in before you decide what to do next",
           "definition_vi": "xem xét, đánh giá lại tình hình",
           "example": "Let's take stock of the situation before we make a final decision.",
-          "synonyms": ["evaluate"],
-          "collocations": []
+          "synonyms": [
+            "evaluate"
+          ],
+          "collocations": [],
+          "example_vi": "Hãy xem xét đánh giá lại tình hình trước khi chúng ta đưa ra quyết định cuối cùng."
         }
       ]
     }
@@ -1029,70 +1651,100 @@
         {
           "number": 1,
           "sentence": "Don't be so ___ / pessimistic. Everything's going to be fine, you'll see!",
-          "options": ["optimistic", "pessimistic"],
+          "options": [
+            "optimistic",
+            "pessimistic"
+          ],
           "answer": "optimistic",
           "explanation": "The speaker is encouraging a positive outlook ('Everything's going to be fine')."
         },
         {
           "number": 2,
           "sentence": "Most newspapers are usually ___ / prejudiced towards a certain political outlook.",
-          "options": ["biased", "prejudiced"],
+          "options": [
+            "biased",
+            "prejudiced"
+          ],
           "answer": "biased",
           "explanation": "'Biased' is commonly used to describe media leaning towards a specific viewpoint."
         },
         {
           "number": 3,
           "sentence": "I'm slightly ___ / cynical about whether Sean's idea is going to work.",
-          "options": ["dubious", "cynical"],
+          "options": [
+            "dubious",
+            "cynical"
+          ],
           "answer": "dubious",
           "explanation": "'Dubious' means feeling doubt or uncertainty about something."
         },
         {
           "number": 4,
           "sentence": "To suggest that it's possible to create a society without crime is a little ___ / sceptical, isn't it?",
-          "options": ["naive", "sceptical"],
+          "options": [
+            "naive",
+            "sceptical"
+          ],
           "answer": "naive",
           "explanation": "Suggesting an impossible ideal society is 'naive' (lacking experience/wisdom)."
         },
         {
           "number": 5,
           "sentence": "The only ___ / plausible explanation I can think of is that Jenna got the dates wrong.",
-          "options": ["ingenious", "plausible"],
+          "options": [
+            "ingenious",
+            "plausible"
+          ],
           "answer": "plausible",
           "explanation": "'Plausible' means believable or reasonable."
         },
         {
           "number": 6,
           "sentence": "Please don't ___ / discriminate me with loads of technical terminology. Use plain, simple English!",
-          "options": ["baffle", "discriminate"],
+          "options": [
+            "baffle",
+            "discriminate"
+          ],
           "answer": "baffle",
           "explanation": "'Baffle' means to confuse someone."
         },
         {
           "number": 7,
           "sentence": "It's not always easy to ___ / assess someone's suitability for a job just by talking to them in a short interview.",
-          "options": ["assume", "assess"],
+          "options": [
+            "assume",
+            "assess"
+          ],
           "answer": "assess",
           "explanation": "'Assess' means to evaluate or judge the quality/suitability."
         },
         {
           "number": 8,
           "sentence": "How can the government ___ / speculate spending so much on the armed forces?",
-          "options": ["justify", "speculate"],
+          "options": [
+            "justify",
+            "speculate"
+          ],
           "answer": "justify",
           "explanation": "'Justify' means to provide a good reason for something."
         },
         {
           "number": 9,
           "sentence": "Looking at the damage, I would ___ / deduce that the painting will cost at least €2,000 to restore properly.",
-          "options": ["estimate", "deduce"],
+          "options": [
+            "estimate",
+            "deduce"
+          ],
           "answer": "estimate",
           "explanation": "'Estimate' is used for guessing a cost or value."
         },
         {
           "number": 10,
           "sentence": "I don't think you should ___ / presume that lots of people are going to help you with this project.",
-          "options": ["reflect", "presume"],
+          "options": [
+            "reflect",
+            "presume"
+          ],
           "answer": "presume",
           "explanation": "'Presume' means to suppose that something is true without proof."
         }
@@ -1107,63 +1759,153 @@
         {
           "number": 1,
           "sentence": "It took me quite a long time to ___ what the aim of the game was.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "grasp",
           "explanation": "'Grasp' means to understand something difficult."
         },
         {
           "number": 2,
           "sentence": "The jury are still ___ , but they're expected to reach a verdict soon.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "deliberating",
           "explanation": "A jury 'deliberates' when they discuss a case carefully."
         },
         {
           "number": 3,
           "sentence": "I ___ from your tutor that you're thinking of changing course.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "gather",
           "explanation": "'Gather' here means to understand or hear information indirectly."
         },
         {
           "number": 4,
           "sentence": "You really have to ___ very hard when you are doing calligraphy.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "concentrate",
           "explanation": "Calligraphy requires intense focus or 'concentration'."
         },
         {
           "number": 5,
           "sentence": "I'm seriously ___ asking for a pay rise tomorrow.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "considering",
           "explanation": "'Considering' (or 'contemplating') means thinking about a future action."
         },
         {
           "number": 6,
           "sentence": "How long do you ___ it'll take to get to Manchester?",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "reckon",
           "explanation": "'Reckon' is an informal way to say 'think' or 'estimate'."
         },
         {
           "number": 7,
           "sentence": "I don't ___ I could borrow your lecture notes this weekend, could I?",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "suppose",
           "explanation": "'I don't suppose...' is a polite way to ask for something."
         },
         {
           "number": 8,
           "sentence": "If you've ever ___ the question 'Why does the universe bother to exist?', then this is the book for you.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "pondered",
           "explanation": "'Ponder' means to think deeply about something."
         },
         {
           "number": 9,
           "sentence": "Let's not even ___ the possibility of failure.",
-          "options": ["concentrate", "consider", "contemplate", "deliberate", "gather", "grasp", "ponder", "reckon", "suppose"],
+          "options": [
+            "concentrate",
+            "consider",
+            "contemplate",
+            "deliberate",
+            "gather",
+            "grasp",
+            "ponder",
+            "reckon",
+            "suppose"
+          ],
           "answer": "contemplate",
           "explanation": "'Contemplate' means to consider something as a possibility."
         }
@@ -1252,70 +1994,120 @@
         {
           "number": 1,
           "sentence": "the secondary education system also needs a major overhaul. firstly, the system only views the weakest learners as having special (1) ___.",
-          "options": ["requests", "desires", "needs", "wants"],
+          "options": [
+            "requests",
+            "desires",
+            "needs",
+            "wants"
+          ],
           "answer": "needs",
           "explanation": "'Special needs' is a standard term in education."
         },
         {
           "number": 2,
           "sentence": "The brightest and most (2) ___ students are not encouraged to develop to their full potential.",
-          "options": ["inattentive", "ignorant", "intensive", "conscientious"],
+          "options": [
+            "inattentive",
+            "ignorant",
+            "intensive",
+            "conscientious"
+          ],
           "answer": "conscientious",
           "explanation": "'Conscientious' describes hardworking and diligent students."
         },
         {
           "number": 3,
           "sentence": "My fifteen-year-old daughter, for example, has just spent the last month or so (3) ___ for exams.",
-          "options": ["cramming", "lecturing", "reading", "practising"],
+          "options": [
+            "cramming",
+            "lecturing",
+            "reading",
+            "practising"
+          ],
           "answer": "cramming",
           "explanation": "'Cramming' means studying hard just before exams."
         },
         {
           "number": 4,
           "sentence": "They're just (4) ___ exams.",
-          "options": ["false", "mock", "fake", "artificial"],
+          "options": [
+            "false",
+            "mock",
+            "fake",
+            "artificial"
+          ],
           "answer": "mock",
           "explanation": "'Mock exams' are practice exams."
         },
         {
           "number": 5,
           "sentence": "Is the work she's been doing really going to make her more (5) ___ about her subjects...",
-          "options": ["knowledgeable", "intellectual", "academic", "intelligent"],
+          "options": [
+            "knowledgeable",
+            "intellectual",
+            "academic",
+            "intelligent"
+          ],
           "answer": "knowledgeable",
           "explanation": "'Knowledgeable' means knowing a lot about a subject."
         },
         {
           "number": 6,
           "sentence": "Thirdly, the standard (6) ___ doesn't give students any...",
-          "options": ["timetable", "lecture", "seminar", "curriculum"],
+          "options": [
+            "timetable",
+            "lecture",
+            "seminar",
+            "curriculum"
+          ],
           "answer": "curriculum",
           "explanation": "'Curriculum' refers to the overall program of study."
         },
         {
           "number": 7,
           "sentence": "...doesn't give students any (7) ___ in developing practical work-related, living and social skills,",
-          "options": ["lesson", "subject", "tuition", "tutorial"],
+          "options": [
+            "lesson",
+            "subject",
+            "tuition",
+            "tutorial"
+          ],
           "answer": "tuition",
           "explanation": "'Tuition' refers to the teaching or instruction provided."
         },
         {
           "number": 8,
           "sentence": "...the difference is between (8) ___ someone else's work and making good use of someone else's ideas?",
-          "options": ["writing", "going over", "plagiarising", "repeating"],
+          "options": [
+            "writing",
+            "going over",
+            "plagiarising",
+            "repeating"
+          ],
           "answer": "plagiarising",
           "explanation": "'Plagiarising' is copying someone else's work."
         },
         {
           "number": 9,
           "sentence": "How many of them are really able to go about (9) ___ - a skill that's essential at university...",
-          "options": ["reviewing", "revision", "distance learning", "self-study"],
+          "options": [
+            "reviewing",
+            "revision",
+            "distance learning",
+            "self-study"
+          ],
           "answer": "self-study",
           "explanation": "'Self-study' is independent learning."
         },
         {
           "number": 10,
           "sentence": "Indeed, how many students (10) ___ from university totally unable to spell...",
-          "options": ["qualify", "graduate", "depart", "exit"],
+          "options": [
+            "qualify",
+            "graduate",
+            "depart",
+            "exit"
+          ],
           "answer": "graduate",
           "explanation": "Students 'graduate' from university."
         }
@@ -1894,63 +2686,90 @@
         {
           "number": 1,
           "sentence": "Doctors' handwriting is usually illegible.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "Yes",
           "explanation": "illegible = not legible"
         },
         {
           "number": 2,
           "sentence": "There's a beautiful illustration on page six.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "No",
           "explanation": "illustration is a base noun"
         },
         {
           "number": 3,
           "sentence": "People who are illiterate may need some help filling in forms.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "Yes",
           "explanation": "illiterate = not literate"
         },
         {
           "number": 4,
           "sentence": "She had an illustrious career as a local politician.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "No",
           "explanation": "illustrious is a base adjective"
         },
         {
           "number": 5,
           "sentence": "It's a totally illiberal law that's just going to restrict our freedoms further.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "Yes",
           "explanation": "illiberal = not liberal"
         },
         {
           "number": 6,
           "sentence": "Several senior politicians have resigned over the illegality of the war.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "Yes",
           "explanation": "illegality = not legality"
         },
         {
           "number": 7,
           "sentence": "Illegitimate children were given very little social recognition in the past.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "Yes",
           "explanation": "illegitimate = not legitimate"
         },
         {
           "number": 8,
           "sentence": "The magician didn't really cut his assistant in two - it was only an illusion.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "No",
           "explanation": "illusion is a base noun"
         },
         {
           "number": 9,
           "sentence": "The lights illuminated the building beautifully at night.",
-          "options": ["Yes", "No"],
+          "options": [
+            "Yes",
+            "No"
+          ],
           "answer": "No",
           "explanation": "illuminate is a base verb"
         }

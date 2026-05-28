@@ -12,8 +12,15 @@
           "definition_en": "a strong need that someone feels to keep taking a drug or doing something harmful",
           "definition_vi": "sự nghiện ngập",
           "example": "His addiction to video games is affecting his schoolwork.",
-          "synonyms": ["dependency", "habit"],
-          "collocations": ["drug addiction", "addiction to"]
+          "synonyms": [
+            "dependency",
+            "habit"
+          ],
+          "collocations": [
+            "drug addiction",
+            "addiction to"
+          ],
+          "example_vi": "Sự nghiện trò chơi điện tử của anh ấy đang ảnh hưởng đến việc học ở trường."
         },
         {
           "word": "adore",
@@ -21,8 +28,15 @@
           "definition_en": "to love someone very much and feel very proud of them",
           "definition_vi": "yêu mến, mê mẩn",
           "example": "I absolutely adore chocolate.",
-          "synonyms": ["love", "worship"],
-          "collocations": ["adore doing something", "absolutely adore"]
+          "synonyms": [
+            "love",
+            "worship"
+          ],
+          "collocations": [
+            "adore doing something",
+            "absolutely adore"
+          ],
+          "example_vi": "Tôi cực kỳ yêu thích sô-cô-la."
         },
         {
           "word": "anticipation",
@@ -30,8 +44,15 @@
           "definition_en": "a feeling of excitement about something that is going to happen",
           "definition_vi": "sự mong đợi, sự dự đoán",
           "example": "There was a lot of anticipation before the concert.",
-          "synonyms": ["expectation", "excitement"],
-          "collocations": ["in anticipation of", "filled with anticipation"]
+          "synonyms": [
+            "expectation",
+            "excitement"
+          ],
+          "collocations": [
+            "in anticipation of",
+            "filled with anticipation"
+          ],
+          "example_vi": "Có rất nhiều sự mong đợi trước buổi hòa nhạc."
         },
         {
           "word": "appeal",
@@ -39,8 +60,15 @@
           "definition_en": "to be attractive or interesting",
           "definition_vi": "lôi cuốn, hấp dẫn",
           "example": "The idea of a vacation really appeals to me.",
-          "synonyms": ["attract", "interest"],
-          "collocations": ["appeal to", "mass appeal"]
+          "synonyms": [
+            "attract",
+            "interest"
+          ],
+          "collocations": [
+            "appeal to",
+            "mass appeal"
+          ],
+          "example_vi": "Ý tưởng về một kỳ nghỉ thực sự thu hút tôi."
         },
         {
           "word": "arbitrary",
@@ -48,8 +76,15 @@
           "definition_en": "decided without any reason or plan",
           "definition_vi": "tùy hứng, độc đoán",
           "example": "The decision was completely arbitrary.",
-          "synonyms": ["random", "chance"],
-          "collocations": ["arbitrary decision", "arbitrary choice"]
+          "synonyms": [
+            "random",
+            "chance"
+          ],
+          "collocations": [
+            "arbitrary decision",
+            "arbitrary choice"
+          ],
+          "example_vi": "Quyết định này hoàn toàn mang tính tùy tiện."
         },
         {
           "word": "aspiration",
@@ -57,8 +92,15 @@
           "definition_en": "something that you hope to achieve",
           "definition_vi": "nguyện vọng, khát vọng",
           "example": "Her aspiration is to become a doctor.",
-          "synonyms": ["ambition", "goal"],
-          "collocations": ["aspiration to", "career aspirations"]
+          "synonyms": [
+            "ambition",
+            "goal"
+          ],
+          "collocations": [
+            "aspiration to",
+            "career aspirations"
+          ],
+          "example_vi": "Khát vọng của cô ấy là trở thành bác sĩ."
         },
         {
           "word": "bear",
@@ -66,8 +108,15 @@
           "definition_en": "to accept something that is difficult or unpleasant",
           "definition_vi": "chịu đựng",
           "example": "I can't bear the heat.",
-          "synonyms": ["stand", "tolerate"],
-          "collocations": ["can't bear", "bear the cost"]
+          "synonyms": [
+            "stand",
+            "tolerate"
+          ],
+          "collocations": [
+            "can't bear",
+            "bear the cost"
+          ],
+          "example_vi": "Tôi không thể chịu đựng được cái nóng."
         },
         {
           "word": "compulsory",
@@ -75,8 +124,15 @@
           "definition_en": "something that must be done because of a law or rule",
           "definition_vi": "bắt buộc",
           "example": "Math is a compulsory subject.",
-          "synonyms": ["mandatory", "obligatory"],
-          "collocations": ["compulsory education", "compulsory subject"]
+          "synonyms": [
+            "mandatory",
+            "obligatory"
+          ],
+          "collocations": [
+            "compulsory education",
+            "compulsory subject"
+          ],
+          "example_vi": "Toán là môn học bắt buộc."
         },
         {
           "word": "content",
@@ -84,8 +140,15 @@
           "definition_en": "happy and satisfied",
           "definition_vi": "hài lòng",
           "example": "She was content with her life.",
-          "synonyms": ["satisfied", "happy"],
-          "collocations": ["content with", "perfectly content"]
+          "synonyms": [
+            "satisfied",
+            "happy"
+          ],
+          "collocations": [
+            "content with",
+            "perfectly content"
+          ],
+          "example_vi": "Cô ấy hài lòng với cuộc sống của mình."
         },
         {
           "word": "craving",
@@ -93,8 +156,15 @@
           "definition_en": "a very strong feeling of wanting something",
           "definition_vi": "sự thèm muốn, khao khát",
           "example": "I had a sudden craving for ice cream.",
-          "synonyms": ["desire", "urge"],
-          "collocations": ["craving for", "sudden craving"]
+          "synonyms": [
+            "desire",
+            "urge"
+          ],
+          "collocations": [
+            "craving for",
+            "sudden craving"
+          ],
+          "example_vi": "Tôi bỗng dưng thèm ăn kem."
         },
         {
           "word": "decline",
@@ -102,8 +172,15 @@
           "definition_en": "to refuse politely to accept or to do something",
           "definition_vi": "từ chối",
           "example": "I offered to help, but she declined.",
-          "synonyms": ["refuse", "reject"],
-          "collocations": ["decline an invitation", "decline an offer"]
+          "synonyms": [
+            "refuse",
+            "reject"
+          ],
+          "collocations": [
+            "decline an invitation",
+            "decline an offer"
+          ],
+          "example_vi": "Số lượng học sinh tốt nghiệp phổ thông vào đại học đã giảm kể từ khi chính phủ áp dụng học phí."
         },
         {
           "word": "dedicated",
@@ -111,8 +188,15 @@
           "definition_en": "believing that something is very important and giving a lot of time and energy to it",
           "definition_vi": "tận tâm, cống hiến",
           "example": "She is a dedicated teacher.",
-          "synonyms": ["committed", "devoted"],
-          "collocations": ["dedicated to", "dedicated teacher"]
+          "synonyms": [
+            "committed",
+            "devoted"
+          ],
+          "collocations": [
+            "dedicated to",
+            "dedicated teacher"
+          ],
+          "example_vi": "Cô ấy là một giáo viên tận tụy."
         },
         {
           "word": "delight",
@@ -120,8 +204,15 @@
           "definition_en": "to give someone great pleasure or satisfaction",
           "definition_vi": "làm vui lòng, làm thích thú",
           "example": "The new toy delighted the children.",
-          "synonyms": ["please", "charm"],
-          "collocations": ["delight someone", "be delighted to"]
+          "synonyms": [
+            "please",
+            "charm"
+          ],
+          "collocations": [
+            "delight someone",
+            "be delighted to"
+          ],
+          "example_vi": "thích thú khi làm gì, cảm thấy rất thích thú khi làm gì, trước sự vui mừng của ai đó, với sự thích thú"
         },
         {
           "word": "desire",
@@ -129,8 +220,15 @@
           "definition_en": "a strong hope or wish",
           "definition_vi": "khao khát",
           "example": "I have a strong desire to travel.",
-          "synonyms": ["wish", "want"],
-          "collocations": ["desire to do", "have a desire for"]
+          "synonyms": [
+            "wish",
+            "want"
+          ],
+          "collocations": [
+            "desire to do",
+            "have a desire for"
+          ],
+          "example_vi": "khao khát, (không) đáng khao khát/mong muốn, khao khát (adj), mong muốn (adj), một cách (không) đáng mong muốn"
         },
         {
           "word": "devote",
@@ -138,8 +236,15 @@
           "definition_en": "to give most of your time, energy, etc. to someone or something",
           "definition_vi": "cống hiến, dành hết cho",
           "example": "He devoted his life to helping the poor.",
-          "synonyms": ["dedicate", "commit"],
-          "collocations": ["devote time to", "devote oneself to"]
+          "synonyms": [
+            "dedicate",
+            "commit"
+          ],
+          "collocations": [
+            "devote time to",
+            "devote oneself to"
+          ],
+          "example_vi": "Anh ấy đã cống hiến cả cuộc đời mình để giúp đỡ người nghèo."
         },
         {
           "word": "differentiate",
@@ -147,8 +252,15 @@
           "definition_en": "to recognize or show that two things are not the same",
           "definition_vi": "phân biệt",
           "example": "It's hard to differentiate between the two types of wine.",
-          "synonyms": ["distinguish", "discriminate"],
-          "collocations": ["differentiate between", "differentiate from"]
+          "synonyms": [
+            "distinguish",
+            "discriminate"
+          ],
+          "collocations": [
+            "differentiate between",
+            "differentiate from"
+          ],
+          "example_vi": "Thật khó để phân biệt giữa hai loại rượu vang này."
         },
         {
           "word": "envy",
@@ -156,8 +268,15 @@
           "definition_en": "to wish that you had someone else's possessions, abilities, etc.",
           "definition_vi": "đố kỵ, ghen tị",
           "example": "I envy your success.",
-          "synonyms": ["jealousy", "resentment"],
-          "collocations": ["envy someone", "green with envy"]
+          "synonyms": [
+            "jealousy",
+            "resentment"
+          ],
+          "collocations": [
+            "envy someone",
+            "green with envy"
+          ],
+          "example_vi": "ghen tị, (không) đáng ghen tị, một cách (không) đáng ghen tị, ghen tị (adj/adv)"
         },
         {
           "word": "fancy",
@@ -165,8 +284,15 @@
           "definition_en": "to want to have or do something",
           "definition_vi": "thích, muốn",
           "example": "Do you fancy going out tonight?",
-          "synonyms": ["desire", "want"],
-          "collocations": ["fancy doing", "fancy a drink"]
+          "synonyms": [
+            "desire",
+            "want"
+          ],
+          "collocations": [
+            "fancy doing",
+            "fancy a drink"
+          ],
+          "example_vi": "Bạn có muốn đi chơi tối nay không?"
         },
         {
           "word": "fascination",
@@ -174,8 +300,15 @@
           "definition_en": "the state of being very interested in something",
           "definition_vi": "sự mê hoặc, sự quyến rũ",
           "example": "He has a fascination with ancient history.",
-          "synonyms": ["interest", "attraction"],
-          "collocations": ["fascination with", "total fascination"]
+          "synonyms": [
+            "interest",
+            "attraction"
+          ],
+          "collocations": [
+            "fascination with",
+            "total fascination"
+          ],
+          "example_vi": "Anh ấy có niềm đam mê với lịch sử cổ đại."
         },
         {
           "word": "favour",
@@ -183,8 +316,15 @@
           "definition_en": "to prefer someone or something",
           "definition_vi": "ủng hộ, thiên vị",
           "example": "The teacher favours the younger students.",
-          "synonyms": ["prefer", "support"],
-          "collocations": ["in favour of", "do someone a favour"]
+          "synonyms": [
+            "prefer",
+            "support"
+          ],
+          "collocations": [
+            "in favour of",
+            "do someone a favour"
+          ],
+          "example_vi": "Giáo viên thiên vị các học sinh nhỏ tuổi hơn."
         },
         {
           "word": "greedy",
@@ -192,8 +332,15 @@
           "definition_en": "wanting more of something than you need",
           "definition_vi": "tham lam",
           "example": "Don't be greedy, leave some for the others.",
-          "synonyms": ["avaricious", "gluttonous"],
-          "collocations": ["greedy for", "greedy person"]
+          "synonyms": [
+            "avaricious",
+            "gluttonous"
+          ],
+          "collocations": [
+            "greedy for",
+            "greedy person"
+          ],
+          "example_vi": "Đừng tham lam thế, hãy để lại một ít cho những người khác nữa."
         },
         {
           "word": "impulse",
@@ -201,8 +348,15 @@
           "definition_en": "a sudden strong wish to do something",
           "definition_vi": "sự thúc đẩy, bốc đồng",
           "example": "I bought the dress on impulse.",
-          "synonyms": ["urge", "whim"],
-          "collocations": ["on impulse", "resist an impulse"]
+          "synonyms": [
+            "urge",
+            "whim"
+          ],
+          "collocations": [
+            "on impulse",
+            "resist an impulse"
+          ],
+          "example_vi": "hành động theo cảm hứng/ngẫu hứng, làm gì đó một cách ngẫu hứng, kiểm soát/kiềm chế sự bốc đồng, một sự thôi thúc làm gì"
         },
         {
           "word": "inclined",
@@ -210,8 +364,15 @@
           "definition_en": "wanting to do something or likely to do something",
           "definition_vi": "có khuynh hướng",
           "example": "I'm inclined to agree with you.",
-          "synonyms": ["disposed", "prone"],
-          "collocations": ["inclined to", "feel inclined"]
+          "synonyms": [
+            "disposed",
+            "prone"
+          ],
+          "collocations": [
+            "inclined to",
+            "feel inclined"
+          ],
+          "example_vi": "Tôi có xu hướng đồng ý với bạn."
         },
         {
           "word": "liking",
@@ -219,8 +380,15 @@
           "definition_en": "a feeling of enjoying or liking something",
           "definition_vi": "sự ưa thích",
           "example": "He has a liking for hot food.",
-          "synonyms": ["fondness", "taste"],
-          "collocations": ["liking for", "take a liking to"]
+          "synonyms": [
+            "fondness",
+            "taste"
+          ],
+          "collocations": [
+            "liking for",
+            "take a liking to"
+          ],
+          "example_vi": "Anh ấy thích đồ ăn cay nóng."
         },
         {
           "word": "mediocre",
@@ -228,8 +396,15 @@
           "definition_en": "not very good; of only average quality",
           "definition_vi": "tầm thường",
           "example": "The movie was only mediocre.",
-          "synonyms": ["average", "ordinary"],
-          "collocations": ["mediocre performance", "mediocre quality"]
+          "synonyms": [
+            "average",
+            "ordinary"
+          ],
+          "collocations": [
+            "mediocre performance",
+            "mediocre quality"
+          ],
+          "example_vi": "Bộ phim chỉ ở mức trung bình."
         },
         {
           "word": "motive",
@@ -237,8 +412,15 @@
           "definition_en": "the reason for doing something",
           "definition_vi": "động cơ",
           "example": "The police are looking for a motive.",
-          "synonyms": ["reason", "incentive"],
-          "collocations": ["motive for", "ulterior motive"]
+          "synonyms": [
+            "reason",
+            "incentive"
+          ],
+          "collocations": [
+            "motive for",
+            "ulterior motive"
+          ],
+          "example_vi": "động cơ, (mất) động lực, nhân tố (làm mất) động lực, sự (mất) động lực, gây (mất) động lực, thuộc về động lực"
         },
         {
           "word": "mundane",
@@ -246,8 +428,15 @@
           "definition_en": "ordinary and not interesting or exciting",
           "definition_vi": "tầm thường, vô vị",
           "example": "I'm tired of my mundane job.",
-          "synonyms": ["dull", "boring"],
-          "collocations": ["mundane task", "mundane existence"]
+          "synonyms": [
+            "dull",
+            "boring"
+          ],
+          "collocations": [
+            "mundane task",
+            "mundane existence"
+          ],
+          "example_vi": "Tôi mệt mỏi với công việc tẻ nhạt của mình."
         },
         {
           "word": "obsessed",
@@ -255,8 +444,14 @@
           "definition_en": "thinking about someone or something all the time",
           "definition_vi": "ám ảnh",
           "example": "She is obsessed with her weight.",
-          "synonyms": ["preoccupied", "fixated"],
-          "collocations": ["obsessed with"]
+          "synonyms": [
+            "preoccupied",
+            "fixated"
+          ],
+          "collocations": [
+            "obsessed with"
+          ],
+          "example_vi": "Cô ấy bị ám ảnh bởi cân nặng của mình."
         },
         {
           "word": "optional",
@@ -264,8 +459,15 @@
           "definition_en": "something that is optional is available but you do not have to do it or use it",
           "definition_vi": "tự chọn, không bắt buộc",
           "example": "The course is optional.",
-          "synonyms": ["voluntary", "elective"],
-          "collocations": ["optional subject", "optional extra"]
+          "synonyms": [
+            "voluntary",
+            "elective"
+          ],
+          "collocations": [
+            "optional subject",
+            "optional extra"
+          ],
+          "example_vi": "Khóa học này là tự chọn."
         },
         {
           "word": "passion",
@@ -273,8 +475,15 @@
           "definition_en": "a very strong belief or feeling about something",
           "definition_vi": "niềm đam mê",
           "example": "Music is her passion.",
-          "synonyms": ["fervour", "enthusiasm"],
-          "collocations": ["passion for", "lifelong passion"]
+          "synonyms": [
+            "fervour",
+            "enthusiasm"
+          ],
+          "collocations": [
+            "passion for",
+            "lifelong passion"
+          ],
+          "example_vi": "Âm nhạc là niềm đam mê của cô ấy."
         },
         {
           "word": "praise",
@@ -282,8 +491,15 @@
           "definition_en": "to say that you admire someone or something",
           "definition_vi": "khen ngợi",
           "example": "The teacher praised the student's work.",
-          "synonyms": ["commend", "laud"],
-          "collocations": ["praise someone for", "win praise"]
+          "synonyms": [
+            "commend",
+            "laud"
+          ],
+          "collocations": [
+            "praise someone for",
+            "win praise"
+          ],
+          "example_vi": "khen ngợi ai đó vì đã làm gì, nhận được/xứng đáng được khen ngợi, hết lời khen ngợi, để ca ngợi"
         },
         {
           "word": "resolve",
@@ -291,8 +507,15 @@
           "definition_en": "to make a firm decision to do something",
           "definition_vi": "quyết tâm",
           "example": "I resolved to work harder.",
-          "synonyms": ["determine", "decide"],
-          "collocations": ["resolve to do", "firm resolve"]
+          "synonyms": [
+            "determine",
+            "decide"
+          ],
+          "collocations": [
+            "resolve to do",
+            "firm resolve"
+          ],
+          "example_vi": "Tôi đã quyết tâm làm việc chăm chỉ hơn."
         },
         {
           "word": "sacrifice",
@@ -300,8 +523,15 @@
           "definition_en": "to give up something important in order to get something else",
           "definition_vi": "hy sinh",
           "example": "He sacrificed his career for his family.",
-          "synonyms": ["surrender", "forgo"],
-          "collocations": ["make a sacrifice", "sacrifice something for"]
+          "synonyms": [
+            "surrender",
+            "forgo"
+          ],
+          "collocations": [
+            "make a sacrifice",
+            "sacrifice something for"
+          ],
+          "example_vi": "Anh ấy đã hy sinh sự nghiệp vì gia đình mình."
         },
         {
           "word": "strive",
@@ -309,8 +539,15 @@
           "definition_en": "to make a great effort to achieve something",
           "definition_vi": "phấn đấu, cố gắng",
           "example": "We must strive for better results.",
-          "synonyms": ["endeavour", "try"],
-          "collocations": ["strive for", "strive to do"]
+          "synonyms": [
+            "endeavour",
+            "try"
+          ],
+          "collocations": [
+            "strive for",
+            "strive to do"
+          ],
+          "example_vi": "Chúng ta phải phấn đấu để có kết quả tốt hơn."
         },
         {
           "word": "taste",
@@ -318,8 +555,15 @@
           "definition_en": "the kind of things that you like",
           "definition_vi": "sở thích, gu",
           "example": "She has very good taste in clothes.",
-          "synonyms": ["preference", "liking"],
-          "collocations": ["taste in", "acquired taste"]
+          "synonyms": [
+            "preference",
+            "liking"
+          ],
+          "collocations": [
+            "taste in",
+            "acquired taste"
+          ],
+          "example_vi": "bắt đầu thích/có sở thích về, có gu thẩm mỹ tốt/tệ, vị giác, một sở thích cần thời gian để quen"
         },
         {
           "word": "tempting",
@@ -327,8 +571,15 @@
           "definition_en": "something that is tempting seems very good and you would like to have it or do it",
           "definition_vi": "hấp dẫn, cám dỗ",
           "example": "The cake looks very tempting.",
-          "synonyms": ["attractive", "inviting"],
-          "collocations": ["tempting offer", "find something tempting"]
+          "synonyms": [
+            "attractive",
+            "inviting"
+          ],
+          "collocations": [
+            "tempting offer",
+            "find something tempting"
+          ],
+          "example_vi": "Chiếc bánh trông rất hấp dẫn."
         },
         {
           "word": "urge",
@@ -336,8 +587,15 @@
           "definition_en": "to strongly suggest that someone does something",
           "definition_vi": "thúc giục",
           "example": "I urge you to reconsider.",
-          "synonyms": ["encourage", "press"],
-          "collocations": ["urge someone to", "resist the urge"]
+          "synonyms": [
+            "encourage",
+            "press"
+          ],
+          "collocations": [
+            "urge someone to",
+            "resist the urge"
+          ],
+          "example_vi": "Tôi thúc giục bạn nên cân nhắc lại."
         },
         {
           "word": "welcome",
@@ -345,8 +603,15 @@
           "definition_en": "to say that you are pleased to accept something",
           "definition_vi": "chào đón, hoan nghênh",
           "example": "We welcome your suggestions.",
-          "synonyms": ["accept", "greet"],
-          "collocations": ["welcome a suggestion", "warm welcome"]
+          "synonyms": [
+            "accept",
+            "greet"
+          ],
+          "collocations": [
+            "welcome a suggestion",
+            "warm welcome"
+          ],
+          "example_vi": "Chúng tôi hoan nghênh những ý kiến đóng góp của bạn."
         },
         {
           "word": "worthwhile",
@@ -354,8 +619,15 @@
           "definition_en": "useful, important, or good enough to be a suitable reward for the money or time spent or the effort made",
           "definition_vi": "đáng giá",
           "example": "It's a worthwhile cause.",
-          "synonyms": ["valuable", "beneficial"],
-          "collocations": ["worthwhile activity", "worthwhile project"]
+          "synonyms": [
+            "valuable",
+            "beneficial"
+          ],
+          "collocations": [
+            "worthwhile activity",
+            "worthwhile project"
+          ],
+          "example_vi": "Đó là một mục tiêu xứng đáng."
         },
         {
           "word": "yearn",
@@ -363,8 +635,15 @@
           "definition_en": "to want something very much, especially when it is very difficult to get",
           "definition_vi": "khao khát, mong mỏi",
           "example": "I yearn for a quiet life.",
-          "synonyms": ["long", "crave"],
-          "collocations": ["yearn for", "yearn to do"]
+          "synonyms": [
+            "long",
+            "crave"
+          ],
+          "collocations": [
+            "yearn for",
+            "yearn to do"
+          ],
+          "example_vi": "Tôi khao khát một cuộc sống yên bình."
         }
       ]
     },
@@ -377,8 +656,15 @@
           "definition_en": "very interesting and keeping your attention completely",
           "definition_vi": "hấp dẫn, cuốn hút",
           "example": "I found the book completely absorbing.",
-          "synonyms": ["captivating", "fascinating"],
-          "collocations": ["absorbing book", "completely absorbing"]
+          "synonyms": [
+            "captivating",
+            "fascinating"
+          ],
+          "collocations": [
+            "absorbing book",
+            "completely absorbing"
+          ],
+          "example_vi": "Tôi thấy cuốn sách này hoàn toàn lôi cuốn."
         },
         {
           "word": "casual",
@@ -386,8 +672,15 @@
           "definition_en": "relaxed and not formal",
           "definition_vi": "bình thường, không trịnh trọng",
           "example": "He was wearing casual clothes.",
-          "synonyms": ["informal", "relaxed"],
-          "collocations": ["casual clothes", "casual atmosphere"]
+          "synonyms": [
+            "informal",
+            "relaxed"
+          ],
+          "collocations": [
+            "casual clothes",
+            "casual atmosphere"
+          ],
+          "example_vi": "Anh ấy đang mặc quần áo bình thường."
         },
         {
           "word": "exhilarating",
@@ -395,8 +688,15 @@
           "definition_en": "making you feel extremely happy and excited",
           "definition_vi": "làm phấn chấn, hồ hởi",
           "example": "Skiing is an exhilarating experience.",
-          "synonyms": ["thrilling", "exciting"],
-          "collocations": ["exhilarating experience", "exhilarating ride"]
+          "synonyms": [
+            "thrilling",
+            "exciting"
+          ],
+          "collocations": [
+            "exhilarating experience",
+            "exhilarating ride"
+          ],
+          "example_vi": "Trượt tuyết là một trải nghiệm phấn khích."
         },
         {
           "word": "fatigue",
@@ -404,8 +704,15 @@
           "definition_en": "a feeling of being extremely tired",
           "definition_vi": "sự mệt mỏi, kiệt sức",
           "example": "The soldiers were suffering from fatigue.",
-          "synonyms": ["exhaustion", "tiredness"],
-          "collocations": ["mental fatigue", "chronic fatigue"]
+          "synonyms": [
+            "exhaustion",
+            "tiredness"
+          ],
+          "collocations": [
+            "mental fatigue",
+            "chronic fatigue"
+          ],
+          "example_vi": "Các binh sĩ đang bị kiệt sức."
         },
         {
           "word": "idle",
@@ -413,8 +720,15 @@
           "definition_en": "not working or being used",
           "definition_vi": "nhàn rỗi, lười biếng",
           "example": "The machines have been idle for a week.",
-          "synonyms": ["inactive", "unused"],
-          "collocations": ["idle time", "idle threat"]
+          "synonyms": [
+            "inactive",
+            "unused"
+          ],
+          "collocations": [
+            "idle time",
+            "idle threat"
+          ],
+          "example_vi": "Các máy móc đã để không trong một tuần qua."
         },
         {
           "word": "indulge",
@@ -422,8 +736,15 @@
           "definition_en": "to allow yourself to have or do something that you enjoy",
           "definition_vi": "nuông chiều, tận hưởng",
           "example": "Go on, indulge yourself!",
-          "synonyms": ["pamper", "gratify"],
-          "collocations": ["indulge in", "indulge oneself"]
+          "synonyms": [
+            "pamper",
+            "gratify"
+          ],
+          "collocations": [
+            "indulge in",
+            "indulge oneself"
+          ],
+          "example_vi": "Cứ tiếp tục đi, hãy nuông chiều bản thân mình chút đi!"
         },
         {
           "word": "lifestyle",
@@ -431,8 +752,14 @@
           "definition_en": "the way that you live",
           "definition_vi": "lối sống",
           "example": "He has a very healthy lifestyle.",
-          "synonyms": ["way of life"],
-          "collocations": ["healthy lifestyle", "lifestyle choice"]
+          "synonyms": [
+            "way of life"
+          ],
+          "collocations": [
+            "healthy lifestyle",
+            "lifestyle choice"
+          ],
+          "example_vi": "Anh ấy có một lối sống rất lành mạnh."
         },
         {
           "word": "leave",
@@ -440,8 +767,15 @@
           "definition_en": "time that you are allowed to spend away from work",
           "definition_vi": "nghỉ phép",
           "example": "I'm on leave next week.",
-          "synonyms": ["holiday", "vacation"],
-          "collocations": ["on leave", "annual leave"]
+          "synonyms": [
+            "holiday",
+            "vacation"
+          ],
+          "collocations": [
+            "on leave",
+            "annual leave"
+          ],
+          "example_vi": "Tuần tới tôi được nghỉ phép."
         },
         {
           "word": "outing",
@@ -449,8 +783,15 @@
           "definition_en": "a short trip made by a group of people for pleasure",
           "definition_vi": "cuộc dã ngoại, chuyến đi chơi",
           "example": "We went on a family outing to the beach.",
-          "synonyms": ["excursion", "trip"],
-          "collocations": ["family outing", "day outing"]
+          "synonyms": [
+            "excursion",
+            "trip"
+          ],
+          "collocations": [
+            "family outing",
+            "day outing"
+          ],
+          "example_vi": "Gia đình chúng tôi đã đi dã ngoại ở bãi biển."
         },
         {
           "word": "pastime",
@@ -458,8 +799,15 @@
           "definition_en": "an activity that you enjoy doing when you are not working",
           "definition_vi": "trò giải trí, tiêu khiển",
           "example": "Reading is my favourite pastime.",
-          "synonyms": ["hobby", "recreation"],
-          "collocations": ["favourite pastime", "popular pastime"]
+          "synonyms": [
+            "hobby",
+            "recreation"
+          ],
+          "collocations": [
+            "favourite pastime",
+            "popular pastime"
+          ],
+          "example_vi": "Đọc sách là trò giải trí yêu thích của tôi."
         },
         {
           "word": "pursue",
@@ -467,8 +815,15 @@
           "definition_en": "to follow or try to achieve something over a period of time",
           "definition_vi": "theo đuổi",
           "example": "She is pursuing a career in law.",
-          "synonyms": ["follow", "seek"],
-          "collocations": ["pursue a career", "pursue a dream"]
+          "synonyms": [
+            "follow",
+            "seek"
+          ],
+          "collocations": [
+            "pursue a career",
+            "pursue a dream"
+          ],
+          "example_vi": "theo đuổi, sự theo đuổi, người theo đuổi"
         },
         {
           "word": "recreation",
@@ -476,8 +831,15 @@
           "definition_en": "activities that you do for pleasure",
           "definition_vi": "sự giải trí",
           "example": "The park is used for recreation.",
-          "synonyms": ["leisure", "amusement"],
-          "collocations": ["recreation area", "form of recreation"]
+          "synonyms": [
+            "leisure",
+            "amusement"
+          ],
+          "collocations": [
+            "recreation area",
+            "form of recreation"
+          ],
+          "example_vi": "Công viên được sử dụng để giải trí."
         },
         {
           "word": "respite",
@@ -485,8 +847,15 @@
           "definition_en": "a short period of rest from something unpleasant or difficult",
           "definition_vi": "thời gian nghỉ ngơi, tạm hoãn",
           "example": "The weekend provided a brief respite from work.",
-          "synonyms": ["break", "rest"],
-          "collocations": ["brief respite", "without respite"]
+          "synonyms": [
+            "break",
+            "rest"
+          ],
+          "collocations": [
+            "brief respite",
+            "without respite"
+          ],
+          "example_vi": "Cuối tuần mang lại một khoảng thời gian nghỉ ngơi ngắn ngủi sau công việc."
         },
         {
           "word": "sedentary",
@@ -494,8 +863,15 @@
           "definition_en": "spending a lot of time sitting down",
           "definition_vi": "ít vận động, ngồi nhiều",
           "example": "He has a sedentary job.",
-          "synonyms": ["inactive", "desk-bound"],
-          "collocations": ["sedentary lifestyle", "sedentary occupation"]
+          "synonyms": [
+            "inactive",
+            "desk-bound"
+          ],
+          "collocations": [
+            "sedentary lifestyle",
+            "sedentary occupation"
+          ],
+          "example_vi": "Anh ấy có một công việc ít vận động."
         },
         {
           "word": "socialise",
@@ -503,8 +879,15 @@
           "definition_en": "to spend time with other people in a friendly way",
           "definition_vi": "giao lưu, kết bạn",
           "example": "He likes to socialise with his colleagues.",
-          "synonyms": ["mix", "mingle"],
-          "collocations": ["socialise with", "socialise more"]
+          "synonyms": [
+            "mix",
+            "mingle"
+          ],
+          "collocations": [
+            "socialise with",
+            "socialise more"
+          ],
+          "example_vi": "Anh ấy thích giao lưu với các đồng nghiệp của mình."
         },
         {
           "word": "solitude",
@@ -512,8 +895,15 @@
           "definition_en": "the state of being alone, especially when you find this pleasant",
           "definition_vi": "sự tĩnh mịch, biệt lập",
           "example": "She enjoyed the solitude of the forest.",
-          "synonyms": ["privacy", "isolation"],
-          "collocations": ["in solitude", "peaceful solitude"]
+          "synonyms": [
+            "privacy",
+            "isolation"
+          ],
+          "collocations": [
+            "in solitude",
+            "peaceful solitude"
+          ],
+          "example_vi": "Cô ấy tận hưởng sự tĩnh lặng của khu rừng."
         },
         {
           "word": "tedious",
@@ -521,8 +911,15 @@
           "definition_en": "boring and continuing for too long",
           "definition_vi": "tẻ nhạt, chán ngắt",
           "example": "The lecture was incredibly tedious.",
-          "synonyms": ["dull", "monotonous"],
-          "collocations": ["tedious task", "tedious work"]
+          "synonyms": [
+            "dull",
+            "monotonous"
+          ],
+          "collocations": [
+            "tedious task",
+            "tedious work"
+          ],
+          "example_vi": "Bài giảng cực kỳ tẻ nhạt."
         },
         {
           "word": "trivial",
@@ -530,8 +927,15 @@
           "definition_en": "not very important, serious, or valuable",
           "definition_vi": "vụn vặt, không quan trọng",
           "example": "It was just a trivial matter.",
-          "synonyms": ["minor", "insignificant"],
-          "collocations": ["trivial detail", "trivial problem"]
+          "synonyms": [
+            "minor",
+            "insignificant"
+          ],
+          "collocations": [
+            "trivial detail",
+            "trivial problem"
+          ],
+          "example_vi": "Đó chỉ là một vấn đề nhỏ nhặt."
         },
         {
           "word": "unwind",
@@ -539,8 +943,15 @@
           "definition_en": "to relax after a period of work or tension",
           "definition_vi": "thư giãn",
           "example": "I like to unwind with a good book.",
-          "synonyms": ["relax", "de-stress"],
-          "collocations": ["unwind after work", "unwind with"]
+          "synonyms": [
+            "relax",
+            "de-stress"
+          ],
+          "collocations": [
+            "unwind after work",
+            "unwind with"
+          ],
+          "example_vi": "Tôi thích thư giãn với một cuốn sách hay."
         },
         {
           "word": "venue",
@@ -548,8 +959,15 @@
           "definition_en": "a place where an organized meeting, concert, etc. takes place",
           "definition_vi": "địa điểm tổ chức",
           "example": "The stadium is the perfect venue for the concert.",
-          "synonyms": ["location", "place"],
-          "collocations": ["concert venue", "perfect venue"]
+          "synonyms": [
+            "location",
+            "place"
+          ],
+          "collocations": [
+            "concert venue",
+            "perfect venue"
+          ],
+          "example_vi": "Sân vận động là địa điểm hoàn hảo cho buổi hòa nhạc."
         }
       ]
     },
@@ -562,8 +980,15 @@
           "definition_en": "if something centres around someone or something, they are its main subject",
           "definition_vi": "xoay quanh",
           "example": "The story centres around a young girl and her dog.",
-          "synonyms": ["revolve around", "focus on"],
-          "collocations": ["centre around someone", "centre around an idea"]
+          "synonyms": [
+            "revolve around",
+            "focus on"
+          ],
+          "collocations": [
+            "centre around someone",
+            "centre around an idea"
+          ],
+          "example_vi": "Câu chuyện xoay quanh một cô gái trẻ và chú chó của cô ấy."
         },
         {
           "word": "get into",
@@ -571,8 +996,14 @@
           "definition_en": "start enjoying something or become enthusiastic about it",
           "definition_vi": "bắt đầu thích/đam mê",
           "example": "I'm really getting into jazz these days.",
-          "synonyms": ["become interested in"],
-          "collocations": ["get into a hobby", "get into music"]
+          "synonyms": [
+            "become interested in"
+          ],
+          "collocations": [
+            "get into a hobby",
+            "get into music"
+          ],
+          "example_vi": "Dạo này tôi thực sự bắt đầu thích nhạc jazz."
         },
         {
           "word": "go in for",
@@ -580,8 +1011,15 @@
           "definition_en": "enjoy a particular thing or activity",
           "definition_vi": "thích/theo đuổi sở thích",
           "example": "I don't go in for team sports.",
-          "synonyms": ["favour", "like"],
-          "collocations": ["go in for a competition", "go in for sports"]
+          "synonyms": [
+            "favour",
+            "like"
+          ],
+          "collocations": [
+            "go in for a competition",
+            "go in for sports"
+          ],
+          "example_vi": "Tôi không thích tham gia các môn thể thao đồng đội."
         },
         {
           "word": "go off",
@@ -589,8 +1027,14 @@
           "definition_en": "stop liking someone or something",
           "definition_vi": "hết thích",
           "example": "I've gone off coffee lately.",
-          "synonyms": ["lose interest in"],
-          "collocations": ["go off something", "go off someone"]
+          "synonyms": [
+            "lose interest in"
+          ],
+          "collocations": [
+            "go off something",
+            "go off someone"
+          ],
+          "example_vi": "Gần đây tôi đã không còn thích uống cà phê nữa."
         },
         {
           "word": "grow on",
@@ -598,8 +1042,13 @@
           "definition_en": "if something or someone grows on you, you start to like them more",
           "definition_vi": "dần làm cho mình thích",
           "example": "I didn't like the song at first, but it's growing on me.",
-          "synonyms": ["become more attractive"],
-          "collocations": ["grow on someone"]
+          "synonyms": [
+            "become more attractive"
+          ],
+          "collocations": [
+            "grow on someone"
+          ],
+          "example_vi": "Lúc đầu tôi không thích bài hát đó, nhưng giờ tôi bắt đầu thích nó rồi."
         },
         {
           "word": "hang out",
@@ -607,8 +1056,15 @@
           "definition_en": "spend time in a particular place or with particular people",
           "definition_vi": "đi chơi, dành thời gian tại",
           "example": "We used to hang out at the mall.",
-          "synonyms": ["spend time", "socialise"],
-          "collocations": ["hang out with friends", "hang out at a place"]
+          "synonyms": [
+            "spend time",
+            "socialise"
+          ],
+          "collocations": [
+            "hang out with friends",
+            "hang out at a place"
+          ],
+          "example_vi": "Chúng tôi từng hay đi chơi ở trung tâm thương mại."
         },
         {
           "word": "keep up",
@@ -616,8 +1072,15 @@
           "definition_en": "continue to do something",
           "definition_vi": "duy trì, tiếp tục",
           "example": "You're doing a great job, keep up the good work!",
-          "synonyms": ["maintain", "continue"],
-          "collocations": ["keep up the pace", "keep up with"]
+          "synonyms": [
+            "maintain",
+            "continue"
+          ],
+          "collocations": [
+            "keep up the pace",
+            "keep up with"
+          ],
+          "example_vi": "Bạn đang làm rất tốt, hãy tiếp tục phát huy nhé!"
         },
         {
           "word": "laze around",
@@ -625,8 +1088,15 @@
           "definition_en": "relax and enjoy yourself, doing no work",
           "definition_vi": "nghỉ ngơi lười biếng",
           "example": "We spent the weekend lazing around the pool.",
-          "synonyms": ["idle", "relax"],
-          "collocations": ["laze around all day", "laze around the house"]
+          "synonyms": [
+            "idle",
+            "relax"
+          ],
+          "collocations": [
+            "laze around all day",
+            "laze around the house"
+          ],
+          "example_vi": "Chúng tôi dành cả cuối tuần để lười biếng quanh hồ bơi."
         },
         {
           "word": "mess about/around",
@@ -634,8 +1104,15 @@
           "definition_en": "spend time doing things in a relaxed way",
           "definition_vi": "làm việc linh tinh, chơi bời",
           "example": "Stop messing about and do your homework!",
-          "synonyms": ["fool around", "play"],
-          "collocations": ["mess about with", "mess around in the garden"]
+          "synonyms": [
+            "fool around",
+            "play"
+          ],
+          "collocations": [
+            "mess about with",
+            "mess around in the garden"
+          ],
+          "example_vi": "Đừng nghịch ngợm nữa và hãy làm bài tập về nhà đi!"
         },
         {
           "word": "pick up",
@@ -643,8 +1120,15 @@
           "definition_en": "learn a new skill or start a habit without intending to",
           "definition_vi": "học lỏm, bắt đầu một thói quen",
           "example": "I picked up a few words of Spanish while on holiday.",
-          "synonyms": ["learn", "acquire"],
-          "collocations": ["pick up a language", "pick up a skill"]
+          "synonyms": [
+            "learn",
+            "acquire"
+          ],
+          "collocations": [
+            "pick up a language",
+            "pick up a skill"
+          ],
+          "example_vi": "Nếu lượng người xem không sớm tăng lên, vở kịch có lẽ sẽ phải đóng cửa."
         },
         {
           "word": "put in",
@@ -652,8 +1136,15 @@
           "definition_en": "spend a particular amount of time or effort doing something",
           "definition_vi": "dành thời gian/công sức",
           "example": "She's put in a lot of work on this project.",
-          "synonyms": ["invest", "spend"],
-          "collocations": ["put in time", "put in effort"]
+          "synonyms": [
+            "invest",
+            "spend"
+          ],
+          "collocations": [
+            "put in time",
+            "put in effort"
+          ],
+          "example_vi": "Cô ấy đã dành rất nhiều công sức cho dự án này."
         },
         {
           "word": "seek out",
@@ -661,8 +1152,15 @@
           "definition_en": "find someone or something by looking for them in a determined way",
           "definition_vi": "tìm kiếm, săn tìm",
           "example": "I sought out the quietest spot in the park.",
-          "synonyms": ["look for", "search for"],
-          "collocations": ["seek out someone", "seek out information"]
+          "synonyms": [
+            "look for",
+            "search for"
+          ],
+          "collocations": [
+            "seek out someone",
+            "seek out information"
+          ],
+          "example_vi": "Tôi đã tìm kiếm chỗ yên tĩnh nhất trong công viên."
         },
         {
           "word": "take in",
@@ -670,8 +1168,15 @@
           "definition_en": "include something",
           "definition_vi": "bao gồm",
           "example": "The tour takes in several historic sites.",
-          "synonyms": ["include", "incorporate"],
-          "collocations": ["take in a show", "take in the sights"]
+          "synonyms": [
+            "include",
+            "incorporate"
+          ],
+          "collocations": [
+            "take in a show",
+            "take in the sights"
+          ],
+          "example_vi": "Chuyến tham quan bao gồm một vài di tích lịch sử."
         },
         {
           "word": "take off",
@@ -679,8 +1184,14 @@
           "definition_en": "have a particular amount of time away from work",
           "definition_vi": "nghỉ ngơi (khỏi công việc)",
           "example": "I'm taking two weeks off in July.",
-          "synonyms": ["take a break"],
-          "collocations": ["take a day off", "take time off"]
+          "synonyms": [
+            "take a break"
+          ],
+          "collocations": [
+            "take a day off",
+            "take time off"
+          ],
+          "example_vi": "Tôi sẽ nghỉ hai tuần vào tháng Bảy."
         },
         {
           "word": "take out",
@@ -688,8 +1199,14 @@
           "definition_en": "take someone to a place like a cinema and usually pay for them",
           "definition_vi": "mời đi chơi/đi ăn",
           "example": "He took her out for dinner.",
-          "synonyms": ["entertain"],
-          "collocations": ["take someone out", "take out for a meal"]
+          "synonyms": [
+            "entertain"
+          ],
+          "collocations": [
+            "take someone out",
+            "take out for a meal"
+          ],
+          "example_vi": "Anh ấy đã đưa cô ấy đi ăn tối."
         },
         {
           "word": "warm up",
@@ -697,8 +1214,15 @@
           "definition_en": "prepare for a sport or activity by doing gentle exercises",
           "definition_vi": "khởi động",
           "example": "It's important to warm up before you exercise.",
-          "synonyms": ["prepare", "loosen up"],
-          "collocations": ["warm up exercises", "a quick warm-up"]
+          "synonyms": [
+            "prepare",
+            "loosen up"
+          ],
+          "collocations": [
+            "warm up exercises",
+            "a quick warm-up"
+          ],
+          "example_vi": "Khởi động trước khi tập thể dục là điều quan trọng."
         }
       ]
     },
@@ -712,7 +1236,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'choice'",
           "example": "make a choice, exercise choice, have no choice, choice between, choice of, personal/parental/consumer choice, informed choice, wide choice, obvious choice",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "đưa ra lựa chọn, thực hiện quyền lựa chọn, không có sự lựa chọn nào khác, lựa chọn giữa, sự lựa chọn của, lựa chọn cá nhân/của phụ huynh/của người tiêu dùng, lựa chọn có hiểu biết, nhiều lựa chọn, lựa chọn hiển nhiên"
         },
         {
           "word": "choose",
@@ -721,7 +1246,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'choose'",
           "example": "choose from, choose between, choose sb/sth as, choose sb/sth out of, choose to do, pick and choose, nothing/little to choose between",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "chọn, đã chọn, được chọn, kén chọn"
         },
         {
           "word": "decide",
@@ -730,7 +1256,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'decide'",
           "example": "decide to do, decide against/in favour of, decide that, decide between, decide for yourself, decide on",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "quyết định làm gì, quyết định chống lại/ủng hộ, quyết định rằng, quyết định giữa, tự mình quyết định, quyết định chọn"
         },
         {
           "word": "delight",
@@ -739,7 +1266,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'delight'",
           "example": "delight in doing, take (great) delight in doing, to sb's delight, with/in delight",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "thích thú khi làm gì, cảm thấy rất thích thú khi làm gì, trước sự vui mừng của ai đó, với sự thích thú"
         },
         {
           "word": "eager",
@@ -748,7 +1276,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'eager'",
           "example": "eager to do, eager for, only too eager to do",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "háo hức làm gì, khao khát cái gì, rất sẵn lòng làm gì"
         },
         {
           "word": "free",
@@ -757,7 +1286,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'free'",
           "example": "set sb free, let sb go free, free sb from, walk free, free to do, free from, free and easy, free time",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "trả tự do cho ai đó, để ai đó đi tự do, giải phóng ai đó khỏi, được tự do/trắng án, tự do làm gì, thoát khỏi, thoải mái và dễ dàng, thời gian rảnh"
         },
         {
           "word": "impulse",
@@ -766,7 +1296,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'impulse'",
           "example": "act on impulse, do sth on impulse, control/resist an impulse, an impulse to do",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "hành động theo cảm hứng/ngẫu hứng, làm gì đó một cách ngẫu hứng, kiểm soát/kiềm chế sự bốc đồng, một sự thôi thúc làm gì"
         },
         {
           "word": "keen",
@@ -775,7 +1306,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'keen'",
           "example": "keen (for sb) to do, keen on, keen interest in",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "mong muốn (ai đó) làm gì, thích cái gì, quan tâm sâu sắc đến"
         },
         {
           "word": "leisure",
@@ -784,7 +1316,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'leisure'",
           "example": "have the leisure to do, at your leisure, leisure centre, leisure pursuits, leisure time",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "thời gian rảnh, có nhiều thời gian rảnh, thong thả/ung dung"
         },
         {
           "word": "like",
@@ -793,7 +1326,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'like'",
           "example": "like (sb) to do, like doing, like it when, just like, anything/nothing like, it's not like sb to do, like crazy/mad, like so, something like",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "muốn (ai đó) làm gì, thích làm gì, thích khi mà, giống như, không giống như chút nào, không phải phong cách của ai đó, cực kỳ/như điên, như thế này, khoảng chừng"
         },
         {
           "word": "need",
@@ -802,7 +1336,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'need'",
           "example": "need (sb) to do, need do, need doing, meet a need, have no need of, in need (of)",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "cần (ai đó) làm gì, cần làm, cần được làm, đáp ứng nhu cầu, không cần đến, đang cần (cái gì)"
         },
         {
           "word": "off",
@@ -811,7 +1346,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'off'",
           "example": "have/take/be given the day off, have/take/be given time off, off work/college, off sick",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "nghỉ/được nghỉ một ngày, nghỉ/được nghỉ một khoảng thời gian, nghỉ làm/nghỉ học, nghỉ ốm"
         },
         {
           "word": "opt",
@@ -820,7 +1356,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'opt'",
           "example": "opt for, opt to do",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "chọn cái gì, quyết định làm gì"
         },
         {
           "word": "option",
@@ -829,7 +1366,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'option'",
           "example": "have no option (but to do), consider your options, the option of doing, the option to do, keep/leave your options open",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "không có lựa chọn nào khác (ngoài việc làm gì), cân nhắc các lựa chọn, lựa chọn làm gì, quyền lựa chọn làm gì, để ngỏ các lựa chọn"
         },
         {
           "word": "play",
@@ -838,7 +1376,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'play'",
           "example": "play against/for, play at, play by yourself, play for time, play the fool, play sth by ear, at play",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "chơi, chơi lại, làm quá lên, xem nhẹ, người chơi, vui vẻ"
         },
         {
           "word": "praise",
@@ -847,7 +1386,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'praise'",
           "example": "praise sb for doing, win/earn/deserve praise, full of praise for, in praise of",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "khen ngợi ai đó vì đã làm gì, nhận được/xứng đáng được khen ngợi, hết lời khen ngợi, để ca ngợi"
         },
         {
           "word": "prefer",
@@ -856,7 +1396,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'prefer'",
           "example": "prefer sth to, prefer (sb) to do, prefer doing, would prefer (that), would prefer it if",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "thích hơn, sự ưa thích, đáng ưu tiên hơn, được ưa thích, mang tính ưu đãi, tốt nhất là"
         },
         {
           "word": "rest",
@@ -865,7 +1406,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'rest'",
           "example": "rest sth on/against, rest assured that, take/have a rest (from), get some rest, come to rest, at rest",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "nghỉ ngơi, sự bồn chồn, sự bất ổn, không yên/khó bảo, yên bình, bồn chồn/không yên"
         },
         {
           "word": "taste",
@@ -874,7 +1416,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'taste'",
           "example": "develop/have a taste for, in good/bad taste, sense of taste, acquired taste",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "bắt đầu thích/có sở thích về, có gu thẩm mỹ tốt/tệ, vị giác, một sở thích cần thời gian để quen"
         },
         {
           "word": "want",
@@ -883,7 +1426,8 @@
           "definition_vi": "Các cấu trúc và từ đi kèm với 'want'",
           "example": "want (sb) to do, want sth done, for want of",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "muốn (ai đó) làm gì, muốn cái gì được làm xong, vì thiếu cái gì"
         }
       ]
     },
@@ -896,8 +1440,13 @@
           "definition_en": "with nothing in particular to do",
           "definition_vi": "rảnh rỗi, không có việc gì làm",
           "example": "If you're at a loose end this weekend, why not come over?",
-          "synonyms": ["idle"],
-          "collocations": ["be at a loose end"]
+          "synonyms": [
+            "idle"
+          ],
+          "collocations": [
+            "be at a loose end"
+          ],
+          "example_vi": "Nếu cuối tuần này bạn rảnh rỗi không có việc gì làm, sao không ghé qua chơi?"
         },
         {
           "word": "couch potato",
@@ -905,8 +1454,13 @@
           "definition_en": "someone who spends a lot of time sitting at home watching television",
           "definition_vi": "người lười vận động, chỉ thích ngồi xem TV",
           "example": "He's become a bit of a couch potato since he bought that new TV.",
-          "synonyms": ["lazy person"],
-          "collocations": ["become a couch potato"]
+          "synonyms": [
+            "lazy person"
+          ],
+          "collocations": [
+            "become a couch potato"
+          ],
+          "example_vi": "Anh ấy đã trở thành một người lười biếng chỉ thích dán mắt vào TV kể từ khi mua chiếc TV mới đó."
         },
         {
           "word": "do sth on a whim",
@@ -914,8 +1468,13 @@
           "definition_en": "do because of a sudden feeling that you must have or do something",
           "definition_vi": "làm gì đó bộc phát/tùy hứng",
           "example": "I decided to go to Paris on a whim.",
-          "synonyms": ["on impulse"],
-          "collocations": ["on a whim"]
+          "synonyms": [
+            "on impulse"
+          ],
+          "collocations": [
+            "on a whim"
+          ],
+          "example_vi": "Tôi đã quyết định đi Paris theo một hứng thú nhất thời."
         },
         {
           "word": "have time on your hands",
@@ -923,8 +1482,13 @@
           "definition_en": "have more time available than you need",
           "definition_vi": "có quá nhiều thời gian rảnh",
           "example": "Now that the kids are at school, I have a lot of time on my hands.",
-          "synonyms": ["free time"],
-          "collocations": ["time on one's hands"]
+          "synonyms": [
+            "free time"
+          ],
+          "collocations": [
+            "time on one's hands"
+          ],
+          "example_vi": "Giờ lũ trẻ đã đi học cả rồi, tôi có rất nhiều thời gian rảnh rỗi."
         },
         {
           "word": "let your hair down",
@@ -932,8 +1496,14 @@
           "definition_en": "relax and enjoy yourself because you are in a comfortable environment",
           "definition_vi": "xõa, thư giãn hết mình",
           "example": "It's the weekend, let your hair down!",
-          "synonyms": ["unwind", "relax"],
-          "collocations": ["let one's hair down"]
+          "synonyms": [
+            "unwind",
+            "relax"
+          ],
+          "collocations": [
+            "let one's hair down"
+          ],
+          "example_vi": "Cuối tuần rồi, xõa đi nào!"
         },
         {
           "word": "life and soul of the party",
@@ -941,8 +1511,13 @@
           "definition_en": "someone who is very lively at social events",
           "definition_vi": "linh hồn của bữa tiệc",
           "example": "He's always the life and soul of the party.",
-          "synonyms": ["extrovert"],
-          "collocations": ["be the life and soul of the party"]
+          "synonyms": [
+            "extrovert"
+          ],
+          "collocations": [
+            "be the life and soul of the party"
+          ],
+          "example_vi": "Anh ấy luôn là linh hồn của bữa tiệc."
         },
         {
           "word": "put your feet up",
@@ -950,8 +1525,13 @@
           "definition_en": "sit down and relax, especially with your feet raised off the ground",
           "definition_vi": "nghỉ ngơi, thư giãn",
           "example": "Go and put your feet up for a while.",
-          "synonyms": ["rest"],
-          "collocations": ["put one's feet up"]
+          "synonyms": [
+            "rest"
+          ],
+          "collocations": [
+            "put one's feet up"
+          ],
+          "example_vi": "Đi nghỉ ngơi thư giãn một chút đi."
         },
         {
           "word": "recharge your batteries",
@@ -959,8 +1539,14 @@
           "definition_en": "rest after being very busy, so that you will be ready to start working again",
           "definition_vi": "nạp lại năng lượng",
           "example": "I need a holiday to recharge my batteries.",
-          "synonyms": ["rest", "recover"],
-          "collocations": ["recharge one's batteries"]
+          "synonyms": [
+            "rest",
+            "recover"
+          ],
+          "collocations": [
+            "recharge one's batteries"
+          ],
+          "example_vi": "Tôi cần một kỳ nghỉ để nạp lại năng lượng."
         },
         {
           "word": "set your heart on",
@@ -968,8 +1554,13 @@
           "definition_en": "decide that you want something very much",
           "definition_vi": "quyết tâm đạt được cái gì",
           "example": "She's set her heart on becoming a doctor.",
-          "synonyms": ["be determined to"],
-          "collocations": ["set one's heart on something"]
+          "synonyms": [
+            "be determined to"
+          ],
+          "collocations": [
+            "set one's heart on something"
+          ],
+          "example_vi": "Cô ấy đã hạ quyết tâm trở thành bác sĩ."
         },
         {
           "word": "variety is the spice of life",
@@ -978,7 +1569,8 @@
           "definition_vi": "thay đổi là hương vị của cuộc sống",
           "example": "I like trying new things – variety is the spice of life!",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi thích thử những điều mới lạ – sự thay đổi là gia vị của cuộc sống mà!"
         }
       ]
     },
@@ -992,7 +1584,11 @@
           "definition_vi": "Các dạng từ của 'available'",
           "example": "available, (un)availability, unavailable",
           "synonyms": [],
-          "collocations": ["(un)availability", "unavailable"]
+          "collocations": [
+            "(un)availability",
+            "unavailable"
+          ],
+          "example_vi": "có sẵn, sự (không) sẵn có, không có sẵn"
         },
         {
           "word": "choose",
@@ -1001,7 +1597,12 @@
           "definition_vi": "Các dạng từ của 'choose'",
           "example": "choose, chose, chosen, choosy",
           "synonyms": [],
-          "collocations": ["chose", "chosen", "choosy"]
+          "collocations": [
+            "chose",
+            "chosen",
+            "choosy"
+          ],
+          "example_vi": "chọn, đã chọn, được chọn, kén chọn"
         },
         {
           "word": "desire",
@@ -1010,7 +1611,13 @@
           "definition_vi": "Các dạng từ của 'desire'",
           "example": "desire, (un)desirable, desirous, desired, (un)desirably",
           "synonyms": [],
-          "collocations": ["(un)desirable", "desirous", "desired", "(un)desirably"]
+          "collocations": [
+            "(un)desirable",
+            "desirous",
+            "desired",
+            "(un)desirably"
+          ],
+          "example_vi": "khao khát, (không) đáng khao khát/mong muốn, khao khát (adj), mong muốn (adj), một cách (không) đáng mong muốn"
         },
         {
           "word": "do",
@@ -1019,7 +1626,15 @@
           "definition_vi": "Các dạng từ của 'do'",
           "example": "do, overdo, outdo, redo, undo, doing, doings",
           "synonyms": [],
-          "collocations": ["overdo", "outdo", "redo", "undo", "doing", "doings"]
+          "collocations": [
+            "overdo",
+            "outdo",
+            "redo",
+            "undo",
+            "doing",
+            "doings"
+          ],
+          "example_vi": "làm, làm quá mức, vượt trội hơn, làm lại, hoàn tác, việc đang làm, những việc đã làm"
         },
         {
           "word": "envy",
@@ -1028,7 +1643,12 @@
           "definition_vi": "Các dạng từ của 'envy'",
           "example": "envy, (un)enviable, (un)enviably, envious(ly)",
           "synonyms": [],
-          "collocations": ["(un)enviable", "(un)enviably", "envious(ly)"]
+          "collocations": [
+            "(un)enviable",
+            "(un)enviably",
+            "envious(ly)"
+          ],
+          "example_vi": "ghen tị, (không) đáng ghen tị, một cách (không) đáng ghen tị, ghen tị (adj/adv)"
         },
         {
           "word": "leisure",
@@ -1037,7 +1657,11 @@
           "definition_vi": "Các dạng từ của 'leisure'",
           "example": "leisure, leisured, leisurely",
           "synonyms": [],
-          "collocations": ["leisured", "leisurely"]
+          "collocations": [
+            "leisured",
+            "leisurely"
+          ],
+          "example_vi": "thời gian rảnh, có nhiều thời gian rảnh, thong thả/ung dung"
         },
         {
           "word": "motive",
@@ -1046,7 +1670,14 @@
           "definition_vi": "Các dạng từ của 'motive'",
           "example": "motive, (de)motivated, (de)motivator, (de)motivation, (de)motivating, motivational",
           "synonyms": [],
-          "collocations": ["(de)motivated", "(de)motivator", "(de)motivation", "(de)motivating", "motivational"]
+          "collocations": [
+            "(de)motivated",
+            "(de)motivator",
+            "(de)motivation",
+            "(de)motivating",
+            "motivational"
+          ],
+          "example_vi": "động cơ, (mất) động lực, nhân tố (làm mất) động lực, sự (mất) động lực, gây (mất) động lực, thuộc về động lực"
         },
         {
           "word": "obsess",
@@ -1055,7 +1686,12 @@
           "definition_vi": "Các dạng từ của 'obsess'",
           "example": "obsess, obsession, obsessed, obsessive(ly)",
           "synonyms": [],
-          "collocations": ["obsession", "obsessed", "obsessive(ly)"]
+          "collocations": [
+            "obsession",
+            "obsessed",
+            "obsessive(ly)"
+          ],
+          "example_vi": "ám ảnh, sự ám ảnh, bị ám ảnh, mang tính ám ảnh"
         },
         {
           "word": "play",
@@ -1064,7 +1700,14 @@
           "definition_vi": "Các dạng từ của 'play'",
           "example": "play, replay, overplay, downplay, player, playful(ly)",
           "synonyms": [],
-          "collocations": ["replay", "overplay", "downplay", "player", "playful(ly)"]
+          "collocations": [
+            "replay",
+            "overplay",
+            "downplay",
+            "player",
+            "playful(ly)"
+          ],
+          "example_vi": "chơi, chơi lại, làm quá lên, xem nhẹ, người chơi, vui vẻ"
         },
         {
           "word": "prefer",
@@ -1073,7 +1716,14 @@
           "definition_vi": "Các dạng từ của 'prefer'",
           "example": "prefer, preference, preferable, preferred, preferential, preferably",
           "synonyms": [],
-          "collocations": ["preference", "preferable", "preferred", "preferential", "preferably"]
+          "collocations": [
+            "preference",
+            "preferable",
+            "preferred",
+            "preferential",
+            "preferably"
+          ],
+          "example_vi": "thích hơn, sự ưa thích, đáng ưu tiên hơn, được ưa thích, mang tính ưu đãi, tốt nhất là"
         },
         {
           "word": "pursue",
@@ -1082,7 +1732,11 @@
           "definition_vi": "Các dạng từ của 'pursue'",
           "example": "pursue, pursuit, pursuer",
           "synonyms": [],
-          "collocations": ["pursuit", "pursuer"]
+          "collocations": [
+            "pursuit",
+            "pursuer"
+          ],
+          "example_vi": "theo đuổi, sự theo đuổi, người theo đuổi"
         },
         {
           "word": "relax",
@@ -1091,7 +1745,12 @@
           "definition_vi": "Các dạng từ của 'relax'",
           "example": "relax, relaxation, relaxing, relaxed",
           "synonyms": [],
-          "collocations": ["relaxation", "relaxing", "relaxed"]
+          "collocations": [
+            "relaxation",
+            "relaxing",
+            "relaxed"
+          ],
+          "example_vi": "thư giãn, sự thư giãn, gây thư giãn, cảm thấy thư giãn"
         },
         {
           "word": "rest",
@@ -1100,7 +1759,14 @@
           "definition_vi": "Các dạng từ của 'rest'",
           "example": "rest, restlessness, unrest, restive, restful(ly), restless(ly)",
           "synonyms": [],
-          "collocations": ["restlessness", "unrest", "restive", "restful(ly)", "restless(ly)"]
+          "collocations": [
+            "restlessness",
+            "unrest",
+            "restive",
+            "restful(ly)",
+            "restless(ly)"
+          ],
+          "example_vi": "nghỉ ngơi, sự bồn chồn, sự bất ổn, không yên/khó bảo, yên bình, bồn chồn/không yên"
         },
         {
           "word": "rhythm",
@@ -1109,7 +1775,11 @@
           "definition_vi": "Các dạng từ của 'rhythm'",
           "example": "rhythm, rhythmic(al), rhythmically",
           "synonyms": [],
-          "collocations": ["rhythmic(al)", "rhythmically"]
+          "collocations": [
+            "rhythmic(al)",
+            "rhythmically"
+          ],
+          "example_vi": "nhịp điệu, có nhịp điệu, một cách nhịp nhàng"
         },
         {
           "word": "satisfy",
@@ -1118,7 +1788,14 @@
           "definition_vi": "Các dạng từ của 'satisfy'",
           "example": "satisfy, dissatisfy, (un)satisfactory, (dis)satisfied, (un)satisfying(ly), satisfactorily",
           "synonyms": [],
-          "collocations": ["dissatisfy", "(un)satisfactory", "(dis)satisfied", "(un)satisfying(ly)", "satisfactorily"]
+          "collocations": [
+            "dissatisfy",
+            "(un)satisfactory",
+            "(dis)satisfied",
+            "(un)satisfying(ly)",
+            "satisfactorily"
+          ],
+          "example_vi": "làm hài lòng, làm không hài lòng, (không) thỏa đáng, (không) hài lòng, (không) đem lại sự thỏa mãn, một cách thỏa đáng"
         },
         {
           "word": "select",
@@ -1127,7 +1804,12 @@
           "definition_vi": "Các dạng từ của 'select'",
           "example": "select, deselect, selection, selective(ly)",
           "synonyms": [],
-          "collocations": ["deselect", "selection", "selective(ly)"]
+          "collocations": [
+            "deselect",
+            "selection",
+            "selective(ly)"
+          ],
+          "example_vi": "lựa chọn, bỏ chọn, sự lựa chọn, có chọn lọc"
         },
         {
           "word": "sport",
@@ -1136,7 +1818,14 @@
           "definition_vi": "Các dạng từ của 'sport'",
           "example": "sport, sportsman/woman/person, sportsmanship, sports, sporting, sporty",
           "synonyms": [],
-          "collocations": ["sportsman/woman/person", "sportsmanship", "sports", "sporting", "sporty"]
+          "collocations": [
+            "sportsman/woman/person",
+            "sportsmanship",
+            "sports",
+            "sporting",
+            "sporty"
+          ],
+          "example_vi": "thể thao, vận động viên nam/nữ/người, tinh thần thể thao, các môn thể thao, thuộc về thể thao, yêu thích thể thao"
         },
         {
           "word": "stimulate",
@@ -1145,7 +1834,15 @@
           "definition_vi": "Các dạng từ của 'stimulate'",
           "example": "stimulate, stimulation, stimulant, stimulus, stimuli, stimulating, stimulated",
           "synonyms": [],
-          "collocations": ["stimulation", "stimulant", "stimulus", "stimuli", "stimulating", "stimulated"]
+          "collocations": [
+            "stimulation",
+            "stimulant",
+            "stimulus",
+            "stimuli",
+            "stimulating",
+            "stimulated"
+          ],
+          "example_vi": "kích thích, sự kích thích, chất kích thích, tác nhân kích thích, gây kích thích, được kích thích"
         },
         {
           "word": "tend",
@@ -1154,7 +1851,10 @@
           "definition_vi": "Các dạng từ của 'tend'",
           "example": "tend, tendency",
           "synonyms": [],
-          "collocations": ["tendency"]
+          "collocations": [
+            "tendency"
+          ],
+          "example_vi": "có xu hướng, xu hướng"
         },
         {
           "word": "zeal",
@@ -1163,7 +1863,11 @@
           "definition_vi": "Các dạng từ của 'zeal'",
           "example": "zeal, zealot, zealous(ly)",
           "synonyms": [],
-          "collocations": ["zealot", "zealous(ly)"]
+          "collocations": [
+            "zealot",
+            "zealous(ly)"
+          ],
+          "example_vi": "sự nhiệt huyết, người cuồng tín, nhiệt huyết/hăng hái"
         }
       ]
     }
@@ -1178,84 +1882,144 @@
         {
           "number": 1,
           "sentence": "Although she would have preferred to carry on working, my mum ___ her career in order to have children.",
-          "options": ["devoted", "repealed", "sacrificed", "abolished"],
+          "options": [
+            "devoted",
+            "repealed",
+            "sacrificed",
+            "abolished"
+          ],
           "answer": "C",
           "explanation": "To 'sacrifice' a career means to give it up for something else considered more important."
         },
         {
           "number": 2,
           "sentence": "I find the offer quite ___ , but I think I'd rather study at Oxford.",
-          "options": ["tempting", "desirous", "inclined", "envious"],
+          "options": [
+            "tempting",
+            "desirous",
+            "inclined",
+            "envious"
+          ],
           "answer": "A",
           "explanation": "A 'tempting' offer is one that is attractive and makes you want to accept it."
         },
         {
           "number": 3,
           "sentence": "I don't normally like noisy clubs, but I had a sudden ___ to see what the Blue Parrot was like.",
-          "options": ["force", "motive", "pressure", "impulse"],
+          "options": [
+            "force",
+            "motive",
+            "pressure",
+            "impulse"
+          ],
           "answer": "D",
           "explanation": "An 'impulse' is a sudden strong desire to do something without thinking about the results."
         },
         {
           "number": 4,
           "sentence": "Jerry loves snowboarding so much that it's almost like a drug ___ .",
-          "options": ["passion", "obsession", "addiction", "requirement"],
+          "options": [
+            "passion",
+            "obsession",
+            "addiction",
+            "requirement"
+          ],
           "answer": "C",
           "explanation": "An 'addiction' is a strong need that someone has to have something or do something, like a drug."
         },
         {
           "number": 5,
           "sentence": "I don't want to do the course in applied statistics, but it's ___ .",
-          "options": ["compulsory", "inevitable", "bound", "indecisive"],
+          "options": [
+            "compulsory",
+            "inevitable",
+            "bound",
+            "indecisive"
+          ],
           "answer": "A",
           "explanation": "'Compulsory' means that something must be done because of a rule or law."
         },
         {
           "number": 6,
           "sentence": "Don't worry about me - I'm quite ___ to sit here and wait for you to come back.",
-          "options": ["ecstatic", "delighted", "joyful", "content"],
+          "options": [
+            "ecstatic",
+            "delighted",
+            "joyful",
+            "content"
+          ],
           "answer": "D",
           "explanation": "To be 'content' means to be happy and satisfied with what you have or with a situation."
         },
         {
           "number": 7,
           "sentence": "When I was pregnant, I often got a sudden ___ for tinned sardines.",
-          "options": ["preference", "craving", "envy", "greed"],
+          "options": [
+            "preference",
+            "craving",
+            "envy",
+            "greed"
+          ],
           "answer": "B",
           "explanation": "A 'craving' is a very strong feeling of wanting something, especially a particular type of food."
         },
         {
           "number": 8,
           "sentence": "Thank you for thinking of us, but I'm afraid we're going to have to ___ your kind invitation.",
-          "options": ["decline", "deny", "condemn", "reject"],
+          "options": [
+            "decline",
+            "deny",
+            "condemn",
+            "reject"
+          ],
           "answer": "A",
           "explanation": "To 'decline' an invitation is a formal and polite way of saying that you cannot accept it."
         },
         {
           "number": 9,
           "sentence": "I've never seen anyone so ___ to their job as Philip is.",
-          "options": ["eager", "keen", "dedicated", "interested"],
+          "options": [
+            "eager",
+            "keen",
+            "dedicated",
+            "interested"
+          ],
           "answer": "C",
           "explanation": "'Dedicated' means spending a lot of time and effort on something because you think it is important."
         },
         {
           "number": 10,
           "sentence": "Why do you have such a ___ with model railways?",
-          "options": ["desire", "fascination", "love", "preference"],
+          "options": [
+            "desire",
+            "fascination",
+            "love",
+            "preference"
+          ],
           "answer": "B",
           "explanation": "'Fascination' is the state of being very interested in something or attracted by something."
         },
         {
           "number": 11,
           "sentence": "I wish you would stop wasting so much time on computer games and do something a little more ___ .",
-          "options": ["welcome", "enviable", "feasible", "worthwhile"],
+          "options": [
+            "welcome",
+            "enviable",
+            "feasible",
+            "worthwhile"
+          ],
           "answer": "D",
           "explanation": "'Worthwhile' means useful, important, or good enough to be worth the amount of time or money that it costs."
         },
         {
           "number": 12,
           "sentence": "Olivia has always ___ to return to the country she was born in.",
-          "options": ["favoured", "yearned", "urged", "inclined"],
+          "options": [
+            "favoured",
+            "yearned",
+            "urged",
+            "inclined"
+          ],
           "answer": "B",
           "explanation": "To 'yearn' means to want something very much, especially when it is very difficult to get."
         }
@@ -1350,84 +2114,120 @@
         {
           "number": 1,
           "sentence": "Share your chocolate with your brother and don't be so ___ .",
-          "options": ["greedy", "obsessed"],
+          "options": [
+            "greedy",
+            "obsessed"
+          ],
           "answer": "greedy",
           "explanation": "'Greedy' means wanting more than you need."
         },
         {
           "number": 2,
           "sentence": "Claudia's completely ___ with Jack and doesn't talk about anything else these days.",
-          "options": ["greedy", "obsessed"],
+          "options": [
+            "greedy",
+            "obsessed"
+          ],
           "answer": "obsessed",
           "explanation": "To be 'obsessed with' someone means to think about them all the time."
         },
         {
           "number": 3,
           "sentence": "I smiled in ___ as the waiter brought the desserts to our table.",
-          "options": ["anticipation", "aspiration"],
+          "options": [
+            "anticipation",
+            "aspiration"
+          ],
           "answer": "anticipation",
           "explanation": "'Anticipation' is a feeling of excitement about something that is going to happen."
         },
         {
           "number": 4,
           "sentence": "Joining the Air Force has always been an ___ of mine.",
-          "options": ["anticipation", "aspiration"],
+          "options": [
+            "anticipation",
+            "aspiration"
+          ],
           "answer": "aspiration",
           "explanation": "An 'aspiration' is something that you want to achieve."
         },
         {
           "number": 5,
           "sentence": "These two day trips are included in the price of the tour, while the third is ___ and costs 50 euros extra.",
-          "options": ["arbitrary", "optional"],
+          "options": [
+            "arbitrary",
+            "optional"
+          ],
           "answer": "optional",
           "explanation": "'Optional' means that you can choose whether to do it or not."
         },
         {
           "number": 6,
           "sentence": "We don't have any information about the hotels, so we'll just have to make an ___ decision.",
-          "options": ["arbitrary", "optional"],
+          "options": [
+            "arbitrary",
+            "optional"
+          ],
           "answer": "arbitrary",
           "explanation": "An 'arbitrary' decision is one that is made without any good reason."
         },
         {
           "number": 7,
           "sentence": "If you look at Madeleine's house, it's obvious she has a lot of ___ .",
-          "options": ["liking", "taste"],
+          "options": [
+            "liking",
+            "taste"
+          ],
           "answer": "taste",
           "explanation": "If someone has 'taste', they have a good judgment of what is attractive."
         },
         {
           "number": 8,
           "sentence": "I've always had a ___ for Naomi, ever since she moved in next door.",
-          "options": ["liking", "taste"],
+          "options": [
+            "liking",
+            "taste"
+          ],
           "answer": "liking",
           "explanation": "To have a 'liking for' someone means to like them."
         },
         {
           "number": 9,
           "sentence": "Life in this small town is really quite ___ and I can't wait to move to the big city.",
-          "options": ["mediocre", "mundane"],
+          "options": [
+            "mediocre",
+            "mundane"
+          ],
           "answer": "mundane",
           "explanation": "'Mundane' means ordinary and not interesting or exciting."
         },
         {
           "number": 10,
           "sentence": "I thought her latest book was ___ compared to the others, which I really enjoyed.",
-          "options": ["mediocre", "mundane"],
+          "options": [
+            "mediocre",
+            "mundane"
+          ],
           "answer": "mediocre",
           "explanation": "'Mediocre' means not very good in quality."
         },
         {
           "number": 11,
           "sentence": "Eva got everything she had ever ___ when she married a rich businessman.",
-          "options": ["envied", "desired"],
+          "options": [
+            "envied",
+            "desired"
+          ],
           "answer": "desired",
           "explanation": "To 'desire' something means to want it very much."
         },
         {
           "number": 12,
           "sentence": "I ___ people who can just walk into a room full of strangers and feel at home.",
-          "options": ["envy", "desire"],
+          "options": [
+            "envy",
+            "desire"
+          ],
           "answer": "envy",
           "explanation": "To 'envy' someone means to wish that you had their qualities or possessions."
         }
@@ -1814,70 +2614,110 @@
         {
           "number": 1,
           "sentence": "There is no doubt technology and shorter working hours have (1) got / let / set people free to enjoy their leisure time more than ever before.",
-          "options": ["got", "let", "set"],
+          "options": [
+            "got",
+            "let",
+            "set"
+          ],
           "answer": "set",
           "explanation": "The phrase 'set someone free' means to release them from constraints."
         },
         {
           "number": 2,
           "sentence": "Many people (2) do / have / make the leisure to pursue hobbies and other activities they (3) like / prefer / want to the work routine.",
-          "options": ["do", "have", "make"],
+          "options": [
+            "do",
+            "have",
+            "make"
+          ],
           "answer": "have",
           "explanation": "The phrase is 'have the leisure to do something'."
         },
         {
           "number": 3,
           "sentence": "___activities they (3) like / prefer / want to the work routine.",
-          "options": ["like", "prefer", "want"],
+          "options": [
+            "like",
+            "prefer",
+            "want"
+          ],
           "answer": "prefer",
           "explanation": "The construction 'prefer A to B' is used for comparison."
         },
         {
           "number": 4,
           "sentence": "What leisure activities will people (4) choose / decide / opt for in the future?",
-          "options": ["choose", "decide", "opt"],
+          "options": [
+            "choose",
+            "decide",
+            "opt"
+          ],
           "answer": "opt",
           "explanation": "The phrasal verb is 'opt for'."
         },
         {
           "number": 5,
           "sentence": "We can expect to see increased personal (5) choice / decision / option.",
-          "options": ["choice", "decision", "option"],
+          "options": [
+            "choice",
+            "decision",
+            "option"
+          ],
           "answer": "choice",
           "explanation": "'Personal choice' is a standard collocation."
         },
         {
           "number": 6,
           "sentence": "The range of leisure (6) actions / hobbies / pursuits will expand___",
-          "options": ["actions", "hobbies", "pursuits"],
+          "options": [
+            "actions",
+            "hobbies",
+            "pursuits"
+          ],
           "answer": "pursuits",
           "explanation": "'Leisure pursuits' is the formal term for activities done in free time."
         },
         {
           "number": 7,
           "sentence": "___and people will have the (7) decision / option / preference of following up an interest in almost any activity.",
-          "options": ["decision", "option", "preference"],
+          "options": [
+            "decision",
+            "option",
+            "preference"
+          ],
           "answer": "option",
           "explanation": "'Have the option of doing something' is a standard phrase."
         },
         {
           "number": 8,
           "sentence": "Whether at home or at (8) enjoyment / leisure / relaxation centres, there will be an ever-increasing need to provide for people at (9) play / recreation / rest.",
-          "options": ["enjoyment", "leisure", "relaxation"],
+          "options": [
+            "enjoyment",
+            "leisure",
+            "relaxation"
+          ],
           "answer": "leisure",
           "explanation": "'Leisure centre' is a standard term for a public building where people can do sports and other activities."
         },
         {
           "number": 9,
           "sentence": "___there will be an ever-increasing need to provide for people at (9) play / recreation / rest.",
-          "options": ["play", "recreation", "rest"],
+          "options": [
+            "play",
+            "recreation",
+            "rest"
+          ],
           "answer": "play",
           "explanation": "'At play' refers to people engaging in games or fun activities."
         },
         {
           "number": 10,
           "sentence": "If the future is not one of increased leisure, then it won't be for (10) need / desire / want of demand.",
-          "options": ["need", "desire", "want"],
+          "options": [
+            "need",
+            "desire",
+            "want"
+          ],
           "answer": "want",
           "explanation": "'For want of' is an idiom meaning 'due to a lack of'."
         }

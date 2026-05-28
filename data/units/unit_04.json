@@ -12,8 +12,15 @@
           "definition_en": "to change your ideas or behaviour so that you can deal with a new situation",
           "definition_vi": "thích nghi, điều chỉnh để phù hợp với hoàn cảnh mới",
           "example": "It took me a while to adapt to the new job.",
-          "synonyms": ["adjust", "acclimatize"],
-          "collocations": ["adapt to", "adapt oneself to"]
+          "synonyms": [
+            "adjust",
+            "acclimatize"
+          ],
+          "collocations": [
+            "adapt to",
+            "adapt oneself to"
+          ],
+          "example_vi": "Tôi đã mất một thời gian để thích nghi với công việc mới."
         },
         {
           "word": "adjust",
@@ -21,8 +28,15 @@
           "definition_en": "to change something slightly in order to make it better, more accurate or more effective",
           "definition_vi": "điều chỉnh (thường là thay đổi nhỏ để chính xác hơn)",
           "example": "You can adjust the height of the chair.",
-          "synonyms": ["alter", "fine-tune"],
-          "collocations": ["adjust to", "adjustment"]
+          "synonyms": [
+            "alter",
+            "fine-tune"
+          ],
+          "collocations": [
+            "adjust to",
+            "adjustment"
+          ],
+          "example_vi": "Bạn có thể điều chỉnh độ cao của chiếc ghế."
         },
         {
           "word": "alternate",
@@ -30,8 +44,15 @@
           "definition_en": "if one thing alternates with another, it happens after it and then the other thing happens again in a regular series; happening on one day, week, etc, but not on the one that follows",
           "definition_vi": "luân phiên; xen kẽ",
           "example": "He alternates between hope and despair.",
-          "synonyms": ["rotate", "interchange"],
-          "collocations": ["alternate between", "on alternate days"]
+          "synonyms": [
+            "rotate",
+            "interchange"
+          ],
+          "collocations": [
+            "alternate between",
+            "on alternate days"
+          ],
+          "example_vi": "Anh ấy luân phiên giữa hy vọng và tuyệt vọng."
         },
         {
           "word": "alternative",
@@ -39,8 +60,15 @@
           "definition_en": "something that you can choose instead of something else; different from something else and able to be used instead of it",
           "definition_vi": "sự lựa chọn thay thế; mang tính thay thế",
           "example": "Can you suggest an alternative to this plan?",
-          "synonyms": ["option", "substitute"],
-          "collocations": ["have no alternative but to", "alternative energy"]
+          "synonyms": [
+            "option",
+            "substitute"
+          ],
+          "collocations": [
+            "have no alternative but to",
+            "alternative energy"
+          ],
+          "example_vi": "Bạn có thể đề xuất một phương án thay thế cho kế hoạch này không?"
         },
         {
           "word": "amend",
@@ -48,8 +76,15 @@
           "definition_en": "to make changes to a document, law, agreement, etc, especially in order to improve it",
           "definition_vi": "sửa đổi, bổ sung (văn bản, luật lệ)",
           "example": "The law was amended to include new safety measures.",
-          "synonyms": ["modify", "revise"],
-          "collocations": ["amend a law", "amend a contract"]
+          "synonyms": [
+            "modify",
+            "revise"
+          ],
+          "collocations": [
+            "amend a law",
+            "amend a contract"
+          ],
+          "example_vi": "Luật đã được sửa đổi để bao gồm các biện pháp an toàn mới."
         },
         {
           "word": "conservative",
@@ -57,8 +92,15 @@
           "definition_en": "not willing to accept much change, especially in the traditional values of society",
           "definition_vi": "bảo thủ, truyền thống",
           "example": "My parents are very conservative in their views.",
-          "synonyms": ["traditional", "conventional"],
-          "collocations": ["conservative estimate", "conservative views"]
+          "synonyms": [
+            "traditional",
+            "conventional"
+          ],
+          "collocations": [
+            "conservative estimate",
+            "conservative views"
+          ],
+          "example_vi": "Bố mẹ tôi rất bảo thủ trong quan điểm của họ."
         },
         {
           "word": "convert",
@@ -66,8 +108,15 @@
           "definition_en": "to change from one system, use or method to another, or to make something do this; to change your beliefs, especially your religious beliefs",
           "definition_vi": "chuyển đổi; người thay đổi tín ngưỡng",
           "example": "We're converting the loft into a bedroom.",
-          "synonyms": ["transform", "change over"],
-          "collocations": ["convert sth into sth", "convert to Christianity"]
+          "synonyms": [
+            "transform",
+            "change over"
+          ],
+          "collocations": [
+            "convert sth into sth",
+            "convert to Christianity"
+          ],
+          "example_vi": "Chúng tôi đang chuyển đổi gác mái thành phòng ngủ."
         },
         {
           "word": "decay",
@@ -75,8 +124,15 @@
           "definition_en": "to be gradually destroyed as a result of a natural process of change, or a gradual increase in physical or mental weakness",
           "definition_vi": "phân hủy, thối rữa; sự suy tàn",
           "example": "The building was allowed to fall into decay.",
-          "synonyms": ["rot", "decompose"],
-          "collocations": ["tooth decay", "economic decay"]
+          "synonyms": [
+            "rot",
+            "decompose"
+          ],
+          "collocations": [
+            "tooth decay",
+            "economic decay"
+          ],
+          "example_vi": "Đường làm cho răng bạn bị sâu."
         },
         {
           "word": "deteriorate",
@@ -84,8 +140,15 @@
           "definition_en": "to become worse",
           "definition_vi": "trở nên tồi tệ hơn, xuống cấp",
           "example": "The weather conditions deteriorated rapidly.",
-          "synonyms": ["worsen", "decline"],
-          "collocations": ["deteriorate into", "rapidly deteriorate"]
+          "synonyms": [
+            "worsen",
+            "decline"
+          ],
+          "collocations": [
+            "deteriorate into",
+            "rapidly deteriorate"
+          ],
+          "example_vi": "Điều kiện thời tiết xấu đi nhanh chóng."
         },
         {
           "word": "distort",
@@ -93,8 +156,15 @@
           "definition_en": "to change something such as information so that it is no longer true or accurate",
           "definition_vi": "xuyên tạc, bóp méo (sự thật, âm thanh)",
           "example": "The speaker distorted the facts to suit his argument.",
-          "synonyms": ["misrepresent", "twist"],
-          "collocations": ["distort the truth", "distorted image"]
+          "synonyms": [
+            "misrepresent",
+            "twist"
+          ],
+          "collocations": [
+            "distort the truth",
+            "distorted image"
+          ],
+          "example_vi": "Người nói đã bóp méo sự thật để phù hợp với lập luận của mình."
         },
         {
           "word": "dynamic",
@@ -102,8 +172,15 @@
           "definition_en": "continuously changing, growing or developing",
           "definition_vi": "năng động, sôi nổi, luôn biến đổi",
           "example": "We need a more dynamic approach to the problem.",
-          "synonyms": ["energetic", "vibrant"],
-          "collocations": ["dynamic personality", "dynamic market"]
+          "synonyms": [
+            "energetic",
+            "vibrant"
+          ],
+          "collocations": [
+            "dynamic personality",
+            "dynamic market"
+          ],
+          "example_vi": "Chúng ta cần một cách tiếp cận năng động hơn cho vấn đề này."
         },
         {
           "word": "endure",
@@ -111,8 +188,15 @@
           "definition_en": "to continue to exist for a long time; to experience and deal with something difficult or painful",
           "definition_vi": "tồn tại lâu dài; chịu đựng",
           "example": "The legend has endured for centuries.",
-          "synonyms": ["last", "tolerate"],
-          "collocations": ["endure hardship", "endure until the end"]
+          "synonyms": [
+            "last",
+            "tolerate"
+          ],
+          "collocations": [
+            "endure hardship",
+            "endure until the end"
+          ],
+          "example_vi": "Truyền thuyết này đã tồn tại qua nhiều thế kỷ."
         },
         {
           "word": "evolve",
@@ -120,8 +204,15 @@
           "definition_en": "to gradually change and develop over a period of time",
           "definition_vi": "tiến hóa, phát triển dần dần",
           "example": "The company has evolved into a global giant.",
-          "synonyms": ["develop", "grow"],
-          "collocations": ["evolve from", "evolve into"]
+          "synonyms": [
+            "develop",
+            "grow"
+          ],
+          "collocations": [
+            "evolve from",
+            "evolve into"
+          ],
+          "example_vi": "Công ty đã phát triển thành một gã khổng lồ toàn cầu."
         },
         {
           "word": "influence",
@@ -129,8 +220,15 @@
           "definition_en": "to affect the way that someone thinks or behaves; the power to affect the way someone thinks or behaves",
           "definition_vi": "ảnh hưởng; sự ảnh hưởng",
           "example": "His teacher had a great influence on him.",
-          "synonyms": ["affect", "impact"],
-          "collocations": ["have an influence on", "under the influence of"]
+          "synonyms": [
+            "affect",
+            "impact"
+          ],
+          "collocations": [
+            "have an influence on",
+            "under the influence of"
+          ],
+          "example_vi": "Giáo viên đã có ảnh hưởng lớn đến anh ấy."
         },
         {
           "word": "innovation",
@@ -138,8 +236,15 @@
           "definition_en": "a new idea, method or invention",
           "definition_vi": "sự đổi mới, sáng kiến mới",
           "example": "Technological innovations are changing our lives.",
-          "synonyms": ["novelty", "invention"],
-          "collocations": ["product innovation", "technological innovation"]
+          "synonyms": [
+            "novelty",
+            "invention"
+          ],
+          "collocations": [
+            "product innovation",
+            "technological innovation"
+          ],
+          "example_vi": "Những đổi mới công nghệ đang thay đổi cuộc sống của chúng ta."
         },
         {
           "word": "innovative",
@@ -147,8 +252,15 @@
           "definition_en": "using new methods or ideas",
           "definition_vi": "mang tính đổi mới, sáng tạo",
           "example": "It was an innovative design that won the award.",
-          "synonyms": ["original", "groundbreaking"],
-          "collocations": ["innovative approach", "innovative technology"]
+          "synonyms": [
+            "original",
+            "groundbreaking"
+          ],
+          "collocations": [
+            "innovative approach",
+            "innovative technology"
+          ],
+          "example_vi": "Đó là một thiết kế sáng tạo đã giành được giải thưởng."
         },
         {
           "word": "last",
@@ -156,8 +268,15 @@
           "definition_en": "to continue to exist",
           "definition_vi": "kéo dài, tồn tại",
           "example": "The meeting lasted for two hours.",
-          "synonyms": ["continue", "endure"],
-          "collocations": ["last long", "last forever"]
+          "synonyms": [
+            "continue",
+            "endure"
+          ],
+          "collocations": [
+            "last long",
+            "last forever"
+          ],
+          "example_vi": "Cuộc họp kéo dài trong hai giờ."
         },
         {
           "word": "maintain",
@@ -165,8 +284,15 @@
           "definition_en": "to make something stay the same",
           "definition_vi": "duy trì",
           "example": "It's important to maintain a healthy lifestyle.",
-          "synonyms": ["preserve", "keep up"],
-          "collocations": ["maintain standards", "maintain balance"]
+          "synonyms": [
+            "preserve",
+            "keep up"
+          ],
+          "collocations": [
+            "maintain standards",
+            "maintain balance"
+          ],
+          "example_vi": "Duy trì một lối sống lành mạnh là rất quan trọng."
         },
         {
           "word": "mature",
@@ -174,8 +300,15 @@
           "definition_en": "to start behaving like an adult and become more sensible as you get older; behaving in the sensible way that you would expect an adult to behave",
           "definition_vi": "trưởng thành, chín chắn",
           "example": "He has matured a lot since he started university.",
-          "synonyms": ["adult", "grown-up"],
-          "collocations": ["mature attitude", "mature student"]
+          "synonyms": [
+            "adult",
+            "grown-up"
+          ],
+          "collocations": [
+            "mature attitude",
+            "mature student"
+          ],
+          "example_vi": "Anh ấy đã trưởng thành hơn rất nhiều kể từ khi bắt đầu học đại học."
         },
         {
           "word": "modify",
@@ -183,8 +316,15 @@
           "definition_en": "to change something slightly, especially in order to improve it or to make it less extreme",
           "definition_vi": "sửa đổi, điều chỉnh (thường để cải thiện)",
           "example": "We had to modify the plan slightly.",
-          "synonyms": ["adapt", "tweak"],
-          "collocations": ["modify a behavior", "modified version"]
+          "synonyms": [
+            "adapt",
+            "tweak"
+          ],
+          "collocations": [
+            "modify a behavior",
+            "modified version"
+          ],
+          "example_vi": "Chúng tôi đã phải sửa đổi kế hoạch một chút."
         },
         {
           "word": "novel",
@@ -192,8 +332,15 @@
           "definition_en": "new or unusual",
           "definition_vi": "mới lạ, độc đáo",
           "example": "It was a novel idea that no one had thought of before.",
-          "synonyms": ["new", "unconventional"],
-          "collocations": ["novel solution", "novel approach"]
+          "synonyms": [
+            "new",
+            "unconventional"
+          ],
+          "collocations": [
+            "novel solution",
+            "novel approach"
+          ],
+          "example_vi": "Đó là một ý tưởng mới lạ mà chưa ai nghĩ đến trước đây."
         },
         {
           "word": "persist",
@@ -201,8 +348,15 @@
           "definition_en": "to continue to do something or to try to achieve something, even though it is difficult or other people are against it",
           "definition_vi": "kiên trì, bền bỉ; vẫn tiếp diễn",
           "example": "If the symptoms persist, you should see a doctor.",
-          "synonyms": ["persevere", "continue"],
-          "collocations": ["persist in doing", "persist with"]
+          "synonyms": [
+            "persevere",
+            "continue"
+          ],
+          "collocations": [
+            "persist in doing",
+            "persist with"
+          ],
+          "example_vi": "Nếu các triệu chứng kéo dài, bạn nên đi khám bác sĩ."
         },
         {
           "word": "potential",
@@ -210,8 +364,15 @@
           "definition_en": "the possibility to develop or achieve something in the future; possible or likely in the future",
           "definition_vi": "tiềm năng; có tiềm năng",
           "example": "The company has the potential to be very successful.",
-          "synonyms": ["possibility", "prospect"],
-          "collocations": ["reach your potential", "potential customer"]
+          "synonyms": [
+            "possibility",
+            "prospect"
+          ],
+          "collocations": [
+            "reach your potential",
+            "potential customer"
+          ],
+          "example_vi": "Công ty có tiềm năng để trở nên rất thành công."
         },
         {
           "word": "progress",
@@ -219,8 +380,15 @@
           "definition_en": "to develop or improve; the process of developing or improving",
           "definition_vi": "tiến bộ, phát triển; sự tiến bộ",
           "example": "I'm making steady progress with my French.",
-          "synonyms": ["advance", "improvement"],
-          "collocations": ["make progress", "in progress"]
+          "synonyms": [
+            "advance",
+            "improvement"
+          ],
+          "collocations": [
+            "make progress",
+            "in progress"
+          ],
+          "example_vi": "Tôi đang đạt được tiến bộ ổn định với việc học tiếng Pháp."
         },
         {
           "word": "radical",
@@ -228,8 +396,15 @@
           "definition_en": "a radical change or way of doing something is new and very different from the usual way",
           "definition_vi": "triệt để, quyết liệt, căn bản",
           "example": "The company needs a radical overhaul.",
-          "synonyms": ["extreme", "fundamental"],
-          "collocations": ["radical change", "radical reform"]
+          "synonyms": [
+            "extreme",
+            "fundamental"
+          ],
+          "collocations": [
+            "radical change",
+            "radical reform"
+          ],
+          "example_vi": "Công ty cần một cuộc đại tu triệt để."
         },
         {
           "word": "refine",
@@ -237,8 +412,15 @@
           "definition_en": "to make some small changes in order to improve something",
           "definition_vi": "tinh chỉnh, cải tiến",
           "example": "We need to refine our techniques.",
-          "synonyms": ["improve", "perfect"],
-          "collocations": ["refine a process", "refine a skill"]
+          "synonyms": [
+            "improve",
+            "perfect"
+          ],
+          "collocations": [
+            "refine a process",
+            "refine a skill"
+          ],
+          "example_vi": "Chúng ta cần tinh chỉnh các kỹ thuật của mình."
         },
         {
           "word": "reform",
@@ -246,8 +428,15 @@
           "definition_en": "to improve a situation by correcting things that are wrong or unfair, or make a system work more effectively; a change intended to correct a situation that is wrong or unfair",
           "definition_vi": "cải cách; sự cải cách",
           "example": "The government is planning to reform the prison system.",
-          "synonyms": ["improve", "amend"],
-          "collocations": ["economic reform", "social reform"]
+          "synonyms": [
+            "improve",
+            "amend"
+          ],
+          "collocations": [
+            "economic reform",
+            "social reform"
+          ],
+          "example_vi": "Chính phủ đang lên kế hoạch cải cách hệ thống nhà tù."
         },
         {
           "word": "remain",
@@ -255,8 +444,15 @@
           "definition_en": "to continue to be in a particular situation or condition",
           "definition_vi": "vẫn còn, duy trì ở một trạng thái",
           "example": "The situation remains unchanged.",
-          "synonyms": ["stay", "continue"],
-          "collocations": ["remain calm", "remain silent"]
+          "synonyms": [
+            "stay",
+            "continue"
+          ],
+          "collocations": [
+            "remain calm",
+            "remain silent"
+          ],
+          "example_vi": "Tình hình vẫn không có gì thay đổi."
         },
         {
           "word": "revise",
@@ -264,8 +460,15 @@
           "definition_en": "to change your opinion or judgment of someone or something; to change a piece of writing in order to improve it",
           "definition_vi": "xem lại, duyệt lại, sửa lại",
           "example": "I had to revise my estimate after seeing the new data.",
-          "synonyms": ["re-examine", "edit"],
-          "collocations": ["revise a plan", "revise for an exam"]
+          "synonyms": [
+            "re-examine",
+            "edit"
+          ],
+          "collocations": [
+            "revise a plan",
+            "revise for an exam"
+          ],
+          "example_vi": "Tôi đã phải xem xét lại ước tính của mình sau khi thấy dữ liệu mới."
         },
         {
           "word": "revolution",
@@ -273,8 +476,15 @@
           "definition_en": "a sudden or major change, especially in ideas or methods; a sudden and great change, especially the violent replacement of a government",
           "definition_vi": "cuộc cách mạng, sự thay đổi lớn",
           "example": "The industrial revolution changed the world.",
-          "synonyms": ["uprising", "transformation"],
-          "collocations": ["technological revolution", "cultural revolution"]
+          "synonyms": [
+            "uprising",
+            "transformation"
+          ],
+          "collocations": [
+            "technological revolution",
+            "cultural revolution"
+          ],
+          "example_vi": "Cuộc cách mạng công nghiệp đã thay đổi thế giới."
         },
         {
           "word": "shift",
@@ -282,8 +492,15 @@
           "definition_en": "if an idea, attitude or plan shifts, it changes; a change in an idea, attitude or plan",
           "definition_vi": "thay đổi, dịch chuyển; sự thay đổi",
           "example": "There has been a shift in public opinion.",
-          "synonyms": ["move", "transfer"],
-          "collocations": ["shift focus", "paradigm shift"]
+          "synonyms": [
+            "move",
+            "transfer"
+          ],
+          "collocations": [
+            "shift focus",
+            "paradigm shift"
+          ],
+          "example_vi": "Đã có một sự thay đổi trong dư luận."
         },
         {
           "word": "spoil",
@@ -291,8 +508,15 @@
           "definition_en": "to affect something in a way that makes it worse, less attractive or less enjoyable",
           "definition_vi": "làm hỏng, làm mất vui",
           "example": "The rain spoiled our picnic.",
-          "synonyms": ["ruin", "damage"],
-          "collocations": ["spoil the fun", "spoil a child"]
+          "synonyms": [
+            "ruin",
+            "damage"
+          ],
+          "collocations": [
+            "spoil the fun",
+            "spoil a child"
+          ],
+          "example_vi": "Cơn mưa đã làm hỏng buổi dã ngoại của chúng tôi."
         },
         {
           "word": "status quo",
@@ -300,8 +524,14 @@
           "definition_en": "the present situation or the way that things usually are",
           "definition_vi": "nguyên trạng, hiện trạng",
           "example": "Many people want to maintain the status quo.",
-          "synonyms": ["current situation"],
-          "collocations": ["challenge the status quo", "preserve the status quo"]
+          "synonyms": [
+            "current situation"
+          ],
+          "collocations": [
+            "challenge the status quo",
+            "preserve the status quo"
+          ],
+          "example_vi": "Nhiều người muốn duy trì hiện trạng."
         },
         {
           "word": "steady",
@@ -309,8 +539,15 @@
           "definition_en": "to hold something firmly without shaking or moving it; staying at the same level, speed, value, etc",
           "definition_vi": "giữ vững; ổn định, đều đặn",
           "example": "He is making steady progress in his recovery.",
-          "synonyms": ["stable", "constant"],
-          "collocations": ["steady job", "steady increase"]
+          "synonyms": [
+            "stable",
+            "constant"
+          ],
+          "collocations": [
+            "steady job",
+            "steady increase"
+          ],
+          "example_vi": "Anh ấy đang đạt được tiến bộ ổn định trong quá trình hồi phục."
         },
         {
           "word": "substitute",
@@ -318,8 +555,15 @@
           "definition_en": "to use one thing or person instead of another; something that is used instead of something else",
           "definition_vi": "thay thế; vật/người thay thế",
           "example": "You can substitute margarine for butter in this recipe.",
-          "synonyms": ["replace", "alternative"],
-          "collocations": ["substitute for", "substitute teacher"]
+          "synonyms": [
+            "replace",
+            "alternative"
+          ],
+          "collocations": [
+            "substitute for",
+            "substitute teacher"
+          ],
+          "example_vi": "Bạn có thể dùng bơ thực vật thay cho bơ thường trong công thức này."
         },
         {
           "word": "sustain",
@@ -327,8 +571,15 @@
           "definition_en": "to provide the conditions in which something can happen or exist",
           "definition_vi": "duy trì, chống đỡ",
           "example": "The economy is unable to sustain this level of growth.",
-          "synonyms": ["maintain", "uphold"],
-          "collocations": ["sustain growth", "sustainable development"]
+          "synonyms": [
+            "maintain",
+            "uphold"
+          ],
+          "collocations": [
+            "sustain growth",
+            "sustainable development"
+          ],
+          "example_vi": "Nền kinh tế không thể duy trì mức tăng trưởng này."
         },
         {
           "word": "switch",
@@ -336,8 +587,15 @@
           "definition_en": "to replace one thing with another; a change from one thing to another",
           "definition_vi": "đổi, tráo đổi; công tắc; sự thay đổi",
           "example": "I've decided to switch to a different mobile provider.",
-          "synonyms": ["swap", "exchange"],
-          "collocations": ["switch off", "switch sides"]
+          "synonyms": [
+            "swap",
+            "exchange"
+          ],
+          "collocations": [
+            "switch off",
+            "switch sides"
+          ],
+          "example_vi": "Tôi đã quyết định chuyển sang một nhà cung cấp mạng di động khác."
         },
         {
           "word": "transform",
@@ -345,8 +603,15 @@
           "definition_en": "to make someone or something completely different",
           "definition_vi": "biến đổi hoàn toàn",
           "example": "The internet has transformed the way we work.",
-          "synonyms": ["convert", "alter"],
-          "collocations": ["transform lives", "transform into"]
+          "synonyms": [
+            "convert",
+            "alter"
+          ],
+          "collocations": [
+            "transform lives",
+            "transform into"
+          ],
+          "example_vi": "Internet đã thay đổi hoàn toàn cách chúng ta làm việc."
         },
         {
           "word": "trend",
@@ -354,8 +619,15 @@
           "definition_en": "a gradual change or development that produces a particular result",
           "definition_vi": "xu hướng",
           "example": "There is a growing trend towards remote working.",
-          "synonyms": ["tendency", "pattern"],
-          "collocations": ["follow a trend", "set a trend"]
+          "synonyms": [
+            "tendency",
+            "pattern"
+          ],
+          "collocations": [
+            "follow a trend",
+            "set a trend"
+          ],
+          "example_vi": "Đang có xu hướng làm việc từ xa ngày càng tăng."
         },
         {
           "word": "uniform",
@@ -363,8 +635,15 @@
           "definition_en": "the same everywhere",
           "definition_vi": "đồng nhất, giống hệt nhau",
           "example": "The blocks are of uniform size.",
-          "synonyms": ["consistent", "identical"],
-          "collocations": ["uniform standards", "uniform appearance"]
+          "synonyms": [
+            "consistent",
+            "identical"
+          ],
+          "collocations": [
+            "uniform standards",
+            "uniform appearance"
+          ],
+          "example_vi": "Các khối có kích thước đồng nhất."
         }
       ]
     },
@@ -377,8 +656,15 @@
           "definition_en": "a sudden solution to a problem, or an exciting new discovery",
           "definition_vi": "bước đột phá",
           "example": "Scientists have made a major breakthrough in cancer research.",
-          "synonyms": ["discovery", "advance"],
-          "collocations": ["major breakthrough", "scientific breakthrough"]
+          "synonyms": [
+            "discovery",
+            "advance"
+          ],
+          "collocations": [
+            "major breakthrough",
+            "scientific breakthrough"
+          ],
+          "example_vi": "Các nhà khoa học đã đạt được một bước đột phá lớn trong nghiên cứu ung thư."
         },
         {
           "word": "broadband",
@@ -386,8 +672,14 @@
           "definition_en": "able to send different types of communication signals at the same time; a high-speed Internet connection",
           "definition_vi": "băng thông rộng",
           "example": "Do you have broadband at home?",
-          "synonyms": ["high-speed internet"],
-          "collocations": ["broadband connection", "broadband access"]
+          "synonyms": [
+            "high-speed internet"
+          ],
+          "collocations": [
+            "broadband connection",
+            "broadband access"
+          ],
+          "example_vi": "Nhà bạn có mạng băng thông rộng không?"
         },
         {
           "word": "click",
@@ -395,8 +687,15 @@
           "definition_en": "to make a computer do something by pressing a button on the mouse",
           "definition_vi": "nhấp chuột",
           "example": "Click on the icon to open the program.",
-          "synonyms": ["press", "tap"],
-          "collocations": ["click on", "double-click"]
+          "synonyms": [
+            "press",
+            "tap"
+          ],
+          "collocations": [
+            "click on",
+            "double-click"
+          ],
+          "example_vi": "Nhấp vào biểu tượng để mở chương trình."
         },
         {
           "word": "complex",
@@ -404,8 +703,15 @@
           "definition_en": "with many details or small parts that make it difficult to understand or deal with",
           "definition_vi": "phức tạp",
           "example": "The situation is more complex than it first appears.",
-          "synonyms": ["complicated", "intricate"],
-          "collocations": ["complex system", "complex issue"]
+          "synonyms": [
+            "complicated",
+            "intricate"
+          ],
+          "collocations": [
+            "complex system",
+            "complex issue"
+          ],
+          "example_vi": "Tình hình phức tạp hơn so với vẻ ngoài ban đầu."
         },
         {
           "word": "consumer electronics",
@@ -413,8 +719,13 @@
           "definition_en": "electrical equipment, such as digital cameras, etc, which is bought by the public for their own use",
           "definition_vi": "hàng điện tử gia dụng",
           "example": "The company sells a wide range of consumer electronics.",
-          "synonyms": ["household electronics"],
-          "collocations": ["consumer electronics industry"]
+          "synonyms": [
+            "household electronics"
+          ],
+          "collocations": [
+            "consumer electronics industry"
+          ],
+          "example_vi": "Công ty bán nhiều loại thiết bị điện tử tiêu dùng."
         },
         {
           "word": "craft",
@@ -422,8 +733,15 @@
           "definition_en": "to make something using a lot of skill; a traditional skill of making things by hand",
           "definition_vi": "chế tác; nghề thủ công",
           "example": "Each piece of furniture is carefully crafted by hand.",
-          "synonyms": ["make", "create"],
-          "collocations": ["traditional craft", "hand-crafted"]
+          "synonyms": [
+            "make",
+            "create"
+          ],
+          "collocations": [
+            "traditional craft",
+            "hand-crafted"
+          ],
+          "example_vi": "Mỗi món đồ nội thất đều được chế tác thủ công một cách cẩn thận."
         },
         {
           "word": "data",
@@ -431,8 +749,15 @@
           "definition_en": "information in a form that a computer can use",
           "definition_vi": "dữ liệu",
           "example": "The data is stored on a hard drive.",
-          "synonyms": ["information", "statistics"],
-          "collocations": ["collect data", "data processing"]
+          "synonyms": [
+            "information",
+            "statistics"
+          ],
+          "collocations": [
+            "collect data",
+            "data processing"
+          ],
+          "example_vi": "Dữ liệu được lưu trữ trên ổ cứng."
         },
         {
           "word": "download",
@@ -440,8 +765,15 @@
           "definition_en": "to move information from a larger computer system to a smaller one; information that has been moved in this way",
           "definition_vi": "tải xuống",
           "example": "You can download the software from our website.",
-          "synonyms": ["fetch", "save"],
-          "collocations": ["free download", "illegal download"]
+          "synonyms": [
+            "fetch",
+            "save"
+          ],
+          "collocations": [
+            "free download",
+            "illegal download"
+          ],
+          "example_vi": "Bạn có thể tải phần mềm từ trang web của chúng tôi."
         },
         {
           "word": "file",
@@ -449,8 +781,15 @@
           "definition_en": "a set of information on a computer",
           "definition_vi": "tệp tin",
           "example": "I've saved the file to my desktop.",
-          "synonyms": ["document", "record"],
-          "collocations": ["open a file", "save a file"]
+          "synonyms": [
+            "document",
+            "record"
+          ],
+          "collocations": [
+            "open a file",
+            "save a file"
+          ],
+          "example_vi": "Tôi đã lưu tệp vào màn hình chính."
         },
         {
           "word": "(games) console",
@@ -458,8 +797,13 @@
           "definition_en": "a small piece of electronic equipment that you connect to a screen, used for playing video games",
           "definition_vi": "máy chơi game",
           "example": "I spend too much time playing on my games console.",
-          "synonyms": ["gaming device"],
-          "collocations": ["handheld console"]
+          "synonyms": [
+            "gaming device"
+          ],
+          "collocations": [
+            "handheld console"
+          ],
+          "example_vi": "Tôi dành quá nhiều thời gian để chơi trên máy chơi game của mình."
         },
         {
           "word": "manual",
@@ -467,8 +811,15 @@
           "definition_en": "operated by people rather than automatically or using computers; a book that gives you instructions about how to do something or how to use something",
           "definition_vi": "thủ công; sách hướng dẫn",
           "example": "Read the instruction manual before you start.",
-          "synonyms": ["handbook", "guidebook"],
-          "collocations": ["manual labor", "user manual"]
+          "synonyms": [
+            "handbook",
+            "guidebook"
+          ],
+          "collocations": [
+            "manual labor",
+            "user manual"
+          ],
+          "example_vi": "Hãy đọc hướng dẫn sử dụng trước khi bắt đầu."
         },
         {
           "word": "network",
@@ -476,8 +827,15 @@
           "definition_en": "to connect computers together so that each computer can send and receive information to and from the other computers; a set of computers that are connected to each other",
           "definition_vi": "kết nối mạng; mạng lưới",
           "example": "The computers are all part of the same network.",
-          "synonyms": ["system", "web"],
-          "collocations": ["social network", "computer network"]
+          "synonyms": [
+            "system",
+            "web"
+          ],
+          "collocations": [
+            "social network",
+            "computer network"
+          ],
+          "example_vi": "Các máy tính đều nằm trong cùng một mạng lưới."
         },
         {
           "word": "nuclear",
@@ -485,8 +843,14 @@
           "definition_en": "relating to energy produced by changing the structure of the central part of an atom",
           "definition_vi": "thuộc về hạt nhân",
           "example": "The country is planning to build more nuclear power stations.",
-          "synonyms": ["atomic"],
-          "collocations": ["nuclear energy", "nuclear weapon"]
+          "synonyms": [
+            "atomic"
+          ],
+          "collocations": [
+            "nuclear energy",
+            "nuclear weapon"
+          ],
+          "example_vi": "Quốc gia đang có kế hoạch xây dựng thêm các nhà máy điện hạt nhân."
         },
         {
           "word": "offline",
@@ -494,8 +858,14 @@
           "definition_en": "working on a computer but not connected to the Internet",
           "definition_vi": "ngoại tuyến, không kết nối mạng",
           "example": "I prefer to write my reports offline.",
-          "synonyms": ["disconnected"],
-          "collocations": ["offline mode", "read offline"]
+          "synonyms": [
+            "disconnected"
+          ],
+          "collocations": [
+            "offline mode",
+            "read offline"
+          ],
+          "example_vi": "Tôi thích viết báo cáo khi không kết nối mạng hơn."
         },
         {
           "word": "online",
@@ -503,8 +873,14 @@
           "definition_en": "connected to or available through the Internet",
           "definition_vi": "trực tuyến, có kết nối mạng",
           "example": "You can buy tickets online.",
-          "synonyms": ["web-based"],
-          "collocations": ["online banking", "online shopping"]
+          "synonyms": [
+            "web-based"
+          ],
+          "collocations": [
+            "online banking",
+            "online shopping"
+          ],
+          "example_vi": "Bạn có thể mua vé trực tuyến."
         },
         {
           "word": "programmer",
@@ -512,8 +888,14 @@
           "definition_en": "someone whose job is to create computer programs",
           "definition_vi": "lập trình viên",
           "example": "She works as a computer programmer for a software company.",
-          "synonyms": ["coder", "software engineer"],
-          "collocations": ["computer programmer"]
+          "synonyms": [
+            "coder",
+            "software engineer"
+          ],
+          "collocations": [
+            "computer programmer"
+          ],
+          "example_vi": "Cô ấy làm lập trình viên máy tính cho một công ty phần mềm."
         },
         {
           "word": "resource",
@@ -521,8 +903,15 @@
           "definition_en": "something you can use to help you to achieve something, especially something that exists in nature",
           "definition_vi": "nguồn lực, tài nguyên",
           "example": "The library is a great resource for students.",
-          "synonyms": ["asset", "supply"],
-          "collocations": ["natural resources", "human resources"]
+          "synonyms": [
+            "asset",
+            "supply"
+          ],
+          "collocations": [
+            "natural resources",
+            "human resources"
+          ],
+          "example_vi": "Đất nước này giàu tài nguyên thiên nhiên."
         },
         {
           "word": "technique",
@@ -530,8 +919,15 @@
           "definition_en": "a method of doing something using a special skill",
           "definition_vi": "kỹ thuật, phương pháp",
           "example": "He's learning new techniques for cooking fish.",
-          "synonyms": ["method", "procedure"],
-          "collocations": ["modern technique", "effective technique"]
+          "synonyms": [
+            "method",
+            "procedure"
+          ],
+          "collocations": [
+            "modern technique",
+            "effective technique"
+          ],
+          "example_vi": "Anh ấy đang học các kỹ thuật mới để chế biến cá."
         },
         {
           "word": "upload",
@@ -539,8 +935,15 @@
           "definition_en": "to send information from your computer to another computer or the Internet",
           "definition_vi": "tải lên",
           "example": "I'm uploading the photos to Facebook.",
-          "synonyms": ["post", "transfer"],
-          "collocations": ["upload a video", "upload a file"]
+          "synonyms": [
+            "post",
+            "transfer"
+          ],
+          "collocations": [
+            "upload a video",
+            "upload a file"
+          ],
+          "example_vi": "Tôi đang tải ảnh lên Facebook."
         }
       ]
     },
@@ -553,8 +956,14 @@
           "definition_en": "make a copy of information on your computer; give support to someone by telling other people that you agree with them",
           "definition_vi": "sao lưu; ủng hộ",
           "example": "Don't forget to back up your work.",
-          "synonyms": ["support", "copy"],
-          "collocations": ["backup (n)"]
+          "synonyms": [
+            "support",
+            "copy"
+          ],
+          "collocations": [
+            "backup (n)"
+          ],
+          "example_vi": "Đừng quên sao lưu công việc của bạn."
         },
         {
           "word": "change around",
@@ -562,8 +971,11 @@
           "definition_en": "move things so that they are in different places or positions",
           "definition_vi": "thay đổi vị trí, sắp xếp lại",
           "example": "We changed the furniture around to make more space.",
-          "synonyms": ["rearrange"],
-          "collocations": []
+          "synonyms": [
+            "rearrange"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã thay đổi vị trí đồ nội thất để có thêm không gian."
         },
         {
           "word": "change into",
@@ -571,8 +983,11 @@
           "definition_en": "stop being in one state, condition or form and start being in another, or make something do this; take off the clothes you are wearing and put on different ones",
           "definition_vi": "chuyển thành; thay quần áo",
           "example": "The caterpillar changed into a butterfly.",
-          "synonyms": ["transform into"],
-          "collocations": []
+          "synonyms": [
+            "transform into"
+          ],
+          "collocations": [],
+          "example_vi": "Con sâu bướm đã biến thành một con bướm."
         },
         {
           "word": "change out of",
@@ -581,7 +996,8 @@
           "definition_vi": "thay bộ đồ khác (cởi bộ đang mặc ra)",
           "example": "I need to change out of my wet clothes.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi cần thay bộ quần áo ướt này ra."
         },
         {
           "word": "do away with",
@@ -589,8 +1005,12 @@
           "definition_en": "get rid of",
           "definition_vi": "loại bỏ, bãi bỏ",
           "example": "They should do away with school uniforms.",
-          "synonyms": ["abolish", "eliminate"],
-          "collocations": []
+          "synonyms": [
+            "abolish",
+            "eliminate"
+          ],
+          "collocations": [],
+          "example_vi": "Họ nên bãi bỏ đồng phục học sinh."
         },
         {
           "word": "do up",
@@ -598,8 +1018,12 @@
           "definition_en": "repair, paint and improve an old building, car, boat, etc; fasten (an item of clothing)",
           "definition_vi": "trang hoàng, sửa chữa; cài, thắt (quần áo)",
           "example": "We're going to do up our new house.",
-          "synonyms": ["renovate", "fasten"],
-          "collocations": []
+          "synonyms": [
+            "renovate",
+            "fasten"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi dự định trang hoàng lại ngôi nhà mới của mình."
         },
         {
           "word": "fade away",
@@ -607,8 +1031,12 @@
           "definition_en": "disappear slowly",
           "definition_vi": "mờ dần, biến mất dần",
           "example": "The sound of the music faded away into the distance.",
-          "synonyms": ["vanish", "diminish"],
-          "collocations": []
+          "synonyms": [
+            "vanish",
+            "diminish"
+          ],
+          "collocations": [],
+          "example_vi": "Tiếng nhạc nhỏ dần rồi mất hút vào không gian."
         },
         {
           "word": "key in",
@@ -616,8 +1044,12 @@
           "definition_en": "put information into a computer or other electronic machine using keys or a keyboard",
           "definition_vi": "nhập dữ liệu (bằng phím)",
           "example": "Key in your password to continue.",
-          "synonyms": ["input", "enter"],
-          "collocations": []
+          "synonyms": [
+            "input",
+            "enter"
+          ],
+          "collocations": [],
+          "example_vi": "Nhập mật khẩu của bạn để tiếp tục."
         },
         {
           "word": "make into",
@@ -625,8 +1057,11 @@
           "definition_en": "change someone or something so that they become something else",
           "definition_vi": "biến thành, làm cho trở thành",
           "example": "They've made the old barn into a house.",
-          "synonyms": ["transform into"],
-          "collocations": []
+          "synonyms": [
+            "transform into"
+          ],
+          "collocations": [],
+          "example_vi": "Họ đã biến kho thóc cũ thành một ngôi nhà."
         },
         {
           "word": "mix up",
@@ -634,8 +1069,14 @@
           "definition_en": "put things together without any order; think that one person or thing is another person or thing",
           "definition_vi": "trộn lẫn; nhầm lẫn",
           "example": "I always mix those two up.",
-          "synonyms": ["confuse", "jumble"],
-          "collocations": ["mix-up (n)"]
+          "synonyms": [
+            "confuse",
+            "jumble"
+          ],
+          "collocations": [
+            "mix-up (n)"
+          ],
+          "example_vi": "Tôi luôn nhầm lẫn hai cái đó với nhau."
         },
         {
           "word": "switch on/off",
@@ -643,8 +1084,11 @@
           "definition_en": "start/stop a machine/light/etc working",
           "definition_vi": "bật/tắt",
           "example": "Can you switch the light off?",
-          "synonyms": ["turn on/off"],
-          "collocations": []
+          "synonyms": [
+            "turn on/off"
+          ],
+          "collocations": [],
+          "example_vi": "Bạn có thể tắt đèn giúp tôi không?"
         },
         {
           "word": "take apart",
@@ -652,8 +1096,11 @@
           "definition_en": "separate an object into pieces",
           "definition_vi": "tháo rời",
           "example": "He took the engine apart to see what was wrong.",
-          "synonyms": ["disassemble"],
-          "collocations": []
+          "synonyms": [
+            "disassemble"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy đã tháo rời động cơ để xem có chuyện gì xảy ra."
         },
         {
           "word": "test out",
@@ -661,8 +1108,11 @@
           "definition_en": "try using something such as a machine or product to find out whether it works correctly or is satisfactory",
           "definition_vi": "thử nghiệm (xem có hoạt động tốt không)",
           "example": "We need to test out the new software.",
-          "synonyms": ["trial"],
-          "collocations": []
+          "synonyms": [
+            "trial"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng ta cần thử nghiệm phần mềm mới."
         },
         {
           "word": "turn into",
@@ -670,8 +1120,12 @@
           "definition_en": "change or develop into something different; make someone or something change or develop into something different",
           "definition_vi": "trở thành, biến thành",
           "example": "The town has turned into a popular resort.",
-          "synonyms": ["become", "transform into"],
-          "collocations": []
+          "synonyms": [
+            "become",
+            "transform into"
+          ],
+          "collocations": [],
+          "example_vi": "Thị trấn đã trở thành một khu nghỉ mát nổi tiếng."
         },
         {
           "word": "use up",
@@ -679,8 +1133,12 @@
           "definition_en": "use all of a supply of something",
           "definition_vi": "dùng hết, cạn kiệt",
           "example": "We've used up all the milk.",
-          "synonyms": ["exhaust", "consume"],
-          "collocations": []
+          "synonyms": [
+            "exhaust",
+            "consume"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã dùng hết sạch sữa rồi."
         },
         {
           "word": "wear out",
@@ -688,8 +1146,12 @@
           "definition_en": "use something a lot so that it no longer works, or can no longer be used",
           "definition_vi": "mòn, hỏng (do dùng nhiều)",
           "example": "The kids are wearing out their shoes.",
-          "synonyms": ["erode", "deteriorate"],
-          "collocations": []
+          "synonyms": [
+            "erode",
+            "deteriorate"
+          ],
+          "collocations": [],
+          "example_vi": "Bọn trẻ đang làm mòn hết giày của chúng."
         }
       ]
     },
@@ -703,7 +1165,8 @@
           "definition_vi": "giang sơn dễ đổi, bản tính khó dời",
           "example": "I don't think he'll ever stop lying - a leopard can't change its spots.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi không nghĩ anh ta sẽ thôi nói dối đâu - giang sơn dễ đổi, bản tính khó dời."
         },
         {
           "word": "all mod cons",
@@ -712,7 +1175,8 @@
           "definition_vi": "đầy đủ tiện nghi hiện đại",
           "example": "The apartment has all mod cons, including a dishwasher and a dryer.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Căn hộ có đầy đủ tiện nghi hiện đại, bao gồm cả máy rửa bát và máy sấy."
         },
         {
           "word": "break the mould",
@@ -721,7 +1185,8 @@
           "definition_vi": "phá cách, làm điều khác biệt, phá vỡ khuôn mẫu",
           "example": "This new design really breaks the mould.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Thiết kế mới này thực sự phá vỡ những khuôn mẫu cũ."
         },
         {
           "word": "change your tune",
@@ -730,7 +1195,8 @@
           "definition_vi": "thay đổi thái độ/ý kiến",
           "example": "He was against the plan at first, but he's changed his tune now.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Lúc đầu anh ấy phản đối kế hoạch, nhưng giờ anh ấy đã đổi ý rồi."
         },
         {
           "word": "have a change of heart",
@@ -739,7 +1205,8 @@
           "definition_vi": "thay đổi ý định/cảm xúc",
           "example": "She was going to sell the house, but she had a change of heart.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cô ấy đã định bán nhà, nhưng sau đó lại đổi ý."
         },
         {
           "word": "know sth inside out",
@@ -748,7 +1215,8 @@
           "definition_vi": "hiểu rõ cái gì tận tường/chân tơ kẽ tóc",
           "example": "He knows the system inside out.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Anh ấy hiểu rõ hệ thống này như lòng bàn tay."
         },
         {
           "word": "reinvent the wheel",
@@ -757,7 +1225,8 @@
           "definition_vi": "mất công làm những việc mà người khác đã làm tốt rồi",
           "example": "There's no need to reinvent the wheel - we can use the existing software.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Không cần phải chế tạo lại bánh xe đâu - chúng ta có thể sử dụng phần mềm hiện có."
         },
         {
           "word": "stick to your guns",
@@ -766,7 +1235,8 @@
           "definition_vi": "giữ vững quan điểm/lập trường",
           "example": "He stuck to his guns despite all the criticism.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Anh ấy vẫn giữ vững lập trường bất chấp mọi lời chỉ trích."
         },
         {
           "word": "the tools of the trade",
@@ -775,7 +1245,8 @@
           "definition_vi": "công cụ hành nghề",
           "example": "A good computer is one of the tools of the trade for a programmer.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Một chiếc máy tính tốt là một trong những công cụ hành nghề của một lập trình viên."
         },
         {
           "word": "turn over a new leaf",
@@ -784,7 +1255,8 @@
           "definition_vi": "cải tà quy chính, bước sang trang mới (thay đổi tốt hơn)",
           "example": "He's decided to turn over a new leaf and stop smoking.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Anh ấy đã quyết định bước sang một trang mới và bỏ thuốc lá."
         }
       ]
     }
@@ -866,84 +1338,144 @@
           "answer": "C",
           "explanation": "In the context of a way of life continuing, 'last' is the most appropriate verb.",
           "number": 1,
-          "options": ["A sustain", "B maintain", "C last", "D be"],
+          "options": [
+            "A sustain",
+            "B maintain",
+            "C last",
+            "D be"
+          ],
           "sentence": "It seemed to the generation of Britons alive before the Second World War that their way of life would (1) ___ for many years to come."
         },
         {
           "answer": "A",
           "explanation": "A 'revolution' refers to a sudden and major change.",
           "number": 2,
-          "options": ["A revolution", "B revision", "C rotation", "D rejection"],
+          "options": [
+            "A revolution",
+            "B revision",
+            "C rotation",
+            "D rejection"
+          ],
           "sentence": "However, the war caused a (2) ___ in British life that completely changed the..."
         },
         {
           "answer": "B",
           "explanation": "'Status quo' refers to the existing state of affairs.",
           "number": 3,
-          "options": ["A social status", "B status quo", "C status symbol", "D high status"],
+          "options": [
+            "A social status",
+            "B status quo",
+            "C status symbol",
+            "D high status"
+          ],
           "sentence": "...completely changed the (3) ___ ."
         },
         {
           "answer": "A",
           "explanation": "A 'uniform' society is one where things are the same everywhere.",
           "number": 4,
-          "options": ["A uniform", "B same", "C similar", "D identical"],
+          "options": [
+            "A uniform",
+            "B same",
+            "C similar",
+            "D identical"
+          ],
           "sentence": "What had been a fairly (4) ___ society up to that point..."
         },
         {
           "answer": "D",
           "explanation": "'Radical' changes are fundamental and extreme.",
           "number": 5,
-          "options": ["A refined", "B potential", "C alternative", "D radical"],
+          "options": [
+            "A refined",
+            "B potential",
+            "C alternative",
+            "D radical"
+          ],
           "sentence": "...underwent (5) ___ changes after the war."
         },
         {
           "answer": "B",
           "explanation": "A 'trend' is a general direction in which something is developing.",
           "number": 6,
-          "options": ["A reform", "B trend", "C fashion", "D decay"],
+          "options": [
+            "A reform",
+            "B trend",
+            "C fashion",
+            "D decay"
+          ],
           "sentence": "The (6) ___ was away from fixed social roles..."
         },
         {
           "answer": "C",
           "explanation": "A 'dynamic' society is one that is active and constantly changing.",
           "number": 7,
-          "options": ["A revised", "B amended", "C dynamic", "D different"],
+          "options": [
+            "A revised",
+            "B amended",
+            "C dynamic",
+            "D different"
+          ],
           "sentence": "...towards a more (7) ___ society."
         },
         {
           "answer": "D",
           "explanation": "'Evolve' means to develop gradually over time.",
           "number": 8,
-          "options": ["A refine", "B progress", "C substitute", "D evolve"],
+          "options": [
+            "A refine",
+            "B progress",
+            "C substitute",
+            "D evolve"
+          ],
           "sentence": "Britain began to (8) ___ into its present form..."
         },
         {
           "answer": "A",
           "explanation": "'Novel' means new and unusual/exciting.",
           "number": 9,
-          "options": ["A novel", "B mature", "C alternate", "D steady"],
+          "options": [
+            "A novel",
+            "B mature",
+            "C alternate",
+            "D steady"
+          ],
           "sentence": "...were at the time (9) ___ and exciting."
         },
         {
           "answer": "D",
           "explanation": "'Innovative' music/fashion uses new ideas.",
           "number": 10,
-          "options": ["A internal", "B incoherent", "C innate", "D innovative"],
+          "options": [
+            "A internal",
+            "B incoherent",
+            "C innate",
+            "D innovative"
+          ],
           "sentence": "New and (10) ___ music and fashion..."
         },
         {
           "answer": "C",
           "explanation": "To have an 'influence' on someone means to affect them.",
           "number": 11,
-          "options": ["A substitute", "B progress", "C influence", "D innovation"],
+          "options": [
+            "A substitute",
+            "B progress",
+            "C influence",
+            "D innovation"
+          ],
           "sentence": "...had a great (11) ___ on young people..."
         },
         {
           "answer": "A",
           "explanation": "'Conservative' means traditional and resistant to change.",
           "number": 12,
-          "options": ["A conservative", "B concerned", "C convinced", "D contained"],
+          "options": [
+            "A conservative",
+            "B concerned",
+            "C convinced",
+            "D contained"
+          ],
           "sentence": "...and the whole of Britain became less (12) ___ ."
         }
       ],

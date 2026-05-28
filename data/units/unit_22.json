@@ -12,8 +12,15 @@
           "definition_en": "to make a bad situation worse",
           "definition_vi": "làm trầm trọng thêm",
           "example": "His inflammatory comments are just aggravating an already difficult situation.",
-          "synonyms": ["exacerbate", "worsen"],
-          "collocations": ["aggravate a situation", "aggravate an injury"]
+          "synonyms": [
+            "exacerbate",
+            "worsen"
+          ],
+          "collocations": [
+            "aggravate a situation",
+            "aggravate an injury"
+          ],
+          "example_vi": "Những lời bình luận gây kích động của ông ta chỉ làm trầm trọng thêm một tình huống vốn đã khó khăn."
         },
         {
           "word": "better",
@@ -21,8 +28,15 @@
           "definition_en": "to be or do something better than someone or something else",
           "definition_vi": "vượt qua, làm tốt hơn",
           "example": "I set the school record eight years ago and it's never been bettered.",
-          "synonyms": ["surpass", "exceed"],
-          "collocations": ["better a record", "better your performance"]
+          "synonyms": [
+            "surpass",
+            "exceed"
+          ],
+          "collocations": [
+            "better a record",
+            "better your performance"
+          ],
+          "example_vi": "Tôi đã lập kỷ lục của trường từ tám năm trước và nó chưa bao giờ bị phá vỡ."
         },
         {
           "word": "blemish",
@@ -30,8 +44,15 @@
           "definition_en": "a mark or stain that spoils the appearance of something or someone",
           "definition_vi": "vết nhơ, khiếm khuyết (trên bề mặt)",
           "example": "The face in the picture is angelic, except for that tiny blemish just below the eye.",
-          "synonyms": ["flaw", "imperfection"],
-          "collocations": ["skin blemish", "minor blemish"]
+          "synonyms": [
+            "flaw",
+            "imperfection"
+          ],
+          "collocations": [
+            "skin blemish",
+            "minor blemish"
+          ],
+          "example_vi": "Khuôn mặt trong bức ảnh đẹp tựa thiên thần, ngoại trừ một tì vết nhỏ ngay dưới mắt."
         },
         {
           "word": "chaos",
@@ -39,8 +60,15 @@
           "definition_en": "a state of total confusion and lack of order",
           "definition_vi": "sự hỗn loạn",
           "example": "The rock festival was fun, but it was marred by the organisation, which was a chaos.",
-          "synonyms": ["disorder", "turmoil"],
-          "collocations": ["total chaos", "descend into chaos"]
+          "synonyms": [
+            "disorder",
+            "turmoil"
+          ],
+          "collocations": [
+            "total chaos",
+            "descend into chaos"
+          ],
+          "example_vi": "Lễ hội nhạc rock rất vui, nhưng nó đã bị phá hỏng bởi khâu tổ chức hỗn loạn."
         },
         {
           "word": "cheapen",
@@ -48,8 +76,15 @@
           "definition_en": "to make someone or something seem less valuable or respected",
           "definition_vi": "làm rẻ rúng, làm mất giá trị",
           "example": "Pop songs have cheapened the word 'love' so that it's meaningless nowadays.",
-          "synonyms": ["degrade", "devalue"],
-          "collocations": ["cheapen yourself", "cheapen the brand"]
+          "synonyms": [
+            "degrade",
+            "devalue"
+          ],
+          "collocations": [
+            "cheapen yourself",
+            "cheapen the brand"
+          ],
+          "example_vi": "Những bài hát nhạc Pop đã làm tầm thường hóa từ 'yêu' khiến nó trở nên vô nghĩa vào ngày nay."
         },
         {
           "word": "contaminate",
@@ -57,8 +92,15 @@
           "definition_en": "to make something dirty, polluted, or poisonous by adding a chemical, waste, or infection",
           "definition_vi": "làm ô nhiễm, làm bẩn",
           "example": "A lorry carrying chemicals has crashed into a river and has contaminated the local water supply.",
-          "synonyms": ["pollute", "taint"],
-          "collocations": ["contaminate the soil", "cross-contaminate"]
+          "synonyms": [
+            "pollute",
+            "taint"
+          ],
+          "collocations": [
+            "contaminate the soil",
+            "cross-contaminate"
+          ],
+          "example_vi": "Một chiếc xe tải chở hóa chất đã lao xuống sông và làm ô nhiễm nguồn cung cấp nước địa phương."
         },
         {
           "word": "decay",
@@ -66,8 +108,15 @@
           "definition_en": "to be gradually destroyed by a natural process",
           "definition_vi": "phân hủy, mục nát",
           "example": "Sugar makes your teeth decay.",
-          "synonyms": ["rot", "decompose"],
-          "collocations": ["tooth decay", "urban decay"]
+          "synonyms": [
+            "rot",
+            "decompose"
+          ],
+          "collocations": [
+            "tooth decay",
+            "urban decay"
+          ],
+          "example_vi": "Đường làm cho răng bạn bị sâu."
         },
         {
           "word": "decline",
@@ -75,8 +124,15 @@
           "definition_en": "to become less or worse",
           "definition_vi": "suy giảm, giảm sút",
           "example": "The number of school-leavers going on to university has declined since the government introduced tuition fees.",
-          "synonyms": ["decrease", "deteriorate"],
-          "collocations": ["decline in quality", "sharply decline"]
+          "synonyms": [
+            "decrease",
+            "deteriorate"
+          ],
+          "collocations": [
+            "decline in quality",
+            "sharply decline"
+          ],
+          "example_vi": "Số lượng học sinh tốt nghiệp phổ thông vào đại học đã giảm kể từ khi chính phủ áp dụng học phí."
         },
         {
           "word": "defective",
@@ -84,8 +140,15 @@
           "definition_en": "not working correctly because of a fault",
           "definition_vi": "bị lỗi, có khiếm khuyết",
           "example": "This CD-ROM drive isn't working properly; it must be defective.",
-          "synonyms": ["faulty", "flawed"],
-          "collocations": ["defective goods", "defective brakes"]
+          "synonyms": [
+            "faulty",
+            "flawed"
+          ],
+          "collocations": [
+            "defective goods",
+            "defective brakes"
+          ],
+          "example_vi": "Ổ đĩa CD-ROM này không hoạt động bình thường; chắc hẳn nó bị lỗi."
         },
         {
           "word": "detrimental",
@@ -93,8 +156,15 @@
           "definition_en": "harmful or damaging",
           "definition_vi": "có hại, gây bất lợi",
           "example": "I think the government's measures are going to do quite a lot of damage; they are detrimental to the economy.",
-          "synonyms": ["harmful", "damaging"],
-          "collocations": ["detrimental effect", "detrimental impact"]
+          "synonyms": [
+            "harmful",
+            "damaging"
+          ],
+          "collocations": [
+            "detrimental effect",
+            "detrimental impact"
+          ],
+          "example_vi": "Tôi nghĩ các biện pháp của chính phủ sẽ gây ra khá nhiều thiệt hại; chúng có hại cho nền kinh tế."
         },
         {
           "word": "devastate",
@@ -102,8 +172,15 @@
           "definition_en": "to cause great damage or suffering to something or someone",
           "definition_vi": "tàn phá, phá hủy hoàn toàn",
           "example": "The town was devastated by the hurricane.",
-          "synonyms": ["destroy", "wreck"],
-          "collocations": ["devastate a country", "be devastated by news"]
+          "synonyms": [
+            "destroy",
+            "wreck"
+          ],
+          "collocations": [
+            "devastate a country",
+            "be devastated by news"
+          ],
+          "example_vi": "Thị trấn đã bị tàn phá bởi cơn bão."
         },
         {
           "word": "enhance",
@@ -111,8 +188,15 @@
           "definition_en": "to improve something",
           "definition_vi": "nâng cao, cải thiện",
           "example": "This new browser should enhance everyone's experience online.",
-          "synonyms": ["improve", "boost"],
-          "collocations": ["enhance your reputation", "enhance features"]
+          "synonyms": [
+            "improve",
+            "boost"
+          ],
+          "collocations": [
+            "enhance your reputation",
+            "enhance features"
+          ],
+          "example_vi": "Trình duyệt mới này sẽ nâng cao trải nghiệm trực tuyến của mọi người."
         },
         {
           "word": "evaluate",
@@ -120,8 +204,15 @@
           "definition_en": "to think carefully about something before making a judgment about its value, importance, or quality",
           "definition_vi": "đánh giá",
           "example": "The inspectors are going to be evaluating the performance of every teacher.",
-          "synonyms": ["assess", "appraise"],
-          "collocations": ["evaluate performance", "evaluate progress"]
+          "synonyms": [
+            "assess",
+            "appraise"
+          ],
+          "collocations": [
+            "evaluate performance",
+            "evaluate progress"
+          ],
+          "example_vi": "Các thanh tra sẽ đánh giá hiệu quả làm việc của từng giáo viên."
         },
         {
           "word": "exacerbate",
@@ -129,8 +220,15 @@
           "definition_en": "to make a problem become worse",
           "definition_vi": "làm trầm trọng thêm",
           "example": "The Minister's inflammatory comments are just exacerbating an already difficult situation.",
-          "synonyms": ["aggravate", "worsen"],
-          "collocations": ["exacerbate a problem", "exacerbate tensions"]
+          "synonyms": [
+            "aggravate",
+            "worsen"
+          ],
+          "collocations": [
+            "exacerbate a problem",
+            "exacerbate tensions"
+          ],
+          "example_vi": "Những lời bình luận gây kích động của vị Bộ trưởng chỉ làm trầm trọng thêm một tình huống vốn đã khó khăn."
         },
         {
           "word": "exquisite",
@@ -138,8 +236,15 @@
           "definition_en": "extremely beautiful and delicate",
           "definition_vi": "tinh xảo, cực kỳ đẹp",
           "example": "I've never seen a more beautiful diamond! It's exquisite.",
-          "synonyms": ["beautiful", "superb"],
-          "collocations": ["exquisite taste", "exquisite detail"]
+          "synonyms": [
+            "beautiful",
+            "superb"
+          ],
+          "collocations": [
+            "exquisite taste",
+            "exquisite detail"
+          ],
+          "example_vi": "Tôi chưa bao giờ thấy viên kim cương nào đẹp hơn thế! Thật tuyệt vời."
         },
         {
           "word": "first-rate",
@@ -147,8 +252,15 @@
           "definition_en": "of the highest quality",
           "definition_vi": "hạng nhất, tuyệt vời",
           "example": "Excellent work. Well done! It's first-rate.",
-          "synonyms": ["excellent", "top-quality"],
-          "collocations": ["first-rate service", "first-rate education"]
+          "synonyms": [
+            "excellent",
+            "top-quality"
+          ],
+          "collocations": [
+            "first-rate service",
+            "first-rate education"
+          ],
+          "example_vi": "Công việc tuyệt vời. Làm tốt lắm! Thật là hạng nhất."
         },
         {
           "word": "flaw",
@@ -156,8 +268,15 @@
           "definition_en": "a mistake or fault in something that makes it less than perfect",
           "definition_vi": "thiếu sót, lỗi",
           "example": "The plan has several serious flaws.",
-          "synonyms": ["defect", "blemish"],
-          "collocations": ["fatal flaw", "character flaw"]
+          "synonyms": [
+            "defect",
+            "blemish"
+          ],
+          "collocations": [
+            "fatal flaw",
+            "character flaw"
+          ],
+          "example_vi": "Bản kế hoạch có vài thiếu sót nghiêm trọng."
         },
         {
           "word": "ideal",
@@ -165,8 +284,15 @@
           "definition_en": "perfect, or the best possible",
           "definition_vi": "lý tưởng",
           "example": "This is exactly what I need; it's the ideal solution.",
-          "synonyms": ["perfect", "model"],
-          "collocations": ["ideal conditions", "ideal candidate"]
+          "synonyms": [
+            "perfect",
+            "model"
+          ],
+          "collocations": [
+            "ideal conditions",
+            "ideal candidate"
+          ],
+          "example_vi": "Đây chính xác là những gì tôi cần; nó là giải pháp lý tưởng."
         },
         {
           "word": "inadequate",
@@ -174,8 +300,15 @@
           "definition_en": "not enough or not good enough for a particular purpose",
           "definition_vi": "không đủ, không thỏa đáng",
           "example": "The current security measures are inadequate.",
-          "synonyms": ["insufficient", "deficient"],
-          "collocations": ["inadequate funding", "feel inadequate"]
+          "synonyms": [
+            "insufficient",
+            "deficient"
+          ],
+          "collocations": [
+            "inadequate funding",
+            "feel inadequate"
+          ],
+          "example_vi": "Các biện pháp an ninh hiện tại là không đầy đủ."
         },
         {
           "word": "invaluable",
@@ -183,8 +316,15 @@
           "definition_en": "extremely useful",
           "definition_vi": "vô giá, cực kỳ hữu ích",
           "example": "The job couldn't have been done without your help; your advice was invaluable.",
-          "synonyms": ["priceless", "indispensable"],
-          "collocations": ["invaluable experience", "invaluable contribution"]
+          "synonyms": [
+            "priceless",
+            "indispensable"
+          ],
+          "collocations": [
+            "invaluable experience",
+            "invaluable contribution"
+          ],
+          "example_vi": "Công việc không thể hoàn thành nếu thiếu sự giúp đỡ của bạn; lời khuyên của bạn là vô giá."
         },
         {
           "word": "optimum",
@@ -192,8 +332,15 @@
           "definition_en": "the best or most suitable amount or level of something",
           "definition_vi": "tối ưu",
           "example": "Four is the right number of people for this project; it's the optimum number.",
-          "synonyms": ["ideal", "best"],
-          "collocations": ["optimum level", "optimum performance"]
+          "synonyms": [
+            "ideal",
+            "best"
+          ],
+          "collocations": [
+            "optimum level",
+            "optimum performance"
+          ],
+          "example_vi": "Bốn người là số lượng phù hợp cho dự án này; đó là con số tối ưu."
         },
         {
           "word": "outclass",
@@ -201,8 +348,14 @@
           "definition_en": "to be much better than someone or something else",
           "definition_vi": "vượt xa về đẳng cấp",
           "example": "The visiting team completely outclassed the home side.",
-          "synonyms": ["outdo", "surpass"],
-          "collocations": ["be outclassed by"]
+          "synonyms": [
+            "outdo",
+            "surpass"
+          ],
+          "collocations": [
+            "be outclassed by"
+          ],
+          "example_vi": "Đội khách hoàn toàn vượt trội so với đội chủ nhà."
         },
         {
           "word": "prime",
@@ -210,8 +363,15 @@
           "definition_en": "most important or of the highest quality",
           "definition_vi": "quan trọng nhất, hàng đầu",
           "example": "This was the most important reason for us; it was our prime motivation.",
-          "synonyms": ["main", "top"],
-          "collocations": ["prime time", "prime example"]
+          "synonyms": [
+            "main",
+            "top"
+          ],
+          "collocations": [
+            "prime time",
+            "prime example"
+          ],
+          "example_vi": "Đây là lý do quan trọng nhất đối với chúng tôi; nó là động lực chính."
         },
         {
           "word": "redeeming feature",
@@ -219,8 +379,14 @@
           "definition_en": "a positive quality which improves something that is otherwise bad",
           "definition_vi": "điểm vớt vát, ưu điểm bù đắp",
           "example": "His honesty is the only feature about him that's positive; it's his only redeeming feature.",
-          "synonyms": ["merit", "advantage"],
-          "collocations": ["only redeeming feature"]
+          "synonyms": [
+            "merit",
+            "advantage"
+          ],
+          "collocations": [
+            "only redeeming feature"
+          ],
+          "example_vi": "Sự trung thực là đặc điểm tích cực duy nhất ở anh ta; đó là điểm gỡ gạc duy nhất của anh ta."
         },
         {
           "word": "refurbish",
@@ -228,8 +394,15 @@
           "definition_en": "to improve a room or a building by cleaning and painting it, adding new furniture, etc",
           "definition_vi": "tân trang",
           "example": "The hotel has been completely refurbished.",
-          "synonyms": ["renovate", "remodel"],
-          "collocations": ["newly refurbished", "refurbish a room"]
+          "synonyms": [
+            "renovate",
+            "remodel"
+          ],
+          "collocations": [
+            "newly refurbished",
+            "refurbish a room"
+          ],
+          "example_vi": "Khách sạn đã được tân trang lại hoàn toàn."
         },
         {
           "word": "reinforce",
@@ -237,8 +410,15 @@
           "definition_en": "to make an idea or a structure stronger",
           "definition_vi": "củng cố, tăng cường",
           "example": "The results of the survey reinforce my belief that we need to change.",
-          "synonyms": ["strengthen", "support"],
-          "collocations": ["reinforce a belief", "reinforce concrete"]
+          "synonyms": [
+            "strengthen",
+            "support"
+          ],
+          "collocations": [
+            "reinforce a belief",
+            "reinforce concrete"
+          ],
+          "example_vi": "Kết quả của cuộc khảo sát củng cố niềm tin của tôi rằng chúng ta cần phải thay đổi."
         },
         {
           "word": "renovate",
@@ -246,8 +426,15 @@
           "definition_en": "to repair and decorate a building that is old and in bad condition",
           "definition_vi": "cải tạo, nâng cấp (nhà cửa)",
           "example": "They spent thousands of pounds renovating the house.",
-          "synonyms": ["refurbish", "restore"],
-          "collocations": ["renovate a property", "renovation project"]
+          "synonyms": [
+            "refurbish",
+            "restore"
+          ],
+          "collocations": [
+            "renovate a property",
+            "renovation project"
+          ],
+          "example_vi": "Họ đã chi hàng ngàn bảng Anh để cải tạo ngôi nhà."
         },
         {
           "word": "rotten",
@@ -255,8 +442,15 @@
           "definition_en": "decayed",
           "definition_vi": "mục nát, thối rữa",
           "example": "This apple's completely black; it's rotten.",
-          "synonyms": ["decaying", "decomposed"],
-          "collocations": ["rotten fruit", "rotten luck"]
+          "synonyms": [
+            "decaying",
+            "decomposed"
+          ],
+          "collocations": [
+            "rotten fruit",
+            "rotten luck"
+          ],
+          "example_vi": "Quả táo này đen kịt rồi; nó bị thối."
         },
         {
           "word": "rusty",
@@ -264,8 +458,14 @@
           "definition_en": "covered with rust",
           "definition_vi": "bị gỉ sét",
           "example": "These metal railings are really old and brown; they are rusty.",
-          "synonyms": ["corroded"],
-          "collocations": ["rusty nail", "get rusty (skills)"]
+          "synonyms": [
+            "corroded"
+          ],
+          "collocations": [
+            "rusty nail",
+            "get rusty (skills)"
+          ],
+          "example_vi": "Những rào chắn kim loại này thực sự cũ và có màu nâu; chúng bị gỉ sét."
         },
         {
           "word": "satisfactory",
@@ -273,8 +473,15 @@
           "definition_en": "good enough to be accepted in a particular situation",
           "definition_vi": "thỏa đáng, hài lòng",
           "example": "The price seems reasonable to me. I'll take it. It's satisfactory.",
-          "synonyms": ["adequate", "acceptable"],
-          "collocations": ["satisfactory result", "satisfactory explanation"]
+          "synonyms": [
+            "adequate",
+            "acceptable"
+          ],
+          "collocations": [
+            "satisfactory result",
+            "satisfactory explanation"
+          ],
+          "example_vi": "Giá cả đối với tôi có vẻ hợp lý. Tôi sẽ lấy nó. Rất thỏa đáng."
         },
         {
           "word": "shambles",
@@ -282,8 +489,15 @@
           "definition_en": "a situation in which there is a lot of confusion or lack of organization",
           "definition_vi": "tình trạng hỗn độn, đống lộn xộn",
           "example": "The rock festival was fun, but it was marred by the organisation, which was a shambles.",
-          "synonyms": ["mess", "chaos"],
-          "collocations": ["be a shambles", "complete shambles"]
+          "synonyms": [
+            "mess",
+            "chaos"
+          ],
+          "collocations": [
+            "be a shambles",
+            "complete shambles"
+          ],
+          "example_vi": "Lễ hội nhạc rock rất vui, nhưng nó đã bị phá hỏng bởi khâu tổ chức vốn là một mớ hỗn độn."
         },
         {
           "word": "shoddy",
@@ -291,8 +505,15 @@
           "definition_en": "shoddy work, services, or products are of a very low standard",
           "definition_vi": "cẩu thả, kém chất lượng",
           "example": "The workmanship on this cabinet isn't very good; it's shoddy.",
-          "synonyms": ["poor", "cheap"],
-          "collocations": ["shoddy workmanship", "shoddy treatment"]
+          "synonyms": [
+            "poor",
+            "cheap"
+          ],
+          "collocations": [
+            "shoddy workmanship",
+            "shoddy treatment"
+          ],
+          "example_vi": "Tay nghề làm chiếc tủ này không tốt lắm; nó thật cẩu thả."
         },
         {
           "word": "sound",
@@ -300,8 +521,15 @@
           "definition_en": "involving or based on good judgment",
           "definition_vi": "hợp lý, đúng đắn",
           "example": "I think it was a sensible decision; it was sound advice.",
-          "synonyms": ["logical", "reliable"],
-          "collocations": ["sound judgment", "sound financial advice"]
+          "synonyms": [
+            "logical",
+            "reliable"
+          ],
+          "collocations": [
+            "sound judgment",
+            "sound financial advice"
+          ],
+          "example_vi": "Tôi nghĩ đó là một quyết định sáng suốt; đó là một lời khuyên đúng đắn."
         },
         {
           "word": "stale",
@@ -309,8 +537,15 @@
           "definition_en": "stale food such as bread or cake is no longer fresh or good to eat",
           "definition_vi": "cũ, thiu, hỏng (thức ăn)",
           "example": "This bread's not very fresh; it's stale.",
-          "synonyms": ["hard", "old"],
-          "collocations": ["stale bread", "stale air"]
+          "synonyms": [
+            "hard",
+            "old"
+          ],
+          "collocations": [
+            "stale bread",
+            "stale air"
+          ],
+          "example_vi": "Bánh mì này không còn tươi nữa; nó đã bị cũ."
         },
         {
           "word": "streamline",
@@ -318,8 +553,15 @@
           "definition_en": "to improve a business, organization, or process by making it more modern or simple",
           "definition_vi": "tinh giản, cải tiến",
           "example": "The procedure's good, but I think we can streamline it further to make it more efficient.",
-          "synonyms": ["simplify", "rationalize"],
-          "collocations": ["streamline the process", "streamline production"]
+          "synonyms": [
+            "simplify",
+            "rationalize"
+          ],
+          "collocations": [
+            "streamline the process",
+            "streamline production"
+          ],
+          "example_vi": "Quy trình này tốt, nhưng tôi nghĩ chúng ta có thể tinh giản nó hơn nữa để tăng tính hiệu quả."
         },
         {
           "word": "strengthen",
@@ -327,8 +569,15 @@
           "definition_en": "to make something stronger",
           "definition_vi": "làm mạnh thêm, củng cố",
           "example": "We need to strengthen the bridge.",
-          "synonyms": ["reinforce", "boost"],
-          "collocations": ["strengthen resolve", "strengthen links"]
+          "synonyms": [
+            "reinforce",
+            "boost"
+          ],
+          "collocations": [
+            "strengthen resolve",
+            "strengthen links"
+          ],
+          "example_vi": "Chúng ta cần gia cố cây cầu."
         },
         {
           "word": "surpass",
@@ -336,8 +585,15 @@
           "definition_en": "to be better or greater than something else",
           "definition_vi": "vượt qua, vượt trội",
           "example": "We must never let inflation surpass the three per cent mark again.",
-          "synonyms": ["exceed", "better"],
-          "collocations": ["surpass expectations", "surpass all records"]
+          "synonyms": [
+            "exceed",
+            "better"
+          ],
+          "collocations": [
+            "surpass expectations",
+            "surpass all records"
+          ],
+          "example_vi": "Chúng ta không bao giờ được phép để lạm phát vượt ngưỡng 3% một lần nữa."
         },
         {
           "word": "ultimate",
@@ -345,8 +601,15 @@
           "definition_en": "happening at the end of a long process; or the best or most extreme example of something",
           "definition_vi": "cuối cùng, tột bậc",
           "example": "It's the most exciting experience you'll ever have! The ultimate experience.",
-          "synonyms": ["final", "supreme"],
-          "collocations": ["ultimate goal", "ultimate sacrifice"]
+          "synonyms": [
+            "final",
+            "supreme"
+          ],
+          "collocations": [
+            "ultimate goal",
+            "ultimate sacrifice"
+          ],
+          "example_vi": "Đó là trải nghiệm thú vị nhất mà bạn từng có! Một trải nghiệm đỉnh cao."
         },
         {
           "word": "worsen",
@@ -354,8 +617,15 @@
           "definition_en": "to become worse, or to make something worse",
           "definition_vi": "làm tệ đi, trở nên tệ hơn",
           "example": "This accident has worsened Dagli's chances of competing in the final.",
-          "synonyms": ["aggravate", "deteriorate"],
-          "collocations": ["worsen a situation", "worsen conditions"]
+          "synonyms": [
+            "aggravate",
+            "deteriorate"
+          ],
+          "collocations": [
+            "worsen a situation",
+            "worsen conditions"
+          ],
+          "example_vi": "Tai nạn này đã làm giảm đi cơ hội thi đấu trong trận chung kết của Dagli."
         },
         {
           "word": "wreck",
@@ -363,8 +633,15 @@
           "definition_en": "to severely damage something; or a vehicle or building that has been badly damaged",
           "definition_vi": "phá hỏng, tàn phá; đống đổ nát",
           "example": "The ship was a total wreck.",
-          "synonyms": ["ruin", "destroy"],
-          "collocations": ["wreck a car", "emotional wreck"]
+          "synonyms": [
+            "ruin",
+            "destroy"
+          ],
+          "collocations": [
+            "wreck a car",
+            "emotional wreck"
+          ],
+          "example_vi": "Con tàu đã hoàn toàn trở thành một đống đổ nát."
         }
       ]
     },
@@ -377,8 +654,14 @@
           "definition_en": "abstract art expresses ideas and emotions by using shapes and colours rather than representing people or things",
           "definition_vi": "trừu tượng",
           "example": "The catalogue will help you work out what the artist was trying to express in these abstract paintings.",
-          "synonyms": ["non-representational"],
-          "collocations": ["abstract art", "abstract expressionism"]
+          "synonyms": [
+            "non-representational"
+          ],
+          "collocations": [
+            "abstract art",
+            "abstract expressionism"
+          ],
+          "example_vi": "Cuốn danh mục sẽ giúp bạn hiểu được những gì người nghệ sĩ đang cố gắng thể hiện trong những bức tranh trừu tượng này."
         },
         {
           "word": "auction",
@@ -386,8 +669,14 @@
           "definition_en": "a public occasion when things are sold to the people who offer the most money for them",
           "definition_vi": "cuộc đấu giá",
           "example": "You don't have to be rich to attend an auction.",
-          "synonyms": ["public sale"],
-          "collocations": ["put up for auction", "auction house"]
+          "synonyms": [
+            "public sale"
+          ],
+          "collocations": [
+            "put up for auction",
+            "auction house"
+          ],
+          "example_vi": "Bạn không cần phải giàu mới có thể tham dự một buổi đấu giá."
         },
         {
           "word": "audition",
@@ -395,8 +684,15 @@
           "definition_en": "a short performance that an actor, musician, etc. gives in order to show they are suitable for a job",
           "definition_vi": "buổi thử giọng/thử vai",
           "example": "I've got an audition for a part in a play.",
-          "synonyms": ["trial", "test"],
-          "collocations": ["hold auditions", "go for an audition"]
+          "synonyms": [
+            "trial",
+            "test"
+          ],
+          "collocations": [
+            "hold auditions",
+            "go for an audition"
+          ],
+          "example_vi": "Tôi có một buổi thử vai cho một vai diễn trong một vở kịch."
         },
         {
           "word": "bestseller",
@@ -404,8 +700,15 @@
           "definition_en": "a book that many people buy",
           "definition_vi": "cuốn sách bán chạy nhất",
           "example": "Her latest novel became a bestseller within weeks of being published.",
-          "synonyms": ["hit", "success"],
-          "collocations": ["international bestseller", "bestseller list"]
+          "synonyms": [
+            "hit",
+            "success"
+          ],
+          "collocations": [
+            "international bestseller",
+            "bestseller list"
+          ],
+          "example_vi": "Cuốn tiểu thuyết mới nhất của cô ấy đã trở thành sách bán chạy nhất chỉ trong vài tuần sau khi xuất bản."
         },
         {
           "word": "collector's item",
@@ -413,8 +716,14 @@
           "definition_en": "a rare or valuable object that people want to collect",
           "definition_vi": "món đồ đáng sưu tầm",
           "example": "On any one day at the auction, there may be collector's items.",
-          "synonyms": ["curio", "collectable"],
-          "collocations": ["rare collector's item"]
+          "synonyms": [
+            "curio",
+            "collectable"
+          ],
+          "collocations": [
+            "rare collector's item"
+          ],
+          "example_vi": "Vào bất kỳ ngày nào tại buổi đấu giá, có thể sẽ có những món đồ sưu tầm."
         },
         {
           "word": "curator",
@@ -422,8 +731,15 @@
           "definition_en": "someone whose job is to look after the objects in a museum or art gallery",
           "definition_vi": "người phụ trách bảo tàng/phòng tranh",
           "example": "We got chatting to the curator, who told us an interesting story about one picture.",
-          "synonyms": ["keeper", "guardian"],
-          "collocations": ["museum curator", "gallery curator"]
+          "synonyms": [
+            "keeper",
+            "guardian"
+          ],
+          "collocations": [
+            "museum curator",
+            "gallery curator"
+          ],
+          "example_vi": "Chúng tôi đã trò chuyện với người quản lý bảo tàng, người đã kể cho chúng tôi một câu chuyện thú vị về một bức tranh."
         },
         {
           "word": "fine art",
@@ -431,8 +747,14 @@
           "definition_en": "objects such as paintings and sculptures that are created to be looked at because they are beautiful or interesting",
           "definition_vi": "mỹ thuật",
           "example": "The course covers both fine art and graphic design.",
-          "synonyms": ["visual arts"],
-          "collocations": ["fine art gallery", "degree in fine art"]
+          "synonyms": [
+            "visual arts"
+          ],
+          "collocations": [
+            "fine art gallery",
+            "degree in fine art"
+          ],
+          "example_vi": "Khóa học bao gồm cả mỹ thuật và thiết kế đồ họa."
         },
         {
           "word": "installation",
@@ -440,8 +762,14 @@
           "definition_en": "a piece of art that consists of several different objects or pictures arranged to create a particular effect",
           "definition_vi": "nghệ thuật sắp đặt",
           "example": "Galleries often display bizarre installations, such as a pile of bricks.",
-          "synonyms": ["art setup"],
-          "collocations": ["art installation", "video installation"]
+          "synonyms": [
+            "art setup"
+          ],
+          "collocations": [
+            "art installation",
+            "video installation"
+          ],
+          "example_vi": "Các phòng triển lãm thường trưng bày những tác phẩm sắp đặt kỳ lạ, chẳng hạn như một đống gạch."
         },
         {
           "word": "lines",
@@ -449,8 +777,14 @@
           "definition_en": "the words that an actor must learn for a particular part in a play or film",
           "definition_vi": "lời thoại",
           "example": "I've learnt all my lines for the play.",
-          "synonyms": ["script"],
-          "collocations": ["learn your lines", "forget your lines"]
+          "synonyms": [
+            "script"
+          ],
+          "collocations": [
+            "learn your lines",
+            "forget your lines"
+          ],
+          "example_vi": "Tôi đã thuộc tất cả lời thoại của mình cho vở kịch."
         },
         {
           "word": "lyrics",
@@ -458,8 +792,14 @@
           "definition_en": "the words of a song",
           "definition_vi": "lời bài hát",
           "example": "I'm just no good at remembering lyrics.",
-          "synonyms": ["song words"],
-          "collocations": ["write lyrics", "meaningful lyrics"]
+          "synonyms": [
+            "song words"
+          ],
+          "collocations": [
+            "write lyrics",
+            "meaningful lyrics"
+          ],
+          "example_vi": "Tôi thực sự không giỏi nhớ lời bài hát."
         },
         {
           "word": "masterpiece",
@@ -467,8 +807,15 @@
           "definition_en": "an excellent painting, book, piece of music, etc., or the best work that a particular artist, writer, or musician has ever produced",
           "definition_vi": "kiệt tác",
           "example": "The Mona Lisa is da Vinci's masterpiece.",
-          "synonyms": ["magnum opus", "classic"],
-          "collocations": ["artistic masterpiece", "literary masterpiece"]
+          "synonyms": [
+            "magnum opus",
+            "classic"
+          ],
+          "collocations": [
+            "artistic masterpiece",
+            "literary masterpiece"
+          ],
+          "example_vi": "Bức Mona Lisa là kiệt tác của da Vinci."
         },
         {
           "word": "paperback",
@@ -476,8 +823,13 @@
           "definition_en": "a book with a soft cover",
           "definition_vi": "sách bìa mềm",
           "example": "I'm waiting for the book to come out in paperback.",
-          "synonyms": ["softback"],
-          "collocations": ["mass-market paperback"]
+          "synonyms": [
+            "softback"
+          ],
+          "collocations": [
+            "mass-market paperback"
+          ],
+          "example_vi": "Tôi đang đợi cuốn sách ra mắt bản bìa mềm."
         },
         {
           "word": "period",
@@ -485,8 +837,15 @@
           "definition_en": "typical of a particular historical time",
           "definition_vi": "thuộc về một thời kỳ lịch sử",
           "example": "The catalogue includes period furniture from the 18th century.",
-          "synonyms": ["historical", "classic"],
-          "collocations": ["period drama", "period costume"]
+          "synonyms": [
+            "historical",
+            "classic"
+          ],
+          "collocations": [
+            "period drama",
+            "period costume"
+          ],
+          "example_vi": "Cuốn danh mục bao gồm đồ nội thất cổ từ thế kỷ 18."
         },
         {
           "word": "priceless",
@@ -494,8 +853,15 @@
           "definition_en": "too valuable to be given a price",
           "definition_vi": "vô giá",
           "example": "In fact, the painting turned out to be priceless!",
-          "synonyms": ["invaluable", "precious"],
-          "collocations": ["priceless antiques", "priceless advice"]
+          "synonyms": [
+            "invaluable",
+            "precious"
+          ],
+          "collocations": [
+            "priceless antiques",
+            "priceless advice"
+          ],
+          "example_vi": "Trên thực tế, bức tranh hóa ra là vô giá!"
         },
         {
           "word": "recital",
@@ -503,8 +869,15 @@
           "definition_en": "a performance of music or poetry",
           "definition_vi": "buổi độc tấu, buổi ngâm thơ",
           "example": "The school orchestra's giving a recital tonight.",
-          "synonyms": ["concert", "performance"],
-          "collocations": ["piano recital", "poetry recital"]
+          "synonyms": [
+            "concert",
+            "performance"
+          ],
+          "collocations": [
+            "piano recital",
+            "poetry recital"
+          ],
+          "example_vi": "Dàn nhạc của trường sẽ có một buổi biểu diễn tối nay."
         },
         {
           "word": "retrospective",
@@ -512,8 +885,13 @@
           "definition_en": "an exhibition that includes examples of a particular artist's work from their whole career",
           "definition_vi": "triển lãm hồi tưởng (nhìn lại sự nghiệp)",
           "example": "We went to that retrospective of Lewis' paintings last week.",
-          "synonyms": ["career review"],
-          "collocations": ["retrospective exhibition"]
+          "synonyms": [
+            "career review"
+          ],
+          "collocations": [
+            "retrospective exhibition"
+          ],
+          "example_vi": "Tuần trước chúng tôi đã đi xem buổi triển lãm hồi tưởng những bức tranh của Lewis."
         },
         {
           "word": "score",
@@ -521,8 +899,15 @@
           "definition_en": "the music written for a film or play",
           "definition_vi": "nhạc phim, bản nhạc",
           "example": "He's written the score for a number of movies.",
-          "synonyms": ["soundtrack", "musical arrangement"],
-          "collocations": ["film score", "original score"]
+          "synonyms": [
+            "soundtrack",
+            "musical arrangement"
+          ],
+          "collocations": [
+            "film score",
+            "original score"
+          ],
+          "example_vi": "Ông ấy đã viết nhạc cho một số bộ phim."
         },
         {
           "word": "sketch",
@@ -530,8 +915,15 @@
           "definition_en": "a simple picture that is drawn quickly and does not have many details",
           "definition_vi": "bản phác thảo",
           "example": "On any one day, there may be sketches in pencil.",
-          "synonyms": ["draft", "drawing"],
-          "collocations": ["rough sketch", "sketchbook"]
+          "synonyms": [
+            "draft",
+            "drawing"
+          ],
+          "collocations": [
+            "rough sketch",
+            "sketchbook"
+          ],
+          "example_vi": "Vào bất kỳ ngày nào, có thể có những bức phác thảo bằng bút chì."
         },
         {
           "word": "work of art",
@@ -539,8 +931,13 @@
           "definition_en": "something such as a painting or sculpture that is of very high quality",
           "definition_vi": "tác phẩm nghệ thuật",
           "example": "Restoring damaged or faded works of art must be really satisfying.",
-          "synonyms": ["masterpiece"],
-          "collocations": ["valuable work of art"]
+          "synonyms": [
+            "masterpiece"
+          ],
+          "collocations": [
+            "valuable work of art"
+          ],
+          "example_vi": "Việc phục chế các tác phẩm nghệ thuật bị hư hỏng hoặc phai màu hẳn là rất mãn nguyện."
         },
         {
           "word": "worthless",
@@ -548,8 +945,14 @@
           "definition_en": "not having any value, or not useful",
           "definition_vi": "vô giá trị",
           "example": "He thought the picture was worthless and gave it to a neighbour.",
-          "synonyms": ["valueless", "useless"],
-          "collocations": ["completely worthless"]
+          "synonyms": [
+            "valueless",
+            "useless"
+          ],
+          "collocations": [
+            "completely worthless"
+          ],
+          "example_vi": "Ông ấy nghĩ bức tranh vô giá trị và đã tặng nó cho một người hàng xóm."
         }
       ]
     },
@@ -562,8 +965,15 @@
           "definition_en": "start to have more colour or light; start looking or feeling happier; (weather) become sunnier",
           "definition_vi": "làm sáng sủa hơn, vui vẻ hơn",
           "example": "Luckily, the weather brightened up in the afternoon.",
-          "synonyms": ["cheer up", "clear up"],
-          "collocations": ["brighten up a room", "brighten up your day"]
+          "synonyms": [
+            "cheer up",
+            "clear up"
+          ],
+          "collocations": [
+            "brighten up a room",
+            "brighten up your day"
+          ],
+          "example_vi": "May mắn thay, thời tiết đã bừng sáng hơn vào buổi chiều."
         },
         {
           "word": "brush up (on)",
@@ -571,8 +981,14 @@
           "definition_en": "practise and improve your skills or knowledge of something",
           "definition_vi": "ôn tập, trau dồi lại kiến thức",
           "example": "You'll have to brush up on your general knowledge before you go on that quiz show.",
-          "synonyms": ["review", "polish up"],
-          "collocations": ["brush up on your Spanish"]
+          "synonyms": [
+            "review",
+            "polish up"
+          ],
+          "collocations": [
+            "brush up on your Spanish"
+          ],
+          "example_vi": "Bạn sẽ phải ôn lại kiến thức tổng quát của mình trước khi tham gia chương trình đố vui đó."
         },
         {
           "word": "check out",
@@ -580,8 +996,14 @@
           "definition_en": "examine someone or something to be certain that everything is correct; see what something is like",
           "definition_vi": "kiểm tra, xem thử",
           "example": "I'm going to check it out.",
-          "synonyms": ["inspect", "investigate"],
-          "collocations": ["check out a new restaurant"]
+          "synonyms": [
+            "inspect",
+            "investigate"
+          ],
+          "collocations": [
+            "check out a new restaurant"
+          ],
+          "example_vi": "Tôi sẽ đi kiểm tra xem sao."
         },
         {
           "word": "liven up",
@@ -589,8 +1011,14 @@
           "definition_en": "make something more interesting or exciting, or become more interesting or exciting",
           "definition_vi": "làm cho sống động, hào hứng hơn",
           "example": "The party livened up when Rod got out his guitar.",
-          "synonyms": ["enliven", "animate"],
-          "collocations": ["liven up the atmosphere"]
+          "synonyms": [
+            "enliven",
+            "animate"
+          ],
+          "collocations": [
+            "liven up the atmosphere"
+          ],
+          "example_vi": "Bữa tiệc trở nên sôi động hơn khi Rod lôi cây đàn ghi-ta của mình ra."
         },
         {
           "word": "make over",
@@ -598,8 +1026,14 @@
           "definition_en": "change or improve the appearance of someone or something",
           "definition_vi": "thay đổi diện mạo, tân trang",
           "example": "We're going to completely make over the spare bedroom.",
-          "synonyms": ["transform", "refurbish"],
-          "collocations": ["complete makeover (n)"]
+          "synonyms": [
+            "transform",
+            "refurbish"
+          ],
+          "collocations": [
+            "complete makeover (n)"
+          ],
+          "example_vi": "Chúng tôi sẽ thay đổi hoàn toàn diện mạo của phòng ngủ phụ."
         },
         {
           "word": "mess up",
@@ -607,8 +1041,14 @@
           "definition_en": "make a mistake or do something badly; make something dirty or untidy",
           "definition_vi": "làm hỏng, làm xáo trộn",
           "example": "I think I've messed up the perspective a little.",
-          "synonyms": ["bungle", "botch"],
-          "collocations": ["mess up an exam"]
+          "synonyms": [
+            "bungle",
+            "botch"
+          ],
+          "collocations": [
+            "mess up an exam"
+          ],
+          "example_vi": "Tôi nghĩ mình đã làm hỏng luật xa gần một chút rồi."
         },
         {
           "word": "paper over",
@@ -616,8 +1056,14 @@
           "definition_en": "hide a problem or disagreement rather than finding a satisfactory solution to it",
           "definition_vi": "che đậy (vấn đề, mâu thuẫn)",
           "example": "They have papered over their differences while they get their business set up.",
-          "synonyms": ["conceal", "mask"],
-          "collocations": ["paper over the cracks"]
+          "synonyms": [
+            "conceal",
+            "mask"
+          ],
+          "collocations": [
+            "paper over the cracks"
+          ],
+          "example_vi": "Họ đã tạm thời che đậy những khác biệt của mình trong khi chuẩn bị thành lập doanh nghiệp."
         },
         {
           "word": "patch up",
@@ -625,8 +1071,14 @@
           "definition_en": "repair something quickly/temporarily; become friends again after a disagreement; give basic medical treatment",
           "definition_vi": "vá víu, hàn gắn (mối quan hệ)",
           "example": "I've only patched this up for now.",
-          "synonyms": ["fix", "reconcile"],
-          "collocations": ["patch up a quarrel"]
+          "synonyms": [
+            "fix",
+            "reconcile"
+          ],
+          "collocations": [
+            "patch up a quarrel"
+          ],
+          "example_vi": "Hiện tại tôi chỉ mới sửa chữa tạm thời cái này thôi."
         },
         {
           "word": "pick up",
@@ -634,8 +1086,14 @@
           "definition_en": "improve",
           "definition_vi": "cải thiện, khởi sắc",
           "example": "If attendance doesn't pick up soon, the play will probably have to close.",
-          "synonyms": ["improve", "recover"],
-          "collocations": ["the economy is picking up"]
+          "synonyms": [
+            "improve",
+            "recover"
+          ],
+          "collocations": [
+            "the economy is picking up"
+          ],
+          "example_vi": "Nếu lượng người xem không sớm tăng lên, vở kịch có lẽ sẽ phải đóng cửa."
         },
         {
           "word": "run down",
@@ -643,8 +1101,14 @@
           "definition_en": "if an organisation or area is run down, its size, importance and activity is reduced",
           "definition_vi": "làm xuống cấp, suy tàn",
           "example": "The previous administration had run the film industry down.",
-          "synonyms": ["decline", "deteriorate"],
-          "collocations": ["run-down area (adj)"]
+          "synonyms": [
+            "decline",
+            "deteriorate"
+          ],
+          "collocations": [
+            "run-down area (adj)"
+          ],
+          "example_vi": "Chính quyền trước đó đã làm cho ngành công nghiệp điện ảnh bị suy thoái."
         },
         {
           "word": "scrape through",
@@ -652,8 +1116,13 @@
           "definition_en": "succeed in doing something, but not in a very impressive way",
           "definition_vi": "vừa đủ điểm đậu, vượt qua khó khăn",
           "example": "Susan scraped through her history of art course.",
-          "synonyms": ["barely pass"],
-          "collocations": ["scrape through an exam"]
+          "synonyms": [
+            "barely pass"
+          ],
+          "collocations": [
+            "scrape through an exam"
+          ],
+          "example_vi": "Susan đã vất vả lắm mới vượt qua được khóa học lịch sử nghệ thuật."
         },
         {
           "word": "smarten up",
@@ -661,8 +1130,13 @@
           "definition_en": "improve the appearance of something; make yourself look tidy and clean",
           "definition_vi": "làm cho gọn gàng, bảnh bao hơn",
           "example": "We always smartened ourselves up when our grandparents came to visit.",
-          "synonyms": ["spruce up"],
-          "collocations": ["smarten up your appearance"]
+          "synonyms": [
+            "spruce up"
+          ],
+          "collocations": [
+            "smarten up your appearance"
+          ],
+          "example_vi": "Chúng tôi luôn ăn mặc chỉnh tề khi ông bà đến thăm."
         },
         {
           "word": "stand out",
@@ -670,8 +1144,14 @@
           "definition_en": "be much more impressive or important than others; be easy to see or notice",
           "definition_vi": "nổi bật",
           "example": "One of the poems particularly stands out.",
-          "synonyms": ["be noticeable", "prominent"],
-          "collocations": ["stand out from the crowd"]
+          "synonyms": [
+            "be noticeable",
+            "prominent"
+          ],
+          "collocations": [
+            "stand out from the crowd"
+          ],
+          "example_vi": "Một trong những bài thơ đặc biệt nổi bật."
         },
         {
           "word": "touch up",
@@ -679,8 +1159,14 @@
           "definition_en": "make a surface look better with small improvements",
           "definition_vi": "chỉnh sửa, dặm lại (cho đẹp hơn)",
           "example": "I'll scan it and touch it up with some software.",
-          "synonyms": ["refine", "polish"],
-          "collocations": ["touch up the paintwork"]
+          "synonyms": [
+            "refine",
+            "polish"
+          ],
+          "collocations": [
+            "touch up the paintwork"
+          ],
+          "example_vi": "Tôi sẽ quét nó và chỉnh sửa lại bằng một số phần mềm."
         },
         {
           "word": "waste away",
@@ -688,8 +1174,14 @@
           "definition_en": "gradually become thinner and weaker over a period of time, usually because of an illness",
           "definition_vi": "gầy mòn, héo mòn",
           "example": "I almost wasted away!",
-          "synonyms": ["wither", "atrophy"],
-          "collocations": ["wasting away from hunger"]
+          "synonyms": [
+            "wither",
+            "atrophy"
+          ],
+          "collocations": [
+            "wasting away from hunger"
+          ],
+          "example_vi": "Tôi suýt nữa thì héo úa đi rồi!"
         },
         {
           "word": "write off",
@@ -697,8 +1189,14 @@
           "definition_en": "damage a vehicle so badly it's not worth repairing; decide someone/something won't succeed and stop giving attention",
           "definition_vi": "xóa bỏ, coi như hỏng hoàn toàn",
           "example": "The car was so badly damaged it had to be written off.",
-          "synonyms": ["discard", "abandon"],
-          "collocations": ["write-off (n)"]
+          "synonyms": [
+            "discard",
+            "abandon"
+          ],
+          "collocations": [
+            "write-off (n)"
+          ],
+          "example_vi": "Chiếc xe bị hư hỏng nặng đến mức phải bỏ đi."
         }
       ]
     },
@@ -711,8 +1209,11 @@
           "definition_en": "someone or something that you are very pleased to see",
           "definition_vi": "người/vật mà mình rất vui khi gặp lại",
           "example": "You're a sight for sore eyes, Claire! Thank goodness you're here.",
-          "synonyms": ["welcome sight"],
-          "collocations": []
+          "synonyms": [
+            "welcome sight"
+          ],
+          "collocations": [],
+          "example_vi": "Được gặp cậu thật là mừng quá, Claire! Ơn giời cậu đã ở đây."
         },
         {
           "word": "Achilles' heel",
@@ -720,8 +1221,11 @@
           "definition_en": "a weak feature of someone or something that could cause failure or be attacked",
           "definition_vi": "điểm yếu chí mạng (gót chân Achilles)",
           "example": "His one Achilles' heel, however, may be his lack of business sense.",
-          "synonyms": ["weak point"],
-          "collocations": []
+          "synonyms": [
+            "weak point"
+          ],
+          "collocations": [],
+          "example_vi": "Tuy nhiên, điểm yếu chết người duy nhất của anh ta có thể là thiếu đầu óc kinh doanh."
         },
         {
           "word": "add fuel to the fire",
@@ -729,8 +1233,11 @@
           "definition_en": "make a bad situation worse",
           "definition_vi": "thêm dầu vào lửa",
           "example": "Allegations have only added fuel to the fire regarding speculation about his future.",
-          "synonyms": ["make matters worse"],
-          "collocations": []
+          "synonyms": [
+            "make matters worse"
+          ],
+          "collocations": [],
+          "example_vi": "Những cáo buộc chỉ làm đổ thêm dầu vào lửa đối với những suy đoán về tương lai của ông ta."
         },
         {
           "word": "below/under par",
@@ -738,8 +1245,11 @@
           "definition_en": "below the usual or expected standard",
           "definition_vi": "dưới mức tiêu chuẩn, không tốt như mong đợi",
           "example": "Amis' new novel is slightly below par for a writer of his stature.",
-          "synonyms": ["substandard"],
-          "collocations": []
+          "synonyms": [
+            "substandard"
+          ],
+          "collocations": [],
+          "example_vi": "Cuốn tiểu thuyết mới của Amis hơi dưới mức mong đợi đối với một nhà văn có tầm vóc như ông."
         },
         {
           "word": "clean as a whistle",
@@ -747,8 +1257,11 @@
           "definition_en": "completely honest or legal; extremely clean",
           "definition_vi": "vô cùng sạch sẽ/liêm khiết",
           "example": "I've spent the whole morning vacuuming the car. It's now clean as a whistle.",
-          "synonyms": ["spotless"],
-          "collocations": []
+          "synonyms": [
+            "spotless"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi đã dành cả buổi sáng để hút bụi chiếc xe. Giờ nó sạch bong kin kít."
         },
         {
           "word": "draw the line (at)",
@@ -756,8 +1269,11 @@
           "definition_en": "say that you will definitely not allow or accept something",
           "definition_vi": "đưa ra giới hạn, không chấp nhận việc gì",
           "example": "I'm happy to simplify things, but I draw the line at telling blatant untruths.",
-          "synonyms": ["set a limit"],
-          "collocations": []
+          "synonyms": [
+            "set a limit"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi sẵn lòng đơn giản hóa mọi chuyện, nhưng tôi vạch ra giới hạn là không nói những lời nói dối trắng trợn."
         },
         {
           "word": "last word in",
@@ -765,8 +1281,12 @@
           "definition_en": "the newest and best type of something",
           "definition_vi": "thứ hiện đại nhất/tốt nhất",
           "example": "Soccer Maestro is undoubtedly the last word in online football simulation games.",
-          "synonyms": ["pinnacle", "ultimate"],
-          "collocations": []
+          "synonyms": [
+            "pinnacle",
+            "ultimate"
+          ],
+          "collocations": [],
+          "example_vi": "Soccer Maestro chắc chắn là đỉnh cao nhất trong các trò chơi mô phỏng bóng đá trực tuyến."
         },
         {
           "word": "out of this world",
@@ -774,8 +1294,12 @@
           "definition_en": "extremely good or impressive",
           "definition_vi": "tuyệt vời, không còn gì để chê",
           "example": "The buffet at the party was out of this world!",
-          "synonyms": ["extraordinary", "superb"],
-          "collocations": []
+          "synonyms": [
+            "extraordinary",
+            "superb"
+          ],
+          "collocations": [],
+          "example_vi": "Bữa tiệc buffet tại buổi tiệc thật là tuyệt vời!"
         },
         {
           "word": "over the top",
@@ -783,8 +1307,11 @@
           "definition_en": "more than what is considered normal or suitable",
           "definition_vi": "quá mức, thổi phồng",
           "example": "I think the media's response has been a little over the top.",
-          "synonyms": ["excessive"],
-          "collocations": []
+          "synonyms": [
+            "excessive"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi nghĩ phản ứng của truyền thông đã hơi thái quá."
         },
         {
           "word": "pride of place",
@@ -792,8 +1319,11 @@
           "definition_en": "in the place that is most central or important",
           "definition_vi": "vị trí trang trọng nhất",
           "example": "The picture that takes pride of place on our mantelpiece is of our granddaughter.",
-          "synonyms": ["centre stage"],
-          "collocations": []
+          "synonyms": [
+            "centre stage"
+          ],
+          "collocations": [],
+          "example_vi": "Bức ảnh được đặt ở vị trí trang trọng nhất trên bệ lò sưởi của chúng tôi là ảnh của cháu gái chúng tôi."
         },
         {
           "word": "steal the show",
@@ -801,8 +1331,11 @@
           "definition_en": "receive a lot of attention because you give the best performance",
           "definition_vi": "giành hết sự chú ý (vì trình diễn quá hay)",
           "example": "All the bands were fantastic, but Franz Ferdinand really stole the show.",
-          "synonyms": ["take centre stage"],
-          "collocations": []
+          "synonyms": [
+            "take centre stage"
+          ],
+          "collocations": [],
+          "example_vi": "Tất cả các ban nhạc đều tuyệt vời, nhưng Franz Ferdinand thực sự là tâm điểm chú ý của buổi diễn."
         },
         {
           "word": "the edge over",
@@ -810,8 +1343,11 @@
           "definition_en": "an advantage that makes someone or something more successful than others",
           "definition_vi": "có lợi thế hơn",
           "example": "The Gordon Gallery clearly has the edge over other modern art galleries.",
-          "synonyms": ["advantage"],
-          "collocations": []
+          "synonyms": [
+            "advantage"
+          ],
+          "collocations": [],
+          "example_vi": "Phòng triển lãm Gordon rõ ràng có lợi thế hơn so với các phòng triển lãm nghệ thuật hiện đại khác."
         }
       ]
     }
@@ -826,91 +1362,130 @@
         {
           "number": 1,
           "sentence": "The procedure's good, but I think we can ___ it further to make it more efficient.",
-          "options": ["better", "streamline"],
+          "options": [
+            "better",
+            "streamline"
+          ],
           "answer": "streamline",
           "explanation": "'Streamline' means to improve a process by making it simpler and more efficient."
         },
         {
           "number": 2,
           "sentence": "The shell of the building has been completely ___ and the interior decorators will be starting inside next week.",
-          "options": ["renovated", "refurbished"],
+          "options": [
+            "renovated",
+            "refurbished"
+          ],
           "answer": "both correct",
           "explanation": "Both 'renovate' and 'refurbish' can mean to repair and improve a building."
         },
         {
           "number": 3,
           "sentence": "The Minister's inflammatory comments are just ___ an already difficult situation. He should think before he opens his mouth next time.",
-          "options": ["exacerbating", "aggravating"],
+          "options": [
+            "exacerbating",
+            "aggravating"
+          ],
           "answer": "both correct",
           "explanation": "Both verbs mean to make a bad situation worse."
         },
         {
           "number": 4,
           "sentence": "The inspectors are going to be ___ the performance of every teacher.",
-          "options": ["evaluating", "valuing"],
+          "options": [
+            "evaluating",
+            "valuing"
+          ],
           "answer": "evaluating",
           "explanation": "'Evaluate' means to assess quality or performance; 'value' usually means to estimate monetary worth."
         },
         {
           "number": 5,
           "sentence": "In Berkshire, a lorry carrying chemicals has crashed into a river and has ___ the local water supply.",
-          "options": ["decayed", "contaminated"],
+          "options": [
+            "decayed",
+            "contaminated"
+          ],
           "answer": "contaminated",
           "explanation": "'Contaminate' means to make something dirty or poisonous; 'decay' is a natural process of rotting."
         },
         {
           "number": 6,
           "sentence": "I set the school record for the 100m over eight years ago and it's never been ___ to this day.",
-          "options": ["strengthened", "bettered"],
+          "options": [
+            "strengthened",
+            "bettered"
+          ],
           "answer": "bettered",
           "explanation": "To 'better' a record means to achieve a better result than it."
         },
         {
           "number": 7,
           "sentence": "This new browser should ___ everyone's experience online.",
-          "options": ["enhance", "reinforce"],
+          "options": [
+            "enhance",
+            "reinforce"
+          ],
           "answer": "enhance",
           "explanation": "'Enhance' means to improve the quality or value of something."
         },
         {
           "number": 8,
           "sentence": "The number of school-leavers going on to university has ___ since the government introduced tuition fees.",
-          "options": ["declined", "devastated"],
+          "options": [
+            "declined",
+            "devastated"
+          ],
           "answer": "declined",
           "explanation": "'Decline' means to decrease in number or quality."
         },
         {
           "number": 9,
           "sentence": "We must never let inflation ___ the three per cent mark again.",
-          "options": ["surpass", "outclass"],
+          "options": [
+            "surpass",
+            "outclass"
+          ],
           "answer": "surpass",
           "explanation": "'Surpass' means to exceed a certain level or amount."
         },
         {
           "number": 10,
           "sentence": "This accident has ___ Dagli's chances of competing in the final.",
-          "options": ["wrecked", "worsened"],
+          "options": [
+            "wrecked",
+            "worsened"
+          ],
           "answer": "wrecked",
           "explanation": "'Wreck' means to destroy completely; 'worsen' means to make worse. Both could fit, but 'wrecked' is more idiomatic for destroying chances."
         },
         {
           "number": 11,
           "sentence": "Pop songs have ___ the word 'love' so that it's meaningless nowadays.",
-          "options": ["cheapened", "worsened"],
+          "options": [
+            "cheapened",
+            "worsened"
+          ],
           "answer": "cheapened",
           "explanation": "'Cheapen' means to make something seem less valuable or respected."
         },
         {
           "number": 12,
           "sentence": "The rock festival was fun, but it was marred by the organisation, which was a ___.",
-          "options": ["chaos", "shambles"],
+          "options": [
+            "chaos",
+            "shambles"
+          ],
           "answer": "shambles",
           "explanation": "'A shambles' is a noun phrase used to describe a very disorganized situation. 'Chaos' is usually uncountable."
         },
         {
           "number": 13,
           "sentence": "The face in the picture is angelic, except for that tiny ___ just below the eye - can you see it? - that seems to be some kind of scar or birthmark.",
-          "options": ["blemish", "flaw"],
+          "options": [
+            "blemish",
+            "flaw"
+          ],
           "answer": "blemish",
           "explanation": "A 'blemish' is a small mark that spoils an appearance."
         }
@@ -925,119 +1500,170 @@
         {
           "number": 1,
           "sentence": "'I've never seen a more beautiful diamond!'",
-          "options": ["exquisite", "sound"],
+          "options": [
+            "exquisite",
+            "sound"
+          ],
           "answer": "exquisite",
           "explanation": "'Exquisite' means extremely beautiful and delicate."
         },
         {
           "number": 2,
           "sentence": "'His honesty is the only feature about him that's positive.'",
-          "options": ["redeeming", "ultimate"],
+          "options": [
+            "redeeming",
+            "ultimate"
+          ],
           "answer": "redeeming",
           "explanation": "A 'redeeming feature' is a positive quality in something otherwise bad."
         },
         {
           "number": 3,
           "sentence": "'These metal railings are really old and brown.'",
-          "options": ["stale", "rusty"],
+          "options": [
+            "stale",
+            "rusty"
+          ],
           "answer": "rusty",
           "explanation": "'Rusty' describes metal covered in rust."
         },
         {
           "number": 4,
           "sentence": "'It's just not good enough.'",
-          "options": ["invaluable", "inadequate"],
+          "options": [
+            "invaluable",
+            "inadequate"
+          ],
           "answer": "inadequate",
           "explanation": "'Inadequate' means not good enough."
         },
         {
           "number": 5,
           "sentence": "'The workmanship on this cabinet isn't very good.'",
-          "options": ["detrimental", "shoddy"],
+          "options": [
+            "detrimental",
+            "shoddy"
+          ],
           "answer": "shoddy",
           "explanation": "'Shoddy' describes work of very low standard."
         },
         {
           "number": 6,
           "sentence": "'This CD-ROM drive isn't working properly.'",
-          "options": ["defective", "detrimental"],
+          "options": [
+            "defective",
+            "detrimental"
+          ],
           "answer": "defective",
           "explanation": "'Defective' means not working correctly due to a fault."
         },
         {
           "number": 7,
           "sentence": "'This apple's completely black.'",
-          "options": ["rotten", "stale"],
+          "options": [
+            "rotten",
+            "stale"
+          ],
           "answer": "rotten",
           "explanation": "'Rotten' means decayed."
         },
         {
           "number": 8,
           "sentence": "'It's just the most important reason for us.'",
-          "options": ["optimum", "prime"],
+          "options": [
+            "optimum",
+            "prime"
+          ],
           "answer": "prime",
           "explanation": "'Prime' means most important."
         },
         {
           "number": 9,
           "sentence": "'The job couldn't have been done without your help.'",
-          "options": ["exquisite", "invaluable"],
+          "options": [
+            "exquisite",
+            "invaluable"
+          ],
           "answer": "invaluable",
           "explanation": "'Invaluable' means extremely useful."
         },
         {
           "number": 10,
           "sentence": "'The price seems reasonable to me. I'll take it.'",
-          "options": ["ultimate", "satisfactory"],
+          "options": [
+            "ultimate",
+            "satisfactory"
+          ],
           "answer": "satisfactory",
           "explanation": "'Satisfactory' means good enough."
         },
         {
           "number": 11,
           "sentence": "'This bread's not very fresh.'",
-          "options": ["rotten", "stale"],
+          "options": [
+            "rotten",
+            "stale"
+          ],
           "answer": "stale",
           "explanation": "'Stale' describes bread that is no longer fresh."
         },
         {
           "number": 12,
           "sentence": "'I think the government's measures are going to do quite a lot of damage.'",
-          "options": ["detrimental", "defective"],
+          "options": [
+            "detrimental",
+            "defective"
+          ],
           "answer": "detrimental",
           "explanation": "'Detrimental' means harmful or damaging."
         },
         {
           "number": 13,
           "sentence": "'It's the most exciting experience you'll ever have!'",
-          "options": ["ultimate", "optimum"],
+          "options": [
+            "ultimate",
+            "optimum"
+          ],
           "answer": "ultimate",
           "explanation": "'Ultimate' means the best or most extreme example."
         },
         {
           "number": 14,
           "sentence": "'I think it was a sensible decision.'",
-          "options": ["prime", "sound"],
+          "options": [
+            "prime",
+            "sound"
+          ],
           "answer": "sound",
           "explanation": "'Sound' means based on good judgment."
         },
         {
           "number": 15,
           "sentence": "'This is exactly what I need.'",
-          "options": ["ideal", "prime"],
+          "options": [
+            "ideal",
+            "prime"
+          ],
           "answer": "ideal",
           "explanation": "'Ideal' means perfect or exactly right."
         },
         {
           "number": 16,
           "sentence": "'Excellent work. Well done!'",
-          "options": ["satisfactory", "first-rate"],
+          "options": [
+            "satisfactory",
+            "first-rate"
+          ],
           "answer": "first-rate",
           "explanation": "'First-rate' means of the highest quality."
         },
         {
           "number": 17,
           "sentence": "'Four is the right number of people for this project.'",
-          "options": ["ultimate", "optimum"],
+          "options": [
+            "ultimate",
+            "optimum"
+          ],
           "answer": "optimum",
           "explanation": "'Optimum' means the most suitable amount or level."
         }
@@ -1052,84 +1678,120 @@
         {
           "number": 1,
           "sentence": "I haven't read Susan Bashworth's latest yet but I've heard it's very good. It became a ___ within weeks of being published.",
-          "options": ["bestseller", "paperback"],
+          "options": [
+            "bestseller",
+            "paperback"
+          ],
           "answer": "bestseller",
           "explanation": "A 'bestseller' is a very popular book."
         },
         {
           "number": 2,
           "sentence": "I'm actually waiting for it to come out in ___ before I get it.",
-          "options": ["bestseller", "paperback"],
+          "options": [
+            "bestseller",
+            "paperback"
+          ],
           "answer": "paperback",
           "explanation": "A 'paperback' is a book with a soft cover, usually released after the hardback."
         },
         {
           "number": 3,
           "sentence": "I've learnt all my ___ for the play, which was easy...",
-          "options": ["lines", "lyrics"],
+          "options": [
+            "lines",
+            "lyrics"
+          ],
           "answer": "lines",
           "explanation": "Actors learn 'lines' for a play."
         },
         {
           "number": 4,
           "sentence": "...but we have to sing a song at the end and I'm just no good at remembering ___.",
-          "options": ["lines", "lyrics"],
+          "options": [
+            "lines",
+            "lyrics"
+          ],
           "answer": "lyrics",
           "explanation": "The words of a song are called 'lyrics'."
         },
         {
           "number": 5,
           "sentence": "The school orchestra's giving a ___ tonight which sounds quite interesting.",
-          "options": ["recital", "score"],
+          "options": [
+            "recital",
+            "score"
+          ],
           "answer": "recital",
           "explanation": "A 'recital' is a musical performance."
         },
         {
           "number": 6,
           "sentence": "They've got a guest conductor who's quite famous. Apparently, he's written the ___ for a number of movies.",
-          "options": ["recital", "score"],
+          "options": [
+            "recital",
+            "score"
+          ],
           "answer": "score",
           "explanation": "A 'score' is the music written for a film."
         },
         {
           "number": 7,
           "sentence": "We went to that ___ of Lewis' paintings at the Granchester Museum last week.",
-          "options": ["curator", "retrospective"],
+          "options": [
+            "curator",
+            "retrospective"
+          ],
           "answer": "retrospective",
           "explanation": "A 'retrospective' is an exhibition of an artist's career work."
         },
         {
           "number": 8,
           "sentence": "We got chatting to the ___ , who told us a very interesting story about one picture ...",
-          "options": ["curator", "retrospective"],
+          "options": [
+            "curator",
+            "retrospective"
+          ],
           "answer": "curator",
           "explanation": "A 'curator' is someone who manages a museum or gallery collection."
         },
         {
           "number": 9,
           "sentence": "He told us that someone had found it in their attic, thought it was ___ and so gave it to a neighbour.",
-          "options": ["priceless", "worthless"],
+          "options": [
+            "priceless",
+            "worthless"
+          ],
           "answer": "worthless",
           "explanation": "'Worthless' means having no value."
         },
         {
           "number": 10,
           "sentence": "In fact, it turned out to be ___ !",
-          "options": ["priceless", "worthless"],
+          "options": [
+            "priceless",
+            "worthless"
+          ],
           "answer": "priceless",
           "explanation": "'Priceless' means extremely valuable."
         },
         {
           "number": 11,
           "sentence": "One of the ___ I'd love to do is restoring damaged or faded...",
-          "options": ["jobs", "works"],
+          "options": [
+            "jobs",
+            "works"
+          ],
           "answer": "jobs",
           "explanation": "Refers to a profession or task."
         },
         {
           "number": 12,
           "sentence": "...___ of art.",
-          "options": ["jobs", "works"],
+          "options": [
+            "jobs",
+            "works"
+          ],
           "answer": "works",
           "explanation": "'Works of art' is the standard term for artistic creations."
         }
@@ -1312,70 +1974,100 @@
         {
           "number": 1,
           "sentence": "I want this mess cleared up right now. Did I ___ myself clear?",
-          "options": ["make", "do"],
+          "options": [
+            "make",
+            "do"
+          ],
           "answer": "make",
           "explanation": "Collocation: 'make yourself clear'."
         },
         {
           "number": 2,
           "sentence": "It's ___ and warm in here.",
-          "options": ["nice", "good"],
+          "options": [
+            "nice",
+            "good"
+          ],
           "answer": "nice",
           "explanation": "Idiomatic phrase: 'nice and warm'."
         },
         {
           "number": 3,
           "sentence": "Off the top of my ___ , I'd say this diamond's worth at least a million euros.",
-          "options": ["brain", "head"],
+          "options": [
+            "brain",
+            "head"
+          ],
           "answer": "head",
           "explanation": "Idiom: 'off the top of your head'."
         },
         {
           "number": 4,
           "sentence": "You're cutting it ___ . The meeting starts in about two minutes.",
-          "options": ["fine", "well"],
+          "options": [
+            "fine",
+            "well"
+          ],
           "answer": "fine",
           "explanation": "Idiom: 'cut it fine' (allowing barely enough time)."
         },
         {
           "number": 5,
           "sentence": "To the ___ of my knowledge, there aren't any Picassos on the market at the moment.",
-          "options": ["top", "best"],
+          "options": [
+            "top",
+            "best"
+          ],
           "answer": "best",
           "explanation": "Phrase: 'to the best of my knowledge'."
         },
         {
           "number": 6,
           "sentence": "That Ferrari Craig's just bought is ___ new. It must have cost him a fortune!",
-          "options": ["brand", "model"],
+          "options": [
+            "brand",
+            "model"
+          ],
           "answer": "brand",
           "explanation": "Collocation: 'brand new'."
         },
         {
           "number": 7,
           "sentence": "Lee's his own worst ___ . He complains he hasn't sold any of his paintings, but he won't show them to anyone.",
-          "options": ["friend", "enemy"],
+          "options": [
+            "friend",
+            "enemy"
+          ],
           "answer": "enemy",
           "explanation": "Idiom: 'be your own worst enemy'."
         },
         {
           "number": 8,
           "sentence": "There's been bad ___ between them ever since Trevor accused Charlton of sabotaging his opening night.",
-          "options": ["blood", "mood"],
+          "options": [
+            "blood",
+            "mood"
+          ],
           "answer": "blood",
           "explanation": "Idiom: 'bad blood' (unpleasant feelings between people)."
         },
         {
           "number": 9,
           "sentence": "I'm not going to do her dirty ___ for her any more.",
-          "options": ["job", "work"],
+          "options": [
+            "job",
+            "work"
+          ],
           "answer": "work",
           "explanation": "Idiom: 'do someone's dirty work'."
         },
         {
           "number": 10,
           "sentence": "My mum's got organising her Christmas card list round ___ to a fine art.",
-          "options": ["round", "down"],
+          "options": [
+            "round",
+            "down"
+          ],
           "answer": "down",
           "explanation": "Idiom: 'have something down to a fine art'."
         }
@@ -1588,119 +2280,153 @@
         {
           "number": 1,
           "sentence": "Well, she did study ___ at Oxford, so it's hardly surprising she knows Latin and Ancient Greek.",
-          "options": ["CLASS"],
+          "options": [
+            "CLASS"
+          ],
           "answer": "classics",
           "explanation": "'Classics' is the study of ancient Greek and Roman culture."
         },
         {
           "number": 2,
           "sentence": "The Pet Shop Boys' sound is ___ and unique.",
-          "options": ["IMITATE"],
+          "options": [
+            "IMITATE"
+          ],
           "answer": "inimitable",
           "explanation": "'Inimitable' means impossible to copy; unique."
         },
         {
           "number": 3,
           "sentence": "What this painting says to me is that we live in a world of ___ and despair.",
-          "options": ["DESTROY"],
+          "options": [
+            "DESTROY"
+          ],
           "answer": "destruction",
           "explanation": "Noun form of destroy."
         },
         {
           "number": 4,
           "sentence": "I've got enormous ___ for Ben; he's achieved such a lot in such a short space of time.",
-          "options": ["ADMIRE"],
+          "options": [
+            "ADMIRE"
+          ],
           "answer": "admiration",
           "explanation": "Noun form of admire."
         },
         {
           "number": 5,
           "sentence": "The main reason I believe children shouldn't be exposed to violence on TV is that they're so ___ at that age.",
-          "options": ["IMPRESS"],
+          "options": [
+            "IMPRESS"
+          ],
           "answer": "impressionable",
           "explanation": "'Impressionable' means easily influenced."
         },
         {
           "number": 6,
           "sentence": "I'm a bit of a ___ , so I can spend all day agonising over which choice of two words to use.",
-          "options": ["PERFECT"],
+          "options": [
+            "PERFECT"
+          ],
           "answer": "perfectionist",
           "explanation": "A person who wants everything to be perfect."
         },
         {
           "number": 7,
           "sentence": "Maybe I am an ___ ; but what's wrong with wanting every human being to have access to clean drinking water?",
-          "options": ["IDEAL"],
+          "options": [
+            "IDEAL"
+          ],
           "answer": "idealist",
           "explanation": "A person who believes in ideal principles."
         },
         {
           "number": 8,
           "sentence": "I've read that many performers suffered feelings of ___ as children.",
-          "options": ["ADEQUATE"],
+          "options": [
+            "ADEQUATE"
+          ],
           "answer": "inadequacy",
           "explanation": "'Inadequacy' is the feeling of not being good enough."
         },
         {
           "number": 9,
           "sentence": "I don't know how ___ it would be to get some of these old postcards valued.",
-          "options": ["WORTH"],
+          "options": [
+            "WORTH"
+          ],
           "answer": "worthwhile",
           "explanation": "'Worthwhile' means useful or important enough to spend time on."
         },
         {
           "number": 10,
           "sentence": "We'll find out how much the jewellery's worth at the ___ next Thursday.",
-          "options": ["VALUE"],
+          "options": [
+            "VALUE"
+          ],
           "answer": "valuation",
           "explanation": "'Valuation' is the process of estimating the monetary value."
         },
         {
           "number": 11,
           "sentence": "Now the government's ___ the papers, we can find out what really happened.",
-          "options": ["CLASS"],
+          "options": [
+            "CLASS"
+          ],
           "answer": "declassified",
           "explanation": "'Declassify' means to officially state that information is no longer secret."
         },
         {
           "number": 12,
           "sentence": "Being director of the National Gallery is an ___ responsibility but thankfully I have a number of highly experienced experts to help me.",
-          "options": ["AWE"],
+          "options": [
+            "AWE"
+          ],
           "answer": "awesome",
           "explanation": "'Awesome' here means very impressive or daunting."
         },
         {
           "number": 13,
           "sentence": "With her experience as both an actor and a director, Tabitha is a very ___ successor to Albert Weeks...",
-          "options": ["WORTH"],
+          "options": [
+            "WORTH"
+          ],
           "answer": "worthy",
           "explanation": "'Worthy' means deserving or suitable."
         },
         {
           "number": 14,
           "sentence": "There were some very interesting clay ___ dating from the third century BC at the museum.",
-          "options": ["ART"],
+          "options": [
+            "ART"
+          ],
           "answer": "artefacts",
           "explanation": "'Artefacts' (or artifacts) are historical objects made by humans."
         },
         {
           "number": 15,
           "sentence": "Performing on stage for the first time was the most ___ experience I've ever had.",
-          "options": ["TERROR"],
+          "options": [
+            "TERROR"
+          ],
           "answer": "terrifying",
           "explanation": "Adjective form of terror (frightening)."
         },
         {
           "number": 16,
           "sentence": "Most of it's ___ if you use a little creativity.",
-          "options": ["USE"],
+          "options": [
+            "USE"
+          ],
           "answer": "reusable",
           "explanation": "'Reusable' means can be used again."
         },
         {
           "number": 17,
           "sentence": "There's a ___ difference between photography and still-life drawing.",
-          "options": ["QUALITY"],
+          "options": [
+            "QUALITY"
+          ],
           "answer": "qualitative",
           "explanation": "'Qualitative' relates to the quality or standard rather than quantity."
         }

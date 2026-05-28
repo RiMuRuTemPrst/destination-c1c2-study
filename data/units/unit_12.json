@@ -12,8 +12,17 @@
           "definition_en": "not completely accurate but close",
           "definition_vi": "xấp xỉ, gần đúng",
           "example": "The approximate cost of the renovation will be around $10,000.",
-          "synonyms": ["rough", "estimated", "near"],
-          "collocations": ["approximate cost", "approximate number", "approximate time"]
+          "synonyms": [
+            "rough",
+            "estimated",
+            "near"
+          ],
+          "collocations": [
+            "approximate cost",
+            "approximate number",
+            "approximate time"
+          ],
+          "example_vi": "Số lượng sinh viên năm nay đang xấp xỉ 500."
         },
         {
           "word": "approximate",
@@ -21,8 +30,14 @@
           "definition_en": "to be almost the same as",
           "definition_vi": "ước tính, gần giống với",
           "example": "Student numbers are approximating 500 this year.",
-          "synonyms": ["approach", "resemble"],
-          "collocations": ["approximate to"]
+          "synonyms": [
+            "approach",
+            "resemble"
+          ],
+          "collocations": [
+            "approximate to"
+          ],
+          "example_vi": "Số lượng sinh viên năm nay đang xấp xỉ 500."
         },
         {
           "word": "ascribe",
@@ -30,8 +45,15 @@
           "definition_en": "to believe or say that something is caused by something else",
           "definition_vi": "đổ tại, gán cho, quy cho",
           "example": "He ascribes his success to hard work and luck.",
-          "synonyms": ["attribute", "assign", "credit"],
-          "collocations": ["ascribe something to someone/something"]
+          "synonyms": [
+            "attribute",
+            "assign",
+            "credit"
+          ],
+          "collocations": [
+            "ascribe something to someone/something"
+          ],
+          "example_vi": "Anh ấy cho rằng thành công của mình là nhờ vào sự chăm chỉ và may mắn."
         },
         {
           "word": "assign",
@@ -39,8 +61,16 @@
           "definition_en": "to give someone a particular job or task",
           "definition_vi": "phân công, ấn định",
           "example": "The teacher assigned a different task to each student.",
-          "synonyms": ["allocate", "allot", "appoint"],
-          "collocations": ["assign a task", "assign someone to a project"]
+          "synonyms": [
+            "allocate",
+            "allot",
+            "appoint"
+          ],
+          "collocations": [
+            "assign a task",
+            "assign someone to a project"
+          ],
+          "example_vi": "Giáo viên đã giao một nhiệm vụ khác nhau cho mỗi học sinh."
         },
         {
           "word": "attribute",
@@ -48,8 +78,14 @@
           "definition_en": "to say or think that something is the result of a particular thing",
           "definition_vi": "quy cho, cho là do",
           "example": "The doctors attributed his illness to a rare virus.",
-          "synonyms": ["ascribe", "assign"],
-          "collocations": ["attribute something to something"]
+          "synonyms": [
+            "ascribe",
+            "assign"
+          ],
+          "collocations": [
+            "attribute something to something"
+          ],
+          "example_vi": "Các bác sĩ cho rằng căn bệnh của anh ấy là do một loại vi-rút hiếm gặp."
         },
         {
           "word": "blow",
@@ -57,8 +93,17 @@
           "definition_en": "an unexpected event that has a damaging effect",
           "definition_vi": "cú đòn, tai họa bất ngờ",
           "example": "Losing his job was a terrible blow to his confidence.",
-          "synonyms": ["setback", "shock", "misfortune"],
-          "collocations": ["a heavy blow", "deal a blow to", "shattering blow"]
+          "synonyms": [
+            "setback",
+            "shock",
+            "misfortune"
+          ],
+          "collocations": [
+            "a heavy blow",
+            "deal a blow to",
+            "shattering blow"
+          ],
+          "example_vi": "Việc mất việc là một đòn giáng nặng nề vào sự tự tin của anh ấy."
         },
         {
           "word": "cause",
@@ -66,8 +111,17 @@
           "definition_en": "to make something happen",
           "definition_vi": "gây ra",
           "example": "The heavy rain caused several accidents on the motorway.",
-          "synonyms": ["lead to", "result in", "provoke"],
-          "collocations": ["cause damage", "cause trouble", "cause concern"]
+          "synonyms": [
+            "lead to",
+            "result in",
+            "provoke"
+          ],
+          "collocations": [
+            "cause damage",
+            "cause trouble",
+            "cause concern"
+          ],
+          "example_vi": "Cảnh sát đang điều tra nguyên nhân của vụ nổ."
         },
         {
           "word": "cause",
@@ -75,8 +129,17 @@
           "definition_en": "the reason why something happens",
           "definition_vi": "nguyên nhân",
           "example": "Police are investigating the cause of the explosion.",
-          "synonyms": ["reason", "source", "origin"],
-          "collocations": ["root cause", "main cause", "cause for concern"]
+          "synonyms": [
+            "reason",
+            "source",
+            "origin"
+          ],
+          "collocations": [
+            "root cause",
+            "main cause",
+            "cause for concern"
+          ],
+          "example_vi": "Cảnh sát đang điều tra nguyên nhân của vụ nổ."
         },
         {
           "word": "coincidence",
@@ -84,8 +147,17 @@
           "definition_en": "an occasion when two or more similar things happen at the same time by chance",
           "definition_vi": "sự trùng hợp ngẫu nhiên",
           "example": "What a coincidence! I was just about to call you.",
-          "synonyms": ["fluke", "chance", "accident"],
-          "collocations": ["by coincidence", "pure coincidence", "strange coincidence"]
+          "synonyms": [
+            "fluke",
+            "chance",
+            "accident"
+          ],
+          "collocations": [
+            "by coincidence",
+            "pure coincidence",
+            "strange coincidence"
+          ],
+          "example_vi": "Thật là trùng hợp! Tôi vừa định gọi cho bạn xong."
         },
         {
           "word": "curse",
@@ -93,8 +165,14 @@
           "definition_en": "to say magic words that are intended to bring bad luck to someone",
           "definition_vi": "nguyền rủa",
           "example": "The witch cursed the prince, turning him into a frog.",
-          "synonyms": ["hex", "jinx"],
-          "collocations": ["curse someone for doing something"]
+          "synonyms": [
+            "hex",
+            "jinx"
+          ],
+          "collocations": [
+            "curse someone for doing something"
+          ],
+          "example_vi": "Một số người tin rằng có một lời nguyền lên gia đình đó."
         },
         {
           "word": "curse",
@@ -102,8 +180,16 @@
           "definition_en": "a magic spell which is intended to harm someone",
           "definition_vi": "lời nguyền",
           "example": "Some people believe there is a curse on the family.",
-          "synonyms": ["jinx", "hex", "malediction"],
-          "collocations": ["put a curse on", "under a curse"]
+          "synonyms": [
+            "jinx",
+            "hex",
+            "malediction"
+          ],
+          "collocations": [
+            "put a curse on",
+            "under a curse"
+          ],
+          "example_vi": "Một số người tin rằng có một lời nguyền lên gia đình đó."
         },
         {
           "word": "deliberate",
@@ -111,8 +197,17 @@
           "definition_en": "done on purpose rather than by accident",
           "definition_vi": "cố ý, chủ tâm",
           "example": "The attack was a deliberate attempt to destabilize the government.",
-          "synonyms": ["intentional", "planned", "calculated"],
-          "collocations": ["deliberate act", "deliberate choice", "deliberate lie"]
+          "synonyms": [
+            "intentional",
+            "planned",
+            "calculated"
+          ],
+          "collocations": [
+            "deliberate act",
+            "deliberate choice",
+            "deliberate lie"
+          ],
+          "example_vi": "Ban bồi thẩm vẫn đang thảo luận kỹ lưỡng, nhưng họ dự kiến sẽ sớm đưa ra phán quyết."
         },
         {
           "word": "determine",
@@ -120,8 +215,16 @@
           "definition_en": "to discover the facts about something; to officially decide something",
           "definition_vi": "xác định, quyết định",
           "example": "Tests will determine whether the cancer has spread.",
-          "synonyms": ["decide", "establish", "identify"],
-          "collocations": ["determine the cause", "determine the outcome"]
+          "synonyms": [
+            "decide",
+            "establish",
+            "identify"
+          ],
+          "collocations": [
+            "determine the cause",
+            "determine the outcome"
+          ],
+          "example_vi": "Các xét nghiệm sẽ xác định liệu ung thư đã di căn hay chưa."
         },
         {
           "word": "fate",
@@ -129,8 +232,17 @@
           "definition_en": "a power that some people believe controls what will happen in the future",
           "definition_vi": "số phận, định mệnh",
           "example": "We still don't know the fate of the missing mountain climbers.",
-          "synonyms": ["destiny", "fortune", "karma"],
-          "collocations": ["decide someone's fate", "seal someone's fate", "twist of fate"]
+          "synonyms": [
+            "destiny",
+            "fortune",
+            "karma"
+          ],
+          "collocations": [
+            "decide someone's fate",
+            "seal someone's fate",
+            "twist of fate"
+          ],
+          "example_vi": "Chúng tôi vẫn chưa biết số phận của những người leo núi mất tích."
         },
         {
           "word": "fluctuate",
@@ -138,8 +250,16 @@
           "definition_en": "to change frequently in size, amount, quality, etc.",
           "definition_vi": "biến động, dao động",
           "example": "Vegetable prices fluctuate according to the season.",
-          "synonyms": ["vary", "waver", "oscillate"],
-          "collocations": ["fluctuate wildly", "fluctuate between"]
+          "synonyms": [
+            "vary",
+            "waver",
+            "oscillate"
+          ],
+          "collocations": [
+            "fluctuate wildly",
+            "fluctuate between"
+          ],
+          "example_vi": "Giá rau quả biến động theo mùa."
         },
         {
           "word": "foresee",
@@ -147,8 +267,16 @@
           "definition_en": "to think or know that something is going to happen in the future",
           "definition_vi": "tiên đoán, dự tính trước",
           "example": "No one could have foreseen such a dramatic collapse of the stock market.",
-          "synonyms": ["predict", "anticipate", "forecast"],
-          "collocations": ["foresee the future", "foresee problems"]
+          "synonyms": [
+            "predict",
+            "anticipate",
+            "forecast"
+          ],
+          "collocations": [
+            "foresee the future",
+            "foresee problems"
+          ],
+          "example_vi": "Không ai có thể dự đoán trước được sự sụp đổ thảm khốc như vậy của thị trường chứng khoán."
         },
         {
           "word": "freak",
@@ -156,8 +284,16 @@
           "definition_en": "something that is very unusual or unexpected",
           "definition_vi": "điều kỳ quặc, hiện tượng lạ",
           "example": "The storm was a freak of nature.",
-          "synonyms": ["anomaly", "oddity", "rarity"],
-          "collocations": ["freak of nature", "control freak"]
+          "synonyms": [
+            "anomaly",
+            "oddity",
+            "rarity"
+          ],
+          "collocations": [
+            "freak of nature",
+            "control freak"
+          ],
+          "example_vi": "Anh ấy đã tử vong trong một tai nạn hy hữu khi một cái cây đổ đè lên xe."
         },
         {
           "word": "freak",
@@ -165,8 +301,17 @@
           "definition_en": "very unusual and unexpected",
           "definition_vi": "kỳ quặc, bất thường",
           "example": "He died in a freak accident when a tree fell on his car.",
-          "synonyms": ["unusual", "bizarre", "abnormal"],
-          "collocations": ["freak accident", "freak storm", "freak weather"]
+          "synonyms": [
+            "unusual",
+            "bizarre",
+            "abnormal"
+          ],
+          "collocations": [
+            "freak accident",
+            "freak storm",
+            "freak weather"
+          ],
+          "example_vi": "Anh ấy đã tử vong trong một tai nạn hy hữu khi một cái cây đổ đè lên xe."
         },
         {
           "word": "gamble",
@@ -174,8 +319,16 @@
           "definition_en": "to risk money on the result of an event",
           "definition_vi": "đánh bạc, mạo hiểm",
           "example": "He gambled all his savings on a business venture that failed.",
-          "synonyms": ["bet", "wager", "risk"],
-          "collocations": ["gamble on", "gamble with"]
+          "synonyms": [
+            "bet",
+            "wager",
+            "risk"
+          ],
+          "collocations": [
+            "gamble on",
+            "gamble with"
+          ],
+          "example_vi": "Anh ấy đã đánh cược toàn bộ tiền tiết kiệm của mình vào một dự án kinh doanh thất bại."
         },
         {
           "word": "haphazard",
@@ -183,8 +336,16 @@
           "definition_en": "not having an obvious order or plan",
           "definition_vi": "bừa bãi, ngẫu nhiên, không kế hoạch",
           "example": "The books were piled on the shelves in a haphazard fashion.",
-          "synonyms": ["random", "disorganized", "unplanned"],
-          "collocations": ["haphazard manner", "haphazard fashion"]
+          "synonyms": [
+            "random",
+            "disorganized",
+            "unplanned"
+          ],
+          "collocations": [
+            "haphazard manner",
+            "haphazard fashion"
+          ],
+          "example_vi": "Sách được xếp lên kệ một cách lộn xộn, tùy tiện."
         },
         {
           "word": "hazard",
@@ -192,8 +353,17 @@
           "definition_en": "something that is dangerous and likely to cause damage",
           "definition_vi": "mối nguy hiểm",
           "example": "Icy roads are a hazard to drivers.",
-          "synonyms": ["danger", "risk", "peril"],
-          "collocations": ["health hazard", "fire hazard", "occupational hazard"]
+          "synonyms": [
+            "danger",
+            "risk",
+            "peril"
+          ],
+          "collocations": [
+            "health hazard",
+            "fire hazard",
+            "occupational hazard"
+          ],
+          "example_vi": "Đường đóng băng là một mối nguy hiểm đối với tài xế."
         },
         {
           "word": "inadvertent",
@@ -201,8 +371,16 @@
           "definition_en": "not intentional; happening by chance",
           "definition_vi": "vô ý, không chủ tâm",
           "example": "The government said the border crossing was inadvertent.",
-          "synonyms": ["unintentional", "accidental", "unwitting"],
-          "collocations": ["inadvertent error", "inadvertent omission"]
+          "synonyms": [
+            "unintentional",
+            "accidental",
+            "unwitting"
+          ],
+          "collocations": [
+            "inadvertent error",
+            "inadvertent omission"
+          ],
+          "example_vi": "Chính phủ cho biết việc vượt biên là do vô ý."
         },
         {
           "word": "instrumental",
@@ -210,8 +388,15 @@
           "definition_en": "if someone or something is instrumental in causing something to happen, they are one of the most important causes",
           "definition_vi": "góp phần quyết định, là công cụ",
           "example": "She was instrumental in bringing about the new law.",
-          "synonyms": ["influential", "crucial", "key"],
-          "collocations": ["be instrumental in doing something"]
+          "synonyms": [
+            "influential",
+            "crucial",
+            "key"
+          ],
+          "collocations": [
+            "be instrumental in doing something"
+          ],
+          "example_vi": "Cô ấy đóng vai trò quan trọng trong việc thúc đẩy bộ luật mới."
         },
         {
           "word": "jinxed",
@@ -219,8 +404,16 @@
           "definition_en": "having or bringing bad luck",
           "definition_vi": "bị ám quẻ, đen đủi",
           "example": "The project seemed jinxed from the start.",
-          "synonyms": ["cursed", "ill-fated", "unlucky"],
-          "collocations": ["seem jinxed", "be jinxed"]
+          "synonyms": [
+            "cursed",
+            "ill-fated",
+            "unlucky"
+          ],
+          "collocations": [
+            "seem jinxed",
+            "be jinxed"
+          ],
+          "example_vi": "Dự án dường như bị ám quẻ ngay từ đầu."
         },
         {
           "word": "likelihood",
@@ -228,8 +421,17 @@
           "definition_en": "the chance that something will happen",
           "definition_vi": "khả năng, cơ hội",
           "example": "There is every likelihood that the government will win the election.",
-          "synonyms": ["probability", "chance", "prospect"],
-          "collocations": ["in all likelihood", "strong likelihood", "likelihood of doing something"]
+          "synonyms": [
+            "probability",
+            "chance",
+            "prospect"
+          ],
+          "collocations": [
+            "in all likelihood",
+            "strong likelihood",
+            "likelihood of doing something"
+          ],
+          "example_vi": "Rất có khả năng là chính phủ sẽ thắng cử."
         },
         {
           "word": "lucky charm",
@@ -237,8 +439,14 @@
           "definition_en": "an object that is believed to bring good luck",
           "definition_vi": "bùa may mắn",
           "example": "He never goes to an interview without his lucky charm.",
-          "synonyms": ["talisman", "amulet"],
-          "collocations": ["carry a lucky charm"]
+          "synonyms": [
+            "talisman",
+            "amulet"
+          ],
+          "collocations": [
+            "carry a lucky charm"
+          ],
+          "example_vi": "Anh ấy không bao giờ đi phỏng vấn mà không mang theo bùa may mắn."
         },
         {
           "word": "meander",
@@ -246,8 +454,16 @@
           "definition_en": "to flow slowly and change direction frequently (rivers/roads); to wander aimlessly",
           "definition_vi": "ngoằn ngoèo, đi vẩn vơ",
           "example": "The river meanders through the valley.",
-          "synonyms": ["wander", "wind", "snake"],
-          "collocations": ["meander along", "meander through"]
+          "synonyms": [
+            "wander",
+            "wind",
+            "snake"
+          ],
+          "collocations": [
+            "meander along",
+            "meander through"
+          ],
+          "example_vi": "Con sông uốn lượn qua thung lũng."
         },
         {
           "word": "mishap",
@@ -255,8 +471,16 @@
           "definition_en": "an unlucky accident that does not have serious results",
           "definition_vi": "rủi ro, tai nạn nhỏ",
           "example": "The parade went off without any mishap.",
-          "synonyms": ["accident", "misfortune", "slip-up"],
-          "collocations": ["without mishap", "minor mishap"]
+          "synonyms": [
+            "accident",
+            "misfortune",
+            "slip-up"
+          ],
+          "collocations": [
+            "without mishap",
+            "minor mishap"
+          ],
+          "example_vi": "Buổi diễu hành đã diễn ra suôn sẻ mà không gặp bất kỳ rủi ro nào."
         },
         {
           "word": "mutate",
@@ -264,8 +488,15 @@
           "definition_en": "to develop new physical characteristics because of a permanent change in the genes",
           "definition_vi": "đột biến, biến đổi",
           "example": "The virus has mutated into a more dangerous form.",
-          "synonyms": ["transform", "evolve", "change"],
-          "collocations": ["mutate into"]
+          "synonyms": [
+            "transform",
+            "evolve",
+            "change"
+          ],
+          "collocations": [
+            "mutate into"
+          ],
+          "example_vi": "Vi-rút đã đột biến thành một dạng nguy hiểm hơn."
         },
         {
           "word": "odds",
@@ -273,8 +504,17 @@
           "definition_en": "the probability that something will happen",
           "definition_vi": "tỷ lệ, khả năng",
           "example": "The odds are that it will rain today.",
-          "synonyms": ["likelihood", "probability", "chances"],
-          "collocations": ["the odds are in favor of", "against all odds", "beat the odds"]
+          "synonyms": [
+            "likelihood",
+            "probability",
+            "chances"
+          ],
+          "collocations": [
+            "the odds are in favor of",
+            "against all odds",
+            "beat the odds"
+          ],
+          "example_vi": "Cơ hội chiến thắng là rất thấp."
         },
         {
           "word": "pick",
@@ -282,8 +522,16 @@
           "definition_en": "to choose someone or something from a group",
           "definition_vi": "chọn lựa",
           "example": "She picked the best apples from the basket.",
-          "synonyms": ["choose", "select", "elect"],
-          "collocations": ["pick someone for a team", "pick and choose"]
+          "synonyms": [
+            "choose",
+            "select",
+            "elect"
+          ],
+          "collocations": [
+            "pick someone for a team",
+            "pick and choose"
+          ],
+          "example_vi": "Hãy chọn đi – tất cả đều đồng giá."
         },
         {
           "word": "pick",
@@ -291,8 +539,15 @@
           "definition_en": "the person or thing that has been chosen",
           "definition_vi": "sự lựa chọn, vật được chọn",
           "example": "Take your pick – they're all the same price.",
-          "synonyms": ["choice", "selection"],
-          "collocations": ["take your pick", "the pick of the bunch"]
+          "synonyms": [
+            "choice",
+            "selection"
+          ],
+          "collocations": [
+            "take your pick",
+            "the pick of the bunch"
+          ],
+          "example_vi": "Hãy chọn đi – tất cả đều đồng giá."
         },
         {
           "word": "pot luck",
@@ -300,8 +555,13 @@
           "definition_en": "a situation in which you do not know what you will get and you hope that it will be good",
           "definition_vi": "có gì ăn nấy, sự may rủi",
           "example": "We didn't have a reservation, so we just took pot luck at the restaurant.",
-          "synonyms": ["random choice"],
-          "collocations": ["take pot luck"]
+          "synonyms": [
+            "random choice"
+          ],
+          "collocations": [
+            "take pot luck"
+          ],
+          "example_vi": "Chúng tôi không đặt chỗ trước, nên chỉ đành phó mặc cho may rủi khi đến nhà hàng."
         },
         {
           "word": "random",
@@ -309,8 +569,17 @@
           "definition_en": "happening or chosen by chance rather than according to a plan",
           "definition_vi": "ngẫu nhiên",
           "example": "We asked a random sample of people for their opinions.",
-          "synonyms": ["haphazard", "arbitrary", "unplanned"],
-          "collocations": ["at random", "random selection", "random check"]
+          "synonyms": [
+            "haphazard",
+            "arbitrary",
+            "unplanned"
+          ],
+          "collocations": [
+            "at random",
+            "random selection",
+            "random check"
+          ],
+          "example_vi": "Chúng tôi đã hỏi ý kiến của một nhóm người được chọn ngẫu nhiên."
         },
         {
           "word": "slim",
@@ -318,8 +587,16 @@
           "definition_en": "very small (used about chances)",
           "definition_vi": "mong manh, ít ỏi",
           "example": "There is only a slim chance that the missing plane will be found.",
-          "synonyms": ["slight", "small", "thin"],
-          "collocations": ["slim chance", "slim hope"]
+          "synonyms": [
+            "slight",
+            "small",
+            "thin"
+          ],
+          "collocations": [
+            "slim chance",
+            "slim hope"
+          ],
+          "example_vi": "Chỉ có một cơ hội mong manh là chiếc máy bay mất tích sẽ được tìm thấy."
         },
         {
           "word": "speculate",
@@ -327,8 +604,16 @@
           "definition_en": "to guess about the possible causes or effects of something without knowing all the facts",
           "definition_vi": "suy đoán, đầu cơ",
           "example": "It's useless to speculate on what might have happened.",
-          "synonyms": ["guess", "surmise", "ponder"],
-          "collocations": ["speculate on/about", "speculate that"]
+          "synonyms": [
+            "guess",
+            "surmise",
+            "ponder"
+          ],
+          "collocations": [
+            "speculate on/about",
+            "speculate that"
+          ],
+          "example_vi": "Chúng ta chỉ có thể suy đoán về lý do đằng sau quyết định của anh ấy."
         },
         {
           "word": "spontaneous",
@@ -336,8 +621,16 @@
           "definition_en": "happening or done in a natural, often sudden way, without any planning",
           "definition_vi": "tự phát, tự nhiên",
           "example": "The audience burst into spontaneous applause.",
-          "synonyms": ["unplanned", "impulsive", "instinctive"],
-          "collocations": ["spontaneous reaction", "spontaneous combustion"]
+          "synonyms": [
+            "unplanned",
+            "impulsive",
+            "instinctive"
+          ],
+          "collocations": [
+            "spontaneous reaction",
+            "spontaneous combustion"
+          ],
+          "example_vi": "Khán giả đã bùng nổ trong những tràng pháo tay tự phát."
         },
         {
           "word": "startle",
@@ -345,8 +638,15 @@
           "definition_en": "to surprise a person or animal, often making them move suddenly",
           "definition_vi": "làm giật mình",
           "example": "A loud noise startled the horse.",
-          "synonyms": ["surprise", "frighten", "astound"],
-          "collocations": ["startle someone by doing something"]
+          "synonyms": [
+            "surprise",
+            "frighten",
+            "astound"
+          ],
+          "collocations": [
+            "startle someone by doing something"
+          ],
+          "example_vi": "Một tiếng động lớn đã làm con ngựa giật mình."
         },
         {
           "word": "statistics",
@@ -354,8 +654,17 @@
           "definition_en": "a collection of facts in the form of numbers",
           "definition_vi": "số liệu thống kê",
           "example": "Statistics show that more people are using the internet than ever before.",
-          "synonyms": ["data", "figures", "numbers"],
-          "collocations": ["official statistics", "vital statistics", "unemployment statistics"]
+          "synonyms": [
+            "data",
+            "figures",
+            "numbers"
+          ],
+          "collocations": [
+            "official statistics",
+            "vital statistics",
+            "unemployment statistics"
+          ],
+          "example_vi": "Thống kê cho thấy số người sử dụng internet đang nhiều hơn bao giờ hết."
         },
         {
           "word": "stray",
@@ -363,8 +672,16 @@
           "definition_en": "to move away from a place where you should be or from a path that you should follow",
           "definition_vi": "đi lạc, lệch hướng",
           "example": "Several of the sheep had strayed from the flock.",
-          "synonyms": ["wander", "drift", "deviate"],
-          "collocations": ["stray from the path", "stray into"]
+          "synonyms": [
+            "wander",
+            "drift",
+            "deviate"
+          ],
+          "collocations": [
+            "stray from the path",
+            "stray into"
+          ],
+          "example_vi": "Anh ta bị trúng một viên đạn lạc trong cuộc bạo loạn."
         },
         {
           "word": "stray",
@@ -372,8 +689,16 @@
           "definition_en": "away from the correct place or having no home",
           "definition_vi": "bị lạc, rải rác",
           "example": "He was hit by a stray bullet during the riot.",
-          "synonyms": ["lost", "abandoned", "homeless"],
-          "collocations": ["stray cat", "stray bullet"]
+          "synonyms": [
+            "lost",
+            "abandoned",
+            "homeless"
+          ],
+          "collocations": [
+            "stray cat",
+            "stray bullet"
+          ],
+          "example_vi": "Anh ta bị trúng một viên đạn lạc trong cuộc bạo loạn."
         },
         {
           "word": "superstition",
@@ -381,8 +706,15 @@
           "definition_en": "a belief that some objects or actions are lucky or unlucky, based on old ideas of magic",
           "definition_vi": "sự mê tín",
           "example": "According to local superstition, it is unlucky to see a black cat.",
-          "synonyms": ["myth", "fallacy"],
-          "collocations": ["ancient superstition", "popular superstition"]
+          "synonyms": [
+            "myth",
+            "fallacy"
+          ],
+          "collocations": [
+            "ancient superstition",
+            "popular superstition"
+          ],
+          "example_vi": "Theo quan niệm mê tín của địa phương, nhìn thấy mèo đen là điềm xui xẻo."
         },
         {
           "word": "superstitious",
@@ -390,8 +722,15 @@
           "definition_en": "believing in superstitions",
           "definition_vi": "mê tín",
           "example": "I'm not superstitious, but I still don't like walking under ladders.",
-          "synonyms": ["credulous", "irrational"],
-          "collocations": ["highly superstitious", "be superstitious about"]
+          "synonyms": [
+            "credulous",
+            "irrational"
+          ],
+          "collocations": [
+            "highly superstitious",
+            "be superstitious about"
+          ],
+          "example_vi": "Tôi không mê tín, nhưng tôi vẫn không thích đi dưới thang."
         },
         {
           "word": "transpire",
@@ -399,8 +738,15 @@
           "definition_en": "to happen; to become known",
           "definition_vi": "xảy ra, lộ ra, hóa ra",
           "example": "It later transpired that the information was false.",
-          "synonyms": ["happen", "occur", "emerge"],
-          "collocations": ["it transpired that"]
+          "synonyms": [
+            "happen",
+            "occur",
+            "emerge"
+          ],
+          "collocations": [
+            "it transpired that"
+          ],
+          "example_vi": "Sau đó mới vỡ lẽ ra rằng thông tin đó là giả."
         },
         {
           "word": "uncertainty",
@@ -408,8 +754,16 @@
           "definition_en": "a situation in which you are not sure about something",
           "definition_vi": "sự không chắc chắn, tình trạng bấp bênh",
           "example": "There is a lot of uncertainty about the future of the company.",
-          "synonyms": ["doubt", "hesitation", "ambiguity"],
-          "collocations": ["economic uncertainty", "political uncertainty"]
+          "synonyms": [
+            "doubt",
+            "hesitation",
+            "ambiguity"
+          ],
+          "collocations": [
+            "economic uncertainty",
+            "political uncertainty"
+          ],
+          "example_vi": "Có rất nhiều sự bất định về tương lai của công ty."
         },
         {
           "word": "wobble",
@@ -417,8 +771,16 @@
           "definition_en": "to move from side to side in an unsteady way",
           "definition_vi": "lung lay, lắc lư",
           "example": "The table wobbles because one leg is shorter than the others.",
-          "synonyms": ["shake", "totter", "teeter"],
-          "collocations": ["wobble slightly", "wobble on its axis"]
+          "synonyms": [
+            "shake",
+            "totter",
+            "teeter"
+          ],
+          "collocations": [
+            "wobble slightly",
+            "wobble on its axis"
+          ],
+          "example_vi": "Cái bàn bị khập khiễng vì một chân ngắn hơn những chân khác."
         }
       ]
     },
@@ -431,8 +793,15 @@
           "definition_en": "the practice or science of farming",
           "definition_vi": "nông nghiệp",
           "example": "Modern agriculture relies heavily on technology.",
-          "synonyms": ["farming", "cultivation"],
-          "collocations": ["intensive agriculture", "sustainable agriculture"]
+          "synonyms": [
+            "farming",
+            "cultivation"
+          ],
+          "collocations": [
+            "intensive agriculture",
+            "sustainable agriculture"
+          ],
+          "example_vi": "Nông nghiệp hiện đại phụ thuộc rất nhiều vào công nghệ."
         },
         {
           "word": "appreciate",
@@ -440,8 +809,16 @@
           "definition_en": "to understand how good or useful someone or something is",
           "definition_vi": "trân trọng, đánh giá cao",
           "example": "We really appreciate all the help you gave us.",
-          "synonyms": ["value", "prize", "treasure"],
-          "collocations": ["highly appreciate", "appreciate the importance of"]
+          "synonyms": [
+            "value",
+            "prize",
+            "treasure"
+          ],
+          "collocations": [
+            "highly appreciate",
+            "appreciate the importance of"
+          ],
+          "example_vi": "Chúng tôi thực sự trân trọng tất cả sự giúp đỡ mà bạn dành cho chúng tôi."
         },
         {
           "word": "catastrophe",
@@ -449,8 +826,16 @@
           "definition_en": "a sudden event that causes many people to suffer",
           "definition_vi": "thảm họa",
           "example": "The environmental catastrophe was caused by the oil spill.",
-          "synonyms": ["disaster", "calamity", "tragedy"],
-          "collocations": ["natural catastrophe", "economic catastrophe"]
+          "synonyms": [
+            "disaster",
+            "calamity",
+            "tragedy"
+          ],
+          "collocations": [
+            "natural catastrophe",
+            "economic catastrophe"
+          ],
+          "example_vi": "Thảm họa môi trường là do vụ tràn dầu gây ra."
         },
         {
           "word": "crop",
@@ -458,8 +843,16 @@
           "definition_en": "a plant such as a grain, fruit, or vegetable that is grown by farmers",
           "definition_vi": "vụ mùa, cây trồng",
           "example": "The main crops in this region are wheat and corn.",
-          "synonyms": ["harvest", "produce"],
-          "collocations": ["cash crop", "staple crop", "crop rotation"]
+          "synonyms": [
+            "harvest",
+            "produce"
+          ],
+          "collocations": [
+            "cash crop",
+            "staple crop",
+            "crop rotation"
+          ],
+          "example_vi": "Các loại cây trồng chính ở vùng này là lúa mì và ngô."
         },
         {
           "word": "drought",
@@ -467,8 +860,15 @@
           "definition_en": "a long period of time when there is little or no rain",
           "definition_vi": "hạn hán",
           "example": "The drought caused many animals to die of thirst.",
-          "synonyms": ["dry spell", "aridity"],
-          "collocations": ["severe drought", "suffer from drought"]
+          "synonyms": [
+            "dry spell",
+            "aridity"
+          ],
+          "collocations": [
+            "severe drought",
+            "suffer from drought"
+          ],
+          "example_vi": "Hạn hán đã khiến nhiều động vật chết khát."
         },
         {
           "word": "evacuate",
@@ -476,8 +876,16 @@
           "definition_en": "to send people away from a dangerous place to a safe place",
           "definition_vi": "sơ tán",
           "example": "The police evacuated the building because of a bomb threat.",
-          "synonyms": ["clear", "empty", "abandon"],
-          "collocations": ["evacuate the area", "evacuate someone from"]
+          "synonyms": [
+            "clear",
+            "empty",
+            "abandon"
+          ],
+          "collocations": [
+            "evacuate the area",
+            "evacuate someone from"
+          ],
+          "example_vi": "Cảnh sát đã sơ tán tòa nhà vì có đe dọa đánh bom."
         },
         {
           "word": "exploit",
@@ -485,8 +893,16 @@
           "definition_en": "to use something fully and effectively; to treat someone unfairly by using their work",
           "definition_vi": "khai thác, bóc lột",
           "example": "We need to exploit our natural resources more effectively.",
-          "synonyms": ["utilize", "harness", "abuse"],
-          "collocations": ["exploit natural resources", "exploit workers"]
+          "synonyms": [
+            "utilize",
+            "harness",
+            "abuse"
+          ],
+          "collocations": [
+            "exploit natural resources",
+            "exploit workers"
+          ],
+          "example_vi": "Chúng ta cần khai thác tài nguyên thiên nhiên hiệu quả hơn."
         },
         {
           "word": "famine",
@@ -494,8 +910,15 @@
           "definition_en": "a situation in which many people do not have enough food to eat",
           "definition_vi": "nạn đói",
           "example": "The war led to widespread famine in the region.",
-          "synonyms": ["starvation", "scarcity"],
-          "collocations": ["suffer from famine", "famine relief"]
+          "synonyms": [
+            "starvation",
+            "scarcity"
+          ],
+          "collocations": [
+            "suffer from famine",
+            "famine relief"
+          ],
+          "example_vi": "Chiến tranh đã dẫn đến nạn đói lan rộng trong khu vực."
         },
         {
           "word": "flood",
@@ -503,8 +926,15 @@
           "definition_en": "to cover a place with water, or to become covered with water",
           "definition_vi": "gây lụt, tràn ngập",
           "example": "The heavy rain flooded the basement.",
-          "synonyms": ["deluge", "inundate", "submerge"],
-          "collocations": ["be flooded with"]
+          "synonyms": [
+            "deluge",
+            "inundate",
+            "submerge"
+          ],
+          "collocations": [
+            "be flooded with"
+          ],
+          "example_vi": "Ngôi làng đã bị cô lập bởi lũ lụt."
         },
         {
           "word": "flood",
@@ -512,8 +942,15 @@
           "definition_en": "a large amount of water that covers an area that was dry",
           "definition_vi": "lũ lụt",
           "example": "The village was cut off by the floods.",
-          "synonyms": ["deluge", "inundation"],
-          "collocations": ["severe flood", "flash flood"]
+          "synonyms": [
+            "deluge",
+            "inundation"
+          ],
+          "collocations": [
+            "severe flood",
+            "flash flood"
+          ],
+          "example_vi": "Ngôi làng đã bị cô lập bởi lũ lụt."
         },
         {
           "word": "fossil fuels",
@@ -521,8 +958,14 @@
           "definition_en": "fuels such as coal or oil that are produced from the remains of plants and animals",
           "definition_vi": "nhiên liệu hóa thạch",
           "example": "Burning fossil fuels is a major cause of global warming.",
-          "synonyms": ["non-renewable energy"],
-          "collocations": ["burn fossil fuels", "dependency on fossil fuels"]
+          "synonyms": [
+            "non-renewable energy"
+          ],
+          "collocations": [
+            "burn fossil fuels",
+            "dependency on fossil fuels"
+          ],
+          "example_vi": "Đốt nhiên liệu hóa thạch là nguyên nhân chính gây ra sự nóng lên toàn cầu."
         },
         {
           "word": "global warming",
@@ -530,8 +973,14 @@
           "definition_en": "an increase in the average temperature of the Earth's atmosphere",
           "definition_vi": "sự nóng lên toàn cầu",
           "example": "Most scientists agree that global warming is caused by human activity.",
-          "synonyms": ["climate change"],
-          "collocations": ["combat global warming", "effects of global warming"]
+          "synonyms": [
+            "climate change"
+          ],
+          "collocations": [
+            "combat global warming",
+            "effects of global warming"
+          ],
+          "example_vi": "Hầu hết các nhà khoa học đồng ý rằng sự nóng lên toàn cầu là do hoạt động của con người."
         },
         {
           "word": "greenery",
@@ -539,8 +988,16 @@
           "definition_en": "green plants or branches",
           "definition_vi": "cây xanh",
           "example": "The room was decorated with flowers and greenery.",
-          "synonyms": ["foliage", "vegetation", "verdure"],
-          "collocations": ["lush greenery", "surrounded by greenery"]
+          "synonyms": [
+            "foliage",
+            "vegetation",
+            "verdure"
+          ],
+          "collocations": [
+            "lush greenery",
+            "surrounded by greenery"
+          ],
+          "example_vi": "Căn phòng được trang trí bằng hoa và cây xanh."
         },
         {
           "word": "habitat",
@@ -548,8 +1005,17 @@
           "definition_en": "the type of place that a particular animal or plant usually lives in",
           "definition_vi": "môi trường sống",
           "example": "The panda's natural habitat is the bamboo forest.",
-          "synonyms": ["environment", "home", "territory"],
-          "collocations": ["natural habitat", "habitat destruction", "loss of habitat"]
+          "synonyms": [
+            "environment",
+            "home",
+            "territory"
+          ],
+          "collocations": [
+            "natural habitat",
+            "habitat destruction",
+            "loss of habitat"
+          ],
+          "example_vi": "Môi trường sống tự nhiên của gấu trúc là rừng tre."
         },
         {
           "word": "harvest",
@@ -557,8 +1023,16 @@
           "definition_en": "to collect a crop from the fields",
           "definition_vi": "thu hoạch",
           "example": "Farmers are busy harvesting the rice.",
-          "synonyms": ["gather", "collect", "reap"],
-          "collocations": ["harvest crops", "harvest by hand"]
+          "synonyms": [
+            "gather",
+            "collect",
+            "reap"
+          ],
+          "collocations": [
+            "harvest crops",
+            "harvest by hand"
+          ],
+          "example_vi": "Chúng tôi hy vọng năm nay sẽ có một vụ mùa bội thu."
         },
         {
           "word": "harvest",
@@ -566,8 +1040,15 @@
           "definition_en": "the time when crops are gathered; the amount of crops gathered",
           "definition_vi": "mùa gặt, sản lượng thu hoạch",
           "example": "We're hoping for a good harvest this year.",
-          "synonyms": ["yield", "crop"],
-          "collocations": ["bumper harvest", "poor harvest"]
+          "synonyms": [
+            "yield",
+            "crop"
+          ],
+          "collocations": [
+            "bumper harvest",
+            "poor harvest"
+          ],
+          "example_vi": "Chúng tôi hy vọng năm nay sẽ có một vụ mùa bội thu."
         },
         {
           "word": "hurricane",
@@ -575,8 +1056,16 @@
           "definition_en": "a violent storm with extremely strong winds",
           "definition_vi": "bão (biển nhiệt đới)",
           "example": "The hurricane caused widespread damage along the coast.",
-          "synonyms": ["typhoon", "cyclone", "tempest"],
-          "collocations": ["eye of the hurricane", "hurricane-force winds"]
+          "synonyms": [
+            "typhoon",
+            "cyclone",
+            "tempest"
+          ],
+          "collocations": [
+            "eye of the hurricane",
+            "hurricane-force winds"
+          ],
+          "example_vi": "Cơn bão đã gây ra thiệt hại trên diện rộng dọc theo bờ biển."
         },
         {
           "word": "instinct",
@@ -584,8 +1073,16 @@
           "definition_en": "a natural tendency to behave in a particular way that people and animals are born with",
           "definition_vi": "bản năng",
           "example": "Birds build nests by instinct.",
-          "synonyms": ["intuition", "impulse"],
-          "collocations": ["natural instinct", "maternal instinct", "gut instinct"]
+          "synonyms": [
+            "intuition",
+            "impulse"
+          ],
+          "collocations": [
+            "natural instinct",
+            "maternal instinct",
+            "gut instinct"
+          ],
+          "example_vi": "Chim xây tổ theo bản năng."
         },
         {
           "word": "natural disaster",
@@ -593,8 +1090,15 @@
           "definition_en": "an event such as a flood, earthquake, or hurricane that causes great damage or loss of life",
           "definition_vi": "thiên tai",
           "example": "The earthquake was the worst natural disaster in the country's history.",
-          "synonyms": ["catastrophe", "calamity"],
-          "collocations": ["survive a natural disaster", "prone to natural disasters"]
+          "synonyms": [
+            "catastrophe",
+            "calamity"
+          ],
+          "collocations": [
+            "survive a natural disaster",
+            "prone to natural disasters"
+          ],
+          "example_vi": "Trận động đất là thảm họa thiên nhiên tồi tệ nhất trong lịch sử đất nước."
         },
         {
           "word": "resource",
@@ -602,8 +1106,17 @@
           "definition_en": "something such as useful land, or minerals such as oil or coal, that exists in a country and can be used to increase its wealth",
           "definition_vi": "tài nguyên, nguồn lực",
           "example": "The country is rich in natural resources.",
-          "synonyms": ["asset", "wealth", "supply"],
-          "collocations": ["natural resources", "scarce resources", "human resources"]
+          "synonyms": [
+            "asset",
+            "wealth",
+            "supply"
+          ],
+          "collocations": [
+            "natural resources",
+            "scarce resources",
+            "human resources"
+          ],
+          "example_vi": "Đất nước này giàu tài nguyên thiên nhiên."
         },
         {
           "word": "scarce",
@@ -611,8 +1124,16 @@
           "definition_en": "if something is scarce, there is not enough of it available",
           "definition_vi": "khan hiếm",
           "example": "Food and water were becoming increasingly scarce.",
-          "synonyms": ["rare", "scant", "sparse"],
-          "collocations": ["become scarce", "make yourself scarce"]
+          "synonyms": [
+            "rare",
+            "scant",
+            "sparse"
+          ],
+          "collocations": [
+            "become scarce",
+            "make yourself scarce"
+          ],
+          "example_vi": "Thức ăn và nước uống đang ngày càng trở nên khan hiếm."
         },
         {
           "word": "species",
@@ -620,8 +1141,17 @@
           "definition_en": "a group of animals or plants of the same kind that can breed with each other",
           "definition_vi": "loài",
           "example": "There are many species of birds in this forest.",
-          "synonyms": ["kind", "type", "category"],
-          "collocations": ["endangered species", "native species", "rare species"]
+          "synonyms": [
+            "kind",
+            "type",
+            "category"
+          ],
+          "collocations": [
+            "endangered species",
+            "native species",
+            "rare species"
+          ],
+          "example_vi": "Có nhiều loài chim trong khu rừng này."
         }
       ]
     },
@@ -634,8 +1164,12 @@
           "definition_en": "find or see someone or something when you did not expect to",
           "definition_vi": "tình cờ thấy, tình cờ gặp",
           "example": "I chanced upon a very rare book in a second-hand shop.",
-          "synonyms": ["come across", "stumble on"],
-          "collocations": []
+          "synonyms": [
+            "come across",
+            "stumble on"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi tình cờ tìm thấy một cuốn sách rất hiếm trong một cửa hàng đồ cũ."
         },
         {
           "word": "come across",
@@ -643,8 +1177,12 @@
           "definition_en": "meet someone or find something by chance",
           "definition_vi": "tình cờ bắt gặp",
           "example": "I came across my old school photos while I was tidying the attic.",
-          "synonyms": ["encounter", "run into"],
-          "collocations": []
+          "synonyms": [
+            "encounter",
+            "run into"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi tình cờ thấy những bức ảnh cũ thời đi học khi đang dọn dẹp gác mái."
         },
         {
           "word": "cool down",
@@ -652,8 +1190,12 @@
           "definition_en": "become cooler, or make something cooler",
           "definition_vi": "làm mát, nguội đi",
           "example": "We waited for the soup to cool down before eating it.",
-          "synonyms": ["chill", "cool off"],
-          "collocations": []
+          "synonyms": [
+            "chill",
+            "cool off"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đợi súp nguội bớt trước khi ăn."
         },
         {
           "word": "cut back (on)",
@@ -661,8 +1203,16 @@
           "definition_en": "reduce the amount of something, especially money that you spend",
           "definition_vi": "cắt giảm",
           "example": "The government is trying to cut back on public spending.",
-          "synonyms": ["reduce", "curtail", "slash"],
-          "collocations": ["cut back on spending", "cut back on production"]
+          "synonyms": [
+            "reduce",
+            "curtail",
+            "slash"
+          ],
+          "collocations": [
+            "cut back on spending",
+            "cut back on production"
+          ],
+          "example_vi": "Chính phủ đang cố gắng cắt giảm chi tiêu công."
         },
         {
           "word": "die out",
@@ -670,8 +1220,12 @@
           "definition_en": "become weaker or less common and then disappear completely",
           "definition_vi": "tuyệt chủng, mất dần",
           "example": "Dinosaurs died out millions of years ago.",
-          "synonyms": ["become extinct", "vanish"],
-          "collocations": []
+          "synonyms": [
+            "become extinct",
+            "vanish"
+          ],
+          "collocations": [],
+          "example_vi": "Khủng long đã tuyệt chủng hàng triệu năm trước."
         },
         {
           "word": "dig up",
@@ -679,8 +1233,16 @@
           "definition_en": "remove something from under the ground by digging; find information by searching carefully",
           "definition_vi": "đào lên, bới móc (thông tin)",
           "example": "The police are digging up the garden to look for the body.",
-          "synonyms": ["exhume", "unearth", "discover"],
-          "collocations": ["dig up information", "dig up the past"]
+          "synonyms": [
+            "exhume",
+            "unearth",
+            "discover"
+          ],
+          "collocations": [
+            "dig up information",
+            "dig up the past"
+          ],
+          "example_vi": "Cảnh sát đang đào khu vườn lên để tìm kiếm thi thể."
         },
         {
           "word": "dry up",
@@ -688,8 +1250,12 @@
           "definition_en": "if something dries up, all the water comes out of it; stop being available",
           "definition_vi": "cạn kiệt, khô cạn",
           "example": "The river dries up every summer. Funds for the project have dried up.",
-          "synonyms": ["evaporate", "run out"],
-          "collocations": []
+          "synonyms": [
+            "evaporate",
+            "run out"
+          ],
+          "collocations": [],
+          "example_vi": "Con sông cạn nước vào mỗi mùa hè. Nguồn vốn cho dự án đã cạn kiệt."
         },
         {
           "word": "get through",
@@ -697,8 +1263,16 @@
           "definition_en": "use or finish something; manage to deal with a difficult situation; finish dealing with work",
           "definition_vi": "hoàn thành, vượt qua, dùng hết",
           "example": "We got through a huge amount of work today.",
-          "synonyms": ["finish", "complete", "survive"],
-          "collocations": ["get through an exam", "get through a difficult time"]
+          "synonyms": [
+            "finish",
+            "complete",
+            "survive"
+          ],
+          "collocations": [
+            "get through an exam",
+            "get through a difficult time"
+          ],
+          "example_vi": "Chúng tôi đã hoàn thành một khối lượng công việc khổng lồ trong hôm nay."
         },
         {
           "word": "heat up",
@@ -706,8 +1280,11 @@
           "definition_en": "make something hot; become hot",
           "definition_vi": "làm nóng, nóng lên",
           "example": "The competition is starting to heat up.",
-          "synonyms": ["warm up"],
-          "collocations": []
+          "synonyms": [
+            "warm up"
+          ],
+          "collocations": [],
+          "example_vi": "Cuộc cạnh tranh đang bắt đầu nóng lên."
         },
         {
           "word": "kill off",
@@ -715,8 +1292,12 @@
           "definition_en": "destroy living things so that most or all of them are dead",
           "definition_vi": "tiêu diệt sạch",
           "example": "Pollution is killing off the fish in the river.",
-          "synonyms": ["exterminate", "wipe out"],
-          "collocations": []
+          "synonyms": [
+            "exterminate",
+            "wipe out"
+          ],
+          "collocations": [],
+          "example_vi": "Ô nhiễm đang tiêu diệt các loài cá trong sông."
         },
         {
           "word": "put down to",
@@ -724,8 +1305,12 @@
           "definition_en": "if you put something down to a particular reason, you think it has happened for that reason",
           "definition_vi": "quy cho là do",
           "example": "I put his bad mood down to tiredness.",
-          "synonyms": ["attribute to", "ascribe to"],
-          "collocations": []
+          "synonyms": [
+            "attribute to",
+            "ascribe to"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi cho rằng tâm trạng tồi tệ của anh ấy là do mệt mỏi."
         },
         {
           "word": "slip up",
@@ -733,8 +1318,13 @@
           "definition_en": "make a careless mistake",
           "definition_vi": "mắc sai lầm vô ý",
           "example": "Someone slipped up and sent the wrong letter.",
-          "synonyms": ["err", "blunder", "make a mistake"],
-          "collocations": []
+          "synonyms": [
+            "err",
+            "blunder",
+            "make a mistake"
+          ],
+          "collocations": [],
+          "example_vi": "Có ai đó đã sơ suất và gửi nhầm thư."
         },
         {
           "word": "spring up",
@@ -742,8 +1332,12 @@
           "definition_en": "appear or be produced suddenly and quickly",
           "definition_vi": "mọc lên như nấm, xuất hiện bất ngờ",
           "example": "Fast-food restaurants are springing up all over the city.",
-          "synonyms": ["pop up", "mushroom"],
-          "collocations": []
+          "synonyms": [
+            "pop up",
+            "mushroom"
+          ],
+          "collocations": [],
+          "example_vi": "Các nhà hàng thức ăn nhanh đang mọc lên khắp thành phố."
         },
         {
           "word": "store up",
@@ -751,8 +1345,14 @@
           "definition_en": "keep a lot of something so that you can use it later; do something that will cause problems in the future",
           "definition_vi": "tích trữ, chuốc lấy (phiền toái)",
           "example": "You're just storing up trouble for yourself in the future.",
-          "synonyms": ["stock up", "accumulate"],
-          "collocations": ["store up trouble"]
+          "synonyms": [
+            "stock up",
+            "accumulate"
+          ],
+          "collocations": [
+            "store up trouble"
+          ],
+          "example_vi": "Bạn chỉ đang tích tụ rắc rối cho chính mình trong tương lai thôi."
         },
         {
           "word": "throw out",
@@ -760,8 +1360,16 @@
           "definition_en": "get rid of something; force someone to leave; refuse to accept a plan",
           "definition_vi": "vứt bỏ, đuổi đi, bác bỏ",
           "example": "They threw out the proposal without even looking at it.",
-          "synonyms": ["discard", "reject", "dismiss"],
-          "collocations": ["throw out a plan", "throw out old clothes"]
+          "synonyms": [
+            "discard",
+            "reject",
+            "dismiss"
+          ],
+          "collocations": [
+            "throw out a plan",
+            "throw out old clothes"
+          ],
+          "example_vi": "Họ đã bác bỏ đề xuất mà thậm chí không thèm xem xét."
         },
         {
           "word": "throw up",
@@ -769,8 +1377,15 @@
           "definition_en": "produce something new or unexpected; cause dust or water to rise into the air",
           "definition_vi": "gợi lên, làm nảy sinh, nôn mửa",
           "example": "The investigation has thrown up some interesting new facts.",
-          "synonyms": ["produce", "generate"],
-          "collocations": ["throw up problems", "throw up dust"]
+          "synonyms": [
+            "produce",
+            "generate"
+          ],
+          "collocations": [
+            "throw up problems",
+            "throw up dust"
+          ],
+          "example_vi": "Cuộc điều tra đã hé lộ một vài sự thật mới thú vị."
         }
       ]
     },
@@ -783,8 +1398,15 @@
           "definition_en": "risk money on the result of an event",
           "definition_vi": "đánh cược",
           "example": "I bet $20 on that horse.",
-          "synonyms": ["wager"],
-          "collocations": ["bet (sth) on", "make a bet (with sb)", "safe bet"]
+          "synonyms": [
+            "wager"
+          ],
+          "collocations": [
+            "bet (sth) on",
+            "make a bet (with sb)",
+            "safe bet"
+          ],
+          "example_vi": "Tôi đã đặt cược 20 đô la vào con ngựa đó."
         },
         {
           "word": "certain",
@@ -792,8 +1414,17 @@
           "definition_en": "having no doubt",
           "definition_vi": "chắc chắn",
           "example": "I am certain that he is lying.",
-          "synonyms": ["sure"],
-          "collocations": ["know/say for certain", "certain to do", "make certain", "certain of/about", "a certain (amount of sth)"]
+          "synonyms": [
+            "sure"
+          ],
+          "collocations": [
+            "know/say for certain",
+            "certain to do",
+            "make certain",
+            "certain of/about",
+            "a certain (amount of sth)"
+          ],
+          "example_vi": "Tôi chắc chắn rằng anh ta đang nói dối."
         },
         {
           "word": "chance",
@@ -801,8 +1432,23 @@
           "definition_en": "the possibility of something happening",
           "definition_vi": "cơ hội, sự tình cờ",
           "example": "Is there any chance of getting a ticket?",
-          "synonyms": ["opportunity", "likelihood"],
-          "collocations": ["take a chance (on)", "leave to chance", "by chance", "by any chance", "the/sb's chances of (doing)", "the chance to do", "second chance", "last chance", "pure/sheer chance", "there's every/no chance that"]
+          "synonyms": [
+            "opportunity",
+            "likelihood"
+          ],
+          "collocations": [
+            "take a chance (on)",
+            "leave to chance",
+            "by chance",
+            "by any chance",
+            "the/sb's chances of (doing)",
+            "the chance to do",
+            "second chance",
+            "last chance",
+            "pure/sheer chance",
+            "there's every/no chance that"
+          ],
+          "example_vi": "Liệu có cơ hội nào để lấy được vé không?"
         },
         {
           "word": "dint",
@@ -811,7 +1457,10 @@
           "definition_vi": "bằng cách",
           "example": "He succeeded by dint of hard work.",
           "synonyms": [],
-          "collocations": ["by dint of"]
+          "collocations": [
+            "by dint of"
+          ],
+          "example_vi": "Anh ấy đã thành công nhờ nỗ lực chăm chỉ."
         },
         {
           "word": "disposal",
@@ -820,7 +1469,12 @@
           "definition_vi": "sự vứt bỏ, sự tùy ý sử dụng",
           "example": "The waste disposal system is broken.",
           "synonyms": [],
-          "collocations": ["waste disposal", "at sb's disposal", "at the disposal of"]
+          "collocations": [
+            "waste disposal",
+            "at sb's disposal",
+            "at the disposal of"
+          ],
+          "example_vi": "Hệ thống xử lý chất thải bị hỏng."
         },
         {
           "word": "find",
@@ -829,7 +1483,13 @@
           "definition_vi": "tìm thấy, nhận thấy",
           "example": "I find it difficult to believe her.",
           "synonyms": [],
-          "collocations": ["find yourself (doing)", "find sb doing", "find sth difficult/interesting/etc", "find your way"]
+          "collocations": [
+            "find yourself (doing)",
+            "find sb doing",
+            "find sth difficult/interesting/etc",
+            "find your way"
+          ],
+          "example_vi": "Tôi thấy thật khó để tin cô ấy."
         },
         {
           "word": "green",
@@ -838,7 +1498,14 @@
           "definition_vi": "xanh (môi trường)",
           "example": "The government is trying to promote green politics.",
           "synonyms": [],
-          "collocations": ["green politics", "green belt", "(give sb) the green light", "greenhouse", "the greenhouse effect"]
+          "collocations": [
+            "green politics",
+            "green belt",
+            "(give sb) the green light",
+            "greenhouse",
+            "the greenhouse effect"
+          ],
+          "example_vi": "Chính phủ đang cố gắng thúc đẩy các chính sách xanh."
         },
         {
           "word": "guess",
@@ -847,7 +1514,18 @@
           "definition_vi": "đoán",
           "example": "Take a guess at how much it cost.",
           "synonyms": [],
-          "collocations": ["guess at", "guess that", "guess right", "take/make/hazard a guess (at)", "rough guess", "lucky guess", "wild guess", "educated guess", "at a guess"]
+          "collocations": [
+            "guess at",
+            "guess that",
+            "guess right",
+            "take/make/hazard a guess (at)",
+            "rough guess",
+            "lucky guess",
+            "wild guess",
+            "educated guess",
+            "at a guess"
+          ],
+          "example_vi": "Thử đoán xem nó giá bao nhiêu."
         },
         {
           "word": "happen",
@@ -856,7 +1534,12 @@
           "definition_vi": "xảy ra, tình cờ",
           "example": "It so happens that I'm going that way myself.",
           "synonyms": [],
-          "collocations": ["happen to do", "it so happens that", "as it happens"]
+          "collocations": [
+            "happen to do",
+            "it so happens that",
+            "as it happens"
+          ],
+          "example_vi": "Thật tình cờ là chính tôi cũng đang đi theo hướng đó."
         },
         {
           "word": "lightning",
@@ -865,7 +1548,13 @@
           "definition_vi": "sét",
           "example": "The tree was struck by lightning.",
           "synonyms": [],
-          "collocations": ["thunder and lightning", "a bolt/flash of lightning", "struck by lightning", "at lightning speed"]
+          "collocations": [
+            "thunder and lightning",
+            "a bolt/flash of lightning",
+            "struck by lightning",
+            "at lightning speed"
+          ],
+          "example_vi": "Cái cây bị sét đánh."
         },
         {
           "word": "luck",
@@ -873,8 +1562,21 @@
           "definition_en": "good things that happen to you by chance",
           "definition_vi": "may mắn",
           "example": "Wish me luck!",
-          "synonyms": ["fortune"],
-          "collocations": ["push your luck", "wish sb luck", "trust to luck", "bring you luck", "the luck of the draw", "a stroke/piece of luck", "as luck would have it", "in luck", "with any luck"]
+          "synonyms": [
+            "fortune"
+          ],
+          "collocations": [
+            "push your luck",
+            "wish sb luck",
+            "trust to luck",
+            "bring you luck",
+            "the luck of the draw",
+            "a stroke/piece of luck",
+            "as luck would have it",
+            "in luck",
+            "with any luck"
+          ],
+          "example_vi": "Hãy chúc tôi may mắn nhé!"
         },
         {
           "word": "natural",
@@ -883,7 +1585,14 @@
           "definition_vi": "tự nhiên",
           "example": "Death was from natural causes.",
           "synonyms": [],
-          "collocations": ["completely/totally natural", "natural causes", "natural ability", "natural resources", "natural selection"]
+          "collocations": [
+            "completely/totally natural",
+            "natural causes",
+            "natural ability",
+            "natural resources",
+            "natural selection"
+          ],
+          "example_vi": "Cái chết là do các nguyên nhân tự nhiên."
         },
         {
           "word": "nature",
@@ -892,7 +1601,15 @@
           "definition_vi": "tự nhiên, bản chất",
           "example": "It's not in his nature to be mean.",
           "synonyms": [],
-          "collocations": ["the nature of", "by nature", "in nature", "Mother Nature", "human nature", "second nature"]
+          "collocations": [
+            "the nature of",
+            "by nature",
+            "in nature",
+            "Mother Nature",
+            "human nature",
+            "second nature"
+          ],
+          "example_vi": "Bản tính của anh ấy không phải là người xấu tính."
         },
         {
           "word": "odds",
@@ -901,7 +1618,13 @@
           "definition_vi": "tỷ lệ, khả năng",
           "example": "The odds of winning are slim.",
           "synonyms": [],
-          "collocations": ["the odds of doing", "the odds are (that)", "the odds are in favour of/against", "against all the odds"]
+          "collocations": [
+            "the odds of doing",
+            "the odds are (that)",
+            "the odds are in favour of/against",
+            "against all the odds"
+          ],
+          "example_vi": "Cơ hội chiến thắng là rất thấp."
         },
         {
           "word": "rain",
@@ -910,7 +1633,15 @@
           "definition_vi": "mưa",
           "example": "It's pouring with rain.",
           "synonyms": [],
-          "collocations": ["rain hard/heavily", "pour with rain", "heavy/light rain", "rainbow", "rainwater", "caught in the rain"]
+          "collocations": [
+            "rain hard/heavily",
+            "pour with rain",
+            "heavy/light rain",
+            "rainbow",
+            "rainwater",
+            "caught in the rain"
+          ],
+          "example_vi": "Trời đang mưa xối xả."
         },
         {
           "word": "risk",
@@ -919,7 +1650,18 @@
           "definition_vi": "nguy cơ, rủi ro",
           "example": "Smoking increases the risk of heart disease.",
           "synonyms": [],
-          "collocations": ["risk sth on", "risk doing", "risk one's life", "take a risk", "run the risk of", "put sth at risk", "pose a risk to", "the risk of", "at the risk of doing"]
+          "collocations": [
+            "risk sth on",
+            "risk doing",
+            "risk one's life",
+            "take a risk",
+            "run the risk of",
+            "put sth at risk",
+            "pose a risk to",
+            "the risk of",
+            "at the risk of doing"
+          ],
+          "example_vi": "Hút thuốc làm tăng nguy cơ mắc bệnh tim."
         },
         {
           "word": "sun",
@@ -928,7 +1670,16 @@
           "definition_vi": "mặt trời",
           "example": "We sat in the sun all afternoon.",
           "synonyms": [],
-          "collocations": ["sun yourself", "in the sun", "sunbathe", "sunlight", "sunrise", "sunset", "sunshine"]
+          "collocations": [
+            "sun yourself",
+            "in the sun",
+            "sunbathe",
+            "sunlight",
+            "sunrise",
+            "sunset",
+            "sunshine"
+          ],
+          "example_vi": "Chúng tôi đã ngồi dưới nắng cả buổi chiều."
         },
         {
           "word": "threat",
@@ -937,7 +1688,16 @@
           "definition_vi": "mối đe dọa",
           "example": "He faced a death threat.",
           "synonyms": [],
-          "collocations": ["pose a threat (to)", "face a threat", "under threat", "threat of", "idle threat", "bomb threat", "death threat"]
+          "collocations": [
+            "pose a threat (to)",
+            "face a threat",
+            "under threat",
+            "threat of",
+            "idle threat",
+            "bomb threat",
+            "death threat"
+          ],
+          "example_vi": "Anh ta đã phải đối mặt với lời đe dọa giết người."
         },
         {
           "word": "weather",
@@ -946,7 +1706,15 @@
           "definition_vi": "thời tiết",
           "example": "I'm feeling a bit under the weather.",
           "synonyms": [],
-          "collocations": ["good/bad/etc weather", "freak weather", "in all weathers", "under the weather", "weather forecast", "weatherproof"]
+          "collocations": [
+            "good/bad/etc weather",
+            "freak weather",
+            "in all weathers",
+            "under the weather",
+            "weather forecast",
+            "weatherproof"
+          ],
+          "example_vi": "Tôi đang cảm thấy hơi khó chịu trong người."
         },
         {
           "word": "wind",
@@ -955,7 +1723,13 @@
           "definition_vi": "gió",
           "example": "A gust of wind blew my hat off.",
           "synonyms": [],
-          "collocations": ["light/strong wind", "gust of wind", "in the wind", "winds of change"]
+          "collocations": [
+            "light/strong wind",
+            "gust of wind",
+            "in the wind",
+            "winds of change"
+          ],
+          "example_vi": "Một cơn gió mạnh đã thổi bay chiếc mũ của tôi."
         }
       ]
     },
@@ -969,7 +1743,8 @@
           "definition_vi": "thiên tai, trường hợp bất khả kháng",
           "example": "The insurance company refused to pay, claiming the damage was an act of God.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Công ty bảo hiểm từ chối chi trả, tuyên bố rằng thiệt hại là do thiên tai."
         },
         {
           "word": "come rain or shine",
@@ -977,8 +1752,11 @@
           "definition_en": "used for saying that something always happens or someone always does something despite bad weather or difficult conditions",
           "definition_vi": "dù mưa hay nắng, dù có chuyện gì xảy ra",
           "example": "He goes jogging every morning, come rain or shine.",
-          "synonyms": ["no matter what"],
-          "collocations": []
+          "synonyms": [
+            "no matter what"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy đi chạy bộ mỗi sáng, bất kể nắng mưa."
         },
         {
           "word": "down on your luck",
@@ -986,8 +1764,11 @@
           "definition_en": "having a long period of difficulty finding work and earning money",
           "definition_vi": "gặp vận đen, đang lúc khó khăn",
           "example": "He's been down on his luck since he lost his job last year.",
-          "synonyms": ["unlucky"],
-          "collocations": []
+          "synonyms": [
+            "unlucky"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy đã gặp vận rủi kể từ khi mất việc vào năm ngoái."
         },
         {
           "word": "draw the short straw",
@@ -996,7 +1777,8 @@
           "definition_vi": "phải làm việc không ai muốn, bốc trúng lá thăm xấu",
           "example": "I drew the short straw and had to stay late to finish the report.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi không may mắn nên phải ở lại muộn để hoàn thành báo cáo."
         },
         {
           "word": "have green fingers",
@@ -1005,7 +1787,8 @@
           "definition_vi": "có khiếu trồng cây",
           "example": "My grandmother has green fingers; her garden is always beautiful.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Bà tôi rất mát tay trồng cây; khu vườn của bà lúc nào cũng đẹp."
         },
         {
           "word": "let nature take its course",
@@ -1014,7 +1797,8 @@
           "definition_vi": "để mọi thứ diễn ra tự nhiên",
           "example": "There's no cure for this cold; we just have to let nature take its course.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Không có thuốc chữa cho cơn cảm lạnh này; chúng ta cứ để nó tự khỏi thôi."
         },
         {
           "word": "no rhyme or reason",
@@ -1023,7 +1807,8 @@
           "definition_vi": "không có lý do rõ ràng, chẳng vì cớ gì",
           "example": "There seems to be no rhyme or reason to these new rules.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Dường như chẳng có lý lẽ hay cơ sở nào cho những quy định mới này cả."
         },
         {
           "word": "out of the blue",
@@ -1031,8 +1816,11 @@
           "definition_en": "happening in a way that is sudden and unexpected",
           "definition_vi": "bất ngờ, thình lình",
           "example": "She received a job offer out of the blue.",
-          "synonyms": ["unexpectedly"],
-          "collocations": []
+          "synonyms": [
+            "unexpectedly"
+          ],
+          "collocations": [],
+          "example_vi": "Cô ấy bất ngờ nhận được một lời mời làm việc."
         },
         {
           "word": "the luck of the draw",
@@ -1041,7 +1829,8 @@
           "definition_vi": "do hên xui, sự may rủi",
           "example": "In this business, success is often just the luck of the draw.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Trong ngành này, thành công thường chỉ là nhờ may rủi."
         },
         {
           "word": "touch wood",
@@ -1050,7 +1839,8 @@
           "definition_vi": "trộm vía, cầu may (bằng cách gõ vào gỗ)",
           "example": "I've never been in a car accident, touch wood.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Trộm vía, tôi chưa bao giờ bị tai nạn xe hơi."
         }
       ]
     }
@@ -1132,56 +1922,96 @@
           "answer": "A",
           "explanation": "Approximate means near to the actual number.",
           "number": 1,
-          "options": ["A approximate", "B random", "C close", "D inexact"],
+          "options": [
+            "A approximate",
+            "B random",
+            "C close",
+            "D inexact"
+          ],
           "sentence": "What's the ___ number of accidents which happen in the home each year?"
         },
         {
           "answer": "C",
           "explanation": "A lucky charm is an object believed to bring good luck.",
           "number": 2,
-          "options": ["A sign", "B item", "C charm", "D spell"],
+          "options": [
+            "A sign",
+            "B item",
+            "C charm",
+            "D spell"
+          ],
           "sentence": "I always take my lucky ___ with me into an exam."
         },
         {
           "answer": "C",
           "explanation": "Coincidence is when two things happen by chance at the same time.",
           "number": 3,
-          "options": ["A freak", "B fate", "C coincidence", "D luck"],
+          "options": [
+            "A freak",
+            "B fate",
+            "C coincidence",
+            "D luck"
+          ],
           "sentence": "Did you plan to meet up with Emma in London, or was it just a ___ ?"
         },
         {
           "answer": "D",
           "explanation": "Deliberate means done on purpose.",
           "number": 4,
-          "options": ["A purposeful", "B instrumental", "C desirable", "D deliberate"],
+          "options": [
+            "A purposeful",
+            "B instrumental",
+            "C desirable",
+            "D deliberate"
+          ],
           "sentence": "Johnnie broke the vase, but I'm sure it wasn't ___ ."
         },
         {
           "answer": "B",
           "explanation": "Speculate means to guess without knowing all the facts.",
           "number": 5,
-          "options": ["A think", "B speculate", "C consider", "D ponder"],
+          "options": [
+            "A think",
+            "B speculate",
+            "C consider",
+            "D ponder"
+          ],
           "sentence": "We can only ___ as to the causes of the disaster."
         },
         {
           "answer": "D",
           "explanation": "Likelihood refers to the probability of something happening.",
           "number": 6,
-          "options": ["A hazard", "B luck", "C fortune", "D likelihood"],
+          "options": [
+            "A hazard",
+            "B luck",
+            "C fortune",
+            "D likelihood"
+          ],
           "sentence": "The ___ of one winning the lottery is hardly worth even considering."
         },
         {
           "answer": "A",
           "explanation": "Pot luck means taking a chance on whatever is available.",
           "number": 7,
-          "options": ["A pot luck", "B odds", "C draw", "D gamble"],
+          "options": [
+            "A pot luck",
+            "B odds",
+            "C draw",
+            "D gamble"
+          ],
           "sentence": "I didn't know my guess was going to be right - it was just ___ ."
         },
         {
           "answer": "D",
           "explanation": "Superstition is a belief based on old ideas of magic or luck.",
           "number": 8,
-          "options": ["A curse", "B misfortune", "C uncertainty", "D superstition"],
+          "options": [
+            "A curse",
+            "B misfortune",
+            "C uncertainty",
+            "D superstition"
+          ],
           "sentence": "Do you believe in that old ___ about not walking under a ladder?"
         }
       ],

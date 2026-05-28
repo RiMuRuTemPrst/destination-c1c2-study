@@ -12,8 +12,16 @@
           "definition_en": "to state that something is true or that someone has done something wrong or illegal even though this has not been proved",
           "definition_vi": "cáo cáo, khẳng định mà chưa có bằng chứng",
           "example": "The defense representative alleged that the police had used force to extract a confession.",
-          "synonyms": ["claim", "assert", "maintain"],
-          "collocations": ["be alleged to", "allege that"]
+          "synonyms": [
+            "claim",
+            "assert",
+            "maintain"
+          ],
+          "collocations": [
+            "be alleged to",
+            "allege that"
+          ],
+          "example_vi": "Đại diện bên bào chữa cáo buộc rằng cảnh sát đã dùng vũ lực để ép cung."
         },
         {
           "word": "ambiguous",
@@ -21,8 +29,16 @@
           "definition_en": "not clear or decided, or having more than one possible meaning",
           "definition_vi": "mơ hồ, đa nghĩa, không rõ ràng",
           "example": "The phrasing of the law is somewhat ambiguous.",
-          "synonyms": ["equivocal", "unclear", "vague"],
-          "collocations": ["highly ambiguous", "ambiguous wording"]
+          "synonyms": [
+            "equivocal",
+            "unclear",
+            "vague"
+          ],
+          "collocations": [
+            "highly ambiguous",
+            "ambiguous wording"
+          ],
+          "example_vi": "Cách diễn đạt của đạo luật này có phần mơ hồ."
         },
         {
           "word": "assert",
@@ -30,8 +46,16 @@
           "definition_en": "to state firmly that something is true",
           "definition_vi": "khẳng định, quả quyết",
           "example": "He asserted that he was not guilty.",
-          "synonyms": ["declare", "state", "maintain"],
-          "collocations": ["assert one's innocence", "assert authority"]
+          "synonyms": [
+            "declare",
+            "state",
+            "maintain"
+          ],
+          "collocations": [
+            "assert one's innocence",
+            "assert authority"
+          ],
+          "example_vi": "Anh ta khẳng định rằng mình không có tội."
         },
         {
           "word": "blunt",
@@ -39,8 +63,16 @@
           "definition_en": "saying what you think without trying to be polite or considering other people's feelings",
           "definition_vi": "thẳng thừng, lỗ mãng",
           "example": "To be blunt, I think your work is quite poor.",
-          "synonyms": ["direct", "forthright", "frank"],
-          "collocations": ["be blunt with someone", "blunt assessment"]
+          "synonyms": [
+            "direct",
+            "forthright",
+            "frank"
+          ],
+          "collocations": [
+            "be blunt with someone",
+            "blunt assessment"
+          ],
+          "example_vi": "Thẳng thắn mà nói, tôi nghĩ công việc của bạn khá tệ."
         },
         {
           "word": "boast",
@@ -48,8 +80,15 @@
           "definition_en": "to speak too proudly about your own abilities, achievements or possessions",
           "definition_vi": "khoe khoang",
           "example": "He's always boasting about how much money he makes.",
-          "synonyms": ["brag", "show off"],
-          "collocations": ["boast about/of", "make a boast"]
+          "synonyms": [
+            "brag",
+            "show off"
+          ],
+          "collocations": [
+            "boast about/of",
+            "make a boast"
+          ],
+          "example_vi": "Anh ta luôn khoe khoang về việc mình kiếm được bao nhiêu tiền."
         },
         {
           "word": "clarification",
@@ -57,8 +96,15 @@
           "definition_en": "an explanation that makes something clearer and easier to understand",
           "definition_vi": "sự làm sáng tỏ, sự giải thích rõ",
           "example": "The company has asked for clarification of the government's position.",
-          "synonyms": ["explanation", "elucidation"],
-          "collocations": ["seek clarification", "further clarification"]
+          "synonyms": [
+            "explanation",
+            "elucidation"
+          ],
+          "collocations": [
+            "seek clarification",
+            "further clarification"
+          ],
+          "example_vi": "Công ty đã yêu cầu làm rõ lập trường của chính phủ."
         },
         {
           "word": "colloquial",
@@ -66,8 +112,15 @@
           "definition_en": "used in informal conversation rather than in writing or formal language",
           "definition_vi": "thông tục, thuộc về ngôn ngữ nói thường ngày",
           "example": "The book is written in a very colloquial style.",
-          "synonyms": ["informal", "conversational"],
-          "collocations": ["colloquial language", "colloquial expression"]
+          "synonyms": [
+            "informal",
+            "conversational"
+          ],
+          "collocations": [
+            "colloquial language",
+            "colloquial expression"
+          ],
+          "example_vi": "Cuốn sách được viết theo phong cách rất dân dã."
         },
         {
           "word": "comprehend",
@@ -75,8 +128,16 @@
           "definition_en": "to understand something",
           "definition_vi": "hiểu, lĩnh hội",
           "example": "I fail to comprehend their attitude.",
-          "synonyms": ["understand", "grasp", "fathom"],
-          "collocations": ["fully comprehend", "fail to comprehend"]
+          "synonyms": [
+            "understand",
+            "grasp",
+            "fathom"
+          ],
+          "collocations": [
+            "fully comprehend",
+            "fail to comprehend"
+          ],
+          "example_vi": "Tôi không thể hiểu nổi thái độ của họ."
         },
         {
           "word": "confide",
@@ -84,8 +145,15 @@
           "definition_en": "to tell someone a secret or discuss your private feelings with them",
           "definition_vi": "tâm sự, thổ lộ bí mật",
           "example": "He confided to his friends that he didn't have much hope for his marriage.",
-          "synonyms": ["trust", "reveal"],
-          "collocations": ["confide in someone", "confide that"]
+          "synonyms": [
+            "trust",
+            "reveal"
+          ],
+          "collocations": [
+            "confide in someone",
+            "confide that"
+          ],
+          "example_vi": "Anh tâm sự với bạn bè rằng mình không hy vọng nhiều vào cuộc hôn nhân này."
         },
         {
           "word": "confirm",
@@ -93,8 +161,15 @@
           "definition_en": "to prove that something is true",
           "definition_vi": "xác nhận, chứng thực",
           "example": "The study confirms the findings of earlier research.",
-          "synonyms": ["verify", "corroborate"],
-          "collocations": ["confirm a report", "confirm a theory"]
+          "synonyms": [
+            "verify",
+            "corroborate"
+          ],
+          "collocations": [
+            "confirm a report",
+            "confirm a theory"
+          ],
+          "example_vi": "Nghiên cứu này xác nhận những phát hiện của các nghiên cứu trước đó."
         },
         {
           "word": "context",
@@ -102,8 +177,16 @@
           "definition_en": "the general situation in which something happens, which helps to explain it",
           "definition_vi": "ngữ cảnh, hoàn cảnh",
           "example": "These comments should be seen in the context of the recent conflict.",
-          "synonyms": ["background", "circumstances"],
-          "collocations": ["social context", "historical context", "out of context"]
+          "synonyms": [
+            "background",
+            "circumstances"
+          ],
+          "collocations": [
+            "social context",
+            "historical context",
+            "out of context"
+          ],
+          "example_vi": "Những bình luận này nên được xem xét trong bối cảnh của cuộc xung đột gần đây."
         },
         {
           "word": "contradict",
@@ -111,8 +194,16 @@
           "definition_en": "to say that the opposite of what someone has said is true",
           "definition_vi": "mâu thuẫn, phủ nhận",
           "example": "The witness's story contradicted that of the defendant.",
-          "synonyms": ["deny", "refute", "dispute"],
-          "collocations": ["contradict oneself", "directly contradict"]
+          "synonyms": [
+            "deny",
+            "refute",
+            "dispute"
+          ],
+          "collocations": [
+            "contradict oneself",
+            "directly contradict"
+          ],
+          "example_vi": "Câu chuyện của nhân chứng mâu thuẫn với báo cáo của cảnh sát."
         },
         {
           "word": "convey",
@@ -120,8 +211,16 @@
           "definition_en": "to communicate ideas or feelings indirectly",
           "definition_vi": "truyền tải, truyền đạt",
           "example": "A good photograph can often convey more than words.",
-          "synonyms": ["communicate", "express", "impart"],
-          "collocations": ["convey a message", "convey an impression"]
+          "synonyms": [
+            "communicate",
+            "express",
+            "impart"
+          ],
+          "collocations": [
+            "convey a message",
+            "convey an impression"
+          ],
+          "example_vi": "Một bức ảnh đẹp thường có thể truyền tải nhiều điều hơn là lời nói."
         },
         {
           "word": "declare",
@@ -129,8 +228,15 @@
           "definition_en": "to announce something publicly or officially",
           "definition_vi": "tuyên bố, công bố",
           "example": "The government has declared a state of emergency.",
-          "synonyms": ["announce", "proclaim"],
-          "collocations": ["declare war", "declare bankruptcy"]
+          "synonyms": [
+            "announce",
+            "proclaim"
+          ],
+          "collocations": [
+            "declare war",
+            "declare bankruptcy"
+          ],
+          "example_vi": "Chính phủ đã tuyên bố tình trạng khẩn cấp."
         },
         {
           "word": "denounce",
@@ -138,8 +244,16 @@
           "definition_en": "to criticize someone or something severely in public",
           "definition_vi": "tố cáo, lên án công khai",
           "example": "The government's economic policy has been denounced on all sides.",
-          "synonyms": ["condemn", "criticize", "censure"],
-          "collocations": ["publicly denounce", "denounce as"]
+          "synonyms": [
+            "condemn",
+            "criticize",
+            "censure"
+          ],
+          "collocations": [
+            "publicly denounce",
+            "denounce as"
+          ],
+          "example_vi": "Chính sách kinh tế của chính phủ đã bị chỉ trích từ mọi phía."
         },
         {
           "word": "disclose",
@@ -147,8 +261,15 @@
           "definition_en": "to give people information that was previously secret",
           "definition_vi": "tiết lộ, vạch trần",
           "example": "The bank refused to disclose any information about its customers.",
-          "synonyms": ["reveal", "divulge"],
-          "collocations": ["disclose information", "fully disclose"]
+          "synonyms": [
+            "reveal",
+            "divulge"
+          ],
+          "collocations": [
+            "disclose information",
+            "fully disclose"
+          ],
+          "example_vi": "Ngân hàng từ chối tiết lộ bất kỳ thông tin nào về khách hàng của mình."
         },
         {
           "word": "exaggerate",
@@ -156,8 +277,15 @@
           "definition_en": "to describe something in a way that makes it seem better, worse, larger, more important etc than it really is",
           "definition_vi": "phóng đại, thổi phồng",
           "example": "Don't exaggerate! It wasn't that expensive.",
-          "synonyms": ["overstate", "magnify"],
-          "collocations": ["grossly exaggerate", "exaggerate the importance of"]
+          "synonyms": [
+            "overstate",
+            "magnify"
+          ],
+          "collocations": [
+            "grossly exaggerate",
+            "exaggerate the importance of"
+          ],
+          "example_vi": "Đừng có thổi phồng lên! Nó không đắt đến thế đâu."
         },
         {
           "word": "flatter",
@@ -165,8 +293,15 @@
           "definition_en": "to praise someone in order to get something you want, especially in a way that is not sincere",
           "definition_vi": "nịnh bợ, tâng bốc",
           "example": "You're only flattering me because you want a pay rise.",
-          "synonyms": ["compliment", "adulate"],
-          "collocations": ["flatter oneself", "be flattered by"]
+          "synonyms": [
+            "compliment",
+            "adulate"
+          ],
+          "collocations": [
+            "flatter oneself",
+            "be flattered by"
+          ],
+          "example_vi": "Bạn chỉ đang nịnh nọt tôi vì bạn muốn được tăng lương thôi."
         },
         {
           "word": "gist",
@@ -174,8 +309,16 @@
           "definition_en": "the main idea or most important point of something that someone has written or said",
           "definition_vi": "ý chính, cốt lõi",
           "example": "I only got the gist of what he was saying.",
-          "synonyms": ["essence", "core", "substance"],
-          "collocations": ["get the gist", "the gist of the argument"]
+          "synonyms": [
+            "essence",
+            "core",
+            "substance"
+          ],
+          "collocations": [
+            "get the gist",
+            "the gist of the argument"
+          ],
+          "example_vi": "Tôi chỉ nắm được ý chính của những gì anh ta nói."
         },
         {
           "word": "hint",
@@ -183,8 +326,16 @@
           "definition_en": "to say or do something that shows what you are thinking or what you want without saying it directly",
           "definition_vi": "gợi ý, ám chỉ, lời gợi ý",
           "example": "He hinted that he might be leaving the company.",
-          "synonyms": ["suggest", "intimate", "insinuate"],
-          "collocations": ["hint at", "drop a hint"]
+          "synonyms": [
+            "suggest",
+            "intimate",
+            "insinuate"
+          ],
+          "collocations": [
+            "hint at",
+            "drop a hint"
+          ],
+          "example_vi": "Anh ta ám chỉ rằng mình có thể sẽ rời công ty."
         },
         {
           "word": "illegible",
@@ -192,8 +343,15 @@
           "definition_en": "difficult or impossible to read",
           "definition_vi": "không đọc được, khó đọc (chữ viết)",
           "example": "His handwriting is totally illegible.",
-          "synonyms": ["unreadable", "indecipherable"],
-          "collocations": ["totally illegible", "illegible handwriting"]
+          "synonyms": [
+            "unreadable",
+            "indecipherable"
+          ],
+          "collocations": [
+            "totally illegible",
+            "illegible handwriting"
+          ],
+          "example_vi": "Chữ viết tay của anh ta hoàn toàn không thể đọc được."
         },
         {
           "word": "inkling",
@@ -201,8 +359,16 @@
           "definition_en": "a slight idea or small amount of information that helps you to understand something",
           "definition_vi": "sự lờ mờ biết được, sự gợi ý",
           "example": "I had no inkling that they were planning a surprise party for me.",
-          "synonyms": ["clue", "hint", "suspicion"],
-          "collocations": ["have an inkling", "give an inkling"]
+          "synonyms": [
+            "clue",
+            "hint",
+            "suspicion"
+          ],
+          "collocations": [
+            "have an inkling",
+            "give an inkling"
+          ],
+          "example_vi": "Tôi không hề mảy may biết rằng họ đang lên kế hoạch tổ chức một bữa tiệc bất ngờ cho mình."
         },
         {
           "word": "insist",
@@ -210,8 +376,16 @@
           "definition_en": "to say very firmly that something must happen or be done",
           "definition_vi": "khăng khăng, nài nỉ, nhấn mạnh",
           "example": "She insisted on having her own way.",
-          "synonyms": ["demand", "maintain", "assert"],
-          "collocations": ["insist on", "insist that"]
+          "synonyms": [
+            "demand",
+            "maintain",
+            "assert"
+          ],
+          "collocations": [
+            "insist on",
+            "insist that"
+          ],
+          "example_vi": "Cô ấy khăng khăng làm theo ý mình."
         },
         {
           "word": "jargon",
@@ -219,8 +393,15 @@
           "definition_en": "special words and phrases that are only used by people who do the same kind of work",
           "definition_vi": "biệt ngữ, thuật ngữ chuyên môn",
           "example": "I don't understand all this computer jargon.",
-          "synonyms": ["terminology", "slang"],
-          "collocations": ["technical jargon", "legal jargon"]
+          "synonyms": [
+            "terminology",
+            "slang"
+          ],
+          "collocations": [
+            "technical jargon",
+            "legal jargon"
+          ],
+          "example_vi": "Tôi không hiểu hết mớ thuật ngữ máy tính này."
         },
         {
           "word": "literal",
@@ -228,8 +409,15 @@
           "definition_en": "with the meaning that a word or phrase has on its own",
           "definition_vi": "theo nghĩa đen",
           "example": "The literal meaning of the word 'television' is 'seeing from a distance'.",
-          "synonyms": ["exact", "precise"],
-          "collocations": ["literal meaning", "literal translation"]
+          "synonyms": [
+            "exact",
+            "precise"
+          ],
+          "collocations": [
+            "literal meaning",
+            "literal translation"
+          ],
+          "example_vi": "Nghĩa đen của từ 'television' là 'nhìn từ xa'."
         },
         {
           "word": "mumble",
@@ -237,8 +425,15 @@
           "definition_en": "to speak in a low voice that is not clear",
           "definition_vi": "nói lầm bầm",
           "example": "Stop mumbling and speak up!",
-          "synonyms": ["mutter", "murmur"],
-          "collocations": ["mumble something", "mumble to oneself"]
+          "synonyms": [
+            "mutter",
+            "murmur"
+          ],
+          "collocations": [
+            "mumble something",
+            "mumble to oneself"
+          ],
+          "example_vi": "Đừng có lẩm bẩm nữa, nói to lên xem nào!"
         },
         {
           "word": "murmur",
@@ -246,8 +441,15 @@
           "definition_en": "to say something in a very quiet voice",
           "definition_vi": "thì thầm, lầm rầm",
           "example": "He murmured something about being tired.",
-          "synonyms": ["whisper", "mumble"],
-          "collocations": ["murmur of approval", "murmur in agreement"]
+          "synonyms": [
+            "whisper",
+            "mumble"
+          ],
+          "collocations": [
+            "murmur of approval",
+            "murmur in agreement"
+          ],
+          "example_vi": "Anh ta lầm bầm điều gì đó về việc mệt mỏi."
         },
         {
           "word": "petition",
@@ -255,8 +457,15 @@
           "definition_en": "a document signed by many people that asks someone in authority to do something",
           "definition_vi": "đơn kiến nghị, lời thỉnh cầu",
           "example": "They are collecting signatures for a petition against the new road.",
-          "synonyms": ["appeal", "application"],
-          "collocations": ["sign a petition", "organise a petition"]
+          "synonyms": [
+            "appeal",
+            "application"
+          ],
+          "collocations": [
+            "sign a petition",
+            "organise a petition"
+          ],
+          "example_vi": "Họ đang thu thập chữ ký cho một bản kiến nghị chống lại con đường mới."
         },
         {
           "word": "placard",
@@ -264,8 +473,16 @@
           "definition_en": "a large notice in a public place, used for advertising something or carried in order to protest",
           "definition_vi": "tấm áp phích, biểu ngữ",
           "example": "The demonstrators were carrying placards saying 'No more war!'.",
-          "synonyms": ["poster", "sign", "banner"],
-          "collocations": ["carry a placard", "brandish a placard"]
+          "synonyms": [
+            "poster",
+            "sign",
+            "banner"
+          ],
+          "collocations": [
+            "carry a placard",
+            "brandish a placard"
+          ],
+          "example_vi": "Những người biểu tình mang theo những tấm biểu ngữ có nội dung 'Không còn chiến tranh nữa!'."
         },
         {
           "word": "quibble",
@@ -273,8 +490,15 @@
           "definition_en": "to argue or complain about small, unimportant details",
           "definition_vi": "tranh cãi vụn vặt",
           "example": "There's no point quibbling over such a small amount of money.",
-          "synonyms": ["carp", "nitpick"],
-          "collocations": ["quibble over", "quibble about"]
+          "synonyms": [
+            "carp",
+            "nitpick"
+          ],
+          "collocations": [
+            "quibble over",
+            "quibble about"
+          ],
+          "example_vi": "Chẳng ích gì khi tranh cãi vụn vặt về một số tiền nhỏ như vậy."
         },
         {
           "word": "rant",
@@ -282,8 +506,15 @@
           "definition_en": "to complain about something in an excited or angry way",
           "definition_vi": "nói huyên thuyên, sừng sộ, quát tháo",
           "example": "He's always ranting about the government.",
-          "synonyms": ["rave", "shout"],
-          "collocations": ["rant at someone", "rant and rave"]
+          "synonyms": [
+            "rave",
+            "shout"
+          ],
+          "collocations": [
+            "rant at someone",
+            "rant and rave"
+          ],
+          "example_vi": "Anh ta luôn mồm quát tháo về chính phủ."
         },
         {
           "word": "rave",
@@ -291,8 +522,15 @@
           "definition_en": "to talk in an excited and enthusiastic way about something; or to talk in an angry or uncontrolled way",
           "definition_vi": "nói say sưa / nói sảng, mê sảng",
           "example": "The critics raved about his performance.",
-          "synonyms": ["enthuse", "rant"],
-          "collocations": ["rave about", "rave and rant"]
+          "synonyms": [
+            "enthuse",
+            "rant"
+          ],
+          "collocations": [
+            "rave about",
+            "rave and rant"
+          ],
+          "example_vi": "Các nhà phê bình đã hết lời khen ngợi màn trình diễn của anh ấy."
         },
         {
           "word": "relevant",
@@ -300,8 +538,15 @@
           "definition_en": "directly connected with what is happening or being discussed",
           "definition_vi": "có liên quan, thích đáng",
           "example": "Please provide all the relevant information.",
-          "synonyms": ["applicable", "pertinent"],
-          "collocations": ["highly relevant", "relevant to"]
+          "synonyms": [
+            "applicable",
+            "pertinent"
+          ],
+          "collocations": [
+            "highly relevant",
+            "relevant to"
+          ],
+          "example_vi": "Vui lòng cung cấp tất cả các thông tin liên quan."
         },
         {
           "word": "scribble",
@@ -309,8 +554,15 @@
           "definition_en": "to write something quickly and carelessly",
           "definition_vi": "viết ngoáy, viết nghệch ngoạc",
           "example": "I scribbled a quick note to him.",
-          "synonyms": ["scrawl", "jot"],
-          "collocations": ["scribble down", "scribble on"]
+          "synonyms": [
+            "scrawl",
+            "jot"
+          ],
+          "collocations": [
+            "scribble down",
+            "scribble on"
+          ],
+          "example_vi": "Tôi đã viết nguệch ngoạc một mẩu giấy nhắn nhanh cho anh ấy."
         },
         {
           "word": "slang",
@@ -318,8 +570,15 @@
           "definition_en": "informal language used by a particular group of people",
           "definition_vi": "tiếng lóng",
           "example": "In prison slang, a 'screw' is a guard.",
-          "synonyms": ["idiom", "jargon"],
-          "collocations": ["street slang", "rhyming slang"]
+          "synonyms": [
+            "idiom",
+            "jargon"
+          ],
+          "collocations": [
+            "street slang",
+            "rhyming slang"
+          ],
+          "example_vi": "Trong tiếng lóng nhà tù, 'screw' nghĩa là cai ngục."
         },
         {
           "word": "stumble",
@@ -327,8 +586,14 @@
           "definition_en": "to make a mistake when you are speaking",
           "definition_vi": "nói vấp, sự vấp váp",
           "example": "He stumbled over his words as he tried to explain.",
-          "synonyms": ["falter", "hesitate"],
-          "collocations": ["stumble over words"]
+          "synonyms": [
+            "falter",
+            "hesitate"
+          ],
+          "collocations": [
+            "stumble over words"
+          ],
+          "example_vi": "Anh ta vấp váp lời nói khi cố gắng giải thích."
         },
         {
           "word": "stutter",
@@ -336,8 +601,14 @@
           "definition_en": "to repeat the first sound of a word several times when you are speaking",
           "definition_vi": "nói lắp",
           "example": "I used to have a stutter when I was a child.",
-          "synonyms": ["stammer"],
-          "collocations": ["stutter with nervousness", "bad stutter"]
+          "synonyms": [
+            "stammer"
+          ],
+          "collocations": [
+            "stutter with nervousness",
+            "bad stutter"
+          ],
+          "example_vi": "Tôi từng bị nói lắp khi còn nhỏ."
         },
         {
           "word": "tip",
@@ -345,8 +616,16 @@
           "definition_en": "a small piece of useful advice",
           "definition_vi": "mẹo, lời khuyên hữu ích",
           "example": "The book gives you lots of useful tips on how to save money.",
-          "synonyms": ["hint", "advice", "suggestion"],
-          "collocations": ["handy tip", "top tip"]
+          "synonyms": [
+            "hint",
+            "advice",
+            "suggestion"
+          ],
+          "collocations": [
+            "handy tip",
+            "top tip"
+          ],
+          "example_vi": "Cuốn sách cung cấp cho bạn nhiều mẹo hữu ích về cách tiết kiệm tiền."
         },
         {
           "word": "utter",
@@ -354,8 +633,16 @@
           "definition_en": "to say something; to make a sound with your voice",
           "definition_vi": "thốt ra, phát ra (âm thanh/lời nói)",
           "example": "She sat through the whole meeting without uttering a word.",
-          "synonyms": ["say", "speak", "voice"],
-          "collocations": ["utter a word", "utter a sound"]
+          "synonyms": [
+            "say",
+            "speak",
+            "voice"
+          ],
+          "collocations": [
+            "utter a word",
+            "utter a sound"
+          ],
+          "example_vi": "Cô ấy ngồi suốt cả buổi họp mà không thốt ra một lời nào."
         },
         {
           "word": "vague",
@@ -363,8 +650,16 @@
           "definition_en": "not clearly or fully explained",
           "definition_vi": "mơ hồ, mập mờ, không rõ ràng",
           "example": "The governor has been rather vague about his plans.",
-          "synonyms": ["unclear", "indistinct", "fuzzy"],
-          "collocations": ["vague idea", "vague answer"]
+          "synonyms": [
+            "unclear",
+            "indistinct",
+            "fuzzy"
+          ],
+          "collocations": [
+            "vague idea",
+            "vague answer"
+          ],
+          "example_vi": "Thống đốc có vẻ khá mơ hồ về các kế hoạch của mình."
         }
       ]
     },
@@ -377,8 +672,15 @@
           "definition_en": "to present a television or radio programme, especially the news; someone who presents the news",
           "definition_vi": "biên tập viên chính, người dẫn chương trình tin tức",
           "example": "She anchors the evening news.",
-          "synonyms": ["presenter", "host"],
-          "collocations": ["news anchor", "anchor a show"]
+          "synonyms": [
+            "presenter",
+            "host"
+          ],
+          "collocations": [
+            "news anchor",
+            "anchor a show"
+          ],
+          "example_vi": "Cô ấy là người dẫn chương trình tin tức buổi tối."
         },
         {
           "word": "broadcast",
@@ -386,8 +688,15 @@
           "definition_en": "to send out messages or programmes to be received by radios or televisions; a programme on the radio or television",
           "definition_vi": "phát sóng, chương trình phát thanh/truyền hình",
           "example": "The concert will be broadcast live tomorrow night.",
-          "synonyms": ["transmit", "air"],
-          "collocations": ["live broadcast", "broadcast live"]
+          "synonyms": [
+            "transmit",
+            "air"
+          ],
+          "collocations": [
+            "live broadcast",
+            "broadcast live"
+          ],
+          "example_vi": "Buổi hòa nhạc sẽ được truyền hình trực tiếp vào tối mai."
         },
         {
           "word": "caption",
@@ -395,8 +704,16 @@
           "definition_en": "words printed near or on a picture that explain it",
           "definition_vi": "phụ đề, lời chú thích (cho ảnh/hình)",
           "example": "The caption under the photo identified the people in it.",
-          "synonyms": ["heading", "title", "legend"],
-          "collocations": ["photo caption", "write a caption"]
+          "synonyms": [
+            "heading",
+            "title",
+            "legend"
+          ],
+          "collocations": [
+            "photo caption",
+            "write a caption"
+          ],
+          "example_vi": "Dòng chú thích dưới bức ảnh cho biết danh tính của những người trong đó."
         },
         {
           "word": "columnist",
@@ -404,8 +721,15 @@
           "definition_en": "someone who writes a regular article for a newspaper or magazine",
           "definition_vi": "người phụ trách chuyên mục",
           "example": "She is a columnist for a national newspaper.",
-          "synonyms": ["writer", "journalist"],
-          "collocations": ["newspaper columnist", "gossip columnist"]
+          "synonyms": [
+            "writer",
+            "journalist"
+          ],
+          "collocations": [
+            "newspaper columnist",
+            "gossip columnist"
+          ],
+          "example_vi": "Cô ấy là một người viết chuyên mục cho một tờ báo quốc gia."
         },
         {
           "word": "correspondent",
@@ -413,8 +737,15 @@
           "definition_en": "a newspaper or television reporter, especially one who deals with a particular subject or area",
           "definition_vi": "phóng viên thường trú, thông tín viên",
           "example": "He is the BBC's political correspondent.",
-          "synonyms": ["reporter", "journalist"],
-          "collocations": ["foreign correspondent", "war correspondent"]
+          "synonyms": [
+            "reporter",
+            "journalist"
+          ],
+          "collocations": [
+            "foreign correspondent",
+            "war correspondent"
+          ],
+          "example_vi": "Ông là phóng viên chính trị của đài BBC."
         },
         {
           "word": "coverage",
@@ -422,8 +753,17 @@
           "definition_en": "news about a particular type of event or group of events",
           "definition_vi": "tin tức, việc đưa tin, độ bao phủ tin tức",
           "example": "There was a lot of coverage of the Olympic Games on television.",
-          "synonyms": ["reporting", "reporting", "broadcast"],
-          "collocations": ["media coverage", "live coverage", "press coverage"]
+          "synonyms": [
+            "reporting",
+            "reporting",
+            "broadcast"
+          ],
+          "collocations": [
+            "media coverage",
+            "live coverage",
+            "press coverage"
+          ],
+          "example_vi": "Có rất nhiều tin tức về Thế vận hội Olympic trên truyền hình."
         },
         {
           "word": "critic",
@@ -431,8 +771,16 @@
           "definition_en": "someone whose job is to give their opinion about something, especially films, books, music etc",
           "definition_vi": "nhà phê bình",
           "example": "He is a film critic for a Sunday newspaper.",
-          "synonyms": ["reviewer", "judge"],
-          "collocations": ["film critic", "art critic", "literary critic"]
+          "synonyms": [
+            "reviewer",
+            "judge"
+          ],
+          "collocations": [
+            "film critic",
+            "art critic",
+            "literary critic"
+          ],
+          "example_vi": "Anh ấy là nhà phê bình phim cho một tờ báo Chủ Nhật."
         },
         {
           "word": "footnote",
@@ -440,8 +788,15 @@
           "definition_en": "a note at the bottom of a page that gives more information about something on the page",
           "definition_vi": "chú thích cuối trang",
           "example": "Detailed figures are given in the footnotes.",
-          "synonyms": ["annotation", "note"],
-          "collocations": ["add a footnote", "explanatory footnote"]
+          "synonyms": [
+            "annotation",
+            "note"
+          ],
+          "collocations": [
+            "add a footnote",
+            "explanatory footnote"
+          ],
+          "example_vi": "Các số liệu chi tiết được đưa ra trong phần chú thích cuối trang."
         },
         {
           "word": "ghostwriter",
@@ -449,8 +804,14 @@
           "definition_en": "someone who is paid to write a book, article etc for another person who then says they have written it themselves",
           "definition_vi": "người viết thuê",
           "example": "He used a ghostwriter to help him write his autobiography.",
-          "synonyms": ["collaborator"],
-          "collocations": ["hire a ghostwriter", "act as a ghostwriter"]
+          "synonyms": [
+            "collaborator"
+          ],
+          "collocations": [
+            "hire a ghostwriter",
+            "act as a ghostwriter"
+          ],
+          "example_vi": "Anh ấy đã thuê một người viết thuê để giúp mình viết cuốn tự truyện."
         },
         {
           "word": "handbook",
@@ -458,8 +819,15 @@
           "definition_en": "a small book that gives information about a subject or instructions about how to use something",
           "definition_vi": "sách hướng dẫn, sổ tay",
           "example": "You should read the student handbook carefully.",
-          "synonyms": ["manual", "guidebook"],
-          "collocations": ["instruction handbook", "employee handbook"]
+          "synonyms": [
+            "manual",
+            "guidebook"
+          ],
+          "collocations": [
+            "instruction handbook",
+            "employee handbook"
+          ],
+          "example_vi": "Bạn nên đọc kỹ sổ tay sinh viên."
         },
         {
           "word": "manifesto",
@@ -467,8 +835,15 @@
           "definition_en": "a formal statement of the ideas and plans of a group or organization, especially of a political party",
           "definition_vi": "bản tuyên ngôn",
           "example": "The party's election manifesto focuses on health and education.",
-          "synonyms": ["declaration", "policy"],
-          "collocations": ["election manifesto", "publish a manifesto"]
+          "synonyms": [
+            "declaration",
+            "policy"
+          ],
+          "collocations": [
+            "election manifesto",
+            "publish a manifesto"
+          ],
+          "example_vi": "Tuyên ngôn tranh cử của đảng tập trung vào y tế và giáo dục."
         },
         {
           "word": "novelist",
@@ -476,8 +851,15 @@
           "definition_en": "someone who writes novels",
           "definition_vi": "tiểu thuyết gia",
           "example": "She is a famous novelist.",
-          "synonyms": ["author", "writer"],
-          "collocations": ["best-selling novelist", "crime novelist"]
+          "synonyms": [
+            "author",
+            "writer"
+          ],
+          "collocations": [
+            "best-selling novelist",
+            "crime novelist"
+          ],
+          "example_vi": "Cô ấy là một tiểu thuyết gia nổi tiếng."
         },
         {
           "word": "pamphlet",
@@ -485,8 +867,16 @@
           "definition_en": "a very thin book with a paper cover, usually given free to give information about something",
           "definition_vi": "tờ rơi, sách mỏng dùng để quảng cáo/cung cấp thông tin",
           "example": "They were handing out pamphlets about the environment.",
-          "synonyms": ["leaflet", "brochure", "booklet"],
-          "collocations": ["informational pamphlet", "distribute pamphlets"]
+          "synonyms": [
+            "leaflet",
+            "brochure",
+            "booklet"
+          ],
+          "collocations": [
+            "informational pamphlet",
+            "distribute pamphlets"
+          ],
+          "example_vi": "Họ đang phát các tờ rơi về môi trường."
         },
         {
           "word": "prerecorded",
@@ -494,8 +884,14 @@
           "definition_en": "recorded before it is broadcast",
           "definition_vi": "được thu âm/hình trước",
           "example": "The interview was prerecorded last week.",
-          "synonyms": ["taped"],
-          "collocations": ["prerecorded message", "prerecorded broadcast"]
+          "synonyms": [
+            "taped"
+          ],
+          "collocations": [
+            "prerecorded message",
+            "prerecorded broadcast"
+          ],
+          "example_vi": "Buổi phỏng vấn đã được ghi hình từ tuần trước."
         },
         {
           "word": "reviewer",
@@ -503,8 +899,15 @@
           "definition_en": "someone whose job is to write their opinion about a new book, film, play etc",
           "definition_vi": "người đánh giá, nhà phê bình (sách, phim...)",
           "example": "He is a book reviewer for a literary magazine.",
-          "synonyms": ["critic", "commentator"],
-          "collocations": ["book reviewer", "film reviewer"]
+          "synonyms": [
+            "critic",
+            "commentator"
+          ],
+          "collocations": [
+            "book reviewer",
+            "film reviewer"
+          ],
+          "example_vi": "Anh ấy là một người điểm sách cho một tạp chí văn học."
         },
         {
           "word": "spine",
@@ -512,8 +915,14 @@
           "definition_en": "the edge of a book where all the pages are fixed together",
           "definition_vi": "gáy sách",
           "example": "The title is printed on the spine of the book.",
-          "synonyms": ["back"],
-          "collocations": ["book spine", "spine of the book"]
+          "synonyms": [
+            "back"
+          ],
+          "collocations": [
+            "book spine",
+            "spine of the book"
+          ],
+          "example_vi": "Tiêu đề được in trên gáy sách."
         },
         {
           "word": "subtitles",
@@ -521,8 +930,14 @@
           "definition_en": "words on a film or television screen that translate what the characters are saying",
           "definition_vi": "phụ đề",
           "example": "I prefer watching films with subtitles.",
-          "synonyms": ["captions"],
-          "collocations": ["english subtitles", "with subtitles"]
+          "synonyms": [
+            "captions"
+          ],
+          "collocations": [
+            "english subtitles",
+            "with subtitles"
+          ],
+          "example_vi": "Tôi thích xem phim có phụ đề hơn."
         },
         {
           "word": "supplement",
@@ -530,8 +945,15 @@
           "definition_en": "a separate part of a newspaper or magazine",
           "definition_vi": "phụ trương, phần bổ sung",
           "example": "The Sunday paper has a color supplement.",
-          "synonyms": ["addition", "appendix"],
-          "collocations": ["magazine supplement", "Sunday supplement"]
+          "synonyms": [
+            "addition",
+            "appendix"
+          ],
+          "collocations": [
+            "magazine supplement",
+            "Sunday supplement"
+          ],
+          "example_vi": "Tờ báo Chủ Nhật có một phụ trương màu."
         },
         {
           "word": "tabloid",
@@ -539,8 +961,15 @@
           "definition_en": "a newspaper that has small pages and not much serious news",
           "definition_vi": "báo lá cải, báo khổ nhỏ",
           "example": "The story was on the front page of every tabloid.",
-          "synonyms": ["rag", "sensationalist newspaper"],
-          "collocations": ["tabloid journalism", "tabloid newspaper"]
+          "synonyms": [
+            "rag",
+            "sensationalist newspaper"
+          ],
+          "collocations": [
+            "tabloid journalism",
+            "tabloid newspaper"
+          ],
+          "example_vi": "Câu chuyện đã nằm trên trang nhất của mọi tờ báo lá cải."
         },
         {
           "word": "trailer",
@@ -548,8 +977,15 @@
           "definition_en": "a short series of scenes from a film or television programme, shown in advance to advertise it",
           "definition_vi": "đoạn giới thiệu phim",
           "example": "I saw a trailer for the new movie.",
-          "synonyms": ["preview", "teaser"],
-          "collocations": ["movie trailer", "watch a trailer"]
+          "synonyms": [
+            "preview",
+            "teaser"
+          ],
+          "collocations": [
+            "movie trailer",
+            "watch a trailer"
+          ],
+          "example_vi": "Tôi đã xem đoạn giới thiệu cho bộ phim mới."
         }
       ]
     },
@@ -562,8 +998,12 @@
           "definition_en": "say something suddenly and without thinking about the effect it will have, usually because you are nervous or excited",
           "definition_vi": "buột miệng nói ra",
           "example": "He blurted out the secret before he could stop himself.",
-          "synonyms": ["divulge", "let slip"],
-          "collocations": []
+          "synonyms": [
+            "divulge",
+            "let slip"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ta buột miệng tiết lộ bí mật trước khi kịp ngăn mình lại."
         },
         {
           "word": "catch on",
@@ -571,8 +1011,13 @@
           "definition_en": "understand; become popular or fashionable",
           "definition_vi": "hiểu ra; trở nên phổ biến",
           "example": "He didn't catch on to the joke at first. / The new hairstyle is starting to catch on.",
-          "synonyms": ["understand", "grasp", "become popular"],
-          "collocations": []
+          "synonyms": [
+            "understand",
+            "grasp",
+            "become popular"
+          ],
+          "collocations": [],
+          "example_vi": "Lúc đầu anh ấy không hiểu được trò đùa. / Kiểu tóc mới đang bắt đầu trở nên phổ biến."
         },
         {
           "word": "come out",
@@ -580,8 +1025,13 @@
           "definition_en": "become available to buy or see; become easy to notice; become known; be spoken, heard, or understood in a particular way",
           "definition_vi": "xuất bản; lộ ra; được hiểu theo cách nào đó",
           "example": "When does her new book come out? / The truth finally came out.",
-          "synonyms": ["be published", "be released", "emerge"],
-          "collocations": []
+          "synonyms": [
+            "be published",
+            "be released",
+            "emerge"
+          ],
+          "collocations": [],
+          "example_vi": "Vết mực này không sạch được. / Chiếc bánh ra lò trông thế nào?"
         },
         {
           "word": "come out with",
@@ -589,8 +1039,12 @@
           "definition_en": "say something suddenly, usually something that surprises or shocks people",
           "definition_vi": "thốt ra, nói ra (điều gây sốc)",
           "example": "You never know what he's going to come out with next.",
-          "synonyms": ["utter", "state"],
-          "collocations": []
+          "synonyms": [
+            "utter",
+            "state"
+          ],
+          "collocations": [],
+          "example_vi": "Bạn không bao giờ biết anh ta sắp nói ra điều gì tiếp theo đâu."
         },
         {
           "word": "dry up",
@@ -598,8 +1052,12 @@
           "definition_en": "stop talking because you have forgotten what you were going to say",
           "definition_vi": "hết vốn từ, đang nói thì tịt ngòi",
           "example": "I hope I don't dry up during the presentation.",
-          "synonyms": ["stop talking", "falter"],
-          "collocations": []
+          "synonyms": [
+            "stop talking",
+            "falter"
+          ],
+          "collocations": [],
+          "example_vi": "Con sông cạn nước vào mỗi mùa hè. Nguồn vốn cho dự án đã cạn kiệt."
         },
         {
           "word": "get across",
@@ -607,8 +1065,14 @@
           "definition_en": "make people understand something",
           "definition_vi": "truyền đạt, làm cho ai đó hiểu",
           "example": "It's difficult to get my point across when everyone is shouting.",
-          "synonyms": ["communicate", "convey"],
-          "collocations": ["get an idea across"]
+          "synonyms": [
+            "communicate",
+            "convey"
+          ],
+          "collocations": [
+            "get an idea across"
+          ],
+          "example_vi": "Thật khó để truyền đạt ý kiến của mình khi mọi người đều đang la hét."
         },
         {
           "word": "get (a)round",
@@ -616,8 +1080,14 @@
           "definition_en": "if news gets (a)round, a lot of people hear it",
           "definition_vi": "lan truyền (tin đồn, tin tức)",
           "example": "News of the accident soon got round.",
-          "synonyms": ["spread", "circulate"],
-          "collocations": ["word gets round"]
+          "synonyms": [
+            "spread",
+            "circulate"
+          ],
+          "collocations": [
+            "word gets round"
+          ],
+          "example_vi": "Tin tức về vụ tai nạn sớm lan truyền khắp nơi."
         },
         {
           "word": "get through (to)",
@@ -625,8 +1095,13 @@
           "definition_en": "be connected to a place by telephone; make someone understand what you are trying to say",
           "definition_vi": "liên lạc được (điện thoại); làm cho ai đó hiểu được mình",
           "example": "I finally got through to him on his mobile. / I just can't get through to her lately.",
-          "synonyms": ["reach", "connect", "communicate"],
-          "collocations": []
+          "synonyms": [
+            "reach",
+            "connect",
+            "communicate"
+          ],
+          "collocations": [],
+          "example_vi": "Cuối cùng tôi cũng liên lạc được với anh ấy qua điện thoại di động. / Gần đây tôi thực sự không thể làm cho cô ấy hiểu được."
         },
         {
           "word": "let on",
@@ -634,8 +1109,15 @@
           "definition_en": "talk about something that is intended to be a secret",
           "definition_vi": "tiết lộ bí mật",
           "example": "Don't let on that I told you.",
-          "synonyms": ["reveal", "disclose", "divulge"],
-          "collocations": ["don't let on"]
+          "synonyms": [
+            "reveal",
+            "disclose",
+            "divulge"
+          ],
+          "collocations": [
+            "don't let on"
+          ],
+          "example_vi": "Đừng để lộ ra là tôi đã nói với bạn nhé."
         },
         {
           "word": "pass on",
@@ -643,8 +1125,14 @@
           "definition_en": "give someone something, for example a message, that someone else has given you",
           "definition_vi": "truyền lại, chuyển tiếp (tin nhắn...)",
           "example": "Could you pass this message on to your sister?",
-          "synonyms": ["relay", "transmit"],
-          "collocations": ["pass on a message"]
+          "synonyms": [
+            "relay",
+            "transmit"
+          ],
+          "collocations": [
+            "pass on a message"
+          ],
+          "example_vi": "Bạn có thể chuyển lời nhắn này cho chị gái bạn không?"
         },
         {
           "word": "put across/over",
@@ -652,8 +1140,13 @@
           "definition_en": "explain an idea, belief, etc in a way that is easy to understand",
           "definition_vi": "giải thích, truyền đạt rõ ràng",
           "example": "He put his ideas across very well at the meeting.",
-          "synonyms": ["explain", "communicate", "convey"],
-          "collocations": []
+          "synonyms": [
+            "explain",
+            "communicate",
+            "convey"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy đã trình bày những ý tưởng của mình rất tốt tại cuộc họp."
         },
         {
           "word": "set down",
@@ -661,8 +1154,15 @@
           "definition_en": "write something on a piece of paper so that it will not be forgotten and can be looked at later; state officially how something should be done",
           "definition_vi": "ghi chép lại; quy định, thiết lập quy tắc",
           "example": "The rules are set down in the student handbook.",
-          "synonyms": ["record", "write down", "stipulate"],
-          "collocations": ["set down rules"]
+          "synonyms": [
+            "record",
+            "write down",
+            "stipulate"
+          ],
+          "collocations": [
+            "set down rules"
+          ],
+          "example_vi": "Các quy tắc được quy định trong sổ tay sinh viên."
         },
         {
           "word": "shout down",
@@ -670,8 +1170,11 @@
           "definition_en": "make it difficult to hear what someone says by shouting while they are speaking",
           "definition_vi": "hét át tiếng ai đó",
           "example": "The speaker was shouted down by a group of protesters.",
-          "synonyms": ["drown out"],
-          "collocations": []
+          "synonyms": [
+            "drown out"
+          ],
+          "collocations": [],
+          "example_vi": "Diễn giả đã bị một nhóm người biểu tình hò hét lấn át."
         },
         {
           "word": "speak out",
@@ -679,8 +1182,14 @@
           "definition_en": "state your opinion firmly and publicly about something, especially in order to protest against or defend something",
           "definition_vi": "lên tiếng công khai (phản đối hoặc ủng hộ)",
           "example": "She was one of the few people who dared to speak out against the war.",
-          "synonyms": ["voice an opinion", "declare"],
-          "collocations": ["speak out against"]
+          "synonyms": [
+            "voice an opinion",
+            "declare"
+          ],
+          "collocations": [
+            "speak out against"
+          ],
+          "example_vi": "Cô là một trong số ít người dám lên tiếng phản đối chiến tranh."
         },
         {
           "word": "talk over",
@@ -688,8 +1197,12 @@
           "definition_en": "discuss a problem or a plan",
           "definition_vi": "thảo luận kỹ, bàn bạc",
           "example": "We need to talk over the details of the contract.",
-          "synonyms": ["discuss", "debate"],
-          "collocations": []
+          "synonyms": [
+            "discuss",
+            "debate"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng ta cần thảo luận kỹ các chi tiết của hợp đồng."
         },
         {
           "word": "talk round",
@@ -697,8 +1210,13 @@
           "definition_en": "succeed in persuading someone to agree to something; discuss something in a general way and without dealing with the most important issues",
           "definition_vi": "thuyết phục được ai đó; nói vòng vo, không đi vào trọng tâm",
           "example": "I managed to talk her round to my way of thinking. / We spent the whole meeting talking round the issue.",
-          "synonyms": ["persuade", "convince", "avoid the point"],
-          "collocations": []
+          "synonyms": [
+            "persuade",
+            "convince",
+            "avoid the point"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi đã thuyết phục được cô ấy theo cách suy nghĩ của mình. / Chúng tôi đã dành cả buổi họp để nói vòng quanh vấn đề."
         }
       ]
     },
@@ -721,7 +1239,8 @@
             "answer the description of",
             "(have a lot to) answer for",
             "in answer to"
-          ]
+          ],
+          "example_vi": "Anh ta phải chịu trách nhiệm trước sếp về sai lầm đó."
         },
         {
           "word": "argument",
@@ -736,7 +1255,8 @@
             "argument about/over",
             "argument for/against",
             "without (an) argument"
-          ]
+          ],
+          "example_vi": "Họ đã tranh cãi nảy lửa về chính trị."
         },
         {
           "word": "ask",
@@ -754,7 +1274,8 @@
             "for the asking",
             "asking for trouble/it/etc",
             "if you ask me"
-          ]
+          ],
+          "example_vi": "Nếu bạn hỏi ý kiến tôi thì chúng ta nên rời đi ngay bây giờ."
         },
         {
           "word": "book",
@@ -771,7 +1292,8 @@
             "an open book",
             "in my book",
             "in sb's good/bad books"
-          ]
+          ],
+          "example_vi": "Tôi có thể hiểu thấu anh ta."
         },
         {
           "word": "discussion",
@@ -788,7 +1310,8 @@
             "under discussion",
             "heated discussion",
             "discussion group"
-          ]
+          ],
+          "example_vi": "Vấn đề hiện đang được thảo luận."
         },
         {
           "word": "letter",
@@ -805,7 +1328,8 @@
             "the letter of the law",
             "letter bomb",
             "letterbox"
-          ]
+          ],
+          "example_vi": "Anh ấy đã làm theo hướng dẫn một cách chính xác từng chi tiết."
         },
         {
           "word": "notice",
@@ -821,7 +1345,8 @@
             "take notice (of)",
             "at short / a moment's / a few hours' notice",
             "until further notice"
-          ]
+          ],
+          "example_vi": "Tôi xin thông báo trước cho bạn hai tuần."
         },
         {
           "word": "paper",
@@ -839,7 +1364,8 @@
             "paper round",
             "paper qualifications",
             "paperwork"
-          ]
+          ],
+          "example_vi": "Ông đã trình bày một bài tham luận về biến đổi khí hậu."
         },
         {
           "word": "pen",
@@ -853,7 +1379,8 @@
             "the pen is mightier than the sword",
             "pen-pusher",
             "pen friend/pal"
-          ]
+          ],
+          "example_vi": "Cuối cùng ông cũng đặt bút viết hồi ký của mình."
         },
         {
           "word": "print",
@@ -867,7 +1394,8 @@
             "print in",
             "in print",
             "out of print"
-          ]
+          ],
+          "example_vi": "Cuốn sách hiện đã ngừng xuất bản."
         },
         {
           "word": "read",
@@ -883,7 +1411,8 @@
             "read sb's lips",
             "take sth as read",
             "a good/depressing/etc read"
-          ]
+          ],
+          "example_vi": "Bạn phải hiểu được ý ẩn dụ thì mới biết cô ấy thực sự muốn nói gì."
         },
         {
           "word": "record",
@@ -898,7 +1427,8 @@
             "on record",
             "on the record",
             "off the record"
-          ]
+          ],
+          "example_vi": "Để tôi nói rõ cho mà biết, tôi chưa bao giờ ở đó."
         },
         {
           "word": "say",
@@ -915,7 +1445,8 @@
             "can't say fairer than that",
             "say your piece",
             "a horrible/stupid/strange/etc thing to say"
-          ]
+          ],
+          "example_vi": "Hiển nhiên là chúng tôi sẽ giúp bạn."
         },
         {
           "word": "speak",
@@ -931,7 +1462,8 @@
             "speak out of turn",
             "not sth to speak of",
             "so to speak"
-          ]
+          ],
+          "example_vi": "Anh ta nói không đúng lúc và làm phật lòng mọi người."
         },
         {
           "word": "speaking",
@@ -945,7 +1477,8 @@
             "on speaking terms",
             "speaking of",
             "speaking as"
-          ]
+          ],
+          "example_vi": "Nói chung, dự án đã thành công."
         },
         {
           "word": "talk",
@@ -963,7 +1496,8 @@
             "be all/just talk",
             "the talk of",
             "talk is cheap"
-          ]
+          ],
+          "example_vi": "Anh ta đã khéo miệng để không bị phạt vì chạy quá tốc độ."
         },
         {
           "word": "tell",
@@ -981,7 +1515,8 @@
             "there's no telling",
             "you're telling me",
             "that would be telling"
-          ]
+          ],
+          "example_vi": "Không thể biết trước điều gì có thể xảy ra."
         },
         {
           "word": "understanding",
@@ -995,7 +1530,8 @@
             "have an understanding (with sb)",
             "an understanding of",
             "on the understanding (that)"
-          ]
+          ],
+          "example_vi": "Chúng tôi đã đạt được thỏa thuận sau một cuộc thảo luận dài."
         },
         {
           "word": "word",
@@ -1013,7 +1549,8 @@
             "from the word go",
             "word of mouth",
             "in other words"
-          ]
+          ],
+          "example_vi": "Tôi có thể nói chuyện riêng với bạn một chút về dự án không?"
         },
         {
           "word": "write",
@@ -1027,7 +1564,8 @@
             "have sth / be written all over your face",
             "nothing to write home about",
             "writer's block"
-          ]
+          ],
+          "example_vi": "Nó chẳng có gì đặc biệt cả."
         }
       ]
     },
@@ -1040,8 +1578,12 @@
           "definition_en": "used as a criticism of someone when they say things they should not",
           "definition_vi": "người không giữ được bí mật, kẻ lắm mồm",
           "example": "He's got such a big mouth - he told everyone about my new job.",
-          "synonyms": ["chatterbox", "blabbermouth"],
-          "collocations": []
+          "synonyms": [
+            "chatterbox",
+            "blabbermouth"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ta đúng là đồ mồm loa mép giải - anh ta đã kể cho mọi người về công việc mới của tôi."
         },
         {
           "word": "come clean (about sth)",
@@ -1049,8 +1591,12 @@
           "definition_en": "tell the truth about something that you have kept secret",
           "definition_vi": "thú thật, nói ra sự thật",
           "example": "I think it's time you came clean about where you were last night.",
-          "synonyms": ["confess", "admit"],
-          "collocations": []
+          "synonyms": [
+            "confess",
+            "admit"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi nghĩ đã đến lúc bạn nên thú nhận về việc bạn đã ở đâu tối qua."
         },
         {
           "word": "get/catch sb's drift",
@@ -1058,8 +1604,12 @@
           "definition_en": "understand the basic meaning",
           "definition_vi": "hiểu ý ai đó (dù không nói thẳng ra)",
           "example": "I think I catch your drift.",
-          "synonyms": ["get the point", "understand"],
-          "collocations": []
+          "synonyms": [
+            "get the point",
+            "understand"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi nghĩ là tôi hiểu ý bạn rồi."
         },
         {
           "word": "get sth off your chest",
@@ -1067,8 +1617,12 @@
           "definition_en": "talk to someone about something that has been worrying you, so that you feel better about it",
           "definition_vi": "nói ra cho nhẹ lòng, thổ lộ tâm tư",
           "example": "I had to get it off my chest and tell her how I really felt.",
-          "synonyms": ["confide", "unburden oneself"],
-          "collocations": []
+          "synonyms": [
+            "confide",
+            "unburden oneself"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi phải nói ra cho nhẹ lòng và cho cô ấy biết cảm giác thực sự của mình."
         },
         {
           "word": "get the wrong end of the stick",
@@ -1076,8 +1630,12 @@
           "definition_en": "understand something completely wrongly",
           "definition_vi": "hiểu lầm hoàn toàn, hiểu sai ý",
           "example": "You've got the wrong end of the stick - I wasn't criticizing you.",
-          "synonyms": ["misunderstand", "misconceive"],
-          "collocations": []
+          "synonyms": [
+            "misunderstand",
+            "misconceive"
+          ],
+          "collocations": [],
+          "example_vi": "Bạn hiểu lầm ý tôi rồi - tôi không hề chỉ trích bạn."
         },
         {
           "word": "give sb your word",
@@ -1085,8 +1643,12 @@
           "definition_en": "promise to do something",
           "definition_vi": "hứa, cam đoan",
           "example": "I give you my word that I will be there on time.",
-          "synonyms": ["promise", "pledge"],
-          "collocations": []
+          "synonyms": [
+            "promise",
+            "pledge"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi hứa danh dự với bạn là tôi sẽ đến đúng giờ."
         },
         {
           "word": "(hear sth) on/through the grapevine",
@@ -1094,8 +1656,12 @@
           "definition_en": "the way in which information spreads quickly from one person to another through conversation",
           "definition_vi": "nghe đồn, nghe phong phanh",
           "example": "I heard on the grapevine that she's getting married.",
-          "synonyms": ["rumor", "hearsay"],
-          "collocations": []
+          "synonyms": [
+            "rumor",
+            "hearsay"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi nghe phong phanh rằng cô ấy sắp kết hôn."
         },
         {
           "word": "keep sb posted",
@@ -1103,8 +1669,12 @@
           "definition_en": "regularly give someone information about something they are interested in, for example how a situation is changing or developing",
           "definition_vi": "báo cho ai biết tin tức mới nhất",
           "example": "Keep me posted on any developments.",
-          "synonyms": ["keep informed", "keep up to date"],
-          "collocations": []
+          "synonyms": [
+            "keep informed",
+            "keep up to date"
+          ],
+          "collocations": [],
+          "example_vi": "Hãy cập nhật cho tôi về bất kỳ tiến triển nào nhé."
         },
         {
           "word": "keep sth under your hat",
@@ -1112,8 +1682,12 @@
           "definition_en": "keep something secret",
           "definition_vi": "giữ bí mật",
           "example": "Keep it under your hat, but I'm planning to quit.",
-          "synonyms": ["keep secret", "hush up"],
-          "collocations": []
+          "synonyms": [
+            "keep secret",
+            "hush up"
+          ],
+          "collocations": [],
+          "example_vi": "Hãy giữ bí mật nhé, nhưng tôi đang định nghỉ việc."
         },
         {
           "word": "lay/put your cards on the table",
@@ -1121,8 +1695,12 @@
           "definition_en": "tell people exactly what you are thinking or what you are intending to do",
           "definition_vi": "thẳng thắn, công khai kế hoạch/ý định",
           "example": "It's time to put our cards on the table and reach an agreement.",
-          "synonyms": ["be frank", "be open"],
-          "collocations": []
+          "synonyms": [
+            "be frank",
+            "be open"
+          ],
+          "collocations": [],
+          "example_vi": "Đã đến lúc chúng ta cần thẳng thắn với nhau và đạt được một thỏa thuận."
         },
         {
           "word": "speak volumes",
@@ -1130,8 +1708,12 @@
           "definition_en": "provide a lot of information, especially in an indirect way",
           "definition_vi": "nói lên nhiều điều (một cách gián tiếp)",
           "example": "His silence spoke volumes.",
-          "synonyms": ["be significant", "tell a lot"],
-          "collocations": []
+          "synonyms": [
+            "be significant",
+            "tell a lot"
+          ],
+          "collocations": [],
+          "example_vi": "Sự im lặng của anh ấy đã nói lên tất cả."
         },
         {
           "word": "tell tales",
@@ -1139,8 +1721,12 @@
           "definition_en": "tell someone in authority about bad things that someone else has done, because you want them to be punished",
           "definition_vi": "mách lẻo",
           "example": "Don't tell tales about your brother.",
-          "synonyms": ["tattle", "snitch"],
-          "collocations": []
+          "synonyms": [
+            "tattle",
+            "snitch"
+          ],
+          "collocations": [],
+          "example_vi": "Đừng có mách lẻo về anh trai mình như thế."
         }
       ]
     }
@@ -1155,168 +1741,288 @@
         {
           "number": 1,
           "sentence": "I think Dave's ___ the magazine's importance. It actually has a very small readership.",
-          "options": ["boast", "contradict", "exaggerate", "flatter"],
+          "options": [
+            "boast",
+            "contradict",
+            "exaggerate",
+            "flatter"
+          ],
           "answer": "exaggerating",
           "explanation": "To describe something as more important than it really is is to 'exaggerate'."
         },
         {
           "number": 2,
           "sentence": "Caroline said the hotel was fantastic and then Paul immediately ___ her and said it wasn't actually very nice at all.",
-          "options": ["boast", "contradict", "exaggerate", "flatter"],
+          "options": [
+            "boast",
+            "contradict",
+            "exaggerate",
+            "flatter"
+          ],
           "answer": "contradicted",
           "explanation": "To say the opposite of what someone else said is to 'contradict'."
         },
         {
           "number": 3,
           "sentence": "I know Suzanne's wealthy but there's no need for her to ___ about it to everyone all the time.",
-          "options": ["boast", "contradict", "exaggerate", "flatter"],
+          "options": [
+            "boast",
+            "contradict",
+            "exaggerate",
+            "flatter"
+          ],
           "answer": "boast",
           "explanation": "To talk proudly about one's wealth is to 'boast'."
         },
         {
           "number": 4,
           "sentence": "Adam said I could be a professional model but I think he was just ___ me.",
-          "options": ["boast", "contradict", "exaggerate", "flatter"],
+          "options": [
+            "boast",
+            "contradict",
+            "exaggerate",
+            "flatter"
+          ],
           "answer": "flattering",
           "explanation": "To praise someone insincerely to make them feel good is to 'flatter'."
         },
         {
           "number": 5,
           "sentence": "The politician has continually ___ his innocence.",
-          "options": ["allege", "assert", "insist", "utter"],
+          "options": [
+            "allege",
+            "assert",
+            "insist",
+            "utter"
+          ],
           "answer": "asserted",
           "explanation": "To state firmly that something (like innocence) is true is to 'assert'."
         },
         {
           "number": 6,
           "sentence": "As your lawyer, I ___ on your telling me the truth.",
-          "options": ["allege", "assert", "insist", "utter"],
+          "options": [
+            "allege",
+            "assert",
+            "insist",
+            "utter"
+          ],
           "answer": "insist",
           "explanation": "To demand firmly that something be done is to 'insist'."
         },
         {
           "number": 7,
           "sentence": "Thompson is ___ to have accepted a bribe from a local businesswoman.",
-          "options": ["allege", "assert", "insist", "utter"],
+          "options": [
+            "allege",
+            "assert",
+            "insist",
+            "utter"
+          ],
           "answer": "alleged",
           "explanation": "When something is claimed but not proven, we use 'allege' (often in passive voice 'is alleged to')."
         },
         {
           "number": 8,
           "sentence": "Don't ___ a single word until you've spoken to your lawyer.",
-          "options": ["allege", "assert", "insist", "utter"],
+          "options": [
+            "allege",
+            "assert",
+            "insist",
+            "utter"
+          ],
           "answer": "utter",
           "explanation": "To 'utter' means to say or speak."
         },
         {
           "number": 9,
           "sentence": "You know you can ___ in me at any time, don't you?",
-          "options": ["confide", "confirm", "convey", "disclose"],
+          "options": [
+            "confide",
+            "confirm",
+            "convey",
+            "disclose"
+          ],
           "answer": "confide",
           "explanation": "To 'confide in' someone means to tell them secrets or private feelings."
         },
         {
           "number": 10,
           "sentence": "We would like to ___ that your application has been approved.",
-          "options": ["confide", "confirm", "convey", "disclose"],
+          "options": [
+            "confide",
+            "confirm",
+            "convey",
+            "disclose"
+          ],
           "answer": "confirm",
           "explanation": "To state officially that something is true/has happened is to 'confirm'."
         },
         {
           "number": 11,
           "sentence": "Your password will not be ___ to any third party.",
-          "options": ["confide", "confirm", "convey", "disclose"],
+          "options": [
+            "confide",
+            "confirm",
+            "convey",
+            "disclose"
+          ],
           "answer": "disclosed",
           "explanation": "To 'disclose' means to reveal secret information."
         },
         {
           "number": 12,
           "sentence": "I can't begin to ___ how sorry I am for the trouble I've caused.",
-          "options": ["confide", "confirm", "convey", "disclose"],
+          "options": [
+            "confide",
+            "confirm",
+            "convey",
+            "disclose"
+          ],
           "answer": "convey",
           "explanation": "To 'convey' means to communicate or express a feeling."
         },
         {
           "number": 13,
           "sentence": "I could hear the audience ___ but couldn't make out any distinct comments.",
-          "options": ["mumble", "murmur", "stumble", "stutter"],
+          "options": [
+            "mumble",
+            "murmur",
+            "stumble",
+            "stutter"
+          ],
           "answer": "murmuring",
           "explanation": "To 'murmur' is to speak in a low, quiet voice."
         },
         {
           "number": 14,
           "sentence": "It's so embarrassing when a newsreader ___ over their words.",
-          "options": ["mumble", "murmur", "stumble", "stutter"],
+          "options": [
+            "mumble",
+            "murmur",
+            "stumble",
+            "stutter"
+          ],
           "answer": "stumbles",
           "explanation": "To 'stumble over words' means to make mistakes while speaking."
         },
         {
           "number": 15,
           "sentence": "I stood there ___ in shock, unable to think of anything sensible to say.",
-          "options": ["mumble", "murmur", "stumble", "stutter"],
+          "options": [
+            "mumble",
+            "murmur",
+            "stumble",
+            "stutter"
+          ],
           "answer": "mumbling",
           "explanation": "To 'mumble' is to speak unclearly in a low voice."
         },
         {
           "number": 16,
           "sentence": "Please don't ___ when you're talking to me. Open your mouth when you talk!",
-          "options": ["mumble", "murmur", "stumble", "stutter"],
+          "options": [
+            "mumble",
+            "murmur",
+            "stumble",
+            "stutter"
+          ],
           "answer": "stutter",
           "explanation": "Contextually 'stutter' (repeating sounds) fits better here as a direct speech command about clarity, though 'mumble' could also fit; however, the book key likely uses 'stutter' or 'mumble' - checking standard key: actually, item 16 is often 'mumble' and 15 is 'mumbling'. Let me re-check box words. Item 16 is 'mumble' (speak up), 15 is 'stuttering' or vice versa. Correct answers based on key: 13. murmuring, 14. stumbles, 15. stuttering (shock), 16. mumble."
         },
         {
           "number": 17,
           "sentence": "Linda was ___ about that new sitcom on ITV. She said it's hilarious.",
-          "options": ["quibble", "rant", "rave", "scribble"],
+          "options": [
+            "quibble",
+            "rant",
+            "rave",
+            "scribble"
+          ],
           "answer": "raving",
           "explanation": "To 'rave' about something means to talk enthusiastically about it."
         },
         {
           "number": 18,
           "sentence": "Stop ___ on the desk!",
-          "options": ["quibble", "rant", "rave", "scribble"],
+          "options": [
+            "quibble",
+            "rant",
+            "rave",
+            "scribble"
+          ],
           "answer": "scribbling",
           "explanation": "To 'scribble' is to write or draw carelessly."
         },
         {
           "number": 19,
           "sentence": "There's no point ___ over the bill. It's only a few euros more than we thought it would be anyway.",
-          "options": ["quibble", "rant", "rave", "scribble"],
+          "options": [
+            "quibble",
+            "rant",
+            "rave",
+            "scribble"
+          ],
           "answer": "quibbling",
           "explanation": "To 'quibble' means to argue about small, unimportant details."
         },
         {
           "number": 20,
           "sentence": "When my boss gets in a bad mood, she just ___ at everybody.",
-          "options": ["quibble", "rant", "rave", "scribble"],
+          "options": [
+            "quibble",
+            "rant",
+            "rave",
+            "scribble"
+          ],
           "answer": "rants",
           "explanation": "To 'rant' is to complain or shout angrily."
         },
         {
           "number": 21,
           "sentence": "Here's a ___ for all budding writers out there. Never let the truth get in the way of a good story!",
-          "options": ["clarification", "context", "gist", "tip"],
+          "options": [
+            "clarification",
+            "context",
+            "gist",
+            "tip"
+          ],
           "answer": "tip",
           "explanation": "A 'tip' is a small piece of useful advice."
         },
         {
           "number": 22,
           "sentence": "Please do contact me if you require further ___ on any of these issues.",
-          "options": ["clarification", "context", "gist", "tip"],
+          "options": [
+            "clarification",
+            "context",
+            "gist",
+            "tip"
+          ],
           "answer": "clarification",
           "explanation": "To require further 'clarification' means to need more explanation."
         },
         {
           "number": 23,
           "sentence": "I understood the ___ of her argument, but I can't say I understood all the fine points.",
-          "options": ["clarification", "context", "gist", "tip"],
+          "options": [
+            "clarification",
+            "context",
+            "gist",
+            "tip"
+          ],
           "answer": "gist",
           "explanation": "The 'gist' is the main point or general meaning."
         },
         {
           "number": 24,
           "sentence": "They quoted me completely out of ___ . I didn't mean that at all.",
-          "options": ["clarification", "context", "gist", "tip"],
+          "options": [
+            "clarification",
+            "context",
+            "gist",
+            "tip"
+          ],
           "answer": "context",
           "explanation": "To take words 'out of context' is to ignore the situation in which they were said."
         }
@@ -1331,63 +2037,90 @@
         {
           "number": 1,
           "sentence": "Are you fed up with complicated ___ in official documents that's impossible to fully comprehend?",
-          "options": ["jargon", "slang"],
+          "options": [
+            "jargon",
+            "slang"
+          ],
           "answer": "jargon",
           "explanation": "Official documents use 'jargon' (technical/professional language), not 'slang'."
         },
         {
           "number": 2,
           "sentence": "Are you fed up with complicated jargon in official documents that's impossible to fully ___?",
-          "options": ["comprehend", "contradict"],
+          "options": [
+            "comprehend",
+            "contradict"
+          ],
           "answer": "comprehend",
           "explanation": "'Comprehend' means to understand."
         },
         {
           "number": 3,
           "sentence": "Do you hear politicians use ___ and ambiguous language and realise you haven't got an inkling what they really mean?",
-          "options": ["vague", "relevant"],
+          "options": [
+            "vague",
+            "relevant"
+          ],
           "answer": "vague",
           "explanation": "'Vague' means unclear, which fits the context of not understanding."
         },
         {
           "number": 4,
           "sentence": "Do you hear politicians use vague and ___ language and realise you haven't got an inkling what they really mean?",
-          "options": ["literal", "ambiguous"],
+          "options": [
+            "literal",
+            "ambiguous"
+          ],
           "answer": "ambiguous",
           "explanation": "'Ambiguous' means having multiple meanings, fitting the theme of confusing language."
         },
         {
           "number": 5,
           "sentence": "Do you hear politicians use vague and ambiguous language and realise you haven't got a/an ___ what they really mean?",
-          "options": ["inkling", "hint"],
+          "options": [
+            "inkling",
+            "hint"
+          ],
           "answer": "inkling",
           "explanation": "'Not have an inkling' is a common idiom meaning 'not have any idea'."
         },
         {
           "number": 6,
           "sentence": "Do you find doctors' handwriting ___ on prescriptions?",
-          "options": ["colloquial", "illegible"],
+          "options": [
+            "colloquial",
+            "illegible"
+          ],
           "answer": "illegible",
           "explanation": "'Illegible' means impossible to read, a common stereotype for handwriting."
         },
         {
           "number": 7,
           "sentence": "We ___ all uses of language that confuse rather than explain.",
-          "options": ["declare", "denounce"],
+          "options": [
+            "declare",
+            "denounce"
+          ],
           "answer": "denounce",
           "explanation": "To 'denounce' is to publicly criticize something bad."
         },
         {
           "number": 8,
           "sentence": "Let's be ___ . A lot of people in public life could do much better.",
-          "options": ["blunt", "sharp"],
+          "options": [
+            "blunt",
+            "sharp"
+          ],
           "answer": "blunt",
           "explanation": "'To be blunt' is a common phrase for being direct/frank."
         },
         {
           "number": 9,
           "sentence": "Sign our ___ today and make your feelings clear.",
-          "options": ["placard", "petition"],
+          "options": [
+            "placard",
+            "petition"
+          ],
           "answer": "petition",
           "explanation": "You 'sign a petition' to show support for a cause."
         }
@@ -1402,70 +2135,180 @@
         {
           "number": 1,
           "sentence": "The programme doesn't go out live. It's ___ .",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "prerecorded",
           "explanation": "Something not live is 'prerecorded'."
         },
         {
           "number": 2,
           "sentence": "And now let's go over to our political ___ , who's live at Westminster.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "correspondent",
           "explanation": "A 'correspondent' is a reporter dealing with a specific area like politics."
         },
         {
           "number": 3,
           "sentence": "The title of a book is usually printed on the cover and on the ___ .",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "spine",
           "explanation": "The 'spine' is the back edge of a book."
         },
         {
           "number": 4,
           "sentence": "I'd really love to be the main ___ hosting a national, nightly news show.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "anchor",
           "explanation": "An 'anchor' is the main presenter of a news show."
         },
         {
           "number": 5,
           "sentence": "There's usually massive media ___ when a celebrity couple splits up.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "coverage",
           "explanation": "Media 'coverage' is the reporting of an event."
         },
         {
           "number": 6,
           "sentence": "I haven't seen the film yet but I saw the ___ ; it looks quite interesting.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "trailer",
           "explanation": "A 'trailer' is a preview of a movie."
         },
         {
           "number": 7,
           "sentence": "There's no ___ under this photo so I don't know who it's of.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "caption",
           "explanation": "A 'caption' is text explaining a photograph."
         },
         {
           "number": 8,
           "sentence": "If you think I need to provide more detail, I'll add a short ___ at the bottom of the page.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "footnote",
           "explanation": "A 'footnote' is a note at the bottom of a page."
         },
         {
           "number": 9,
           "sentence": "I think they ___ the show live usually, don't they?",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "broadcast",
           "explanation": "To 'broadcast' is to air or transmit a show."
         },
         {
           "number": 10,
           "sentence": "Someone in the street gave me a small ___ about energy conservation at home.",
-          "options": ["anchor", "broadcast", "caption", "correspondent", "coverage", "footnote", "pamphlet", "prerecorded", "spine", "trailer"],
+          "options": [
+            "anchor",
+            "broadcast",
+            "caption",
+            "correspondent",
+            "coverage",
+            "footnote",
+            "pamphlet",
+            "prerecorded",
+            "spine",
+            "trailer"
+          ],
           "answer": "pamphlet",
           "explanation": "A 'pamphlet' is a small booklet given for information."
         }
@@ -1480,70 +2323,180 @@
         {
           "number": 1,
           "sentence": "You may be working on that great work of fiction and know that within a couple of years you'll be regarded as a hugely successful ___",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "novelist",
           "explanation": "Someone who writes fiction (novels) is a 'novelist'."
         },
         {
           "number": 2,
           "sentence": "The Sunday colour ___ are filled with feature articles.",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "supplements",
           "explanation": "Newspapers often have Sunday 'supplements' (magazine-style sections)."
         },
         {
           "number": 3,
           "sentence": "Consider doing the ___ for foreign films and TV programmes.",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "subtitles",
           "explanation": "'Subtitles' are the translations on screen for foreign films."
         },
         {
           "number": 4,
           "sentence": "Offer to help a political party to produce its next ___ - for a small fee, of course.",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "manifesto",
           "explanation": "A political party's plan/statement is a 'manifesto'."
         },
         {
           "number": 5,
           "sentence": "Someone has to write the instructions or ___ that comes with every piece of equipment we buy.",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "handbook",
           "explanation": "A manual or instruction book is a 'handbook'."
         },
         {
           "number": 6,
           "sentence": "Set yourself up as a gossip ___",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "columnist",
           "explanation": "A 'columnist' writes a regular column, e.g., on gossip."
         },
         {
           "number": 7,
           "sentence": "film ___",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "critic",
           "explanation": "A 'critic' judges and writes opinions on films."
         },
         {
           "number": 8,
           "sentence": "or book ___ for a small local newspaper.",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "reviewer",
           "explanation": "A 'reviewer' writes reviews for books."
         },
         {
           "number": 9,
           "sentence": "you can move on to a bigger paper, or even a national ___ .",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "tabloid",
           "explanation": "A 'tabloid' is a type of national newspaper."
         },
         {
           "number": 10,
           "sentence": "there's a fair amount of work out there for ___ - people who write celebrities' autobiographies for them.",
-          "options": ["columnist", "critic", "ghostwriter", "handbook", "manifesto", "novelist", "reviewer", "subtitles", "supplement", "tabloid"],
+          "options": [
+            "columnist",
+            "critic",
+            "ghostwriter",
+            "handbook",
+            "manifesto",
+            "novelist",
+            "reviewer",
+            "subtitles",
+            "supplement",
+            "tabloid"
+          ],
           "answer": "ghostwriters",
           "explanation": "People who write for others anonymously are 'ghostwriters'."
         }
@@ -1558,56 +2511,128 @@
         {
           "number": 1,
           "sentence": "Could you ___ the message to Darren when you see him, please?",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "pass on",
           "explanation": "To 'pass on' a message means to relay it."
         },
         {
           "number": 2,
           "sentence": "I knew it was supposed to be a secret but I just ___ it ___ before I could stop myself!",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "blurted ... out",
           "explanation": "To 'blurt out' is to say something suddenly without thinking."
         },
         {
           "number": 3,
           "sentence": "Rudy was really opposed to the idea at the start, but we managed to ___ him ___ in the end.",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "talk ... round",
           "explanation": "To 'talk someone round' means to persuade them."
         },
         {
           "number": 4,
           "sentence": "I've tried to explain to Sean how I feel several times, but I just can't seem to ___ my point of view ___ .",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "get ... across",
           "explanation": "To 'get a point across' means to make someone understand it."
         },
         {
           "number": 5,
           "sentence": "Dave and I ___ the whole thing ___ last night and we've agreed to have separate holidays this year.",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "talked ... over",
           "explanation": "To 'talk something over' means to discuss it."
         },
         {
           "number": 6,
           "sentence": "All of us who oppose this new road need to ___ against it as loudly and clearly as we can.",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "speak out",
           "explanation": "To 'speak out' means to publicly state an opinion against something."
         },
         {
           "number": 7,
           "sentence": "The Minister was ___ by protestors angry at the government's proposals.",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "shouted down",
           "explanation": "To 'shout down' someone is to prevent them from being heard by shouting."
         },
         {
           "number": 8,
           "sentence": "My speech is okay but I just hope I don't ___ as soon as I get to the podium.",
-          "options": ["blurt out", "dry up", "get across", "pass on", "shout down", "speak out", "talk over", "talk round"],
+          "options": [
+            "blurt out",
+            "dry up",
+            "get across",
+            "pass on",
+            "shout down",
+            "speak out",
+            "talk over",
+            "talk round"
+          ],
           "answer": "dry up",
           "explanation": "To 'dry up' means to stop talking because you forgot what to say."
         }
@@ -2123,26 +3148,146 @@
       "type": "matching",
       "instruction": "The prefix over-, as in overstate, is used with many nouns, adjectives and verbs to suggest the idea of 'too much'. Which of these words can take over- to mean 'too much'?",
       "items": [
-        { "number": 1, "sentence": "act", "options": [], "answer": "overact", "explanation": "Yes" },
-        { "number": 2, "sentence": "book", "options": [], "answer": "overbook", "explanation": "Yes" },
-        { "number": 3, "sentence": "cook", "options": [], "answer": "overcook", "explanation": "Yes" },
-        { "number": 4, "sentence": "crowded", "options": [], "answer": "overcrowded", "explanation": "Yes" },
-        { "number": 5, "sentence": "do", "options": [], "answer": "overdo", "explanation": "Yes" },
-        { "number": 6, "sentence": "dressed", "options": [], "answer": "overdressed", "explanation": "Yes" },
-        { "number": 7, "sentence": "excited", "options": [], "answer": "overexcited", "explanation": "Yes" },
-        { "number": 8, "sentence": "grown", "options": [], "answer": "overgrown", "explanation": "Yes" },
-        { "number": 9, "sentence": "heat", "options": [], "answer": "overheat", "explanation": "Yes" },
-        { "number": 10, "sentence": "priced", "options": [], "answer": "overpriced", "explanation": "Yes" },
-        { "number": 11, "sentence": "protective", "options": [], "answer": "overprotective", "explanation": "Yes" },
-        { "number": 12, "sentence": "rate", "options": [], "answer": "overrate", "explanation": "Yes" },
-        { "number": 13, "sentence": "react", "options": [], "answer": "overreact", "explanation": "Yes" },
-        { "number": 14, "sentence": "read", "options": [], "answer": "NO", "explanation": "No, 'overread' is not standard." },
-        { "number": 15, "sentence": "spend", "options": [], "answer": "overspend", "explanation": "Yes" },
-        { "number": 16, "sentence": "step", "options": [], "answer": "overstep", "explanation": "Yes" },
-        { "number": 17, "sentence": "stretched", "options": [], "answer": "overstretched", "explanation": "Yes" },
-        { "number": 18, "sentence": "surprised", "options": [], "answer": "NO", "explanation": "No" },
-        { "number": 19, "sentence": "try", "options": [], "answer": "NO", "explanation": "No" },
-        { "number": 20, "sentence": "weight", "options": [], "answer": "overweight", "explanation": "Yes" }
+        {
+          "number": 1,
+          "sentence": "act",
+          "options": [],
+          "answer": "overact",
+          "explanation": "Yes"
+        },
+        {
+          "number": 2,
+          "sentence": "book",
+          "options": [],
+          "answer": "overbook",
+          "explanation": "Yes"
+        },
+        {
+          "number": 3,
+          "sentence": "cook",
+          "options": [],
+          "answer": "overcook",
+          "explanation": "Yes"
+        },
+        {
+          "number": 4,
+          "sentence": "crowded",
+          "options": [],
+          "answer": "overcrowded",
+          "explanation": "Yes"
+        },
+        {
+          "number": 5,
+          "sentence": "do",
+          "options": [],
+          "answer": "overdo",
+          "explanation": "Yes"
+        },
+        {
+          "number": 6,
+          "sentence": "dressed",
+          "options": [],
+          "answer": "overdressed",
+          "explanation": "Yes"
+        },
+        {
+          "number": 7,
+          "sentence": "excited",
+          "options": [],
+          "answer": "overexcited",
+          "explanation": "Yes"
+        },
+        {
+          "number": 8,
+          "sentence": "grown",
+          "options": [],
+          "answer": "overgrown",
+          "explanation": "Yes"
+        },
+        {
+          "number": 9,
+          "sentence": "heat",
+          "options": [],
+          "answer": "overheat",
+          "explanation": "Yes"
+        },
+        {
+          "number": 10,
+          "sentence": "priced",
+          "options": [],
+          "answer": "overpriced",
+          "explanation": "Yes"
+        },
+        {
+          "number": 11,
+          "sentence": "protective",
+          "options": [],
+          "answer": "overprotective",
+          "explanation": "Yes"
+        },
+        {
+          "number": 12,
+          "sentence": "rate",
+          "options": [],
+          "answer": "overrate",
+          "explanation": "Yes"
+        },
+        {
+          "number": 13,
+          "sentence": "react",
+          "options": [],
+          "answer": "overreact",
+          "explanation": "Yes"
+        },
+        {
+          "number": 14,
+          "sentence": "read",
+          "options": [],
+          "answer": "NO",
+          "explanation": "No, 'overread' is not standard."
+        },
+        {
+          "number": 15,
+          "sentence": "spend",
+          "options": [],
+          "answer": "overspend",
+          "explanation": "Yes"
+        },
+        {
+          "number": 16,
+          "sentence": "step",
+          "options": [],
+          "answer": "overstep",
+          "explanation": "Yes"
+        },
+        {
+          "number": 17,
+          "sentence": "stretched",
+          "options": [],
+          "answer": "overstretched",
+          "explanation": "Yes"
+        },
+        {
+          "number": 18,
+          "sentence": "surprised",
+          "options": [],
+          "answer": "NO",
+          "explanation": "No"
+        },
+        {
+          "number": 19,
+          "sentence": "try",
+          "options": [],
+          "answer": "NO",
+          "explanation": "No"
+        },
+        {
+          "number": 20,
+          "sentence": "weight",
+          "options": [],
+          "answer": "overweight",
+          "explanation": "Yes"
+        }
       ]
     },
     {
@@ -2218,70 +3363,90 @@
         {
           "number": 1,
           "sentence": "The ___ 'never judge a book by its cover' could not be more true for Ridiculous Rules by Marjorie Allen.",
-          "options": ["SAY"],
+          "options": [
+            "SAY"
+          ],
           "answer": "saying",
           "explanation": "Noun meaning a well-known wise statement."
         },
         {
           "number": 2,
           "sentence": "Allen is an ___ critic of much of what is taught to native and non-native speakers of English",
-          "options": ["SPEAK"],
+          "options": [
+            "SPEAK"
+          ],
           "answer": "outspoken",
           "explanation": "Adjective meaning expressing strong opinions publicly."
         },
         {
           "number": 3,
           "sentence": "and has issued a ___ of war against textbooks and style books which tell lies.",
-          "options": ["DECLARE"],
+          "options": [
+            "DECLARE"
+          ],
           "answer": "declaration",
           "explanation": "Noun meaning a formal public statement."
         },
         {
           "number": 4,
           "sentence": "Take the ridiculous and ___ rule of never ending a sentence with a preposition.",
-          "options": ["MEAN"],
+          "options": [
+            "MEAN"
+          ],
           "answer": "meaningless",
           "explanation": "Adjective meaning having no meaning or purpose."
         },
         {
           "number": 5,
           "sentence": "Winston Churchill, well known for his numerous ___ as well as for being British Prime Minister",
-          "options": ["WRITE"],
+          "options": [
+            "WRITE"
+          ],
           "answer": "writings",
           "explanation": "Noun (plural) meaning books/articles written by someone."
         },
         {
           "number": 6,
           "sentence": "received a manuscript back from an ignorant ___ , who had told him rather rudely",
-          "options": ["EDIT"],
+          "options": [
+            "EDIT"
+          ],
           "answer": "editor",
           "explanation": "Noun meaning a person who prepares a manuscript for publication."
         },
         {
           "number": 7,
           "sentence": "that he had to ___ a sentence which ended with a preposition.",
-          "options": ["PHRASE"],
+          "options": [
+            "PHRASE"
+          ],
           "answer": "rephrase",
           "explanation": "Verb meaning to express something in a different way."
         },
         {
           "number": 8,
           "sentence": "Churchill responded by making the simple yet forceful ___ in the margin",
-          "options": ["STATE"],
+          "options": [
+            "STATE"
+          ],
           "answer": "statement",
           "explanation": "Noun meaning something that you say or write formally."
         },
         {
           "number": 9,
           "sentence": "the ___ being that not to end a sentence with a preposition often sounds ridiculous in English.",
-          "options": ["IMPLY"],
+          "options": [
+            "IMPLY"
+          ],
           "answer": "implication",
           "explanation": "Noun meaning the thing that is being suggested without being said directly."
         },
         {
           "number": 10,
           "sentence": "Allen informs us that the story is probably mere ___ , and that Churchill may have actually only written 'rubbish!'",
-          "options": ["HEAR"],
+          "options": [
+            "HEAR"
+          ],
           "answer": "hearsay",
           "explanation": "Noun meaning information heard from other people that might not be true."
         }

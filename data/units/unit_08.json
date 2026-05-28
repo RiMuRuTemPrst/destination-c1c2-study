@@ -12,8 +12,15 @@
           "definition_en": "to move faster or to make something move faster",
           "definition_vi": "tăng tốc",
           "example": "The car accelerated as it overtook me.",
-          "synonyms": ["speed up", "hasten"],
-          "collocations": ["accelerate sharply", "accelerate smoothly"]
+          "synonyms": [
+            "speed up",
+            "hasten"
+          ],
+          "collocations": [
+            "accelerate sharply",
+            "accelerate smoothly"
+          ],
+          "example_vi": "Chiếc xe tăng tốc khi nó vượt qua tôi."
         },
         {
           "word": "approach",
@@ -21,8 +28,15 @@
           "definition_en": "to move closer to someone or something; a way of considering or doing something",
           "definition_vi": "tiếp cận, lại gần; cách tiếp cận",
           "example": "As we approached the city, the traffic got heavier.",
-          "synonyms": ["come near", "advance"],
-          "collocations": ["approach carefully", "a cautious approach"]
+          "synonyms": [
+            "come near",
+            "advance"
+          ],
+          "collocations": [
+            "approach carefully",
+            "a cautious approach"
+          ],
+          "example_vi": "Khi chúng tôi đến gần thành phố, giao thông trở nên đông đúc hơn."
         },
         {
           "word": "ascend",
@@ -30,8 +44,15 @@
           "definition_en": "to move up or to go up something",
           "definition_vi": "đi lên",
           "example": "The path ascends steeply up the hill.",
-          "synonyms": ["climb", "rise"],
-          "collocations": ["ascend the stairs", "ascend the throne"]
+          "synonyms": [
+            "climb",
+            "rise"
+          ],
+          "collocations": [
+            "ascend the stairs",
+            "ascend the throne"
+          ],
+          "example_vi": "Con đường dốc ngược lên đồi."
         },
         {
           "word": "bounce",
@@ -39,8 +60,15 @@
           "definition_en": "to move up or away after hitting a surface",
           "definition_vi": "nảy lên",
           "example": "The ball bounced off the wall.",
-          "synonyms": ["rebound", "spring"],
-          "collocations": ["bounce back", "on the bounce"]
+          "synonyms": [
+            "rebound",
+            "spring"
+          ],
+          "collocations": [
+            "bounce back",
+            "on the bounce"
+          ],
+          "example_vi": "Quả bóng nảy ra từ bức tường."
         },
         {
           "word": "clamber",
@@ -48,8 +76,15 @@
           "definition_en": "to climb up, across, or into somewhere with difficulty, using your hands and feet",
           "definition_vi": "leo trèo, bò (một cách vất vả)",
           "example": "They clambered over the rocks.",
-          "synonyms": ["scramble", "scale"],
-          "collocations": ["clamber over", "clamber up"]
+          "synonyms": [
+            "scramble",
+            "scale"
+          ],
+          "collocations": [
+            "clamber over",
+            "clamber up"
+          ],
+          "example_vi": "Họ leo qua những tảng đá."
         },
         {
           "word": "clench",
@@ -57,8 +92,15 @@
           "definition_en": "to close or hold something very tightly, often because of anger or pain",
           "definition_vi": "mím chặt, nắm chặt (răng, nắm đấm)",
           "example": "He clenched his fists in frustration.",
-          "synonyms": ["grip", "clamp"],
-          "collocations": ["clench one's teeth", "clench one's jaw"]
+          "synonyms": [
+            "grip",
+            "clamp"
+          ],
+          "collocations": [
+            "clench one's teeth",
+            "clench one's jaw"
+          ],
+          "example_vi": "Anh ta nắm chặt tay vì bực bội."
         },
         {
           "word": "clutch",
@@ -66,8 +108,15 @@
           "definition_en": "to hold something tightly, usually because you are afraid or in pain",
           "definition_vi": "giật lấy, nắm chặt (vì sợ hoặc đau)",
           "example": "She clutched her handbag tightly as she walked through the crowd.",
-          "synonyms": ["grasp", "cling to"],
-          "collocations": ["clutch at straws", "clutch to one's chest"]
+          "synonyms": [
+            "grasp",
+            "cling to"
+          ],
+          "collocations": [
+            "clutch at straws",
+            "clutch to one's chest"
+          ],
+          "example_vi": "Cô ấy ôm chặt túi xách khi đi qua đám đông."
         },
         {
           "word": "crawl",
@@ -75,8 +124,15 @@
           "definition_en": "to move on your hands and knees",
           "definition_vi": "bò, trườn",
           "example": "The baby is just starting to crawl.",
-          "synonyms": ["creep", "inch"],
-          "collocations": ["crawl along", "at a crawl"]
+          "synonyms": [
+            "creep",
+            "inch"
+          ],
+          "collocations": [
+            "crawl along",
+            "at a crawl"
+          ],
+          "example_vi": "Đứa bé vừa mới bắt đầu biết bò."
         },
         {
           "word": "creep",
@@ -84,8 +140,15 @@
           "definition_en": "to move slowly, quietly, and carefully, usually in order to avoid being noticed",
           "definition_vi": "rón rén, lẻn",
           "example": "I saw someone creeping around the house.",
-          "synonyms": ["tiptoe", "sneak"],
-          "collocations": ["creep in", "creep up on"]
+          "synonyms": [
+            "tiptoe",
+            "sneak"
+          ],
+          "collocations": [
+            "creep in",
+            "creep up on"
+          ],
+          "example_vi": "Tôi thấy ai đó đang rón rén quanh nhà."
         },
         {
           "word": "dash",
@@ -93,8 +156,15 @@
           "definition_en": "to go somewhere very quickly",
           "definition_vi": "lao tới, xông tới",
           "example": "I must dash or I'll be late for work.",
-          "synonyms": ["rush", "sprint"],
-          "collocations": ["make a dash for", "dash off"]
+          "synonyms": [
+            "rush",
+            "sprint"
+          ],
+          "collocations": [
+            "make a dash for",
+            "dash off"
+          ],
+          "example_vi": "Tôi phải đi ngay kẻo muộn làm."
         },
         {
           "word": "descend",
@@ -102,8 +172,15 @@
           "definition_en": "to go down",
           "definition_vi": "đi xuống",
           "example": "The sun gradually descended below the horizon.",
-          "synonyms": ["go down", "drop"],
-          "collocations": ["descend the stairs", "descend from"]
+          "synonyms": [
+            "go down",
+            "drop"
+          ],
+          "collocations": [
+            "descend the stairs",
+            "descend from"
+          ],
+          "example_vi": "Mặt trời dần dần lặn xuống dưới chân trời."
         },
         {
           "word": "drift",
@@ -111,8 +188,15 @@
           "definition_en": "to be pushed along by moving water or air",
           "definition_vi": "trôi dạt",
           "example": "The boat drifted out to sea.",
-          "synonyms": ["float", "waft"],
-          "collocations": ["drift apart", "snow drift"]
+          "synonyms": [
+            "float",
+            "waft"
+          ],
+          "collocations": [
+            "drift apart",
+            "snow drift"
+          ],
+          "example_vi": "Con thuyền trôi dạt ra khơi."
         },
         {
           "word": "emigrate",
@@ -120,8 +204,15 @@
           "definition_en": "to leave your own country and go to live permanently in another country",
           "definition_vi": "di cư (rời khỏi đất nước)",
           "example": "His family emigrated from Italy to Australia in the 1950s.",
-          "synonyms": ["migrate", "relocate"],
-          "collocations": ["emigrate to", "emigrate from"]
+          "synonyms": [
+            "migrate",
+            "relocate"
+          ],
+          "collocations": [
+            "emigrate to",
+            "emigrate from"
+          ],
+          "example_vi": "Gia đình anh ấy đã di cư từ Ý sang Úc vào những năm 1950."
         },
         {
           "word": "float",
@@ -129,8 +220,15 @@
           "definition_en": "to stay on the surface of a liquid and not sink",
           "definition_vi": "nổi, trôi lềnh bềnh",
           "example": "Leaves floated on the surface of the pond.",
-          "synonyms": ["drift", "hover"],
-          "collocations": ["float on water", "float in the air"]
+          "synonyms": [
+            "drift",
+            "hover"
+          ],
+          "collocations": [
+            "float on water",
+            "float in the air"
+          ],
+          "example_vi": "Những chiếc lá nổi trên mặt ao."
         },
         {
           "word": "flow",
@@ -138,8 +236,15 @@
           "definition_en": "the continuous movement of a liquid in one direction",
           "definition_vi": "chảy, luồng, dòng",
           "example": "The river flows through the city center.",
-          "synonyms": ["stream", "run"],
-          "collocations": ["flow freely", "ebb and flow"]
+          "synonyms": [
+            "stream",
+            "run"
+          ],
+          "collocations": [
+            "flow freely",
+            "ebb and flow"
+          ],
+          "example_vi": "Con sông chảy qua trung tâm thành phố."
         },
         {
           "word": "fumble",
@@ -147,8 +252,15 @@
           "definition_en": "to use your hands with difficulty to try to get hold of something or find something",
           "definition_vi": "lóng ngóng, mò mẫm",
           "example": "She fumbled in her bag for her keys.",
-          "synonyms": ["grope", "mumble"],
-          "collocations": ["fumble for words", "fumble with buttons"]
+          "synonyms": [
+            "grope",
+            "mumble"
+          ],
+          "collocations": [
+            "fumble for words",
+            "fumble with buttons"
+          ],
+          "example_vi": "Cô ấy lúng túng lục lọi trong túi để tìm chìa khóa."
         },
         {
           "word": "gesture",
@@ -156,8 +268,15 @@
           "definition_en": "to move your hand, arm, or head to express an idea or feeling",
           "definition_vi": "điệu bộ, cử chỉ, ra hiệu",
           "example": "He gestured towards the door, indicating that we should leave.",
-          "synonyms": ["signal", "motion"],
-          "collocations": ["make a gesture", "gestures of support"]
+          "synonyms": [
+            "signal",
+            "motion"
+          ],
+          "collocations": [
+            "make a gesture",
+            "gestures of support"
+          ],
+          "example_vi": "Anh ấy ra hiệu về phía cửa, ám chỉ rằng chúng tôi nên rời đi."
         },
         {
           "word": "glide",
@@ -165,8 +284,15 @@
           "definition_en": "to move smoothly and easily, as if without effort",
           "definition_vi": "lướt đi",
           "example": "The skaters glided across the ice.",
-          "synonyms": ["slide", "sail"],
-          "collocations": ["glide through", "glide over"]
+          "synonyms": [
+            "slide",
+            "sail"
+          ],
+          "collocations": [
+            "glide through",
+            "glide over"
+          ],
+          "example_vi": "Những người trượt băng lướt đi trên mặt băng."
         },
         {
           "word": "grab",
@@ -174,8 +300,15 @@
           "definition_en": "to take hold of something or someone suddenly and roughly",
           "definition_vi": "vồ lấy, chộp lấy",
           "example": "I grabbed my coat and ran out.",
-          "synonyms": ["seize", "snatch"],
-          "collocations": ["grab a bite", "grab someone's attention"]
+          "synonyms": [
+            "seize",
+            "snatch"
+          ],
+          "collocations": [
+            "grab a bite",
+            "grab someone's attention"
+          ],
+          "example_vi": "Tôi vớ lấy chiếc áo khoác và chạy ra ngoài."
         },
         {
           "word": "grasp",
@@ -183,8 +316,15 @@
           "definition_en": "to take hold of something or someone firmly with your hands",
           "definition_vi": "nắm chặt, thấu hiểu",
           "example": "He grasped my hand and shook it firmly.",
-          "synonyms": ["grip", "understand"],
-          "collocations": ["grasp the opportunity", "grasp the meaning"]
+          "synonyms": [
+            "grip",
+            "understand"
+          ],
+          "collocations": [
+            "grasp the opportunity",
+            "grasp the meaning"
+          ],
+          "example_vi": "Tôi đã mất khá nhiều thời gian mới nắm bắt được mục tiêu của trò chơi này là gì."
         },
         {
           "word": "hop",
@@ -192,8 +332,15 @@
           "definition_en": "to move by jumping on one foot",
           "definition_vi": "nhảy lò cò",
           "example": "I had to hop because I'd hurt my foot.",
-          "synonyms": ["jump", "bound"],
-          "collocations": ["hop on", "a quick hop"]
+          "synonyms": [
+            "jump",
+            "bound"
+          ],
+          "collocations": [
+            "hop on",
+            "a quick hop"
+          ],
+          "example_vi": "Tôi phải nhảy lò cò vì chân bị đau."
         },
         {
           "word": "immigrant",
@@ -201,8 +348,15 @@
           "definition_en": "someone who comes to live in a different country",
           "definition_vi": "người nhập cư",
           "example": "The government is trying to restrict the number of illegal immigrants.",
-          "synonyms": ["newcomer", "settler"],
-          "collocations": ["illegal immigrant", "first-generation immigrant"]
+          "synonyms": [
+            "newcomer",
+            "settler"
+          ],
+          "collocations": [
+            "illegal immigrant",
+            "first-generation immigrant"
+          ],
+          "example_vi": "Chính phủ đang cố gắng hạn chế số lượng người nhập cư bất hợp pháp."
         },
         {
           "word": "jog",
@@ -210,8 +364,15 @@
           "definition_en": "to run at a slow, steady speed, especially for exercise",
           "definition_vi": "chạy bộ",
           "example": "I go jogging every morning.",
-          "synonyms": ["trot", "run"],
-          "collocations": ["go for a jog", "jog someone's memory"]
+          "synonyms": [
+            "trot",
+            "run"
+          ],
+          "collocations": [
+            "go for a jog",
+            "jog someone's memory"
+          ],
+          "example_vi": "Tôi đi chạy bộ mỗi sáng."
         },
         {
           "word": "leap",
@@ -219,8 +380,15 @@
           "definition_en": "to jump high into the air or over something",
           "definition_vi": "nhảy vọt",
           "example": "The salmon were leaping out of the water.",
-          "synonyms": ["jump", "spring"],
-          "collocations": ["a leap in the dark", "leap year"]
+          "synonyms": [
+            "jump",
+            "spring"
+          ],
+          "collocations": [
+            "a leap in the dark",
+            "leap year"
+          ],
+          "example_vi": "Những con cá hồi đang nhảy vọt lên khỏi mặt nước."
         },
         {
           "word": "march",
@@ -228,8 +396,15 @@
           "definition_en": "to walk with regular steps of equal length, like a soldier",
           "definition_vi": "diễu hành, hành quân",
           "example": "The soldiers marched past the palace.",
-          "synonyms": ["stride", "parade"],
-          "collocations": ["on the march", "protest march"]
+          "synonyms": [
+            "stride",
+            "parade"
+          ],
+          "collocations": [
+            "on the march",
+            "protest march"
+          ],
+          "example_vi": "Những người lính diễu hành qua cung điện."
         },
         {
           "word": "migrate",
@@ -237,8 +412,15 @@
           "definition_en": "if birds or animals migrate, they travel from one part of the world to another at the same time each year",
           "definition_vi": "di cư (động vật, hoặc theo mùa)",
           "example": "These birds migrate south for the winter.",
-          "synonyms": ["relocate", "roam"],
-          "collocations": ["migrate to", "migrate seasonally"]
+          "synonyms": [
+            "relocate",
+            "roam"
+          ],
+          "collocations": [
+            "migrate to",
+            "migrate seasonally"
+          ],
+          "example_vi": "Những loài chim này di cư về phương nam để tránh rét."
         },
         {
           "word": "point",
@@ -246,8 +428,15 @@
           "definition_en": "to show where something is by holding out your finger or a long thin object",
           "definition_vi": "chỉ, trỏ",
           "example": "She pointed to the map on the wall.",
-          "synonyms": ["indicate", "direct"],
-          "collocations": ["point out", "point at"]
+          "synonyms": [
+            "indicate",
+            "direct"
+          ],
+          "collocations": [
+            "point out",
+            "point at"
+          ],
+          "example_vi": "Cô ấy chỉ vào tấm bản đồ trên tường."
         },
         {
           "word": "punch",
@@ -255,8 +444,15 @@
           "definition_en": "to hit someone or something with your fist",
           "definition_vi": "đấm",
           "example": "He punched the wall in anger.",
-          "synonyms": ["hit", "strike"],
-          "collocations": ["punch someone in the face", "punch-up"]
+          "synonyms": [
+            "hit",
+            "strike"
+          ],
+          "collocations": [
+            "punch someone in the face",
+            "punch-up"
+          ],
+          "example_vi": "Anh ta đấm vào tường trong cơn giận dữ."
         },
         {
           "word": "refugee",
@@ -264,8 +460,15 @@
           "definition_en": "someone who has been forced to leave their country for help and protection in another country",
           "definition_vi": "người tị nạn",
           "example": "Thousands of refugees are fleeing the war.",
-          "synonyms": ["exile", "asylum seeker"],
-          "collocations": ["refugee camp", "political refugee"]
+          "synonyms": [
+            "exile",
+            "asylum seeker"
+          ],
+          "collocations": [
+            "refugee camp",
+            "political refugee"
+          ],
+          "example_vi": "Hàng ngàn người tị nạn đang chạy trốn khỏi chiến tranh."
         },
         {
           "word": "roam",
@@ -273,8 +476,15 @@
           "definition_en": "to move or travel around an area without any definite aim or direction",
           "definition_vi": "đi lang thang, rong chơi",
           "example": "The sheep are allowed to roam freely on the hills.",
-          "synonyms": ["wander", "ramble"],
-          "collocations": ["roam around", "roam the streets"]
+          "synonyms": [
+            "wander",
+            "ramble"
+          ],
+          "collocations": [
+            "roam around",
+            "roam the streets"
+          ],
+          "example_vi": "Những con cừu được phép đi lang thang tự do trên đồi."
         },
         {
           "word": "roll",
@@ -282,8 +492,15 @@
           "definition_en": "to move by turning over and over",
           "definition_vi": "lăn",
           "example": "The ball rolled down the hill.",
-          "synonyms": ["turn", "rotate"],
-          "collocations": ["roll over", "roll up"]
+          "synonyms": [
+            "turn",
+            "rotate"
+          ],
+          "collocations": [
+            "roll over",
+            "roll up"
+          ],
+          "example_vi": "Quả bóng lăn xuống đồi."
         },
         {
           "word": "rotate",
@@ -291,8 +508,15 @@
           "definition_en": "to move or turn in a circle around a central point",
           "definition_vi": "quay quanh trục, xoay",
           "example": "The Earth rotates once every 24 hours.",
-          "synonyms": ["revolve", "spin"],
-          "collocations": ["rotate crops", "rotate around"]
+          "synonyms": [
+            "revolve",
+            "spin"
+          ],
+          "collocations": [
+            "rotate crops",
+            "rotate around"
+          ],
+          "example_vi": "Trái đất tự quay quanh trục một lần mỗi 24 giờ."
         },
         {
           "word": "route",
@@ -300,8 +524,15 @@
           "definition_en": "the way from one place to another",
           "definition_vi": "tuyến đường, lộ trình",
           "example": "Which is the quickest route to the airport?",
-          "synonyms": ["way", "path"],
-          "collocations": ["bus route", "scenic route"]
+          "synonyms": [
+            "way",
+            "path"
+          ],
+          "collocations": [
+            "bus route",
+            "scenic route"
+          ],
+          "example_vi": "Đường nào đi đến sân bay nhanh nhất?"
         },
         {
           "word": "sink",
@@ -309,8 +540,15 @@
           "definition_en": "to go down below the surface of water, mud, etc.",
           "definition_vi": "chìm",
           "example": "The Titanic sank after hitting an iceberg.",
-          "synonyms": ["submerge", "go down"],
-          "collocations": ["sink without a trace", "sink in"]
+          "synonyms": [
+            "submerge",
+            "go down"
+          ],
+          "collocations": [
+            "sink without a trace",
+            "sink in"
+          ],
+          "example_vi": "Tàu Titanic đã bị chìm sau khi va phải một tảng băng trôi."
         },
         {
           "word": "skid",
@@ -318,8 +556,15 @@
           "definition_en": "to slide across the ground in an uncontrolled way",
           "definition_vi": "trượt (xe)",
           "example": "The car skidded on the icy road.",
-          "synonyms": ["slide", "slip"],
-          "collocations": ["go into a skid", "skid mark"]
+          "synonyms": [
+            "slide",
+            "slip"
+          ],
+          "collocations": [
+            "go into a skid",
+            "skid mark"
+          ],
+          "example_vi": "Chiếc xe bị trượt trên con đường đóng băng."
         },
         {
           "word": "skip",
@@ -327,8 +572,15 @@
           "definition_en": "to move forwards by jumping first on one foot and then on the other",
           "definition_vi": "nhảy chân sáo, bỏ qua",
           "example": "The little girl skipped happily along the path.",
-          "synonyms": ["hop", "bounce"],
-          "collocations": ["skip school", "skip a meal"]
+          "synonyms": [
+            "hop",
+            "bounce"
+          ],
+          "collocations": [
+            "skip school",
+            "skip a meal"
+          ],
+          "example_vi": "Cô bé tung tăng nhảy chân sáo dọc theo con đường."
         },
         {
           "word": "slide",
@@ -336,8 +588,15 @@
           "definition_en": "to move smoothly over a surface",
           "definition_vi": "trượt, lướt",
           "example": "The kids were sliding on the ice.",
-          "synonyms": ["glide", "slip"],
-          "collocations": ["let something slide", "slide into"]
+          "synonyms": [
+            "glide",
+            "slip"
+          ],
+          "collocations": [
+            "let something slide",
+            "slide into"
+          ],
+          "example_vi": "Lũ trẻ đang trượt trên băng."
         },
         {
           "word": "slip",
@@ -345,8 +604,15 @@
           "definition_en": "to slide a short distance by accident so that you fall or nearly fall",
           "definition_vi": "trượt chân",
           "example": "I slipped on a banana skin.",
-          "synonyms": ["skid", "slide"],
-          "collocations": ["slip up", "slip of the tongue"]
+          "synonyms": [
+            "skid",
+            "slide"
+          ],
+          "collocations": [
+            "slip up",
+            "slip of the tongue"
+          ],
+          "example_vi": "Tôi bị trượt chân vì một vỏ chuối."
         },
         {
           "word": "step",
@@ -354,8 +620,15 @@
           "definition_en": "to move by lifting your foot and putting it down in a different place",
           "definition_vi": "bước đi; bước chân",
           "example": "She took a step towards him.",
-          "synonyms": ["pace", "stride"],
-          "collocations": ["step by step", "take steps"]
+          "synonyms": [
+            "pace",
+            "stride"
+          ],
+          "collocations": [
+            "step by step",
+            "take steps"
+          ],
+          "example_vi": "Cô ấy tiến một bước về phía anh ta."
         },
         {
           "word": "stride",
@@ -363,8 +636,15 @@
           "definition_en": "to walk with long steps",
           "definition_vi": "sải bước",
           "example": "He strode across the room to greet her.",
-          "synonyms": ["march", "pace"],
-          "collocations": ["make strides", "in one's stride"]
+          "synonyms": [
+            "march",
+            "pace"
+          ],
+          "collocations": [
+            "make strides",
+            "in one's stride"
+          ],
+          "example_vi": "Anh ấy sải bước qua phòng để chào cô ấy."
         },
         {
           "word": "trip",
@@ -372,8 +652,15 @@
           "definition_en": "to hit your foot on something and fall or nearly fall",
           "definition_vi": "vấp ngã",
           "example": "I tripped over the cat and fell.",
-          "synonyms": ["stumble", "tumble"],
-          "collocations": ["trip up", "trip over"]
+          "synonyms": [
+            "stumble",
+            "tumble"
+          ],
+          "collocations": [
+            "trip up",
+            "trip over"
+          ],
+          "example_vi": "Tôi vấp phải con mèo và bị ngã."
         },
         {
           "word": "velocity",
@@ -381,8 +668,15 @@
           "definition_en": "the speed of something in a particular direction",
           "definition_vi": "vận tốc",
           "example": "The missile reached a velocity of 3,000 miles per hour.",
-          "synonyms": ["speed", "pace"],
-          "collocations": ["terminal velocity", "high velocity"]
+          "synonyms": [
+            "speed",
+            "pace"
+          ],
+          "collocations": [
+            "terminal velocity",
+            "high velocity"
+          ],
+          "example_vi": "Tên lửa đạt vận tốc 3.000 dặm một giờ."
         },
         {
           "word": "wander",
@@ -390,8 +684,15 @@
           "definition_en": "to travel from place to place without a particular direction or purpose",
           "definition_vi": "đi lang thang",
           "example": "We spent the morning wandering around the old town.",
-          "synonyms": ["roam", "meander"],
-          "collocations": ["wander off", "mind wanders"]
+          "synonyms": [
+            "roam",
+            "meander"
+          ],
+          "collocations": [
+            "wander off",
+            "mind wanders"
+          ],
+          "example_vi": "Chúng tôi dành cả buổi sáng để lang thang quanh khu phố cổ."
         },
         {
           "word": "wave",
@@ -399,8 +700,15 @@
           "definition_en": "to move your hand from side to side in the air to say hello or goodbye",
           "definition_vi": "vẫy tay; làn sóng",
           "example": "She waved goodbye as the train left the station.",
-          "synonyms": ["signal", "motion"],
-          "collocations": ["wave at", "give a wave"]
+          "synonyms": [
+            "signal",
+            "motion"
+          ],
+          "collocations": [
+            "wave at",
+            "give a wave"
+          ],
+          "example_vi": "Cô ấy vẫy tay chào tạm biệt khi con tàu rời ga."
         }
       ]
     },
@@ -413,8 +721,14 @@
           "definition_en": "a company that provides regular flights for passengers or goods",
           "definition_vi": "hãng hàng không",
           "example": "Which airline are you flying with?",
-          "synonyms": ["carrier"],
-          "collocations": ["budget airline", "commercial airline"]
+          "synonyms": [
+            "carrier"
+          ],
+          "collocations": [
+            "budget airline",
+            "commercial airline"
+          ],
+          "example_vi": "Bạn bay của hãng hàng không nào?"
         },
         {
           "word": "cargo",
@@ -422,8 +736,15 @@
           "definition_en": "the goods carried by a ship, aircraft, or other large vehicle",
           "definition_vi": "hàng hóa (vận chuyển bằng tàu/máy bay)",
           "example": "The ship was carrying a cargo of timber.",
-          "synonyms": ["freight", "load"],
-          "collocations": ["cargo ship", "cargo plane"]
+          "synonyms": [
+            "freight",
+            "load"
+          ],
+          "collocations": [
+            "cargo ship",
+            "cargo plane"
+          ],
+          "example_vi": "Con tàu đang chở một lô hàng gỗ."
         },
         {
           "word": "carriage",
@@ -431,8 +752,15 @@
           "definition_en": "one of the vehicles that are joined together to make a train",
           "definition_vi": "toa hành khách",
           "example": "The front carriage of the train was damaged in the accident.",
-          "synonyms": ["coach", "wagon"],
-          "collocations": ["railway carriage", "first-class carriage"]
+          "synonyms": [
+            "coach",
+            "wagon"
+          ],
+          "collocations": [
+            "railway carriage",
+            "first-class carriage"
+          ],
+          "example_vi": "Toa tàu phía trước đã bị hư hỏng trong vụ tai nạn."
         },
         {
           "word": "charter",
@@ -440,8 +768,15 @@
           "definition_en": "to hire a boat, plane, or bus for a particular use",
           "definition_vi": "thuê riêng (tàu, máy bay)",
           "example": "They chartered a boat to go fishing.",
-          "synonyms": ["hire", "lease"],
-          "collocations": ["charter flight", "charter a bus"]
+          "synonyms": [
+            "hire",
+            "lease"
+          ],
+          "collocations": [
+            "charter flight",
+            "charter a bus"
+          ],
+          "example_vi": "Họ đã thuê riêng một chiếc thuyền để đi câu cá."
         },
         {
           "word": "commute",
@@ -449,8 +784,14 @@
           "definition_en": "to travel regularly to and from work",
           "definition_vi": "đi làm đều đặn hàng ngày",
           "example": "He commutes to London every day.",
-          "synonyms": ["travel"],
-          "collocations": ["commute by train", "daily commute"]
+          "synonyms": [
+            "travel"
+          ],
+          "collocations": [
+            "commute by train",
+            "daily commute"
+          ],
+          "example_vi": "Anh ấy đi làm hằng ngày đến London."
         },
         {
           "word": "destination",
@@ -458,8 +799,15 @@
           "definition_en": "the place where someone or something is going",
           "definition_vi": "điểm đến",
           "example": "We reached our destination after a long journey.",
-          "synonyms": ["goal", "endpoint"],
-          "collocations": ["final destination", "holiday destination"]
+          "synonyms": [
+            "goal",
+            "endpoint"
+          ],
+          "collocations": [
+            "final destination",
+            "holiday destination"
+          ],
+          "example_vi": "Chúng tôi đã đến đích sau một cuộc hành trình dài."
         },
         {
           "word": "hiker",
@@ -467,8 +815,15 @@
           "definition_en": "someone who walks long distances in the mountains or country for pleasure",
           "definition_vi": "người đi bộ đường dài",
           "example": "The hills are popular with hikers.",
-          "synonyms": ["walker", "rambler"],
-          "collocations": ["keen hiker", "group of hikers"]
+          "synonyms": [
+            "walker",
+            "rambler"
+          ],
+          "collocations": [
+            "keen hiker",
+            "group of hikers"
+          ],
+          "example_vi": "Những ngọn đồi này rất phổ biến với những người đi bộ đường dài."
         },
         {
           "word": "hitchhiker",
@@ -476,8 +831,13 @@
           "definition_en": "someone who travels by asking other people to take them in their car",
           "definition_vi": "người đi nhờ xe",
           "example": "I used to be a hitchhiker when I was a student.",
-          "synonyms": ["thumber"],
-          "collocations": ["pick up a hitchhiker"]
+          "synonyms": [
+            "thumber"
+          ],
+          "collocations": [
+            "pick up a hitchhiker"
+          ],
+          "example_vi": "Tôi từng là một người đi nhờ xe khi còn là sinh viên."
         },
         {
           "word": "jet lag",
@@ -486,7 +846,10 @@
           "definition_vi": "mệt mỏi sau chuyến bay dài (lệch múi giờ)",
           "example": "I'm still suffering from jet lag.",
           "synonyms": [],
-          "collocations": ["suffer from jet lag"]
+          "collocations": [
+            "suffer from jet lag"
+          ],
+          "example_vi": "Tôi vẫn còn đang bị mệt mỏi do lệch múi giờ."
         },
         {
           "word": "legroom",
@@ -495,7 +858,11 @@
           "definition_vi": "chỗ để chân",
           "example": "There's not much legroom in the back of this car.",
           "synonyms": [],
-          "collocations": ["ample legroom", "extra legroom"]
+          "collocations": [
+            "ample legroom",
+            "extra legroom"
+          ],
+          "example_vi": "Không có nhiều chỗ để chân ở phía sau chiếc xe này."
         },
         {
           "word": "load",
@@ -503,8 +870,15 @@
           "definition_en": "to put a large quantity of things into a vehicle or container",
           "definition_vi": "chất hàng, vật nặng",
           "example": "The truck was carrying a heavy load.",
-          "synonyms": ["cargo", "burden"],
-          "collocations": ["heavy load", "load the car"]
+          "synonyms": [
+            "cargo",
+            "burden"
+          ],
+          "collocations": [
+            "heavy load",
+            "load the car"
+          ],
+          "example_vi": "Chiếc xe tải đang chở một tải trọng nặng."
         },
         {
           "word": "passerby",
@@ -512,8 +886,14 @@
           "definition_en": "someone who is walking past a place by chance",
           "definition_vi": "người qua đường",
           "example": "The accident was witnessed by several passersby.",
-          "synonyms": ["onlooker", "witness"],
-          "collocations": ["innocent passerby"]
+          "synonyms": [
+            "onlooker",
+            "witness"
+          ],
+          "collocations": [
+            "innocent passerby"
+          ],
+          "example_vi": "Vụ tai nạn đã được chứng kiến bởi vài người qua đường."
         },
         {
           "word": "pedestrian",
@@ -521,8 +901,14 @@
           "definition_en": "someone who is walking, especially in a town or city",
           "definition_vi": "người đi bộ",
           "example": "This area is for pedestrians only.",
-          "synonyms": ["walker"],
-          "collocations": ["pedestrian crossing", "pedestrian zone"]
+          "synonyms": [
+            "walker"
+          ],
+          "collocations": [
+            "pedestrian crossing",
+            "pedestrian zone"
+          ],
+          "example_vi": "Khu vực này chỉ dành cho người đi bộ."
         },
         {
           "word": "pier",
@@ -530,8 +916,14 @@
           "definition_en": "a structure built out from the land over water",
           "definition_vi": "cầu tàu, bến tàu",
           "example": "We walked along the pier to see the boats.",
-          "synonyms": ["jetty", "dock"],
-          "collocations": ["pleasure pier"]
+          "synonyms": [
+            "jetty",
+            "dock"
+          ],
+          "collocations": [
+            "pleasure pier"
+          ],
+          "example_vi": "Chúng tôi đi dọc theo cầu tàu để ngắm những con thuyền."
         },
         {
           "word": "pilot",
@@ -539,8 +931,14 @@
           "definition_en": "someone who flies an aircraft; to fly an aircraft",
           "definition_vi": "phi công; điều khiển (máy bay, tàu)",
           "example": "He's a pilot for a major airline.",
-          "synonyms": ["aviator"],
-          "collocations": ["pilot an aircraft", "fighter pilot"]
+          "synonyms": [
+            "aviator"
+          ],
+          "collocations": [
+            "pilot an aircraft",
+            "fighter pilot"
+          ],
+          "example_vi": "Anh ấy là phi công cho một hãng hàng không lớn."
         },
         {
           "word": "quay",
@@ -548,8 +946,14 @@
           "definition_en": "a hard surface next to a sea or river, where boats can stop",
           "definition_vi": "bến cảng, bến tàu",
           "example": "A crowd gathered on the quay to see the ship arrive.",
-          "synonyms": ["wharf", "dock"],
-          "collocations": ["on the quay"]
+          "synonyms": [
+            "wharf",
+            "dock"
+          ],
+          "collocations": [
+            "on the quay"
+          ],
+          "example_vi": "Một đám đông tụ tập trên bến cảng để xem con tàu cập bến."
         },
         {
           "word": "return fare",
@@ -558,7 +962,10 @@
           "definition_vi": "giá vé khứ hồi",
           "example": "The return fare is much cheaper than two singles.",
           "synonyms": [],
-          "collocations": ["cheap return fare"]
+          "collocations": [
+            "cheap return fare"
+          ],
+          "example_vi": "Giá vé khứ hồi rẻ hơn nhiều so với hai vé một chiều."
         },
         {
           "word": "round trip",
@@ -567,7 +974,10 @@
           "definition_vi": "chuyến đi khứ hồi",
           "example": "The round trip takes about four hours.",
           "synonyms": [],
-          "collocations": ["make a round trip"]
+          "collocations": [
+            "make a round trip"
+          ],
+          "example_vi": "Chuyến đi khứ hồi mất khoảng bốn giờ."
         },
         {
           "word": "steer",
@@ -575,8 +985,15 @@
           "definition_en": "to control the direction in which a vehicle moves",
           "definition_vi": "lái (vô lăng, hướng đi)",
           "example": "He steered the car through the narrow streets.",
-          "synonyms": ["guide", "direct"],
-          "collocations": ["steer clear of", "steer a course"]
+          "synonyms": [
+            "guide",
+            "direct"
+          ],
+          "collocations": [
+            "steer clear of",
+            "steer a course"
+          ],
+          "example_vi": "Anh ấy lái xe qua những con phố hẹp."
         },
         {
           "word": "steward",
@@ -584,8 +1001,13 @@
           "definition_en": "a man whose job is to look after the passengers on a plane, train, or ship",
           "definition_vi": "tiếp viên, người phục vụ",
           "example": "The steward brought us some drinks.",
-          "synonyms": ["attendant"],
-          "collocations": ["flight steward"]
+          "synonyms": [
+            "attendant"
+          ],
+          "collocations": [
+            "flight steward"
+          ],
+          "example_vi": "Nam tiếp viên đã mang cho chúng tôi một ít đồ uống."
         }
       ]
     },
@@ -598,8 +1020,12 @@
           "definition_en": "stop people from entering an area by putting something such as a rope around it",
           "definition_vi": "phong tỏa bằng rào chắn/dây thừng",
           "example": "The police cordoned off the area around the suspicious package.",
-          "synonyms": ["block off", "seal off"],
-          "collocations": []
+          "synonyms": [
+            "block off",
+            "seal off"
+          ],
+          "collocations": [],
+          "example_vi": "Cảnh sát đã phong tỏa khu vực xung quanh gói hàng khả nghi."
         },
         {
           "word": "creep up on",
@@ -607,8 +1033,11 @@
           "definition_en": "move towards someone quietly and slowly, especially because you want to surprise them",
           "definition_vi": "rón rén lại gần (để gây bất ngờ)",
           "example": "Don't creep up on me like that!",
-          "synonyms": ["sneak up on"],
-          "collocations": []
+          "synonyms": [
+            "sneak up on"
+          ],
+          "collocations": [],
+          "example_vi": "Đừng có lẻn đến sau lưng tôi như vậy!"
         },
         {
           "word": "fall behind",
@@ -616,8 +1045,11 @@
           "definition_en": "move more slowly than other people so that you are behind them; make less progress or be less successful than other people",
           "definition_vi": "tụt lại phía sau; chậm trễ tiến độ",
           "example": "He fell behind in his schoolwork after being ill.",
-          "synonyms": ["lag"],
-          "collocations": []
+          "synonyms": [
+            "lag"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ấy bị tụt lại phía sau trong việc học ở trường sau khi bị ốm."
         },
         {
           "word": "go astray",
@@ -625,8 +1057,11 @@
           "definition_en": "become lost or go to the wrong place",
           "definition_vi": "thất lạc, đi chệch hướng",
           "example": "The letter must have gone astray in the post.",
-          "synonyms": ["get lost"],
-          "collocations": []
+          "synonyms": [
+            "get lost"
+          ],
+          "collocations": [],
+          "example_vi": "Bức thư chắc hẳn đã bị thất lạc trong lúc gửi bưu điện."
         },
         {
           "word": "head off",
@@ -634,8 +1069,12 @@
           "definition_en": "prevent someone from going somewhere by getting in front of them; prevent something from taking place",
           "definition_vi": "chặn đầu; ngăn chặn điều gì xảy ra",
           "example": "We'll head them off at the bridge.",
-          "synonyms": ["intercept", "forestall"],
-          "collocations": []
+          "synonyms": [
+            "intercept",
+            "forestall"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng ta sẽ chặn đường bọn họ tại cây cầu."
         },
         {
           "word": "hold back",
@@ -643,8 +1082,11 @@
           "definition_en": "stop someone or something from moving forwards",
           "definition_vi": "ngăn lại, giữ lại",
           "example": "Police struggled to hold back the crowd.",
-          "synonyms": ["restrain"],
-          "collocations": []
+          "synonyms": [
+            "restrain"
+          ],
+          "collocations": [],
+          "example_vi": "Cảnh sát đã vất vả để kiềm chế đám đông."
         },
         {
           "word": "move in (with)",
@@ -653,7 +1095,8 @@
           "definition_vi": "chuyển đến ở cùng",
           "example": "She's moving in with her boyfriend.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cô ấy đang dọn đến sống chung với bạn trai."
         },
         {
           "word": "move out",
@@ -662,7 +1105,8 @@
           "definition_vi": "chuyển đi",
           "example": "Our neighbors moved out last week.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Hàng xóm của chúng tôi đã dọn đi vào tuần trước."
         },
         {
           "word": "move over",
@@ -671,7 +1115,8 @@
           "definition_vi": "né sang một bên, xê ra",
           "example": "Move over so I can sit down.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Nhích qua một chút để tôi có thể ngồi xuống."
         },
         {
           "word": "pull over",
@@ -680,7 +1125,8 @@
           "definition_vi": "tấp xe vào lề",
           "example": "The police pulled him over for speeding.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cảnh sát đã yêu cầu anh ta tấp xe vào lề vì chạy quá tốc độ."
         },
         {
           "word": "slip away",
@@ -688,8 +1134,11 @@
           "definition_en": "leave secretly",
           "definition_vi": "lẻn đi, chuồn đi",
           "example": "We slipped away before the party ended.",
-          "synonyms": ["sneak out"],
-          "collocations": []
+          "synonyms": [
+            "sneak out"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã lẻn ra ngoài trước khi bữa tiệc kết thúc."
         },
         {
           "word": "step aside",
@@ -698,7 +1147,8 @@
           "definition_vi": "bước sang bên; nhường chỗ/nhường chức",
           "example": "It's time for the director to step aside and let a younger person take over.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Đã đến lúc giám đốc phải lùi bước và để một người trẻ hơn tiếp quản."
         },
         {
           "word": "stop off",
@@ -706,8 +1156,11 @@
           "definition_en": "visit somewhere before continuing to another place",
           "definition_vi": "ghé thăm, dừng lại giữa chặng",
           "example": "We stopped off in Paris on our way to Rome.",
-          "synonyms": ["break the journey"],
-          "collocations": []
+          "synonyms": [
+            "break the journey"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã dừng chân ở Paris trên đường đến Rome."
         },
         {
           "word": "tip up",
@@ -715,8 +1168,11 @@
           "definition_en": "(of an object) have one end move upwards; turn a container upside down",
           "definition_vi": "lật ngược, làm nghiêng",
           "example": "The bench tipped up when I sat on the end.",
-          "synonyms": ["tilt"],
-          "collocations": []
+          "synonyms": [
+            "tilt"
+          ],
+          "collocations": [],
+          "example_vi": "Chiếc ghế dài bị bênh lên khi tôi ngồi vào phía đầu ghế."
         },
         {
           "word": "move on",
@@ -725,7 +1181,8 @@
           "definition_vi": "tiếp tục đi; chuyển sang chủ đề khác",
           "example": "Let's move on to the next item on the agenda.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Hãy chuyển sang mục tiếp theo trong chương trình nghị sự."
         },
         {
           "word": "walk out",
@@ -733,8 +1190,11 @@
           "definition_en": "leave a meeting, performance, etc before the end; suddenly leave a relationship, family, job, etc",
           "definition_vi": "bỏ cuộc giữa chừng; rời bỏ (gia đình, công việc)",
           "example": "He walked out on his wife and children.",
-          "synonyms": ["abandon"],
-          "collocations": []
+          "synonyms": [
+            "abandon"
+          ],
+          "collocations": [],
+          "example_vi": "Anh ta đã bỏ rơi vợ con mình."
         }
       ]
     },
@@ -747,8 +1207,11 @@
           "definition_en": "very close (to)",
           "definition_vi": "rất gần",
           "example": "The hotel is just a stone's throw from the beach.",
-          "synonyms": ["nearby"],
-          "collocations": []
+          "synonyms": [
+            "nearby"
+          ],
+          "collocations": [],
+          "example_vi": "Khách sạn chỉ cách bãi biển một quãng ngắn."
         },
         {
           "word": "as the crow flies",
@@ -757,7 +1220,8 @@
           "definition_vi": "theo đường chim bay",
           "example": "It's five miles as the crow flies, but about seven by road.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Đường chim bay là 5 dặm, nhưng đường bộ thì khoảng 7 dặm."
         },
         {
           "word": "follow your nose",
@@ -766,7 +1230,8 @@
           "definition_vi": "cứ đi thẳng; làm theo trực giác",
           "example": "Just follow your nose and you'll find the station.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Cứ đi thẳng là bạn sẽ tìm thấy nhà ga thôi."
         },
         {
           "word": "in the middle of nowhere",
@@ -774,8 +1239,12 @@
           "definition_en": "a long way from any town or city",
           "definition_vi": "ở nơi hẻo lánh, đồng không mông quạnh",
           "example": "The car broke down in the middle of nowhere.",
-          "synonyms": ["remote", "isolated"],
-          "collocations": []
+          "synonyms": [
+            "remote",
+            "isolated"
+          ],
+          "collocations": [],
+          "example_vi": "Chiếc xe bị hỏng ở một nơi đồng không mông quạnh."
         },
         {
           "word": "lose your bearings",
@@ -783,8 +1252,11 @@
           "definition_en": "become confused about where you are",
           "definition_vi": "mất phương hướng",
           "example": "I lost my bearings in the dark and couldn't find the way back.",
-          "synonyms": ["get lost"],
-          "collocations": []
+          "synonyms": [
+            "get lost"
+          ],
+          "collocations": [],
+          "example_vi": "Tôi bị mất phương hướng trong bóng tối và không tìm được đường về."
         },
         {
           "word": "make a beeline for",
@@ -793,7 +1265,8 @@
           "definition_vi": "đi thẳng tới",
           "example": "As soon as he arrived, he made a beeline for the food.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Ngay khi vừa đến, anh ta đã lao ngay tới chỗ đồ ăn."
         },
         {
           "word": "off the beaten track",
@@ -801,8 +1274,11 @@
           "definition_en": "away from populated areas or areas popular with tourists",
           "definition_vi": "nơi hẻo lánh, ít người lui tới",
           "example": "We found a tiny hotel off the beaten track.",
-          "synonyms": ["secluded"],
-          "collocations": []
+          "synonyms": [
+            "secluded"
+          ],
+          "collocations": [],
+          "example_vi": "Chúng tôi đã tìm thấy một khách sạn nhỏ nằm ở nơi hẻo lánh."
         },
         {
           "word": "stop dead in your tracks",
@@ -811,7 +1287,8 @@
           "definition_vi": "dừng sững lại (vì ngạc nhiên, sợ hãi)",
           "example": "I stopped dead in my tracks when I saw the snake.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Tôi đứng khựng lại khi nhìn thấy con rắn."
         },
         {
           "word": "take a short cut to",
@@ -820,7 +1297,8 @@
           "definition_vi": "đi đường tắt",
           "example": "If we take a short cut through the park, we'll be there in five minutes.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Nếu chúng ta đi đường tắt xuyên qua công viên, chúng ta sẽ đến đó trong năm phút."
         },
         {
           "word": "take the scenic route",
@@ -829,7 +1307,8 @@
           "definition_vi": "đi đường vòng để ngắm cảnh",
           "example": "We decided to take the scenic route home.",
           "synonyms": [],
-          "collocations": []
+          "collocations": [],
+          "example_vi": "Chúng tôi quyết định đi đường vòng để ngắm cảnh khi về nhà."
         }
       ]
     }
@@ -1102,84 +1581,120 @@
         {
           "number": 1,
           "sentence": "Running along the seafront, there was a short concrete (pier / quay), where a dozen fishing boats bobbed in the afternoon sun.",
-          "options": ["pier", "quay"],
+          "options": [
+            "pier",
+            "quay"
+          ],
           "answer": "quay",
           "explanation": "A quay is a stone or metal platform alongside water for loading/unloading boats."
         },
         {
           "number": 2,
           "sentence": "Quite a few resorts in Britain have long (piers / quays), which stick out into the sea...",
-          "options": ["piers", "quays"],
+          "options": [
+            "piers",
+            "quays"
+          ],
           "answer": "piers",
           "explanation": "A pier is a structure leading out from the shore into a body of water."
         },
         {
           "number": 3,
           "sentence": "This area is for (passersby / pedestrians) only and is closed to all traffic.",
-          "options": ["passersby", "pedestrians"],
+          "options": [
+            "passersby",
+            "pedestrians"
+          ],
           "answer": "pedestrians",
           "explanation": "Pedestrians are people walking in a specific area (like a street)."
         },
         {
           "number": 4,
           "sentence": "After the accident, (passersby / pedestrians) described the driver...",
-          "options": ["passersby", "pedestrians"],
+          "options": [
+            "passersby",
+            "pedestrians"
+          ],
           "answer": "passersby",
           "explanation": "Passersby are people who happen to be walking past a scene."
         },
         {
           "number": 5,
           "sentence": "Keep both hands on the wheel and you'll find it easier to (pilot / steer) the car.",
-          "options": ["pilot", "steer"],
+          "options": [
+            "pilot",
+            "steer"
+          ],
           "answer": "steer",
           "explanation": "Steer is used for controlling land vehicles like cars."
         },
         {
           "number": 6,
           "sentence": "I'm hoping to train so that I can (pilot / steer) commercial aircraft.",
-          "options": ["pilot", "steer"],
+          "options": [
+            "pilot",
+            "steer"
+          ],
           "answer": "pilot",
           "explanation": "Pilot is the specific verb for controlling aircraft."
         },
         {
           "number": 7,
           "sentence": "As I came out of the petrol station, I saw a (hiker / hitchhiker) with his thumb out...",
-          "options": ["hiker", "hitchhiker"],
+          "options": [
+            "hiker",
+            "hitchhiker"
+          ],
           "answer": "hitchhiker",
           "explanation": "A hitchhiker thumbs a lift from cars."
         },
         {
           "number": 8,
           "sentence": "Local (hikers / hitchhikers) insist that they have the right to walk across the field...",
-          "options": ["hikers", "hitchhikers"],
+          "options": [
+            "hikers",
+            "hitchhikers"
+          ],
           "answer": "hikers",
           "explanation": "Hikers walk long distances for pleasure/exercise."
         },
         {
           "number": 9,
           "sentence": "It's three and a half hours each way, so the (return fare / round trip) takes seven hours.",
-          "options": ["return fare", "round trip"],
+          "options": [
+            "return fare",
+            "round trip"
+          ],
           "answer": "round trip",
           "explanation": "Round trip refers to the whole journey there and back."
         },
         {
           "number": 10,
           "sentence": "A single is €40, but the (return fare / round trip) is actually only €55.",
-          "options": ["return fare", "round trip"],
+          "options": [
+            "return fare",
+            "round trip"
+          ],
           "answer": "return fare",
           "explanation": "Return fare refers to the price of the ticket."
         },
         {
           "number": 11,
           "sentence": "A lorry lost its (cargo / load) on the motorway and there's white paint everywhere.",
-          "options": ["cargo", "load"],
+          "options": [
+            "cargo",
+            "load"
+          ],
           "answer": "load",
           "explanation": "Load is used for things carried by a vehicle like a lorry."
         },
         {
           "number": 12,
           "sentence": "The area where the (cargo / load) is stored on a plane can actually get extremely cold...",
-          "options": ["cargo", "load"],
+          "options": [
+            "cargo",
+            "load"
+          ],
           "answer": "cargo",
           "explanation": "Cargo is the standard term for goods on a ship or plane."
         }

@@ -12,8 +12,15 @@
           "definition_en": "existing in large quantities",
           "definition_vi": "dồi dào, phong phú",
           "example": "Fish are abundant in the lake.",
-          "synonyms": ["plentiful", "copious"],
-          "collocations": ["abundant supply", "abundant evidence"]
+          "synonyms": [
+            "plentiful",
+            "copious"
+          ],
+          "collocations": [
+            "abundant supply",
+            "abundant evidence"
+          ],
+          "example_vi": "Cá rất dồi dào trong hồ."
         },
         {
           "word": "ample",
@@ -21,8 +28,15 @@
           "definition_en": "enough, and often more than you need",
           "definition_vi": "dư dả, nhiều hơn mức cần thiết",
           "example": "There is ample time for discussion.",
-          "synonyms": ["sufficient", "adequate"],
-          "collocations": ["ample opportunity", "ample evidence"]
+          "synonyms": [
+            "sufficient",
+            "adequate"
+          ],
+          "collocations": [
+            "ample opportunity",
+            "ample evidence"
+          ],
+          "example_vi": "Có dư dả thời gian để thảo luận."
         },
         {
           "word": "area",
@@ -30,8 +44,15 @@
           "definition_en": "a part of a place or building",
           "definition_vi": "khu vực, diện tích",
           "example": "The local area is very quiet.",
-          "synonyms": ["region", "zone"],
-          "collocations": ["residential area", "surface area"]
+          "synonyms": [
+            "region",
+            "zone"
+          ],
+          "collocations": [
+            "residential area",
+            "surface area"
+          ],
+          "example_vi": "Khu vực địa phương này rất yên tĩnh."
         },
         {
           "word": "average",
@@ -39,8 +60,15 @@
           "definition_en": "the amount, level, standard etc that is typical of a group",
           "definition_vi": "trung bình",
           "example": "The average age of the students is 20.",
-          "synonyms": ["mean", "standard"],
-          "collocations": ["on average", "above average"]
+          "synonyms": [
+            "mean",
+            "standard"
+          ],
+          "collocations": [
+            "on average",
+            "above average"
+          ],
+          "example_vi": "Độ tuổi trung bình của sinh viên là 20."
         },
         {
           "word": "batch",
@@ -48,8 +76,15 @@
           "definition_en": "a number of people or things that are dealt with as a group",
           "definition_vi": "mẻ (bánh), đợt, lô hàng",
           "example": "We processed a new batch of orders.",
-          "synonyms": ["group", "set"],
-          "collocations": ["a batch of cookies", "in batches"]
+          "synonyms": [
+            "group",
+            "set"
+          ],
+          "collocations": [
+            "a batch of cookies",
+            "in batches"
+          ],
+          "example_vi": "Chúng tôi đã xử lý một lô đơn hàng mới."
         },
         {
           "word": "bulk",
@@ -57,8 +92,15 @@
           "definition_en": "the majority or large size/quantity of something",
           "definition_vi": "số lượng lớn, phần lớn",
           "example": "The bulk of the work is done.",
-          "synonyms": ["majority", "mass"],
-          "collocations": ["in bulk", "the bulk of"]
+          "synonyms": [
+            "majority",
+            "mass"
+          ],
+          "collocations": [
+            "in bulk",
+            "the bulk of"
+          ],
+          "example_vi": "Phần lớn công việc đã được hoàn thành."
         },
         {
           "word": "considerable",
@@ -66,8 +108,15 @@
           "definition_en": "large in size, amount, or degree",
           "definition_vi": "đáng kể, to tát",
           "example": "We made considerable progress today.",
-          "synonyms": ["significant", "substantial"],
-          "collocations": ["considerable amount", "considerable influence"]
+          "synonyms": [
+            "significant",
+            "substantial"
+          ],
+          "collocations": [
+            "considerable amount",
+            "considerable influence"
+          ],
+          "example_vi": "Hôm nay chúng tôi đã đạt được tiến bộ đáng kể."
         },
         {
           "word": "countless",
@@ -75,8 +124,15 @@
           "definition_en": "very many, too many to be counted",
           "definition_vi": "vô số, không đếm xuể",
           "example": "I've told him countless times.",
-          "synonyms": ["innumerable", "infinite"],
-          "collocations": ["countless hours", "countless opportunities"]
+          "synonyms": [
+            "innumerable",
+            "infinite"
+          ],
+          "collocations": [
+            "countless hours",
+            "countless opportunities"
+          ],
+          "example_vi": "Tôi đã nói với anh ấy vô số lần rồi."
         },
         {
           "word": "dimension",
@@ -84,8 +140,15 @@
           "definition_en": "a measurement of something in a particular direction",
           "definition_vi": "kích thước, chiều, khía cạnh",
           "example": "A square has two dimensions.",
-          "synonyms": ["measurement", "aspect"],
-          "collocations": ["added dimension", "third dimension"]
+          "synonyms": [
+            "measurement",
+            "aspect"
+          ],
+          "collocations": [
+            "added dimension",
+            "third dimension"
+          ],
+          "example_vi": "Một hình vuông có hai chiều."
         },
         {
           "word": "diminish",
@@ -93,8 +156,15 @@
           "definition_en": "to become or make something become smaller or less important",
           "definition_vi": "giảm bớt, làm suy giảm",
           "example": "Our resources are diminishing rapidly.",
-          "synonyms": ["decrease", "reduce"],
-          "collocations": ["diminishing returns", "diminish in importance"]
+          "synonyms": [
+            "decrease",
+            "reduce"
+          ],
+          "collocations": [
+            "diminishing returns",
+            "diminish in importance"
+          ],
+          "example_vi": "Nguồn lực của chúng ta đang cạn kiệt nhanh chóng."
         },
         {
           "word": "equation",
@@ -102,8 +172,14 @@
           "definition_en": "a mathematical statement that two amounts are equal",
           "definition_vi": "phương trình, sự cân bằng",
           "example": "Can you solve this equation?",
-          "synonyms": ["formula"],
-          "collocations": ["solve an equation", "mathematical equation"]
+          "synonyms": [
+            "formula"
+          ],
+          "collocations": [
+            "solve an equation",
+            "mathematical equation"
+          ],
+          "example_vi": "Bạn có thể giải phương trình này không?"
         },
         {
           "word": "equidistant",
@@ -111,8 +187,13 @@
           "definition_en": "at the same distance from two places",
           "definition_vi": "cách đều",
           "example": "The house is equidistant from the two cities.",
-          "synonyms": ["midway"],
-          "collocations": ["equidistant from"]
+          "synonyms": [
+            "midway"
+          ],
+          "collocations": [
+            "equidistant from"
+          ],
+          "example_vi": "Ngôi nhà nằm cách đều hai thành phố."
         },
         {
           "word": "expand",
@@ -120,8 +201,15 @@
           "definition_en": "to become larger in size, number, or amount",
           "definition_vi": "mở rộng, giãn nở",
           "example": "The universe is expanding.",
-          "synonyms": ["enlarge", "grow"],
-          "collocations": ["expand rapidly", "expand a business"]
+          "synonyms": [
+            "enlarge",
+            "grow"
+          ],
+          "collocations": [
+            "expand rapidly",
+            "expand a business"
+          ],
+          "example_vi": "Vũ trụ đang mở rộng."
         },
         {
           "word": "extent",
@@ -129,8 +217,15 @@
           "definition_en": "the size or importance of something",
           "definition_vi": "mức độ, quy mô",
           "example": "We didn't realize the extent of the damage.",
-          "synonyms": ["degree", "scope"],
-          "collocations": ["to a certain extent", "full extent"]
+          "synonyms": [
+            "degree",
+            "scope"
+          ],
+          "collocations": [
+            "to a certain extent",
+            "full extent"
+          ],
+          "example_vi": "Chúng tôi đã không nhận ra mức độ thiệt hại."
         },
         {
           "word": "finite",
@@ -138,8 +233,14 @@
           "definition_en": "having an end or a limit",
           "definition_vi": "có hạn, có giới hạn",
           "example": "The earth has finite resources.",
-          "synonyms": ["limited"],
-          "collocations": ["finite amount", "finite number"]
+          "synonyms": [
+            "limited"
+          ],
+          "collocations": [
+            "finite amount",
+            "finite number"
+          ],
+          "example_vi": "Trái đất có nguồn tài nguyên hữu hạn."
         },
         {
           "word": "force",
@@ -147,8 +248,15 @@
           "definition_en": "physical strength or power",
           "definition_vi": "lực lượng, sức mạnh, ép buộc",
           "example": "The force of the explosion was immense.",
-          "synonyms": ["power", "strength"],
-          "collocations": ["by force", "centrifugal force"]
+          "synonyms": [
+            "power",
+            "strength"
+          ],
+          "collocations": [
+            "by force",
+            "centrifugal force"
+          ],
+          "example_vi": "Cảnh sát đã sử dụng vũ lực để giải tán đám đông."
         },
         {
           "word": "fraction",
@@ -156,8 +264,15 @@
           "definition_en": "a small part or amount of something",
           "definition_vi": "phân số, một phần nhỏ",
           "example": "She only ate a fraction of her dinner.",
-          "synonyms": ["portion", "segment"],
-          "collocations": ["a fraction of a second", "decimal fraction"]
+          "synonyms": [
+            "portion",
+            "segment"
+          ],
+          "collocations": [
+            "a fraction of a second",
+            "decimal fraction"
+          ],
+          "example_vi": "Cô ấy chỉ ăn một phần nhỏ bữa tối của mình."
         },
         {
           "word": "heap",
@@ -165,8 +280,15 @@
           "definition_en": "a large pile of something",
           "definition_vi": "đống",
           "example": "There's a heap of clothes on the floor.",
-          "synonyms": ["pile", "stack"],
-          "collocations": ["in a heap", "heap of praise"]
+          "synonyms": [
+            "pile",
+            "stack"
+          ],
+          "collocations": [
+            "in a heap",
+            "heap of praise"
+          ],
+          "example_vi": "Có một đống quần áo trên sàn nhà."
         },
         {
           "word": "imbalance",
@@ -174,8 +296,15 @@
           "definition_en": "a lack of balance between things",
           "definition_vi": "sự mất cân bằng",
           "example": "There is a trade imbalance between the two countries.",
-          "synonyms": ["disparity", "inequality"],
-          "collocations": ["hormonal imbalance", "serious imbalance"]
+          "synonyms": [
+            "disparity",
+            "inequality"
+          ],
+          "collocations": [
+            "hormonal imbalance",
+            "serious imbalance"
+          ],
+          "example_vi": "Có sự mất cân bằng thương mại giữa hai quốc gia."
         },
         {
           "word": "immense",
@@ -183,8 +312,15 @@
           "definition_en": "extremely large",
           "definition_vi": "mênh mông, bao la, cực kỳ lớn",
           "example": "The cost of the project was immense.",
-          "synonyms": ["enormous", "huge"],
-          "collocations": ["immense pressure", "immense amount"]
+          "synonyms": [
+            "enormous",
+            "huge"
+          ],
+          "collocations": [
+            "immense pressure",
+            "immense amount"
+          ],
+          "example_vi": "Chi phí của dự án là vô cùng lớn."
         },
         {
           "word": "intensity",
@@ -192,8 +328,15 @@
           "definition_en": "the strength or power of something",
           "definition_vi": "cường độ, độ mãnh liệt",
           "example": "The intensity of the sun's rays was unbearable.",
-          "synonyms": ["strength", "force"],
-          "collocations": ["high intensity", "increase in intensity"]
+          "synonyms": [
+            "strength",
+            "force"
+          ],
+          "collocations": [
+            "high intensity",
+            "increase in intensity"
+          ],
+          "example_vi": "Cường độ của các tia nắng mặt trời thật không thể chịu nổi."
         },
         {
           "word": "magnitude",
@@ -201,8 +344,15 @@
           "definition_en": "the great size or importance of something",
           "definition_vi": "tầm vóc, cường độ (động đất)",
           "example": "We realized the magnitude of the problem.",
-          "synonyms": ["scale", "importance"],
-          "collocations": ["order of magnitude", "magnitude of 7.0"]
+          "synonyms": [
+            "scale",
+            "importance"
+          ],
+          "collocations": [
+            "order of magnitude",
+            "magnitude of 7.0"
+          ],
+          "example_vi": "Chúng tôi đã nhận ra mức độ nghiêm trọng của vấn đề."
         },
         {
           "word": "major",
@@ -210,8 +360,15 @@
           "definition_en": "very large, important, or serious",
           "definition_vi": "chính, chủ yếu, quan trọng",
           "example": "This is a major discovery.",
-          "synonyms": ["main", "significant"],
-          "collocations": ["major factor", "major role"]
+          "synonyms": [
+            "main",
+            "significant"
+          ],
+          "collocations": [
+            "major factor",
+            "major role"
+          ],
+          "example_vi": "Đây là một khám phá quan trọng."
         },
         {
           "word": "mass",
@@ -219,8 +376,15 @@
           "definition_en": "a large amount of a substance that has no particular shape",
           "definition_vi": "khối, quần chúng, số đông",
           "example": "The sun is a mass of gas.",
-          "synonyms": ["bulk", "quantity"],
-          "collocations": ["mass production", "the masses"]
+          "synonyms": [
+            "bulk",
+            "quantity"
+          ],
+          "collocations": [
+            "mass production",
+            "the masses"
+          ],
+          "example_vi": "Mặt trời là một khối khí."
         },
         {
           "word": "meagre",
@@ -228,8 +392,15 @@
           "definition_en": "very small in amount or number",
           "definition_vi": "ít ỏi, nghèo nàn",
           "example": "He earns a meagre salary.",
-          "synonyms": ["paltry", "scanty"],
-          "collocations": ["meagre income", "meagre resources"]
+          "synonyms": [
+            "paltry",
+            "scanty"
+          ],
+          "collocations": [
+            "meagre income",
+            "meagre resources"
+          ],
+          "example_vi": "Anh ấy kiếm được mức lương ít ỏi."
         },
         {
           "word": "minor",
@@ -237,8 +408,15 @@
           "definition_en": "not very large, important, or serious",
           "definition_vi": "nhỏ, không quan trọng",
           "example": "It was only a minor accident.",
-          "synonyms": ["small", "insignificant"],
-          "collocations": ["minor injuries", "minor changes"]
+          "synonyms": [
+            "small",
+            "insignificant"
+          ],
+          "collocations": [
+            "minor injuries",
+            "minor changes"
+          ],
+          "example_vi": "Đó chỉ là một tai nạn nhỏ."
         },
         {
           "word": "minute",
@@ -246,8 +424,15 @@
           "definition_en": "extremely small",
           "definition_vi": "rất nhỏ, chi tiết",
           "example": "The machine can detect minute amounts of gas.",
-          "synonyms": ["tiny", "microscopic"],
-          "collocations": ["minute detail", "minute quantity"]
+          "synonyms": [
+            "tiny",
+            "microscopic"
+          ],
+          "collocations": [
+            "minute detail",
+            "minute quantity"
+          ],
+          "example_vi": "Máy có thể phát hiện lượng khí cực nhỏ."
         },
         {
           "word": "multiple",
@@ -255,8 +440,15 @@
           "definition_en": "many, or involving many things",
           "definition_vi": "nhiều, phức tạp, bội số",
           "example": "She suffered multiple injuries.",
-          "synonyms": ["various", "numerous"],
-          "collocations": ["multiple choice", "multiple personality"]
+          "synonyms": [
+            "various",
+            "numerous"
+          ],
+          "collocations": [
+            "multiple choice",
+            "multiple personality"
+          ],
+          "example_vi": "Cô ấy bị nhiều vết thương."
         },
         {
           "word": "proportion",
@@ -264,8 +456,15 @@
           "definition_en": "a part of a number or amount",
           "definition_vi": "tỷ lệ, phần",
           "example": "A large proportion of the students are from abroad.",
-          "synonyms": ["percentage", "ratio"],
-          "collocations": ["in proportion to", "out of proportion"]
+          "synonyms": [
+            "percentage",
+            "ratio"
+          ],
+          "collocations": [
+            "in proportion to",
+            "out of proportion"
+          ],
+          "example_vi": "Một tỷ lệ lớn sinh viên đến từ nước ngoài."
         },
         {
           "word": "quantify",
@@ -273,8 +472,14 @@
           "definition_en": "to measure or state the amount of something",
           "definition_vi": "định lượng",
           "example": "It is difficult to quantify the risks.",
-          "synonyms": ["measure", "calculate"],
-          "collocations": ["quantify the benefits"]
+          "synonyms": [
+            "measure",
+            "calculate"
+          ],
+          "collocations": [
+            "quantify the benefits"
+          ],
+          "example_vi": "Rất khó để định lượng các rủi ro."
         },
         {
           "word": "rate",
@@ -282,8 +487,15 @@
           "definition_en": "the speed or frequency of something",
           "definition_vi": "tỷ lệ, tốc độ, đánh giá",
           "example": "The inflation rate is rising.",
-          "synonyms": ["speed", "pace"],
-          "collocations": ["at a rate of", "unemployment rate"]
+          "synonyms": [
+            "speed",
+            "pace"
+          ],
+          "collocations": [
+            "at a rate of",
+            "unemployment rate"
+          ],
+          "example_vi": "Tỷ lệ lạm phát đang tăng lên."
         },
         {
           "word": "ratio",
@@ -291,8 +503,13 @@
           "definition_en": "a relationship between two amounts showing how much bigger one is",
           "definition_vi": "tỷ số",
           "example": "The ratio of men to women was 2 to 1.",
-          "synonyms": ["proportion"],
-          "collocations": ["ratio of A to B"]
+          "synonyms": [
+            "proportion"
+          ],
+          "collocations": [
+            "ratio of A to B"
+          ],
+          "example_vi": "Tỷ lệ nam so với nữ là 2 trên 1."
         },
         {
           "word": "ration",
@@ -300,8 +517,15 @@
           "definition_en": "a fixed amount of something that you are allowed to have",
           "definition_vi": "khẩu phần, định mức",
           "example": "Petrol was rationed during the war.",
-          "synonyms": ["allowance", "quota"],
-          "collocations": ["food rations", "daily ration"]
+          "synonyms": [
+            "allowance",
+            "quota"
+          ],
+          "collocations": [
+            "food rations",
+            "daily ration"
+          ],
+          "example_vi": "Xăng dầu đã được phân phối theo định mức trong chiến tranh."
         },
         {
           "word": "shrink",
@@ -309,8 +533,14 @@
           "definition_en": "to become smaller in size",
           "definition_vi": "co lại, rút ngắn",
           "example": "My shirt shrank in the wash.",
-          "synonyms": ["contract", "decrease"],
-          "collocations": ["shrink by 10%"]
+          "synonyms": [
+            "contract",
+            "decrease"
+          ],
+          "collocations": [
+            "shrink by 10%"
+          ],
+          "example_vi": "Áo sơ mi của tôi bị co lại khi giặt."
         },
         {
           "word": "sufficient",
@@ -318,8 +548,15 @@
           "definition_en": "as much as is needed",
           "definition_vi": "đủ",
           "example": "We have sufficient evidence to convict him.",
-          "synonyms": ["enough", "adequate"],
-          "collocations": ["sufficient time", "sufficient funds"]
+          "synonyms": [
+            "enough",
+            "adequate"
+          ],
+          "collocations": [
+            "sufficient time",
+            "sufficient funds"
+          ],
+          "example_vi": "Chúng tôi có đủ bằng chứng để kết tội anh ta."
         },
         {
           "word": "sum",
@@ -327,8 +564,15 @@
           "definition_en": "an amount of money",
           "definition_vi": "tổng, số tiền",
           "example": "A large sum of money was stolen.",
-          "synonyms": ["amount", "total"],
-          "collocations": ["a tidy sum", "in sum"]
+          "synonyms": [
+            "amount",
+            "total"
+          ],
+          "collocations": [
+            "a tidy sum",
+            "in sum"
+          ],
+          "example_vi": "Một số tiền lớn đã bị đánh cắp."
         },
         {
           "word": "uneven",
@@ -336,8 +580,15 @@
           "definition_en": "not smooth, flat, or level",
           "definition_vi": "không bằng phẳng, không đều",
           "example": "The floor was uneven.",
-          "synonyms": ["bumpy", "irregular"],
-          "collocations": ["uneven surface", "uneven distribution"]
+          "synonyms": [
+            "bumpy",
+            "irregular"
+          ],
+          "collocations": [
+            "uneven surface",
+            "uneven distribution"
+          ],
+          "example_vi": "Sàn nhà không bằng phẳng."
         },
         {
           "word": "vast",
@@ -345,8 +596,15 @@
           "definition_en": "extremely large",
           "definition_vi": "bao la, rộng lớn",
           "example": "The vast majority of people agree.",
-          "synonyms": ["immense", "huge"],
-          "collocations": ["vast area", "vast experience"]
+          "synonyms": [
+            "immense",
+            "huge"
+          ],
+          "collocations": [
+            "vast area",
+            "vast experience"
+          ],
+          "example_vi": "Đại đa số mọi người đều đồng ý."
         },
         {
           "word": "volume",
@@ -354,8 +612,15 @@
           "definition_en": "the amount of space something fills",
           "definition_vi": "thể tích, âm lượng, khối lượng",
           "example": "The volume of traffic is increasing.",
-          "synonyms": ["capacity", "quantity"],
-          "collocations": ["sales volume", "volume of business"]
+          "synonyms": [
+            "capacity",
+            "quantity"
+          ],
+          "collocations": [
+            "sales volume",
+            "volume of business"
+          ],
+          "example_vi": "Lưu lượng giao thông đang tăng lên."
         },
         {
           "word": "widespread",
@@ -363,8 +628,15 @@
           "definition_en": "existing or happening in many places",
           "definition_vi": "lan rộng, phổ biến",
           "example": "There is widespread support for the new law.",
-          "synonyms": ["common", "prevalent"],
-          "collocations": ["widespread belief", "widespread use"]
+          "synonyms": [
+            "common",
+            "prevalent"
+          ],
+          "collocations": [
+            "widespread belief",
+            "widespread use"
+          ],
+          "example_vi": "Có sự ủng hộ rộng rãi cho luật mới."
         }
       ]
     },
@@ -377,8 +649,15 @@
           "definition_en": "money given by the government to people who are poor, ill, or unemployed",
           "definition_vi": "lợi ích, tiền trợ cấp",
           "example": "He's on unemployment benefit.",
-          "synonyms": ["allowance", "welfare"],
-          "collocations": ["fringe benefits", "health benefit"]
+          "synonyms": [
+            "allowance",
+            "welfare"
+          ],
+          "collocations": [
+            "fringe benefits",
+            "health benefit"
+          ],
+          "example_vi": "Anh ấy đang hưởng trợ cấp thất nghiệp."
         },
         {
           "word": "compensation",
@@ -386,8 +665,15 @@
           "definition_en": "money paid to someone because they have suffered injury or loss",
           "definition_vi": "sự bồi thường",
           "example": "She received compensation for her injuries.",
-          "synonyms": ["reimbursement", "reparation"],
-          "collocations": ["financial compensation", "claim compensation"]
+          "synonyms": [
+            "reimbursement",
+            "reparation"
+          ],
+          "collocations": [
+            "financial compensation",
+            "claim compensation"
+          ],
+          "example_vi": "Cô ấy đã nhận được bồi thường cho các vết thương của mình."
         },
         {
           "word": "damages",
@@ -395,8 +681,14 @@
           "definition_en": "money that a court orders someone to pay to someone else for harming them",
           "definition_vi": "tiền bồi thường thiệt hại (theo lệnh tòa)",
           "example": "The judge awarded damages of £5,000.",
-          "synonyms": ["indemnity"],
-          "collocations": ["sue for damages", "award damages"]
+          "synonyms": [
+            "indemnity"
+          ],
+          "collocations": [
+            "sue for damages",
+            "award damages"
+          ],
+          "example_vi": "Thẩm phán đã phán quyết bồi thường thiệt hại 5.000 bảng Anh."
         },
         {
           "word": "debt",
@@ -404,8 +696,15 @@
           "definition_en": "an amount of money that you owe",
           "definition_vi": "nợ",
           "example": "I'm in debt to the bank.",
-          "synonyms": ["liability", "arrears"],
-          "collocations": ["in debt", "run up a debt"]
+          "synonyms": [
+            "liability",
+            "arrears"
+          ],
+          "collocations": [
+            "in debt",
+            "run up a debt"
+          ],
+          "example_vi": "Tôi đang nợ ngân hàng."
         },
         {
           "word": "deduct",
@@ -413,8 +712,14 @@
           "definition_en": "to take an amount from a total",
           "definition_vi": "khấu trừ",
           "example": "Tax is deducted from your salary.",
-          "synonyms": ["subtract"],
-          "collocations": ["deduct from", "automatically deducted"]
+          "synonyms": [
+            "subtract"
+          ],
+          "collocations": [
+            "deduct from",
+            "automatically deducted"
+          ],
+          "example_vi": "Thuế được khấu trừ từ lương của bạn."
         },
         {
           "word": "deposit",
@@ -422,8 +727,14 @@
           "definition_en": "to put money into a bank account",
           "definition_vi": "tiền đặt cọc, gửi tiền",
           "example": "I deposited £100 in my account.",
-          "synonyms": ["pay in"],
-          "collocations": ["pay a deposit", "non-refundable deposit"]
+          "synonyms": [
+            "pay in"
+          ],
+          "collocations": [
+            "pay a deposit",
+            "non-refundable deposit"
+          ],
+          "example_vi": "Tôi đã gửi 100 bảng vào tài khoản của mình."
         },
         {
           "word": "direct debit",
@@ -431,7 +742,10 @@
           "definition_en": "an instruction to your bank to pay money directly to an organization",
           "definition_vi": "ghi nợ trực tiếp",
           "example": "I pay my bills by direct debit.",
-          "collocations": ["set up a direct debit"]
+          "collocations": [
+            "set up a direct debit"
+          ],
+          "example_vi": "Tôi thanh toán hóa đơn bằng hình thức ghi nợ trực tiếp."
         },
         {
           "word": "dividend",
@@ -439,7 +753,11 @@
           "definition_en": "a part of a company's profit that is divided among shareholders",
           "definition_vi": "cổ tức",
           "example": "The company paid a high dividend this year.",
-          "collocations": ["share dividend", "annual dividend"]
+          "collocations": [
+            "share dividend",
+            "annual dividend"
+          ],
+          "example_vi": "Công ty đã trả cổ tức cao trong năm nay."
         },
         {
           "word": "down payment",
@@ -447,8 +765,13 @@
           "definition_en": "a first payment made when buying something expensive",
           "definition_vi": "tiền đặt cọc trả trước (khi mua trả góp)",
           "example": "We made a down payment on a new car.",
-          "synonyms": ["deposit"],
-          "collocations": ["initial down payment"]
+          "synonyms": [
+            "deposit"
+          ],
+          "collocations": [
+            "initial down payment"
+          ],
+          "example_vi": "Chúng tôi đã trả tiền đặt cọc cho một chiếc xe hơi mới."
         },
         {
           "word": "finance",
@@ -456,8 +779,15 @@
           "definition_en": "money provided by a bank or other institution to help start or run a business",
           "definition_vi": "tài chính, cấp vốn",
           "example": "They are looking for finance for their new project.",
-          "synonyms": ["funding", "capital"],
-          "collocations": ["public finance", "corporate finance"]
+          "synonyms": [
+            "funding",
+            "capital"
+          ],
+          "collocations": [
+            "public finance",
+            "corporate finance"
+          ],
+          "example_vi": "Họ đang tìm kiếm nguồn tài chính cho dự án mới của mình."
         },
         {
           "word": "insurance",
@@ -465,7 +795,11 @@
           "definition_en": "an arrangement in which you pay a company and they pay your costs if you are ill/injured",
           "definition_vi": "bảo hiểm",
           "example": "Do you have health insurance?",
-          "collocations": ["life insurance", "insurance policy"]
+          "collocations": [
+            "life insurance",
+            "insurance policy"
+          ],
+          "example_vi": "Bạn có bảo hiểm y tế không?"
         },
         {
           "word": "interest",
@@ -473,7 +807,11 @@
           "definition_en": "money that you must pay to a bank that has lent you money",
           "definition_vi": "lãi suất, tiền lãi",
           "example": "The interest on the loan is 5%.",
-          "collocations": ["rate of interest", "interest-free"]
+          "collocations": [
+            "rate of interest",
+            "interest-free"
+          ],
+          "example_vi": "Lãi suất khoản vay là 5%."
         },
         {
           "word": "investment",
@@ -481,7 +819,11 @@
           "definition_en": "money put into a business to make a profit",
           "definition_vi": "sự đầu tư",
           "example": "The project was a good investment.",
-          "collocations": ["foreign investment", "capital investment"]
+          "collocations": [
+            "foreign investment",
+            "capital investment"
+          ],
+          "example_vi": "Dự án này là một khoản đầu tư tốt."
         },
         {
           "word": "lump sum",
@@ -489,7 +831,10 @@
           "definition_en": "an amount of money paid at one time and not in small amounts",
           "definition_vi": "tiền trả một cục",
           "example": "He received his pension as a lump sum.",
-          "collocations": ["receive a lump sum"]
+          "collocations": [
+            "receive a lump sum"
+          ],
+          "example_vi": "Ông ấy đã nhận lương hưu của mình dưới dạng một khoản tiền trọn gói một lần."
         },
         {
           "word": "mortgage",
@@ -497,7 +842,11 @@
           "definition_en": "a legal arrangement by which you borrow money from a bank to buy a house",
           "definition_vi": "thế chấp, tiền vay mua nhà",
           "example": "We've just taken out a mortgage.",
-          "collocations": ["repay a mortgage", "mortgage rate"]
+          "collocations": [
+            "repay a mortgage",
+            "mortgage rate"
+          ],
+          "example_vi": "Chúng tôi vừa mới vay thế chấp."
         },
         {
           "word": "overdraft",
@@ -505,7 +854,11 @@
           "definition_en": "an amount of money spent that is more than in your bank account",
           "definition_vi": "thanh toán quá số dư, thấu chi",
           "example": "I have a £500 overdraft.",
-          "collocations": ["run up an overdraft", "overdraft limit"]
+          "collocations": [
+            "run up an overdraft",
+            "overdraft limit"
+          ],
+          "example_vi": "Tôi có hạn mức thấu chi 500 bảng."
         },
         {
           "word": "pension",
@@ -513,7 +866,11 @@
           "definition_en": "money paid regularly to someone who has retired",
           "definition_vi": "lương hưu",
           "example": "He lives on his state pension.",
-          "collocations": ["pension scheme", "draw a pension"]
+          "collocations": [
+            "pension scheme",
+            "draw a pension"
+          ],
+          "example_vi": "Ông ấy sống nhờ vào lương hưu nhà nước."
         },
         {
           "word": "share",
@@ -521,8 +878,14 @@
           "definition_en": "one of the equal parts into which the ownership of a company is divided",
           "definition_vi": "cổ phiếu, cổ phần",
           "example": "The value of the shares fell.",
-          "synonyms": ["stock"],
-          "collocations": ["shareholder", "share price"]
+          "synonyms": [
+            "stock"
+          ],
+          "collocations": [
+            "shareholder",
+            "share price"
+          ],
+          "example_vi": "Giá trị của các cổ phiếu đã giảm."
         },
         {
           "word": "speculate",
@@ -530,8 +893,13 @@
           "definition_en": "to buy shares or property hoping to make a profit when you sell them",
           "definition_vi": "đầu cơ, suy đoán",
           "example": "He lost a lot of money speculating on the stock market.",
-          "synonyms": ["gamble"],
-          "collocations": ["speculate on"]
+          "synonyms": [
+            "gamble"
+          ],
+          "collocations": [
+            "speculate on"
+          ],
+          "example_vi": "Chúng ta chỉ có thể suy đoán về lý do đằng sau quyết định của anh ấy."
         },
         {
           "word": "withdraw",
@@ -539,8 +907,14 @@
           "definition_en": "to take money out of a bank account",
           "definition_vi": "rút tiền",
           "example": "I'd like to withdraw £50, please.",
-          "synonyms": ["take out"],
-          "collocations": ["withdraw cash", "withdrawal slip"]
+          "synonyms": [
+            "take out"
+          ],
+          "collocations": [
+            "withdraw cash",
+            "withdrawal slip"
+          ],
+          "example_vi": "Tôi muốn rút 50 bảng, làm ơn."
         }
       ]
     },
@@ -553,7 +927,10 @@
           "definition_en": "if separate amounts add up to a total, they form that total; combine to produce a result",
           "definition_vi": "tổng cộng là, dẫn đến kết quả",
           "example": "The small costs add up to a lot of money.",
-          "synonyms": ["amount to"]
+          "synonyms": [
+            "amount to"
+          ],
+          "example_vi": "Những chi phí nhỏ cộng lại thành một số tiền lớn."
         },
         {
           "word": "break down",
@@ -561,7 +938,11 @@
           "definition_en": "divide something such as a total amount into separate parts",
           "definition_vi": "chia nhỏ ra, phân tích",
           "example": "Let's break down the costs into monthly payments.",
-          "synonyms": ["analyze", "categorize"]
+          "synonyms": [
+            "analyze",
+            "categorize"
+          ],
+          "example_vi": "Hãy chia nhỏ các chi phí thành các khoản thanh toán hàng tháng."
         },
         {
           "word": "build up",
@@ -569,7 +950,10 @@
           "definition_en": "increase or make something increase; gradually develop",
           "definition_vi": "tích lũy, xây dựng dần lên",
           "example": "She's building up a successful business.",
-          "synonyms": ["accumulate"]
+          "synonyms": [
+            "accumulate"
+          ],
+          "example_vi": "Cô ấy đang xây dựng một doanh nghiệp thành công."
         },
         {
           "word": "buy off",
@@ -577,7 +961,10 @@
           "definition_en": "give someone money so that they do not act against you",
           "definition_vi": "đút lót, mua chuộc",
           "example": "They tried to buy off the witnesses.",
-          "synonyms": ["bribe"]
+          "synonyms": [
+            "bribe"
+          ],
+          "example_vi": "Họ đã cố gắng mua chuộc các nhân chứng."
         },
         {
           "word": "buy out",
@@ -585,49 +972,58 @@
           "definition_en": "pay money to your business partner so that you can control all of a business",
           "definition_vi": "mua lại cổ phần (để nắm quyền kiểm soát)",
           "example": "The company was bought out by its management.",
-          "collocations": ["management buyout"]
+          "collocations": [
+            "management buyout"
+          ],
+          "example_vi": "Công ty đã được ban quản lý mua lại toàn bộ cổ phần."
         },
         {
           "word": "buy up",
           "pos": "phr v",
           "definition_en": "buy large amounts of something or all of it that is available",
           "definition_vi": "mua sạch, mua hết",
-          "example": "Investors are buying up land in the area."
+          "example": "Investors are buying up land in the area.",
+          "example_vi": "Các nhà đầu tư đang mua sạch đất đai trong khu vực."
         },
         {
           "word": "carry over",
           "pos": "phr v",
           "definition_en": "take something from one year or period into the next one",
           "definition_vi": "chuyển sang (kì sau, năm sau)",
-          "example": "You can carry over your unused holiday to next year."
+          "example": "You can carry over your unused holiday to next year.",
+          "example_vi": "Bạn có thể chuyển những ngày nghỉ phép chưa sử dụng sang năm sau."
         },
         {
           "word": "clock up",
           "pos": "phr v",
           "definition_en": "reach a particular number or amount",
           "definition_vi": "đạt được con số, ghi được (thành tích)",
-          "example": "He has clocked up 100 goals for the team."
+          "example": "He has clocked up 100 goals for the team.",
+          "example_vi": "Anh ấy đã đạt được cột mốc 100 bàn thắng cho đội."
         },
         {
           "word": "club together",
           "pos": "phr v",
           "definition_en": "if people club together, each gives some money to buy something",
           "definition_vi": "góp tiền chung",
-          "example": "We clubbed together to buy her a present."
+          "example": "We clubbed together to buy her a present.",
+          "example_vi": "Chúng tôi đã cùng góp tiền để mua quà cho cô ấy."
         },
         {
           "word": "drum up",
           "pos": "phr v",
           "definition_en": "try to make people support you or buy something",
           "definition_vi": "vận động, lôi kéo (sự ủng hộ, khách hàng)",
-          "example": "He's trying to drum up some business."
+          "example": "He's trying to drum up some business.",
+          "example_vi": "Anh ấy đang cố gắng lôi kéo thêm khách hàng."
         },
         {
           "word": "mount up",
           "pos": "phr v",
           "definition_en": "get much larger",
           "definition_vi": "tăng lên nhiều",
-          "example": "The debts are beginning to mount up."
+          "example": "The debts are beginning to mount up.",
+          "example_vi": "Các khoản nợ đang bắt đầu chồng chất."
         },
         {
           "word": "pay back",
@@ -635,21 +1031,26 @@
           "definition_en": "give someone the same amount of money that you borrowed",
           "definition_vi": "trả nợ, hoàn tiền",
           "example": "I'll pay you back on Friday.",
-          "synonyms": ["repay"]
+          "synonyms": [
+            "repay"
+          ],
+          "example_vi": "Tôi sẽ trả lại tiền cho bạn vào thứ Sáu."
         },
         {
           "word": "pay out",
           "pos": "phr v",
           "definition_en": "spend or pay a lot of money; provide money from an investment",
           "definition_vi": "chi trả (một số tiền lớn)",
-          "example": "The insurance company paid out £10,000."
+          "example": "The insurance company paid out £10,000.",
+          "example_vi": "Công ty bảo hiểm đã chi trả 10.000 bảng."
         },
         {
           "word": "size up",
           "pos": "phr v",
           "definition_en": "think carefully and form an opinion about a person or situation",
           "definition_vi": "đánh giá, xem xét",
-          "example": "He sized up the situation before speaking."
+          "example": "He sized up the situation before speaking.",
+          "example_vi": "Anh ấy đã đánh giá tình hình trước khi nói."
         },
         {
           "word": "take away",
@@ -657,14 +1058,18 @@
           "definition_en": "remove one number or quantity from another",
           "definition_vi": "trừ đi",
           "example": "Take 5 away from 12 and you get 7.",
-          "synonyms": ["subtract"]
+          "synonyms": [
+            "subtract"
+          ],
+          "example_vi": "Lấy 12 trừ đi 5 thì được 7."
         },
         {
           "word": "weigh down",
           "pos": "phr v",
           "definition_en": "make someone heavy or cause problems/worry for someone",
           "definition_vi": "đè nặng, làm lo lắng",
-          "example": "She was weighed down with bags."
+          "example": "She was weighed down with bags.",
+          "example_vi": "Cô ấy bị trĩu nặng bởi những chiếc túi."
         }
       ]
     },
@@ -676,84 +1081,96 @@
           "pos": "idiom",
           "definition_en": "a very small amount that will not have much effect",
           "definition_vi": "muối bỏ bể, giọt nước giữa đại dương",
-          "example": "The money is just a drop in the ocean compared to what we need."
+          "example": "The money is just a drop in the ocean compared to what we need.",
+          "example_vi": "Số tiền này chỉ như muối bỏ bể so với những gì chúng ta cần."
         },
         {
           "word": "break even",
           "pos": "idiom",
           "definition_en": "neither make a profit nor lose money",
           "definition_vi": "hòa vốn",
-          "example": "We hope to break even in our first year of business."
+          "example": "We hope to break even in our first year of business.",
+          "example_vi": "Chúng tôi hy vọng sẽ hòa vốn trong năm đầu tiên kinh doanh."
         },
         {
           "word": "fall short",
           "pos": "idiom",
           "definition_en": "not reach a particular level or achieve something",
           "definition_vi": "không đạt được mục tiêu, thiếu hụt",
-          "example": "The total fell short of our expectations."
+          "example": "The total fell short of our expectations.",
+          "example_vi": "Tổng số đã không đạt được như kỳ vọng của chúng tôi."
         },
         {
           "word": "fifty-fifty",
           "pos": "idiom",
           "definition_en": "equal, or into two equal parts",
           "definition_vi": "năm mươi - năm mươi, chia đôi",
-          "example": "We split the profits fifty-fifty."
+          "example": "We split the profits fifty-fifty.",
+          "example_vi": "Chúng tôi chia đôi lợi nhuận."
         },
         {
           "word": "go halves",
           "pos": "idiom",
           "definition_en": "share the cost of something with someone so that you each pay 50%",
           "definition_vi": "chia đôi tiền",
-          "example": "Shall we go halves on the taxi?"
+          "example": "Shall we go halves on the taxi?",
+          "example_vi": "Chúng ta chia đôi tiền taxi nhé?"
         },
         {
           "word": "it's as broad as it's long",
           "pos": "idiom",
           "definition_en": "used for saying that you cannot choose between two things because they are equal",
           "definition_vi": "kẻ tám lạng người nửa cân, không khác gì nhau",
-          "example": "Whether we go by train or car, it's as broad as it's long - it takes the same time."
+          "example": "Whether we go by train or car, it's as broad as it's long - it takes the same time.",
+          "example_vi": "Dù đi bằng tàu hỏa hay ô tô thì cũng thế thôi - đều mất cùng một khoảng thời gian."
         },
         {
           "word": "keep up with the Joneses",
           "pos": "idiom",
           "definition_en": "try to be as rich, successful, etc as your neighbours",
           "definition_vi": "đua đòi, luôn muốn bằng bạn bằng bè",
-          "example": "They bought a new car just to keep up with the Joneses."
+          "example": "They bought a new car just to keep up with the Joneses.",
+          "example_vi": "Họ mua xe mới chỉ để bằng bạn bằng bè."
         },
         {
           "word": "knee-high to a grasshopper",
           "pos": "idiom",
           "definition_en": "very small, because you were very young",
           "definition_vi": "còn bé tí, khi còn nhỏ",
-          "example": "I haven't seen him since I was knee-high to a grasshopper."
+          "example": "I haven't seen him since I was knee-high to a grasshopper.",
+          "example_vi": "Tôi đã không gặp anh ấy kể từ khi tôi còn bé xíu."
         },
         {
           "word": "line your pocket(s)",
           "pos": "idiom",
           "definition_en": "obtain money, especially by acting dishonestly",
           "definition_vi": "trục lợi, làm giàu bất chính",
-          "example": "He's just trying to line his own pockets."
+          "example": "He's just trying to line his own pockets.",
+          "example_vi": "Anh ta chỉ đang cố gắng làm giàu cho bản thân."
         },
         {
           "word": "lock, stock and barrel",
           "pos": "idiom",
           "definition_en": "including every part of a particular thing",
           "definition_vi": "toàn bộ, tất tần tật",
-          "example": "They sold the business lock, stock and barrel."
+          "example": "They sold the business lock, stock and barrel.",
+          "example_vi": "Họ đã bán toàn bộ doanh nghiệp không còn lại gì."
         },
         {
           "word": "six of one (and) half a dozen of the other",
           "pos": "idiom",
           "definition_en": "used for saying that two things are equally good or bad",
           "definition_vi": "như nhau cả thôi, tám lạng nửa cân",
-          "example": "It's six of one and half a dozen of the other - both options are fine."
+          "example": "It's six of one and half a dozen of the other - both options are fine.",
+          "example_vi": "Kẻ tám lạng người nửa cân - cả hai lựa chọn đều ổn."
         },
         {
           "word": "tidy sum/amount",
           "pos": "idiom",
           "definition_en": "large sum/amount",
           "definition_vi": "số tiền khá lớn",
-          "example": "He made a tidy sum when he sold the house."
+          "example": "He made a tidy sum when he sold the house.",
+          "example_vi": "Anh ấy đã kiếm được một khoản tiền kha khá khi bán nhà."
         }
       ]
     }
@@ -768,56 +1185,96 @@
         {
           "number": 1,
           "sentence": "Thankfully, she only suffered ___ injuries in the accident.",
-          "options": ["minor", "meagre", "minute", "tiny"],
+          "options": [
+            "minor",
+            "meagre",
+            "minute",
+            "tiny"
+          ],
           "answer": "minor",
           "explanation": "'Minor injuries' is a standard collocation meaning small and not serious."
         },
         {
           "number": 2,
           "sentence": "A half, written as a/an ___ , looks like this: 1/2.",
-          "options": ["fraction", "rate", "ratio", "equation"],
+          "options": [
+            "fraction",
+            "rate",
+            "ratio",
+            "equation"
+          ],
           "answer": "fraction",
           "explanation": "A fraction represents a part of a whole, such as 1/2."
         },
         {
           "number": 3,
           "sentence": "In a few hundred years' time, oil will not be nearly so ___ here on Earth.",
-          "options": ["abundant", "ample", "considerable", "immense"],
+          "options": [
+            "abundant",
+            "ample",
+            "considerable",
+            "immense"
+          ],
           "answer": "abundant",
           "explanation": "'Abundant' means existing in large quantities, suitable for natural resources."
         },
         {
           "number": 4,
           "sentence": "___ is measured in cm3 or m3.",
-          "options": ["Mass", "Extent", "Volume", "Magnitude"],
+          "options": [
+            "Mass",
+            "Extent",
+            "Volume",
+            "Magnitude"
+          ],
           "answer": "Volume",
           "explanation": "Volume is the amount of space occupied by an object, measured in cubic units."
         },
         {
           "number": 5,
           "sentence": "Don't wash that sweater in really hot water or it'll ___ .",
-          "options": ["diminish", "shrink", "reduce", "decrease"],
+          "options": [
+            "diminish",
+            "shrink",
+            "reduce",
+            "decrease"
+          ],
           "answer": "shrink",
           "explanation": "Clothes 'shrink' (become smaller) when washed in hot water."
         },
         {
           "number": 6,
           "sentence": "Maps on paper can only show the world in two ___ .",
-          "options": ["areas", "masses", "dimensions", "proportions"],
+          "options": [
+            "areas",
+            "masses",
+            "dimensions",
+            "proportions"
+          ],
           "answer": "dimensions",
           "explanation": "Paper is a flat surface, so it has two dimensions (length and width)."
         },
         {
           "number": 7,
           "sentence": "Why are all your clothes in a ___ on the floor?",
-          "options": ["bulk", "batch", "heap", "sum"],
+          "options": [
+            "bulk",
+            "batch",
+            "heap",
+            "sum"
+          ],
           "answer": "heap",
           "explanation": "A 'heap' is an untidy pile of things."
         },
         {
           "number": 8,
           "sentence": "Sending out e-mails that people haven't asked for to ___ addresses is often known as 'spamming'.",
-          "options": ["sufficient", "widespread", "countless", "multiple"],
+          "options": [
+            "sufficient",
+            "widespread",
+            "countless",
+            "multiple"
+          ],
           "answer": "multiple",
           "explanation": "'Multiple' means many or various; spam involves sending to many addresses."
         }
