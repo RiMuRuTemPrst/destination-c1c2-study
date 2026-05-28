@@ -319,7 +319,7 @@ function renderVocabTheory(data) {
               <td><span class="vocab-word">${esc(w.word)}</span><span class="vocab-pos">${esc(w.pos||'')}</span></td>
               <td>${esc(w.definition_en||'')}</td>
               <td class="vocab-def-vi">${esc(w.definition_vi||'')}</td>
-              <td class="vocab-example">${esc(w.example||'')}</td>
+              <td class="vocab-example">${esc(w.example||'')}${w.example_vi ? `<div class="vocab-example-vi">${esc(w.example_vi)}</div>` : ''}</td>
             </tr>`).join('')}
         </tbody>
       </table>
@@ -873,7 +873,7 @@ function renderFlashcard(container) {
         <div class="flashcard-back">
           <div class="flashcard-def-en">${esc(w.definition_en || '')}</div>
           <div class="flashcard-def-vi">${esc(w.definition_vi || '')}</div>
-          ${w.example ? `<div class="flashcard-example-fc">${esc(w.example)}</div>` : ''}
+          ${w.example ? `<div class="flashcard-example-fc">${esc(w.example)}${w.example_vi ? `<div class="flashcard-example-vi">${esc(w.example_vi)}</div>` : ''}</div>` : ''}
           ${extraBack.join('')}
         </div>
       </div>

@@ -99,6 +99,7 @@ VOCAB_SCHEMA = {
                                 "definition_en": {"type": "string"},
                                 "definition_vi": {"type": "string"},
                                 "example":       {"type": "string"},
+                                "example_vi":    {"type": "string"},
                                 "synonyms":      {"type": "array", "items": {"type": "string"}},
                                 "collocations":  {"type": "array", "items": {"type": "string"}}
                             }
@@ -159,7 +160,7 @@ VOCAB_PROMPT = """You are digitizing the vocabulary unit from Destination C1&C2 
 
 Below is the raw extracted text of one Vocabulary unit. Your task:
 1. Extract ALL vocabulary sections (topic vocab, phrasal verbs, phrases/collocations, idioms, word formation)
-2. For each word/phrase: English definition, Vietnamese definition (natural, not robotic), example sentence
+2. For each word/phrase: English definition, Vietnamese definition (natural, not robotic), example sentence (English) + Vietnamese translation of the example (example_vi)
 3. Extract ALL exercises exactly as they appear — preserve every item
 4. For each exercise item, provide correct answer AND explanation
 5. Exercise types: fill_blank, multiple_choice, word_form, matching, gap_fill
