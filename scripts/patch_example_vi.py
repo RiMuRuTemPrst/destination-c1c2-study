@@ -28,7 +28,7 @@ PATCH_SCHEMA = {
 
 PATCH_PROMPT = """Translate the following English example sentences into natural Vietnamese.
 These are example sentences from a vocabulary list in an IELTS/CAE preparation book.
-Return a JSON array with one object per word: {word, example_vi}
+Return a JSON array with one object per word: {{word, example_vi}}
 
 Words and their example sentences:
 {words_json}
