@@ -170,70 +170,100 @@
         {
           "number": 1,
           "sentence": "When I told Mr Peters that the dog ___ eaten my homework, he didn't believe me.",
-          "options": ["has", "had"],
+          "options": [
+            "has",
+            "had"
+          ],
           "answer": "had",
           "explanation": "Tense shift from present perfect to past perfect because the reporting verb 'told' is in the past."
         },
         {
           "number": 2,
           "sentence": "Adam told me that his girlfriend ___ eat meat at all.",
-          "options": ["doesn't", "didn't"],
+          "options": [
+            "doesn't",
+            "didn't"
+          ],
           "answer": "doesn't / didn't",
           "explanation": "Both are correct because the fact might still be true at the time of reporting."
         },
         {
           "number": 3,
           "sentence": "When I saw Ed yesterday morning, he told me that he ___ going to look at a flat in the afternoon.",
-          "options": ["is", "was"],
+          "options": [
+            "is",
+            "was"
+          ],
           "answer": "was",
           "explanation": "The reporting verb 'told' is in the past, and the event was in the past relative to now ('yesterday morning')."
         },
         {
           "number": 4,
           "sentence": "Roger told me about the pop quiz. He said his team ___ doing well in the first few rounds, but that it all ___ wrong with the round about dance music.",
-          "options": ["were/had been", "went/had all gone"],
+          "options": [
+            "were/had been",
+            "went/had all gone"
+          ],
           "answer": "had been / had all gone",
           "explanation": "Past perfect is used to indicate events that happened before the reporting time 'said'."
         },
         {
           "number": 5,
           "sentence": "When we watched Death Watch III, Paul said he ___ never seen a worse movie in his life!",
-          "options": ["has", "had"],
+          "options": [
+            "has",
+            "had"
+          ],
           "answer": "had",
           "explanation": "Tense shift from 'I have never seen' to 'he had never seen'."
         },
         {
           "number": 6,
           "sentence": "Did Galileo say that the Earth ___ round the sun?",
-          "options": ["goes", "went"],
+          "options": [
+            "goes",
+            "went"
+          ],
           "answer": "goes / went",
           "explanation": "Both are correct as it is a scientific fact."
         },
         {
           "number": 7,
           "sentence": "Phil told me on Friday that he ___ just bumped into Wally Deacon!",
-          "options": ["has", "had"],
+          "options": [
+            "has",
+            "had"
+          ],
           "answer": "had",
           "explanation": "Tense shift from present perfect to past perfect."
         },
         {
           "number": 8,
           "sentence": "Babs announced to us all last night that she ___ finally giving up smoking.",
-          "options": ["is", "was"],
+          "options": [
+            "is",
+            "was"
+          ],
           "answer": "is / was",
           "explanation": "Both are correct if Babs is still in the process of giving up smoking."
         },
         {
           "number": 9,
           "sentence": "Did you say that you ___ want sugar in your coffee or not?",
-          "options": ["do", "did"],
+          "options": [
+            "do",
+            "did"
+          ],
           "answer": "do / did",
           "explanation": "Both are correct if the choice is still relevant at the moment."
         },
         {
           "number": 10,
           "sentence": "I told Brian last week that the office ___ opening on Tuesday so I don't know why he showed up yesterday morning.",
-          "options": ["isn't", "wasn't"],
+          "options": [
+            "isn't",
+            "wasn't"
+          ],
           "answer": "isn't / wasn't",
           "explanation": "Both are correct as it reports a scheduled event that may still be true or was true."
         }
@@ -491,56 +521,72 @@
           "number": 1,
           "sentence": "Andrea asked Gareth if ___ to the concert the following Thursday.",
           "answer": "he would go / he was going",
-          "options": ["go"],
+          "options": [
+            "go"
+          ],
           "explanation": "Reported question: 'Will you come' shifts to 'he would go'."
         },
         {
           "number": 2,
           "sentence": "Pete asked ___ at four o'clock.",
           "answer": "whether the train got in",
-          "options": ["whether"],
+          "options": [
+            "whether"
+          ],
           "explanation": "Reported question: 'Does the train get in' becomes 'whether the train got in'."
         },
         {
           "number": 3,
           "sentence": "Tim's dad asked ___ on the phone all evening.",
           "answer": "if he had been talking",
-          "options": ["if"],
+          "options": [
+            "if"
+          ],
           "explanation": "Reported question: 'Have you been talking' shifts to 'if he had been talking'."
         },
         {
           "number": 4,
           "sentence": "Fiona asked ___ day.",
           "answer": "whether we were all coming the following / next",
-          "options": ["whether"],
+          "options": [
+            "whether"
+          ],
           "explanation": "Reported question: 'Are you all coming tomorrow' shifts to 'whether we were all coming the following day'."
         },
         {
           "number": 5,
           "sentence": "Dominic asked whether ___ any more.",
           "answer": "Jerry lived near me",
-          "options": ["me"],
+          "options": [
+            "me"
+          ],
           "explanation": "Reported question: 'Doesn't Jerry live near you' shifts to 'whether Jerry lived near me'."
         },
         {
           "number": 6,
           "sentence": "Kevin asked ___ an e-mail about it.",
           "answer": "Trevor if / whether he should send him",
-          "options": ["him"],
+          "options": [
+            "him"
+          ],
           "explanation": "Reported question: 'Shall I send' shifts to 'if he should send him'."
         },
         {
           "number": 7,
           "sentence": "Robert ___ the dishes.",
           "answer": "offered to help Carlo do",
-          "options": ["offered"],
+          "options": [
+            "offered"
+          ],
           "explanation": "Reporting an offer: 'Shall I help you' becomes 'offered to help'."
         },
         {
           "number": 8,
           "sentence": "Toby asked his parents ___ go to bed right then.",
           "answer": "if they really did have to",
-          "options": ["did"],
+          "options": [
+            "did"
+          ],
           "explanation": "Reported question: 'Do we really have to' shifts to 'if they really did have to'."
         }
       ]
@@ -554,56 +600,80 @@
         {
           "number": 1,
           "sentence": "Kostas didn't dare ask Eleni where ___ the previous evening.",
-          "options": ["had she", "she had"],
+          "options": [
+            "had she",
+            "she had"
+          ],
           "answer": "she had",
           "explanation": "In reported questions, use statement word order (subject + verb)."
         },
         {
           "number": 2,
           "sentence": "I was tempted to ask why ___ to sit next to Li Han so badly.",
-          "options": ["did Ranji want", "Ranji wanted"],
+          "options": [
+            "did Ranji want",
+            "Ranji wanted"
+          ],
           "answer": "Ranji wanted",
           "explanation": "In reported questions, do not use 'do/does/did' for question forms."
         },
         {
           "number": 3,
           "sentence": "We did ask Carol who ___ invited but for some reason she wouldn't tell us.",
-          "options": ["she had", "had she"],
+          "options": [
+            "she had",
+            "had she"
+          ],
           "answer": "she had",
           "explanation": "In reported questions, use statement word order."
         },
         {
           "number": 4,
           "sentence": "Can you believe it? Fred actually asked me ___ send an e-mail!",
-          "options": ["how to", "could he"],
+          "options": [
+            "how to",
+            "could he"
+          ],
           "answer": "how to",
           "explanation": "The structure 'question word + infinitive' is very common."
         },
         {
           "number": 5,
           "sentence": "No one has asked me why ___ come to work yesterday.",
-          "options": ["didn't I", "I didn't"],
+          "options": [
+            "didn't I",
+            "I didn't"
+          ],
           "answer": "I didn't",
           "explanation": "In reported questions, use statement word order."
         },
         {
           "number": 6,
           "sentence": "I'm going to ask them what on earth ___ they were doing.",
-          "options": ["did they think", "they thought"],
+          "options": [
+            "did they think",
+            "they thought"
+          ],
           "answer": "they thought",
           "explanation": "In reported questions, do not use 'do/did' for inversion."
         },
         {
           "number": 7,
           "sentence": "Ask that man over there who ___ to complain to.",
-          "options": ["should we", "to"],
+          "options": [
+            "should we",
+            "to"
+          ],
           "answer": "to",
           "explanation": "Use 'question word + infinitive' for a reported question about an action."
         },
         {
           "number": 8,
           "sentence": "Doug and Sally didn't even ask me how the website ___ going.",
-          "options": ["was", "was the website"],
+          "options": [
+            "was",
+            "was the website"
+          ],
           "answer": "was",
           "explanation": "Use statement word order (subject 'the website' + verb 'was')."
         }
@@ -687,6 +757,17 @@
           "answer": "not to talk",
           "explanation": "Reporting an instruction: instruct sb (not) to do."
         }
+      ],
+      "word_bank": [
+        "attack",
+        "do",
+        "get",
+        "make",
+        "take",
+        "turn",
+        "use",
+        "want",
+        "work"
       ]
     },
     {
@@ -698,56 +779,96 @@
         {
           "number": 1,
           "sentence": "Do you deny ___ this with the defendant on the day in question?",
-          "options": ["to discuss", "discussing", "of having discussed", "to have discussed"],
+          "options": [
+            "to discuss",
+            "discussing",
+            "of having discussed",
+            "to have discussed"
+          ],
           "answer": "B",
           "explanation": "The verb 'deny' is followed by the -ing form."
         },
         {
           "number": 2,
           "sentence": "Why did you refuse ___ the police officer's questions?",
-          "options": ["to answer", "answering", "that you answer", "for answering"],
+          "options": [
+            "to answer",
+            "answering",
+            "that you answer",
+            "for answering"
+          ],
           "answer": "A",
           "explanation": "The verb 'refuse' is followed by the full infinitive (to + verb)."
         },
         {
           "number": 3,
           "sentence": "It's about time Mrs Richards apologised to me ___ me a gossip in front of everybody.",
-          "options": ["to have called", "from calling", "that she called", "for having called"],
+          "options": [
+            "to have called",
+            "from calling",
+            "that she called",
+            "for having called"
+          ],
           "answer": "D",
           "explanation": "The verb 'apologise' takes the pattern 'apologise (to sb) for doing/having done sth'."
         },
         {
           "number": 4,
           "sentence": "She may claim ___ a PhD but nobody's ever actually seen the certificate.",
-          "options": ["having", "for having", "to have", "if she has"],
+          "options": [
+            "having",
+            "for having",
+            "to have",
+            "if she has"
+          ],
           "answer": "C",
           "explanation": "The verb 'claim' is followed by the full infinitive (claim to do/have done)."
         },
         {
           "number": 5,
           "sentence": "The kids suggested ___ a pizza tonight. What do you think?",
-          "options": ["to get", "we'll get", "getting", "for getting"],
+          "options": [
+            "to get",
+            "we'll get",
+            "getting",
+            "for getting"
+          ],
           "answer": "C",
           "explanation": "The verb 'suggest' is followed by the -ing form."
         },
         {
           "number": 6,
           "sentence": "I do agree there ___ simple solution to this problem.",
-          "options": ["is no", "be not", "not to be", "not being"],
+          "options": [
+            "is no",
+            "be not",
+            "not to be",
+            "not being"
+          ],
           "answer": "A",
           "explanation": "The verb 'agree' can be followed by a that-clause (that there is no...)."
         },
         {
           "number": 7,
           "sentence": "Tammy responded ___ that at least she'd never lied to her parents.",
-          "options": ["to say", "that she said", "by saying", "with having said"],
+          "options": [
+            "to say",
+            "that she said",
+            "by saying",
+            "with having said"
+          ],
           "answer": "C",
           "explanation": "The phrase 'responded by saying' describes the method of response."
         },
         {
           "number": 8,
           "sentence": "I'm begging ___ .",
-          "options": ["you to stay", "that you stay", "your staying", "you for staying"],
+          "options": [
+            "you to stay",
+            "that you stay",
+            "your staying",
+            "you for staying"
+          ],
           "answer": "A",
           "explanation": "The verb 'beg' takes the pattern 'beg sb to do sth'."
         }

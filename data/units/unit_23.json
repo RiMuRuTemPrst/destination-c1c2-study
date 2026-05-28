@@ -113,84 +113,120 @@
         {
           "number": 1,
           "sentence": "I don't know how you could even contemplate ___ Vicky to go on holiday with her friends.",
-          "options": ["to allow", "allowing"],
+          "options": [
+            "to allow",
+            "allowing"
+          ],
           "answer": "allowing",
           "explanation": "The verb 'contemplate' is followed by the -ing form."
         },
         {
           "number": 2,
           "sentence": "The interviewer somehow managed ___ the politician to admit his mistake.",
-          "options": ["to get", "getting"],
+          "options": [
+            "to get",
+            "getting"
+          ],
           "answer": "to get",
           "explanation": "The verb 'manage' is followed by the full infinitive."
         },
         {
           "number": 3,
           "sentence": "Did you mention ___ to book the restaurant when you saw Angie?",
-          "options": ["to have", "having"],
+          "options": [
+            "to have",
+            "having"
+          ],
           "answer": "having",
           "explanation": "The verb 'mention' is followed by the -ing form."
         },
         {
           "number": 4,
           "sentence": "We missed our flight so we ended up ___ on the floor in the airport.",
-          "options": ["to sleep", "sleeping"],
+          "options": [
+            "to sleep",
+            "sleeping"
+          ],
           "answer": "sleeping",
           "explanation": "The phrasal verb 'end up' is followed by the -ing form."
         },
         {
           "number": 5,
           "sentence": "The woman demanded ___ who was in charge.",
-          "options": ["to know", "knowing"],
+          "options": [
+            "to know",
+            "knowing"
+          ],
           "answer": "to know",
           "explanation": "The verb 'demand' is followed by the full infinitive."
         },
         {
           "number": 6,
           "sentence": "I can't help ___ that I've forgotten something.",
-          "options": ["to feel", "feeling"],
+          "options": [
+            "to feel",
+            "feeling"
+          ],
           "answer": "feeling",
           "explanation": "The expression 'can't help' is followed by the -ing form."
         },
         {
           "number": 7,
           "sentence": "The board of directors opted ___ to the bank for a loan.",
-          "options": ["to apply", "applying"],
+          "options": [
+            "to apply",
+            "applying"
+          ],
           "answer": "to apply",
           "explanation": "The verb 'opt' is followed by the full infinitive."
         },
         {
           "number": 8,
           "sentence": "What happened when Sandra applied ___ the army?",
-          "options": ["to join", "joining"],
+          "options": [
+            "to join",
+            "joining"
+          ],
           "answer": "to join",
           "explanation": "The verb 'apply' (for a job/position) is followed by the full infinitive."
         },
         {
           "number": 9,
           "sentence": "We don't foresee ___ to employ anyone to replace Amy when she's on maternity leave.",
-          "options": ["to need", "needing"],
+          "options": [
+            "to need",
+            "needing"
+          ],
           "answer": "needing",
           "explanation": "The verb 'foresee' is followed by the -ing form."
         },
         {
           "number": 10,
           "sentence": "I really wasn't expecting ___ into Ken in Birmingham.",
-          "options": ["to bump", "bumping"],
+          "options": [
+            "to bump",
+            "bumping"
+          ],
           "answer": "to bump",
           "explanation": "The verb 'expect' is followed by the full infinitive."
         },
         {
           "number": 11,
           "sentence": "I'm beginning to wish I hadn't volunteered ___ Sandra move house.",
-          "options": ["to help", "helping"],
+          "options": [
+            "to help",
+            "helping"
+          ],
           "answer": "to help",
           "explanation": "The verb 'volunteer' is followed by the full infinitive."
         },
         {
           "number": 12,
           "sentence": "Please don't hesitate ___ me if you require further information.",
-          "options": ["to contact", "contacting"],
+          "options": [
+            "to contact",
+            "contacting"
+          ],
           "answer": "to contact",
           "explanation": "The verb 'hesitate' is followed by the full infinitive."
         }
@@ -205,70 +241,100 @@
         {
           "number": 1,
           "sentence": "I have to admit ___ a bit nervous.",
-          "options": ["to be", "to being"],
+          "options": [
+            "to be",
+            "to being"
+          ],
           "answer": "to being",
           "explanation": "The verb 'admit' can be followed by 'to' (preposition) + -ing."
         },
         {
           "number": 2,
           "sentence": "I almost didn't come ___ you, actually.",
-          "options": ["to see", "seeing"],
+          "options": [
+            "to see",
+            "seeing"
+          ],
           "answer": "to see",
           "explanation": "Full infinitive of purpose."
         },
         {
           "number": 3,
           "sentence": "But then you just have to risk ___ someone you don't like, don't you?",
-          "options": ["to meet", "meeting"],
+          "options": [
+            "to meet",
+            "meeting"
+          ],
           "answer": "meeting",
           "explanation": "The verb 'risk' is followed by the -ing form."
         },
         {
           "number": 4,
           "sentence": "Do you mind ___ by the window?",
-          "options": ["to sit", "sitting"],
+          "options": [
+            "to sit",
+            "sitting"
+          ],
           "answer": "sitting",
           "explanation": "The verb 'mind' is followed by the -ing form."
         },
         {
           "number": 5,
           "sentence": "It was my sister, Jane, who suggested ___ you.",
-          "options": ["to meet", "meeting"],
+          "options": [
+            "to meet",
+            "meeting"
+          ],
           "answer": "meeting",
           "explanation": "The verb 'suggest' is followed by the -ing form."
         },
         {
           "number": 6,
           "sentence": "Did she happen ___ you anything about me?",
-          "options": ["to tell", "telling"],
+          "options": [
+            "to tell",
+            "telling"
+          ],
           "answer": "to tell",
           "explanation": "The verb 'happen' is followed by the full infinitive."
         },
         {
           "number": 7,
           "sentence": "She said you work together, but she refused ___ anything else.",
-          "options": ["to say", "saying"],
+          "options": [
+            "to say",
+            "saying"
+          ],
           "answer": "to say",
           "explanation": "The verb 'refuse' is followed by the full infinitive."
         },
         {
           "number": 8,
           "sentence": "Well, I've been looking forward ___ you.",
-          "options": ["to meet", "to meeting"],
+          "options": [
+            "to meet",
+            "to meeting"
+          ],
           "answer": "to meeting",
           "explanation": "The expression 'look forward to' uses 'to' as a preposition, followed by -ing."
         },
         {
           "number": 9,
           "sentence": "Erm ... do you feel like ___?",
-          "options": ["to order", "ordering"],
+          "options": [
+            "to order",
+            "ordering"
+          ],
           "answer": "ordering",
           "explanation": "The expression 'feel like' is followed by the -ing form."
         },
         {
           "number": 10,
           "sentence": "Okay. I think I fancy ___ seafood.",
-          "options": ["to have", "having"],
+          "options": [
+            "to have",
+            "having"
+          ],
           "answer": "having",
           "explanation": "The verb 'fancy' is followed by the -ing form."
         }
@@ -340,6 +406,16 @@
           "answer": "to be promoted",
           "explanation": "'Hope' + passive infinitive."
         }
+      ],
+      "word_bank": [
+        "allow",
+        "ask",
+        "buy",
+        "commit",
+        "put",
+        "recycle",
+        "rob",
+        "wait"
       ]
     },
     {
@@ -476,6 +552,24 @@
           "answer": "saw ... coming",
           "explanation": "'See' followed by object + -ing."
         }
+      ],
+      "word_bank": [
+        "burn",
+        "climb",
+        "feel",
+        "find",
+        "follow",
+        "glimpse",
+        "hear",
+        "hide",
+        "interact",
+        "notice",
+        "observe",
+        "say",
+        "smell",
+        "try",
+        "walk",
+        "watch"
       ]
     },
     {
@@ -715,70 +809,120 @@
         {
           "number": 1,
           "sentence": "When she suggested ___ over the weekend, I was so angry that I threatened to quit.",
-          "options": ["me to working", "me to work", "me work", "me working"],
+          "options": [
+            "me to working",
+            "me to work",
+            "me work",
+            "me working"
+          ],
           "answer": "me working",
           "explanation": "Suggest + object pronoun + -ing."
         },
         {
           "number": 2,
           "sentence": "The manager requested that all staff ___ present at the meeting.",
-          "options": ["have been", "be", "are being", "being"],
+          "options": [
+            "have been",
+            "be",
+            "are being",
+            "being"
+          ],
           "answer": "be",
           "explanation": "Subjunctive mood after 'request'."
         },
         {
           "number": 3,
           "sentence": "Didn't you ___ that Martha wasn't with Ashley?",
-          "options": ["think it strange", "think strange", "think strangely", "think it strangely"],
+          "options": [
+            "think it strange",
+            "think strange",
+            "think strangely",
+            "think it strangely"
+          ],
           "answer": "think it strange",
           "explanation": "Preparatory 'it' with 'think' + adjective."
         },
         {
           "number": 4,
           "sentence": "It's very important that we ___ as soon as there's any change in the patient's condition.",
-          "options": ["be it notified", "being notified", "were notified", "be notified"],
+          "options": [
+            "be it notified",
+            "being notified",
+            "were notified",
+            "be notified"
+          ],
           "answer": "be notified",
           "explanation": "Passive subjunctive after 'important that'."
         },
         {
           "number": 5,
           "sentence": "I feel ___ to inform the committee that a number of members are very unhappy with the decision.",
-          "options": ["my duty", "this my duty", "it my duty", "that my duty"],
+          "options": [
+            "my duty",
+            "this my duty",
+            "it my duty",
+            "that my duty"
+          ],
           "answer": "it my duty",
           "explanation": "Preparatory 'it' as a placeholder object."
         },
         {
           "number": 6,
           "sentence": "After what the manager said this morning, I didn't ___ him about the problems I've been having.",
-          "options": ["dare telling", "dare it telling", "dare tell", "dare to telling"],
+          "options": [
+            "dare telling",
+            "dare it telling",
+            "dare tell",
+            "dare to telling"
+          ],
           "answer": "dare tell",
           "explanation": "Dare as a modal followed by bare infinitive."
         },
         {
           "number": 7,
           "sentence": "Don't you ___ that Veronica and George are still together?",
-          "options": ["incredibly find", "find incredible", "find incredibly", "find it incredible"],
+          "options": [
+            "incredibly find",
+            "find incredible",
+            "find incredibly",
+            "find it incredible"
+          ],
           "answer": "find it incredible",
           "explanation": "Find + it + adjective."
         },
         {
           "number": 8,
           "sentence": "You shouldn't have let Kerry ___ without apologising for what you said to her.",
-          "options": ["leave", "to leave", "leaving", "to leaving"],
+          "options": [
+            "leave",
+            "to leave",
+            "leaving",
+            "to leaving"
+          ],
           "answer": "leave",
           "explanation": "Let + object + bare infinitive."
         },
         {
           "number": 9,
           "sentence": "It was a bit embarrassing when the teacher caught us ___ during the test.",
-          "options": ["to cheat", "cheating", "cheat", "to cheating"],
+          "options": [
+            "to cheat",
+            "cheating",
+            "cheat",
+            "to cheating"
+          ],
           "answer": "cheating",
           "explanation": "Catch + object + -ing."
         },
         {
           "number": 10,
           "sentence": "It's not fair to make the dog ___ in the car on such a hot day.",
-          "options": ["to wait", "waiting", "wait", "for waiting"],
+          "options": [
+            "to wait",
+            "waiting",
+            "wait",
+            "for waiting"
+          ],
           "answer": "wait",
           "explanation": "Make + object + bare infinitive."
         }

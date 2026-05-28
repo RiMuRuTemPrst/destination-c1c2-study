@@ -2026,6 +2026,16 @@
           "answer": "context",
           "explanation": "To take words 'out of context' is to ignore the situation in which they were said."
         }
+      ],
+      "word_bank": [
+        "allege",
+        "assert",
+        "boast",
+        "contradict",
+        "exaggerate",
+        "flatter",
+        "insist",
+        "utter"
       ]
     },
     {
@@ -2312,6 +2322,16 @@
           "answer": "pamphlet",
           "explanation": "A 'pamphlet' is a small booklet given for information."
         }
+      ],
+      "word_bank": [
+        "anchor",
+        "caption",
+        "correspondent",
+        "coverage",
+        "footnote",
+        "prerecorded",
+        "spine",
+        "trailer"
       ]
     },
     {
@@ -2500,6 +2520,16 @@
           "answer": "ghostwriters",
           "explanation": "People who write for others anonymously are 'ghostwriters'."
         }
+      ],
+      "word_bank": [
+        "columnist",
+        "critic",
+        "handbook",
+        "manifesto",
+        "novelist",
+        "reviewer",
+        "subtitle",
+        "supplement"
       ]
     },
     {
@@ -2636,6 +2666,16 @@
           "answer": "dry up",
           "explanation": "To 'dry up' means to stop talking because you forgot what to say."
         }
+      ],
+      "word_bank": [
+        "blurt out",
+        "dry up",
+        "get across",
+        "pass on",
+        "shout down",
+        "speak out",
+        "talk over",
+        "talk round"
       ]
     },
     {

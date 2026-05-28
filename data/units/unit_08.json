@@ -1476,6 +1476,16 @@
           "answer": "skidded",
           "explanation": "'Skidded' refers to a vehicle's wheels sliding uncontrollably."
         }
+      ],
+      "word_bank": [
+        "grab",
+        "fumble",
+        "clutch",
+        "point",
+        "wave",
+        "punch",
+        "gesture",
+        "clench"
       ]
     },
     {
@@ -1514,6 +1524,26 @@
           "answer": "emigrated, immigrants, refugees",
           "explanation": "'Emigrated' (left country), 'immigrants' (people coming to live), 'refugees' (fleeing war)."
         }
+      ],
+      "word_bank": [
+        "clamber",
+        "ascend",
+        "descend",
+        "glide",
+        "velocity",
+        "accelerate",
+        "flow",
+        "sink",
+        "approach",
+        "migrate",
+        "float",
+        "route",
+        "bounce",
+        "roll",
+        "rotate",
+        "emigrate",
+        "immigrant",
+        "refugee"
       ]
     },
     {
@@ -1570,6 +1600,16 @@
           "answer": "jet lag",
           "explanation": "Tiredness from flying across time zones."
         }
+      ],
+      "word_bank": [
+        "commute",
+        "carriage",
+        "airline",
+        "charter",
+        "destination",
+        "legroom",
+        "steward",
+        "jet lag"
       ]
     },
     {
@@ -1946,6 +1986,16 @@
           "answer": "get them wet",
           "explanation": "Standard phrase."
         }
+      ],
+      "word_bank": [
+        "get a move on",
+        "fall in love",
+        "do sth in a rush",
+        "jump at the chance",
+        "back onto",
+        "raise sb's hopes",
+        "go and do",
+        "fly at"
       ]
     },
     {

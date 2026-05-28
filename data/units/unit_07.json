@@ -91,18 +91,78 @@
       "type": "error_correction",
       "instruction": "If the verb in bold is correct, put a tick. If it is incorrect, rewrite it correctly.",
       "items": [
-        { "number": 1, "sentence": "Could you tell me where your passport *was been issued*?", "answer": "was issued", "explanation": "Past simple passive is 'was/were + V3'." },
-        { "number": 2, "sentence": "When the winning actor was finally announced, a big cheer went up.", "answer": "tick", "explanation": "Correct use of past simple passive." },
-        { "number": 3, "sentence": "Has your business trip to Calcutta next week *confirmed* by the Indian office?", "answer": "been confirmed", "explanation": "Present perfect passive requires 'been'." },
-        { "number": 4, "sentence": "Everyone who *was been invited* to the wedding came.", "answer": "had been invited", "explanation": "Past perfect passive is needed for an action before another past action." },
-        { "number": 5, "sentence": "The wire coat hanger *invented* in 1903 by a Mr Parkhouse.", "answer": "was invented", "explanation": "Subject is the receiver of the action." },
-        { "number": 6, "sentence": "The issue *has discussed* in Parliament yesterday, but no decisions were taken.", "answer": "was discussed", "explanation": "'Yesterday' requires past simple passive." },
-        { "number": 7, "sentence": "By the time we get there, the problem should have been sorted out.", "answer": "tick", "explanation": "Correct future perfect passive." },
-        { "number": 8, "sentence": "Britain *was be invaded* by the Romans under Emperor Claudius in 43 AD.", "answer": "was invaded", "explanation": "Simple passive structure error." },
-        { "number": 9, "sentence": "The party had been planned months in advance, but we still had problems.", "answer": "tick", "explanation": "Correct past perfect passive." },
-        { "number": 10, "sentence": "After *be treated*, I was allowed to leave the hospital.", "answer": "being treated", "explanation": "'After' is followed by the gerund form." },
-        { "number": 11, "sentence": "We boarded the ship and were *showing* to our cabin by a steward.", "answer": "shown", "explanation": "Passive requires past participle." },
-        { "number": 12, "sentence": "The new supermarket is to be opened by an actor from a soap opera.", "answer": "tick", "explanation": "Correct future passive with 'is to be'." }
+        {
+          "number": 1,
+          "sentence": "Could you tell me where your passport *was been issued*?",
+          "answer": "was issued",
+          "explanation": "Past simple passive is 'was/were + V3'."
+        },
+        {
+          "number": 2,
+          "sentence": "When the winning actor was finally announced, a big cheer went up.",
+          "answer": "tick",
+          "explanation": "Correct use of past simple passive."
+        },
+        {
+          "number": 3,
+          "sentence": "Has your business trip to Calcutta next week *confirmed* by the Indian office?",
+          "answer": "been confirmed",
+          "explanation": "Present perfect passive requires 'been'."
+        },
+        {
+          "number": 4,
+          "sentence": "Everyone who *was been invited* to the wedding came.",
+          "answer": "had been invited",
+          "explanation": "Past perfect passive is needed for an action before another past action."
+        },
+        {
+          "number": 5,
+          "sentence": "The wire coat hanger *invented* in 1903 by a Mr Parkhouse.",
+          "answer": "was invented",
+          "explanation": "Subject is the receiver of the action."
+        },
+        {
+          "number": 6,
+          "sentence": "The issue *has discussed* in Parliament yesterday, but no decisions were taken.",
+          "answer": "was discussed",
+          "explanation": "'Yesterday' requires past simple passive."
+        },
+        {
+          "number": 7,
+          "sentence": "By the time we get there, the problem should have been sorted out.",
+          "answer": "tick",
+          "explanation": "Correct future perfect passive."
+        },
+        {
+          "number": 8,
+          "sentence": "Britain *was be invaded* by the Romans under Emperor Claudius in 43 AD.",
+          "answer": "was invaded",
+          "explanation": "Simple passive structure error."
+        },
+        {
+          "number": 9,
+          "sentence": "The party had been planned months in advance, but we still had problems.",
+          "answer": "tick",
+          "explanation": "Correct past perfect passive."
+        },
+        {
+          "number": 10,
+          "sentence": "After *be treated*, I was allowed to leave the hospital.",
+          "answer": "being treated",
+          "explanation": "'After' is followed by the gerund form."
+        },
+        {
+          "number": 11,
+          "sentence": "We boarded the ship and were *showing* to our cabin by a steward.",
+          "answer": "shown",
+          "explanation": "Passive requires past participle."
+        },
+        {
+          "number": 12,
+          "sentence": "The new supermarket is to be opened by an actor from a soap opera.",
+          "answer": "tick",
+          "explanation": "Correct future passive with 'is to be'."
+        }
       ]
     },
     {
@@ -111,16 +171,76 @@
       "type": "fill_blank",
       "instruction": "Write a verb from the box in the correct passive form in each gap.",
       "items": [
-        { "number": 1, "sentence": "The stolen items ___ in the attic of an empty house last week.", "answer": "were found", "explanation": "Past simple passive." },
-        { "number": 2, "sentence": "When the open-air cinema opens, the first film ___ will be Vertigo.", "answer": "shown", "explanation": "Reduced relative clause (passive)." },
-        { "number": 3, "sentence": "Questions ___ in Parliament about the Minister's business interests.", "answer": "were asked", "explanation": "Past simple passive." },
-        { "number": 4, "sentence": "We're looking forward to ___ a guided tour of the whole factory.", "answer": "being given", "explanation": "Passive gerund after 'look forward to'." },
-        { "number": 5, "sentence": "Just imagine that when these words ___ , Europeans had not yet discovered America.", "answer": "were written", "explanation": "Past simple passive." },
-        { "number": 6, "sentence": "Once the barbecue ___ , we'll be able to start cooking.", "answer": "is lit", "explanation": "Present simple passive in a time clause." },
-        { "number": 7, "sentence": "Before ___ to see the invention, I had to agree not to tell anyone.", "answer": "being allowed", "explanation": "Passive gerund after 'before'." },
-        { "number": 8, "sentence": "I would really like ___ at the airport, if that's possible.", "answer": "to be met", "explanation": "Passive infinitive after 'would like'." },
-        { "number": 9, "sentence": "It ___ very clear to us that we weren't welcome.", "answer": "was made", "explanation": "Past simple passive." },
-        { "number": 10, "sentence": "Gareth says he's always wanted ___ as someone with a good sense of humour.", "answer": "to be known", "explanation": "Passive infinitive after 'want'." }
+        {
+          "number": 1,
+          "sentence": "The stolen items ___ in the attic of an empty house last week.",
+          "answer": "were found",
+          "explanation": "Past simple passive."
+        },
+        {
+          "number": 2,
+          "sentence": "When the open-air cinema opens, the first film ___ will be Vertigo.",
+          "answer": "shown",
+          "explanation": "Reduced relative clause (passive)."
+        },
+        {
+          "number": 3,
+          "sentence": "Questions ___ in Parliament about the Minister's business interests.",
+          "answer": "were asked",
+          "explanation": "Past simple passive."
+        },
+        {
+          "number": 4,
+          "sentence": "We're looking forward to ___ a guided tour of the whole factory.",
+          "answer": "being given",
+          "explanation": "Passive gerund after 'look forward to'."
+        },
+        {
+          "number": 5,
+          "sentence": "Just imagine that when these words ___ , Europeans had not yet discovered America.",
+          "answer": "were written",
+          "explanation": "Past simple passive."
+        },
+        {
+          "number": 6,
+          "sentence": "Once the barbecue ___ , we'll be able to start cooking.",
+          "answer": "is lit",
+          "explanation": "Present simple passive in a time clause."
+        },
+        {
+          "number": 7,
+          "sentence": "Before ___ to see the invention, I had to agree not to tell anyone.",
+          "answer": "being allowed",
+          "explanation": "Passive gerund after 'before'."
+        },
+        {
+          "number": 8,
+          "sentence": "I would really like ___ at the airport, if that's possible.",
+          "answer": "to be met",
+          "explanation": "Passive infinitive after 'would like'."
+        },
+        {
+          "number": 9,
+          "sentence": "It ___ very clear to us that we weren't welcome.",
+          "answer": "was made",
+          "explanation": "Past simple passive."
+        },
+        {
+          "number": 10,
+          "sentence": "Gareth says he's always wanted ___ as someone with a good sense of humour.",
+          "answer": "to be known",
+          "explanation": "Passive infinitive after 'want'."
+        }
+      ],
+      "word_bank": [
+        "allow",
+        "ask",
+        "find",
+        "give",
+        "light",
+        "meet",
+        "show",
+        "write"
       ]
     },
     {
@@ -129,16 +249,106 @@
       "type": "multiple_choice",
       "instruction": "Circle the correct word or phrase.",
       "items": [
-        { "number": 1, "sentence": "Global warming ___ by pollution.", "options": ["is thought to be caused", "is caused"], "answer": "is thought to be caused", "explanation": "Impersonal passive structure." },
-        { "number": 2, "sentence": "There ___ about 5,400 different species of mammals.", "options": ["are to be estimated", "are estimated to be"], "answer": "are estimated to be", "explanation": "There + passive + to be." },
-        { "number": 3, "sentence": "It ___ that gunshots have been heard in the city centre.", "options": ["is to be reported", "has been reported"], "answer": "has been reported", "explanation": "Present perfect passive reporting current events." },
-        { "number": 4, "sentence": "The escaped prisoner is believed ___ a rope to climb the wall.", "options": ["to use", "to have used"], "answer": "to have used", "explanation": "Perfect infinitive for prior action." },
-        { "number": 5, "sentence": "It ___ that about 60% of a man's body mass is water.", "options": ["is to be calculated", "is calculated"], "answer": "is calculated", "explanation": "Standard impersonal passive." },
-        { "number": 6, "sentence": "Over 200 people ___ to have been injured in the explosion.", "options": ["are being understood", "are understood"], "answer": "are understood", "explanation": "Common reporting passive." },
-        { "number": 7, "sentence": "It is considered impolite in some cultures ___ with your left hand.", "options": ["to be eaten", "to eat"], "answer": "to eat", "explanation": "Active infinitive needed for the action of eating." },
-        { "number": 8, "sentence": "There ___ to have been 60 crates of olives in the order, not 600!", "options": ["mean", "were meant"], "answer": "were meant", "explanation": "Passive of 'mean' for obligation/expectation." },
-        { "number": 9, "sentence": "___ has been suggested that people who don't recycle should pay more tax.", "options": ["It", "There"], "answer": "It", "explanation": "Dummy subject for 'that' clause." },
-        { "number": 10, "sentence": "Your order is guaranteed ___ within three working days.", "options": ["will be delivered", "to be delivered"], "answer": "to be delivered", "explanation": "Infinitive after guarantee." }
+        {
+          "number": 1,
+          "sentence": "Global warming ___ by pollution.",
+          "options": [
+            "is thought to be caused",
+            "is caused"
+          ],
+          "answer": "is thought to be caused",
+          "explanation": "Impersonal passive structure."
+        },
+        {
+          "number": 2,
+          "sentence": "There ___ about 5,400 different species of mammals.",
+          "options": [
+            "are to be estimated",
+            "are estimated to be"
+          ],
+          "answer": "are estimated to be",
+          "explanation": "There + passive + to be."
+        },
+        {
+          "number": 3,
+          "sentence": "It ___ that gunshots have been heard in the city centre.",
+          "options": [
+            "is to be reported",
+            "has been reported"
+          ],
+          "answer": "has been reported",
+          "explanation": "Present perfect passive reporting current events."
+        },
+        {
+          "number": 4,
+          "sentence": "The escaped prisoner is believed ___ a rope to climb the wall.",
+          "options": [
+            "to use",
+            "to have used"
+          ],
+          "answer": "to have used",
+          "explanation": "Perfect infinitive for prior action."
+        },
+        {
+          "number": 5,
+          "sentence": "It ___ that about 60% of a man's body mass is water.",
+          "options": [
+            "is to be calculated",
+            "is calculated"
+          ],
+          "answer": "is calculated",
+          "explanation": "Standard impersonal passive."
+        },
+        {
+          "number": 6,
+          "sentence": "Over 200 people ___ to have been injured in the explosion.",
+          "options": [
+            "are being understood",
+            "are understood"
+          ],
+          "answer": "are understood",
+          "explanation": "Common reporting passive."
+        },
+        {
+          "number": 7,
+          "sentence": "It is considered impolite in some cultures ___ with your left hand.",
+          "options": [
+            "to be eaten",
+            "to eat"
+          ],
+          "answer": "to eat",
+          "explanation": "Active infinitive needed for the action of eating."
+        },
+        {
+          "number": 8,
+          "sentence": "There ___ to have been 60 crates of olives in the order, not 600!",
+          "options": [
+            "mean",
+            "were meant"
+          ],
+          "answer": "were meant",
+          "explanation": "Passive of 'mean' for obligation/expectation."
+        },
+        {
+          "number": 9,
+          "sentence": "___ has been suggested that people who don't recycle should pay more tax.",
+          "options": [
+            "It",
+            "There"
+          ],
+          "answer": "It",
+          "explanation": "Dummy subject for 'that' clause."
+        },
+        {
+          "number": 10,
+          "sentence": "Your order is guaranteed ___ within three working days.",
+          "options": [
+            "will be delivered",
+            "to be delivered"
+          ],
+          "answer": "to be delivered",
+          "explanation": "Infinitive after guarantee."
+        }
       ]
     },
     {
@@ -147,13 +357,48 @@
       "type": "error_correction",
       "instruction": "Each sentence contains one verb in the wrong form. Rewrite it correctly.",
       "items": [
-        { "number": 1, "sentence": "Heathrow Airport... *has called* the world's busiest...", "answer": "is called", "explanation": "Present simple passive for a fact." },
-        { "number": 2, "sentence": "The land... *sold* to Fairey Aviation...", "answer": "was sold", "explanation": "Past simple passive." },
-        { "number": 3, "sentence": "In 1944... was developed... *was named* after a small village...", "answer": "named", "explanation": "Participle phrase needed." },
-        { "number": 4, "sentence": "terminal building, which *has later renamed* Terminal 2...", "answer": "was later renamed", "explanation": "Past simple passive." },
-        { "number": 5, "sentence": "passengers could be *transport* from central London...", "answer": "transported", "explanation": "Past participle after 'be'." },
-        { "number": 6, "sentence": "permission *was been granted* for a fifth terminal...", "answer": "was granted", "explanation": "Past simple passive form error." },
-        { "number": 7, "sentence": "a new airport... *has been built* on a floating island...", "answer": "be built", "explanation": "Infinitive after 'would lead to'." }
+        {
+          "number": 1,
+          "sentence": "Heathrow Airport... *has called* the world's busiest...",
+          "answer": "is called",
+          "explanation": "Present simple passive for a fact."
+        },
+        {
+          "number": 2,
+          "sentence": "The land... *sold* to Fairey Aviation...",
+          "answer": "was sold",
+          "explanation": "Past simple passive."
+        },
+        {
+          "number": 3,
+          "sentence": "In 1944... was developed... *was named* after a small village...",
+          "answer": "named",
+          "explanation": "Participle phrase needed."
+        },
+        {
+          "number": 4,
+          "sentence": "terminal building, which *has later renamed* Terminal 2...",
+          "answer": "was later renamed",
+          "explanation": "Past simple passive."
+        },
+        {
+          "number": 5,
+          "sentence": "passengers could be *transport* from central London...",
+          "answer": "transported",
+          "explanation": "Past participle after 'be'."
+        },
+        {
+          "number": 6,
+          "sentence": "permission *was been granted* for a fifth terminal...",
+          "answer": "was granted",
+          "explanation": "Past simple passive form error."
+        },
+        {
+          "number": 7,
+          "sentence": "a new airport... *has been built* on a floating island...",
+          "answer": "be built",
+          "explanation": "Infinitive after 'would lead to'."
+        }
       ]
     },
     {
@@ -162,11 +407,36 @@
       "type": "transformation",
       "instruction": "Complete the sentences using the phrase given.",
       "items": [
-        { "number": 1, "sentence": "By the time I take my exams, ___ .", "answer": "I will have been in training as an accountant for a year", "explanation": "Use 'in training' for future perfect continuous meaning." },
-        { "number": 2, "sentence": "The redevelopment of the city centre ___ .", "answer": "has been under consideration for some time", "explanation": "Use 'under consideration' instead of passive." },
-        { "number": 3, "sentence": "Discussions on the issue ___ .", "answer": "have been in progress for over two weeks", "explanation": "Use 'in progress' phrase." },
-        { "number": 4, "sentence": "The local Art Society's latest works ___ .", "answer": "will be on display at the library this weekend", "explanation": "Use 'on display' phrase." },
-        { "number": 5, "sentence": "George's website ___ .", "answer": "has been under construction for a long time", "explanation": "Use 'under construction' phrase." }
+        {
+          "number": 1,
+          "sentence": "By the time I take my exams, ___ .",
+          "answer": "I will have been in training as an accountant for a year",
+          "explanation": "Use 'in training' for future perfect continuous meaning."
+        },
+        {
+          "number": 2,
+          "sentence": "The redevelopment of the city centre ___ .",
+          "answer": "has been under consideration for some time",
+          "explanation": "Use 'under consideration' instead of passive."
+        },
+        {
+          "number": 3,
+          "sentence": "Discussions on the issue ___ .",
+          "answer": "have been in progress for over two weeks",
+          "explanation": "Use 'in progress' phrase."
+        },
+        {
+          "number": 4,
+          "sentence": "The local Art Society's latest works ___ .",
+          "answer": "will be on display at the library this weekend",
+          "explanation": "Use 'on display' phrase."
+        },
+        {
+          "number": 5,
+          "sentence": "George's website ___ .",
+          "answer": "has been under construction for a long time",
+          "explanation": "Use 'under construction' phrase."
+        }
       ]
     },
     {
@@ -175,16 +445,66 @@
       "type": "error_correction",
       "instruction": "Rewrite the incorrect causative forms correctly.",
       "items": [
-        { "number": 1, "sentence": "We had to have it repaired twice!", "answer": "tick", "explanation": "Correct causative." },
-        { "number": 2, "sentence": "we *got delivered it* to our house...", "answer": "had it delivered", "explanation": "Causative structure is have/get sth done." },
-        { "number": 3, "sentence": "have it *check* straight away...", "answer": "checked", "explanation": "Past participle needed." },
-        { "number": 4, "sentence": "you'd had them do that.", "answer": "tick", "explanation": "Correct have someone do." },
-        { "number": 5, "sentence": "had *my dad to have* a look...", "answer": "my dad have", "explanation": "Have someone do (bare infinitive)." },
-        { "number": 6, "sentence": "have the company *to come*...", "answer": "come", "explanation": "Have someone do (bare infinitive)." },
-        { "number": 7, "sentence": "got my brother *to working*...", "answer": "to work", "explanation": "Get someone to do (full infinitive)." },
-        { "number": 8, "sentence": "bet he soon *had running it* smoothly.", "answer": "had it running", "explanation": "Have something doing." },
-        { "number": 9, "sentence": "get the company *come* out...", "answer": "to come", "explanation": "Get someone to do (full infinitive)." },
-        { "number": 10, "sentence": "get them to give you some compensation.", "answer": "tick", "explanation": "Correct causative." }
+        {
+          "number": 1,
+          "sentence": "We had to have it repaired twice!",
+          "answer": "tick",
+          "explanation": "Correct causative."
+        },
+        {
+          "number": 2,
+          "sentence": "we *got delivered it* to our house...",
+          "answer": "had it delivered",
+          "explanation": "Causative structure is have/get sth done."
+        },
+        {
+          "number": 3,
+          "sentence": "have it *check* straight away...",
+          "answer": "checked",
+          "explanation": "Past participle needed."
+        },
+        {
+          "number": 4,
+          "sentence": "you'd had them do that.",
+          "answer": "tick",
+          "explanation": "Correct have someone do."
+        },
+        {
+          "number": 5,
+          "sentence": "had *my dad to have* a look...",
+          "answer": "my dad have",
+          "explanation": "Have someone do (bare infinitive)."
+        },
+        {
+          "number": 6,
+          "sentence": "have the company *to come*...",
+          "answer": "come",
+          "explanation": "Have someone do (bare infinitive)."
+        },
+        {
+          "number": 7,
+          "sentence": "got my brother *to working*...",
+          "answer": "to work",
+          "explanation": "Get someone to do (full infinitive)."
+        },
+        {
+          "number": 8,
+          "sentence": "bet he soon *had running it* smoothly.",
+          "answer": "had it running",
+          "explanation": "Have something doing."
+        },
+        {
+          "number": 9,
+          "sentence": "get the company *come* out...",
+          "answer": "to come",
+          "explanation": "Get someone to do (full infinitive)."
+        },
+        {
+          "number": 10,
+          "sentence": "get them to give you some compensation.",
+          "answer": "tick",
+          "explanation": "Correct causative."
+        }
       ]
     },
     {
@@ -193,16 +513,66 @@
       "type": "fill_blank",
       "instruction": "Complete using causative forms.",
       "items": [
-        { "number": 1, "sentence": "I'll ___ it to you again. (your teacher / explain)", "answer": "have your teacher explain", "explanation": "Have someone do." },
-        { "number": 2, "sentence": "watching my kitten... soon ___ much better. (me / feel)", "answer": "had me feeling", "explanation": "Have someone doing." },
-        { "number": 3, "sentence": "Don't bother... ___ it. (a professional / do)", "answer": "have a professional do", "explanation": "Have someone do." },
-        { "number": 4, "sentence": "___ was so annoying... (our car / steal)", "answer": "Having our car stolen", "explanation": "Negative causative experience." },
-        { "number": 5, "sentence": "You won't learn... if you ___ you with your homework. (your parents / help)", "answer": "have your parents help", "explanation": "Have someone do." },
-        { "number": 6, "sentence": "the band soon ___ to their hit songs. (us all / dance)", "answer": "had us all dancing", "explanation": "Have someone doing." },
-        { "number": 7, "sentence": "Don't try ___ your dirty work! (me / do)", "answer": "to get me to do", "explanation": "Get someone to do." },
-        { "number": 8, "sentence": "thought about ___ as short as mine? (your hair / cut)", "answer": "having your hair cut", "explanation": "Have sth done." },
-        { "number": 9, "sentence": "I ___ me how to juggle... (Karen / show)", "answer": "had Karen show", "explanation": "Have someone do." },
-        { "number": 10, "sentence": "problems caused by students ___ by companies. (their essays / write)", "answer": "having their essays written", "explanation": "Have sth done." }
+        {
+          "number": 1,
+          "sentence": "I'll ___ it to you again. (your teacher / explain)",
+          "answer": "have your teacher explain",
+          "explanation": "Have someone do."
+        },
+        {
+          "number": 2,
+          "sentence": "watching my kitten... soon ___ much better. (me / feel)",
+          "answer": "had me feeling",
+          "explanation": "Have someone doing."
+        },
+        {
+          "number": 3,
+          "sentence": "Don't bother... ___ it. (a professional / do)",
+          "answer": "have a professional do",
+          "explanation": "Have someone do."
+        },
+        {
+          "number": 4,
+          "sentence": "___ was so annoying... (our car / steal)",
+          "answer": "Having our car stolen",
+          "explanation": "Negative causative experience."
+        },
+        {
+          "number": 5,
+          "sentence": "You won't learn... if you ___ you with your homework. (your parents / help)",
+          "answer": "have your parents help",
+          "explanation": "Have someone do."
+        },
+        {
+          "number": 6,
+          "sentence": "the band soon ___ to their hit songs. (us all / dance)",
+          "answer": "had us all dancing",
+          "explanation": "Have someone doing."
+        },
+        {
+          "number": 7,
+          "sentence": "Don't try ___ your dirty work! (me / do)",
+          "answer": "to get me to do",
+          "explanation": "Get someone to do."
+        },
+        {
+          "number": 8,
+          "sentence": "thought about ___ as short as mine? (your hair / cut)",
+          "answer": "having your hair cut",
+          "explanation": "Have sth done."
+        },
+        {
+          "number": 9,
+          "sentence": "I ___ me how to juggle... (Karen / show)",
+          "answer": "had Karen show",
+          "explanation": "Have someone do."
+        },
+        {
+          "number": 10,
+          "sentence": "problems caused by students ___ by companies. (their essays / write)",
+          "answer": "having their essays written",
+          "explanation": "Have sth done."
+        }
       ]
     },
     {
@@ -211,14 +581,78 @@
       "type": "transformation",
       "instruction": "Key word transformations.",
       "items": [
-        { "number": 1, "sentence": "I ___ for over 20 minutes on the phone!", "options": ["kept"], "answer": "was kept waiting", "explanation": "Passive of keep someone waiting." },
-        { "number": 2, "sentence": "Despite ___ , Ashley's always friendly.", "options": ["considered"], "answer": "being considered a star", "explanation": "Passive gerund." },
-        { "number": 3, "sentence": "The Prime Minister ___ a surprise visit to Syria.", "options": ["be"], "answer": "is reported to be making", "explanation": "Impersonal passive (present continuous)." },
-        { "number": 4, "sentence": "The ___ the manager.", "options": ["by"], "answer": "staff were provided with extra training by", "explanation": "Passive voice." },
-        { "number": 5, "sentence": "I think I need ___ me.", "options": ["explaining"], "answer": "this computer program explaining to", "explanation": "Causative pattern." },
-        { "number": 6, "sentence": "The new stadium ___ for much longer...", "options": ["under"], "answer": "has been under construction", "explanation": "Use prepositional phrase." },
-        { "number": 7, "sentence": "Do you know why ___ behind after the lesson?", "options": ["to"], "answer": "Craig was made to stay", "explanation": "Passive of make sb do." },
-        { "number": 8, "sentence": "Call Lionel and ___ the reports up.", "options": ["have"], "answer": "have him send", "explanation": "Causative have someone do." }
+        {
+          "number": 1,
+          "sentence": "I ___ for over 20 minutes on the phone!",
+          "options": [
+            "kept"
+          ],
+          "answer": "was kept waiting",
+          "explanation": "Passive of keep someone waiting."
+        },
+        {
+          "number": 2,
+          "sentence": "Despite ___ , Ashley's always friendly.",
+          "options": [
+            "considered"
+          ],
+          "answer": "being considered a star",
+          "explanation": "Passive gerund."
+        },
+        {
+          "number": 3,
+          "sentence": "The Prime Minister ___ a surprise visit to Syria.",
+          "options": [
+            "be"
+          ],
+          "answer": "is reported to be making",
+          "explanation": "Impersonal passive (present continuous)."
+        },
+        {
+          "number": 4,
+          "sentence": "The ___ the manager.",
+          "options": [
+            "by"
+          ],
+          "answer": "staff were provided with extra training by",
+          "explanation": "Passive voice."
+        },
+        {
+          "number": 5,
+          "sentence": "I think I need ___ me.",
+          "options": [
+            "explaining"
+          ],
+          "answer": "this computer program explaining to",
+          "explanation": "Causative pattern."
+        },
+        {
+          "number": 6,
+          "sentence": "The new stadium ___ for much longer...",
+          "options": [
+            "under"
+          ],
+          "answer": "has been under construction",
+          "explanation": "Use prepositional phrase."
+        },
+        {
+          "number": 7,
+          "sentence": "Do you know why ___ behind after the lesson?",
+          "options": [
+            "to"
+          ],
+          "answer": "Craig was made to stay",
+          "explanation": "Passive of make sb do."
+        },
+        {
+          "number": 8,
+          "sentence": "Call Lionel and ___ the reports up.",
+          "options": [
+            "have"
+          ],
+          "answer": "have him send",
+          "explanation": "Causative have someone do."
+        }
       ]
     },
     {
@@ -227,16 +661,126 @@
       "type": "multiple_choice",
       "instruction": "Choose the correct answer.",
       "items": [
-        { "number": 1, "sentence": "When Nadine arrived, she soon ___ at all her jokes.", "options": ["had everyone laughed", "had laughing everyone", "had everyone laughing", "had laughed everyone"], "answer": "had everyone laughing", "explanation": "Have someone doing." },
-        { "number": 2, "sentence": "The government must ___ strong measures against crime.", "options": ["be seen be taking", "see to be taking", "seen to take", "be seen to be taking"], "answer": "be seen to be taking", "explanation": "Passive + to be doing." },
-        { "number": 3, "sentence": "Mrs Davies... would like ___ by Friday.", "options": ["the orders sent", "sending the orders", "that you sent", "sent the orders"], "answer": "the orders sent", "explanation": "Would like sth done." },
-        { "number": 4, "sentence": "Joining a gym ___ , but I didn't fancy the idea.", "options": ["was suggested me", "to me was suggested", "was suggested to me", "was suggesting me"], "answer": "was suggested to me", "explanation": "Suggest sth to someone passive." },
-        { "number": 5, "sentence": "There ___ between 4,000 and 6,000 languages...", "options": ["say to be", "are said that", "are said to be", "said being"], "answer": "are said to be", "explanation": "There are said to be." },
-        { "number": 6, "sentence": "I spoke to Victor... he says he ___ while he was on holiday.", "options": ["had stolen his phone", "got stolen his phone", "was got his phone stolen", "had his phone stolen"], "answer": "had his phone stolen", "explanation": "Causative for experience." },
-        { "number": 7, "sentence": "Why didn't you ___ you when you moved house?", "options": ["have Aaron help", "have got Aaron help", "have Aaron helped", "get Aaron help"], "answer": "have Aaron help", "explanation": "Have someone do." },
-        { "number": 8, "sentence": "Profits ___ slightly next year...", "options": ["expect to fall", "are expecting to fall", "are expected falling", "are expected to fall"], "answer": "are expected to fall", "explanation": "Be expected to do." },
-        { "number": 9, "sentence": "It's hard to believe that this film ___ completely by computer.", "options": ["was been generating", "has generated", "has been generated", "was to generate"], "answer": "has been generated", "explanation": "Present perfect passive." },
-        { "number": 10, "sentence": "As soon as Dad ___ , we can leave.", "options": ["has the car starting", "has got the car started", "got started the car", "was got starting the car"], "answer": "has got the car started", "explanation": "Get sth done (finish)." }
+        {
+          "number": 1,
+          "sentence": "When Nadine arrived, she soon ___ at all her jokes.",
+          "options": [
+            "had everyone laughed",
+            "had laughing everyone",
+            "had everyone laughing",
+            "had laughed everyone"
+          ],
+          "answer": "had everyone laughing",
+          "explanation": "Have someone doing."
+        },
+        {
+          "number": 2,
+          "sentence": "The government must ___ strong measures against crime.",
+          "options": [
+            "be seen be taking",
+            "see to be taking",
+            "seen to take",
+            "be seen to be taking"
+          ],
+          "answer": "be seen to be taking",
+          "explanation": "Passive + to be doing."
+        },
+        {
+          "number": 3,
+          "sentence": "Mrs Davies... would like ___ by Friday.",
+          "options": [
+            "the orders sent",
+            "sending the orders",
+            "that you sent",
+            "sent the orders"
+          ],
+          "answer": "the orders sent",
+          "explanation": "Would like sth done."
+        },
+        {
+          "number": 4,
+          "sentence": "Joining a gym ___ , but I didn't fancy the idea.",
+          "options": [
+            "was suggested me",
+            "to me was suggested",
+            "was suggested to me",
+            "was suggesting me"
+          ],
+          "answer": "was suggested to me",
+          "explanation": "Suggest sth to someone passive."
+        },
+        {
+          "number": 5,
+          "sentence": "There ___ between 4,000 and 6,000 languages...",
+          "options": [
+            "say to be",
+            "are said that",
+            "are said to be",
+            "said being"
+          ],
+          "answer": "are said to be",
+          "explanation": "There are said to be."
+        },
+        {
+          "number": 6,
+          "sentence": "I spoke to Victor... he says he ___ while he was on holiday.",
+          "options": [
+            "had stolen his phone",
+            "got stolen his phone",
+            "was got his phone stolen",
+            "had his phone stolen"
+          ],
+          "answer": "had his phone stolen",
+          "explanation": "Causative for experience."
+        },
+        {
+          "number": 7,
+          "sentence": "Why didn't you ___ you when you moved house?",
+          "options": [
+            "have Aaron help",
+            "have got Aaron help",
+            "have Aaron helped",
+            "get Aaron help"
+          ],
+          "answer": "have Aaron help",
+          "explanation": "Have someone do."
+        },
+        {
+          "number": 8,
+          "sentence": "Profits ___ slightly next year...",
+          "options": [
+            "expect to fall",
+            "are expecting to fall",
+            "are expected falling",
+            "are expected to fall"
+          ],
+          "answer": "are expected to fall",
+          "explanation": "Be expected to do."
+        },
+        {
+          "number": 9,
+          "sentence": "It's hard to believe that this film ___ completely by computer.",
+          "options": [
+            "was been generating",
+            "has generated",
+            "has been generated",
+            "was to generate"
+          ],
+          "answer": "has been generated",
+          "explanation": "Present perfect passive."
+        },
+        {
+          "number": 10,
+          "sentence": "As soon as Dad ___ , we can leave.",
+          "options": [
+            "has the car starting",
+            "has got the car started",
+            "got started the car",
+            "was got starting the car"
+          ],
+          "answer": "has got the car started",
+          "explanation": "Get sth done (finish)."
+        }
       ]
     },
     {
@@ -245,16 +789,66 @@
       "type": "fill_blank",
       "instruction": "Write one word in each gap.",
       "items": [
-        { "number": 1, "sentence": "Imagine ___ transported...", "answer": "being", "explanation": "Imagine being V3." },
-        { "number": 2, "sentence": "...which ___ currently required...", "answer": "is", "explanation": "Present passive." },
-        { "number": 3, "sentence": "...which has been ___ development...", "answer": "under", "explanation": "Under development phrase." },
-        { "number": 4, "sentence": "...air ___ sucked...", "answer": "is", "explanation": "Present passive." },
-        { "number": 5, "sentence": "...mixed ___ fuel...", "answer": "with", "explanation": "Preposition used with materials." },
-        { "number": 6, "sentence": "...which has to ___ taken...", "answer": "be", "explanation": "Passive infinitive." },
-        { "number": 7, "sentence": "It has ___ estimated...", "answer": "been", "explanation": "Present perfect passive." },
-        { "number": 8, "sentence": "the technology ___ been found...", "answer": "has", "explanation": "Auxiliary for present perfect." },
-        { "number": 9, "sentence": "scientists ___ had scramjets perform...", "answer": "have", "explanation": "Causative have sth do." },
-        { "number": 10, "sentence": "may never ___ successfully developed.", "answer": "be", "explanation": "Modal passive." }
+        {
+          "number": 1,
+          "sentence": "Imagine ___ transported...",
+          "answer": "being",
+          "explanation": "Imagine being V3."
+        },
+        {
+          "number": 2,
+          "sentence": "...which ___ currently required...",
+          "answer": "is",
+          "explanation": "Present passive."
+        },
+        {
+          "number": 3,
+          "sentence": "...which has been ___ development...",
+          "answer": "under",
+          "explanation": "Under development phrase."
+        },
+        {
+          "number": 4,
+          "sentence": "...air ___ sucked...",
+          "answer": "is",
+          "explanation": "Present passive."
+        },
+        {
+          "number": 5,
+          "sentence": "...mixed ___ fuel...",
+          "answer": "with",
+          "explanation": "Preposition used with materials."
+        },
+        {
+          "number": 6,
+          "sentence": "...which has to ___ taken...",
+          "answer": "be",
+          "explanation": "Passive infinitive."
+        },
+        {
+          "number": 7,
+          "sentence": "It has ___ estimated...",
+          "answer": "been",
+          "explanation": "Present perfect passive."
+        },
+        {
+          "number": 8,
+          "sentence": "the technology ___ been found...",
+          "answer": "has",
+          "explanation": "Auxiliary for present perfect."
+        },
+        {
+          "number": 9,
+          "sentence": "scientists ___ had scramjets perform...",
+          "answer": "have",
+          "explanation": "Causative have sth do."
+        },
+        {
+          "number": 10,
+          "sentence": "may never ___ successfully developed.",
+          "answer": "be",
+          "explanation": "Modal passive."
+        }
       ]
     }
   ]

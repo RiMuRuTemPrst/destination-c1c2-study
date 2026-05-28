@@ -456,6 +456,24 @@
           "answer": "Do you think",
           "explanation": "Stative verb of opinion (think)."
         }
+      ],
+      "word_bank": [
+        "contact",
+        "do",
+        "drive",
+        "focus",
+        "go",
+        "happen",
+        "have",
+        "like",
+        "look",
+        "need",
+        "say",
+        "sound",
+        "take",
+        "think",
+        "try",
+        "work"
       ]
     },
     {
@@ -467,105 +485,150 @@
         {
           "number": 1,
           "sentence": "Could you explain what 'antidisestablishmentarianism' ___ , please?",
-          "options": ["means", "is meaning"],
+          "options": [
+            "means",
+            "is meaning"
+          ],
           "answer": "means",
           "explanation": "'Mean' is a stative verb (thinking/meaning)."
         },
         {
           "number": 2,
           "sentence": "Each song only ___ 50 cents at the moment because they're on special offer.",
-          "options": ["costs", "is only costing"],
+          "options": [
+            "costs",
+            "is only costing"
+          ],
           "answer": "costs",
           "explanation": "'Cost' is a stative verb of possession/value."
         },
         {
           "number": 3,
           "sentence": "It ___ which of the books we've studied this term you do your essay on.",
-          "options": ["doesn't matter", "isn't mattering"],
+          "options": [
+            "doesn't matter",
+            "isn't mattering"
+          ],
           "answer": "doesn't matter",
           "explanation": "'Matter' is a stative verb."
         },
         {
           "number": 4,
           "sentence": "It's only a quick call as ___ from my mobile.",
-          "options": ["I ring", "I'm ringing"],
+          "options": [
+            "I ring",
+            "I'm ringing"
+          ],
           "answer": "I'm ringing",
           "explanation": "Action happening right now."
         },
         {
           "number": 5,
           "sentence": "I think I ___ that woman over there. Wasn't she on that quiz show last night?",
-          "options": ["recognise", "I'm recognising"],
+          "options": [
+            "recognise",
+            "I'm recognising"
+          ],
           "answer": "recognise",
           "explanation": "'Recognise' is a stative verb of perception."
         },
         {
           "number": 6,
           "sentence": "Excuse me, ___ walnuts? I'm allergic to them.",
-          "options": ["does the nut cake contain", "is the nut cake containing"],
+          "options": [
+            "does the nut cake contain",
+            "is the nut cake containing"
+          ],
           "answer": "does the nut cake contain",
           "explanation": "'Contain' is a stative verb of possession."
         },
         {
           "number": 7,
           "sentence": "I really ___ that capital punishment deters people from committing murder.",
-          "options": ["don't agree", "I'm really not agreeing"],
+          "options": [
+            "don't agree",
+            "I'm really not agreeing"
+          ],
           "answer": "don't agree",
           "explanation": "'Agree' is a stative verb of communication/opinion."
         },
         {
           "number": 8,
           "sentence": "Why ___ football, Mark? I thought you had a match this afternoon.",
-          "options": ["don't you play", "aren't you playing"],
+          "options": [
+            "don't you play",
+            "aren't you playing"
+          ],
           "answer": "aren't you playing",
           "explanation": "Asking about an action that should be happening now."
         },
         {
           "number": 9,
           "sentence": "Stay out of this, Simon, it ___ you at all.",
-          "options": ["doesn't concern", "isn't concerning"],
+          "options": [
+            "doesn't concern",
+            "isn't concerning"
+          ],
           "answer": "doesn't concern",
           "explanation": "'Concern' is a stative verb."
         },
         {
           "number": 10,
           "sentence": "You really ___ your father when you frown like that.",
-          "options": ["resemble", "are resembling"],
+          "options": [
+            "resemble",
+            "are resembling"
+          ],
           "answer": "resemble",
           "explanation": "'Resemble' is a stative verb."
         },
         {
           "number": 11,
           "sentence": "If ___ TV, turn it off!",
-          "options": ["you're not watching", "you don't watch"],
+          "options": [
+            "you're not watching",
+            "you don't watch"
+          ],
           "answer": "you're not watching",
           "explanation": "Action happening (or not) at this moment."
         },
         {
           "number": 12,
           "sentence": "The number you have dialled ___ . Please try again.",
-          "options": ["does not exist", "is not existing"],
+          "options": [
+            "does not exist",
+            "is not existing"
+          ],
           "answer": "does not exist",
           "explanation": "'Exist' is a stative verb."
         },
         {
           "number": 13,
           "sentence": "I want everyone to do exercise H, and that ___ you too, Anne!",
-          "options": ["includes", "is including"],
+          "options": [
+            "includes",
+            "is including"
+          ],
           "answer": "includes",
           "explanation": "'Include' is a stative verb."
         },
         {
           "number": 14,
           "sentence": "___ the living room repainted so it's probably best if we go into the kitchen.",
-          "options": ["We're having", "We have"],
+          "options": [
+            "We're having",
+            "We have"
+          ],
           "answer": "We're having",
           "explanation": "Action happening around now/Temporary situation."
         },
         {
           "number": 15,
           "sentence": "Right now, my job ___ a huge amount of foreign travel.",
-          "options": ["involves", "is involving"],
+          "options": [
+            "involves",
+            "is involving"
+          ],
           "answer": "involves",
           "explanation": "'Involve' is a stative verb."
         }
@@ -697,6 +760,18 @@
           "answer": "see",
           "explanation": "State: understanding/noticing (perception)."
         }
+      ],
+      "word_bank": [
+        "appeal",
+        "be",
+        "consider",
+        "depend",
+        "feel",
+        "have",
+        "look",
+        "see",
+        "smell",
+        "think"
       ]
     },
     {
@@ -764,56 +839,80 @@
         {
           "number": 1,
           "sentence": "They ___ over six bags with rubbish from the beach already.",
-          "options": ["'ve filled", "been filling"],
+          "options": [
+            "'ve filled",
+            "been filling"
+          ],
           "answer": "'ve filled",
           "explanation": "Present perfect simple is used to specify a particular number of things."
         },
         {
           "number": 2,
           "sentence": "Have you ___ that story in the papers about the elephant that escaped from the zoo? Apparently, they've just ___ it.",
-          "options": ["followed / been following", "caught / been catching"],
+          "options": [
+            "followed / been following",
+            "caught / been catching"
+          ],
           "answer": "been following / caught",
           "explanation": "First blank: ongoing duration. Second blank: recently completed action."
         },
         {
           "number": 3,
           "sentence": "We ___ the Tower of London, Buckingham Palace and Oxford Street, and we've only been in London for three hours!",
-          "options": ["'ve seen", "been seeing"],
+          "options": [
+            "'ve seen",
+            "been seeing"
+          ],
           "answer": "'ve seen",
           "explanation": "Completed actions (results) up to now."
         },
         {
           "number": 4,
           "sentence": "It's the first time ___ The Editors play live.",
-          "options": ["I've heard", "been hearing"],
+          "options": [
+            "I've heard",
+            "been hearing"
+          ],
           "answer": "I've heard",
           "explanation": "The structure 'It's the first/second time...' is followed by present perfect simple."
         },
         {
           "number": 5,
           "sentence": "Jake and I have ___ about where to go on holiday for weeks but we just can't decide.",
-          "options": ["thought", "been thinking"],
+          "options": [
+            "thought",
+            "been thinking"
+          ],
           "answer": "been thinking",
           "explanation": "Emphasizes the duration of the action."
         },
         {
           "number": 6,
           "sentence": "You can't want to go to the toilet already - we've only ___ for about ten minutes so far!",
-          "options": ["driven", "been driving"],
+          "options": [
+            "driven",
+            "been driving"
+          ],
           "answer": "been driving",
           "explanation": "Emphasizes the duration/process."
         },
         {
           "number": 7,
           "sentence": "I've ___ up all day and my feet are killing me!",
-          "options": ["stood", "been standing"],
+          "options": [
+            "stood",
+            "been standing"
+          ],
           "answer": "been standing",
           "explanation": "Emphasizes the continuous nature/duration of the action."
         },
         {
           "number": 8,
           "sentence": "Has Jan ___ for the company since it started?",
-          "options": ["worked", "been working"],
+          "options": [
+            "worked",
+            "been working"
+          ],
           "answer": "worked / been working",
           "explanation": "Both are correct for verbs like 'work' and 'live' with 'since/for'."
         }
@@ -977,6 +1076,19 @@
           "answer": "yet",
           "explanation": "Expecting the action to be finished by now."
         }
+      ],
+      "word_bank": [
+        "already",
+        "before",
+        "ever",
+        "for",
+        "just",
+        "recently",
+        "since",
+        "so",
+        "still",
+        "until",
+        "yet"
       ]
     },
     {

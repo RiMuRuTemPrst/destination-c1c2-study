@@ -1795,6 +1795,16 @@
           "answer": "works",
           "explanation": "'Works of art' is the standard term for artistic creations."
         }
+      ],
+      "word_bank": [
+        "bestseller",
+        "curator",
+        "lines",
+        "lyrics",
+        "paperback",
+        "recital",
+        "retrospective",
+        "score"
       ]
     },
     {
@@ -1851,6 +1861,17 @@
           "answer": "period",
           "explanation": "'Period' furniture belongs to a specific historical time."
         }
+      ],
+      "word_bank": [
+        "abstract",
+        "auction",
+        "audition",
+        "fine",
+        "installation",
+        "item",
+        "masterpiece",
+        "period",
+        "sketch"
       ]
     },
     {
@@ -2269,6 +2290,16 @@
           "answer": "edge",
           "explanation": "Idiom: 'the edge over'."
         }
+      ],
+      "word_bank": [
+        "heel",
+        "line",
+        "par",
+        "pride",
+        "show",
+        "sight",
+        "word",
+        "world"
       ]
     },
     {

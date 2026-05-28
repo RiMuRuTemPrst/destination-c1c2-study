@@ -1912,7 +1912,17 @@
         }
       ],
       "label": "A",
-      "type": "fill_blank"
+      "type": "fill_blank",
+      "word_bank": [
+        "attribute",
+        "determine",
+        "fluctuate",
+        "foresee",
+        "gamble",
+        "mutate",
+        "startle",
+        "wobble"
+      ]
     },
     {
       "id": "u12_B",
@@ -2120,7 +2130,17 @@
         }
       ],
       "label": "C",
-      "type": "fill_blank"
+      "type": "fill_blank",
+      "word_bank": [
+        "blow",
+        "freak",
+        "haphazard",
+        "inadvertent",
+        "mishap",
+        "odds",
+        "spontaneous",
+        "statistic"
+      ]
     },
     {
       "id": "u12_D",
@@ -2368,7 +2388,17 @@
         }
       ],
       "label": "G",
-      "type": "fill_blank"
+      "type": "fill_blank",
+      "word_bank": [
+        "chance upon",
+        "come across",
+        "dig up",
+        "slip up",
+        "spring up",
+        "store up",
+        "throw out",
+        "throw up"
+      ]
     },
     {
       "id": "u12_H",

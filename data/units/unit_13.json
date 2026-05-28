@@ -341,42 +341,66 @@
         {
           "number": 1,
           "sentence": "Why do you always act as if you were better than everyone else, John? Is John better than everyone else?",
-          "options": ["Yes, he is.", "No, he isn't.", "He might think he is."],
+          "options": [
+            "Yes, he is.",
+            "No, he isn't.",
+            "He might think he is."
+          ],
           "answer": "Yes, he is.",
           "explanation": "'As if you were' implies that he is not actually better."
         },
         {
           "number": 2,
           "sentence": "Rod often acts as if he had lots of brothers and sisters. Does Rod have lots of brothers and sisters?",
-          "options": ["Yes, he does.", "No, he doesn't.", "He could have but we don't know."],
+          "options": [
+            "Yes, he does.",
+            "No, he doesn't.",
+            "He could have but we don't know."
+          ],
           "answer": "Yes, he does.",
           "explanation": "'As if he had' suggests that he doesn't actually have them."
         },
         {
           "number": 3,
           "sentence": "They look as if they've been running fast. Have they been running fast?",
-          "options": ["Yes, they're probably sweating.", "No, they haven't.", "They could well have been."],
+          "options": [
+            "Yes, they're probably sweating.",
+            "No, they haven't.",
+            "They could well have been."
+          ],
           "answer": "No, they haven't.",
           "explanation": "Using present perfect after 'as if' indicates the comparison is likely true."
         },
         {
           "number": 4,
           "sentence": "There's no need to be frightened of him. Just treat him as if you didn't know he'd spent some time in prison. Do you know about the time he spent in prison?",
-          "options": ["Yes, you do.", "No, you know nothing about it.", "You probably do."],
+          "options": [
+            "Yes, you do.",
+            "No, you know nothing about it.",
+            "You probably do."
+          ],
           "answer": "No, you know nothing about it.",
           "explanation": "'As if you didn't know' implies that you actually do know."
         },
         {
           "number": 5,
           "sentence": "It was scary! At one point, it felt like we weren't ever going to get out of that jungle alive. How did you feel in the jungle?",
-          "options": ["You would get out of it easily.", "You would possibly die in the jungle.", "You didn't know if you would survive the jungle or not."],
+          "options": [
+            "You would get out of it easily.",
+            "You would possibly die in the jungle.",
+            "You didn't know if you would survive the jungle or not."
+          ],
           "answer": "You would get out of it easily.",
           "explanation": "The speaker felt they were in danger of dying."
         },
         {
           "number": 6,
           "sentence": "Sara looked as if she had just woken up. How did Sara look?",
-          "options": ["She looked tired and she wasn't wearing her make-up.", "She certainly hadn't just woken up then.", "She could possibly just have looked tired but got up a lot earlier."],
+          "options": [
+            "She looked tired and she wasn't wearing her make-up.",
+            "She certainly hadn't just woken up then.",
+            "She could possibly just have looked tired but got up a lot earlier."
+          ],
           "answer": "She certainly hadn't just woken up then.",
           "explanation": "When the main verb is past, 'as if + past perfect' can be true or hypothetical."
         }
@@ -590,6 +614,20 @@
           "answer": "to call",
           "explanation": "Is it time + to infinitive."
         }
+      ],
+      "word_bank": [
+        "allow",
+        "buy",
+        "call",
+        "do",
+        "get up",
+        "give",
+        "go",
+        "learn",
+        "look",
+        "make",
+        "start",
+        "stop"
       ]
     },
     {
@@ -669,105 +707,150 @@
         {
           "number": 1,
           "sentence": "All of my friends have got mobiles. I wish I ___ one too!",
-          "options": ["have", "had"],
+          "options": [
+            "have",
+            "had"
+          ],
           "answer": "had",
           "explanation": "Wish about a current situation uses the past simple."
         },
         {
           "number": 2,
           "sentence": "Don't you sometimes wish you ___ this company?",
-          "options": ["ran", "were running"],
+          "options": [
+            "ran",
+            "were running"
+          ],
           "answer": "both",
           "explanation": "Both past simple and past continuous can be used for current wishes."
         },
         {
           "number": 3,
           "sentence": "If only we ___ the map at home!",
-          "options": ["didn't leave", "hadn't left"],
+          "options": [
+            "didn't leave",
+            "hadn't left"
+          ],
           "answer": "hadn't left",
           "explanation": "Wish about a past situation uses the past perfect."
         },
         {
           "number": 4,
           "sentence": "If only we ___ have to go to school tomorrow!",
-          "options": ["don't", "didn't"],
+          "options": [
+            "don't",
+            "didn't"
+          ],
           "answer": "didn't",
           "explanation": "Wish about a future situation uses the past simple."
         },
         {
           "number": 5,
           "sentence": "I do wish the bus ___ . I'm going to be late.",
-          "options": ["came", "would come"],
+          "options": [
+            "came",
+            "would come"
+          ],
           "answer": "would come",
           "explanation": "Wish for a situation to change or a criticism."
         },
         {
           "number": 6,
           "sentence": "Do you ever wish that you ___ really well?",
-          "options": ["sang", "could sing"],
+          "options": [
+            "sang",
+            "could sing"
+          ],
           "answer": "could sing",
           "explanation": "Wish about ability uses 'could'."
         },
         {
           "number": 7,
           "sentence": "There's only really one thing I regret. I wish I ___ to university but of course, in those days, it just wasn't possible.",
-          "options": ["could go", "have gone"],
+          "options": [
+            "could go",
+            "have gone"
+          ],
           "answer": "could have gone",
           "explanation": "Wish about past ability/opportunity (perfect infinitive)."
         },
         {
           "number": 8,
           "sentence": "Excuse me, I wish ___ to the person in charge.",
-          "options": ["spoke", "to speak"],
+          "options": [
+            "spoke",
+            "to speak"
+          ],
           "answer": "to speak",
           "explanation": "'Wish + full infinitive' is a formal way to express desire."
         },
         {
           "number": 9,
           "sentence": "I ___ it snows tomorrow!",
-          "options": ["wish", "hope"],
+          "options": [
+            "wish",
+            "hope"
+          ],
           "answer": "hope",
           "explanation": "Use 'hope' for possible future desires."
         },
         {
           "number": 10,
           "sentence": "Why on earth does Geoffrey wish ___ a knighthood?",
-          "options": ["he would be given", "they would give him"],
+          "options": [
+            "he would be given",
+            "they would give him"
+          ],
           "answer": "they would give him",
           "explanation": "Do not use 'would' when the subject of 'wish' is the same as the subject of 'would'."
         },
         {
           "number": 11,
           "sentence": "Well, I don't think it's a very sensible business venture, but I do wish you ___ .",
-          "options": ["luck", "lucky"],
+          "options": [
+            "luck",
+            "lucky"
+          ],
           "answer": "luck",
           "explanation": "'Wish + noun' to wish someone something."
         },
         {
           "number": 12,
           "sentence": "My grandfather always wished that he ___ taller.",
-          "options": ["was", "had been"],
+          "options": [
+            "was",
+            "had been"
+          ],
           "answer": "was",
           "explanation": "When 'wish' is in past simple, follow it with past simple for general wishes during that time."
         },
         {
           "number": 13,
           "sentence": "If only ___ watching Thomas instead of checking your e-mail. He wouldn't have fallen off the slide then.",
-          "options": ["you were", "you'd been"],
+          "options": [
+            "you were",
+            "you'd been"
+          ],
           "answer": "you'd been",
           "explanation": "Hypothetical past continuous situation (Third conditional)."
         },
         {
           "number": 14,
           "sentence": "I do wish the taxi driver ___ so slowly. We're never going to get there!",
-          "options": ["didn't go", "wasn't going"],
+          "options": [
+            "didn't go",
+            "wasn't going"
+          ],
           "answer": "wasn't going",
           "explanation": "Wish for a current situation to be different."
         },
         {
           "number": 15,
           "sentence": "If only Peggy ___ sent off. I'm sure we'd have won the match.",
-          "options": ["wasn't", "hadn't been"],
+          "options": [
+            "wasn't",
+            "hadn't been"
+          ],
           "answer": "hadn't been",
           "explanation": "Hypothetical past situation (Third conditional)."
         }
@@ -782,56 +865,96 @@
         {
           "number": 1,
           "sentence": "Imagine ___ when the ancient Egyptians built the pyramids. How would your life have been different?",
-          "options": ["you'd been living", "you're living", "you live", "you've been living"],
+          "options": [
+            "you'd been living",
+            "you're living",
+            "you live",
+            "you've been living"
+          ],
           "answer": "you'd been living",
           "explanation": "Hypothetical past situation after 'Imagine'."
         },
         {
           "number": 2,
           "sentence": "What if your cat suddenly ___ to you right now? How would you react?",
-          "options": ["had started talking", "is starting to talk", "starts talking", "started talking"],
+          "options": [
+            "had started talking",
+            "is starting to talk",
+            "starts talking",
+            "started talking"
+          ],
           "answer": "started talking",
           "explanation": "Hypothetical present situation after 'What if'."
         },
         {
           "number": 3,
           "sentence": "Would Rubik have become rich if he ___ the Rubik's Cube?",
-          "options": ["hadn't invented", "hadn't been inventing", "didn't invent", "wasn't inventing"],
+          "options": [
+            "hadn't invented",
+            "hadn't been inventing",
+            "didn't invent",
+            "wasn't inventing"
+          ],
           "answer": "hadn't invented",
           "explanation": "Third conditional (hypothetical past)."
         },
         {
           "number": 4,
           "sentence": "It's high time ___ rid of this old sofa.",
-          "options": ["we got", "we get", "for us to get", "to get"],
+          "options": [
+            "we got",
+            "we get",
+            "for us to get",
+            "to get"
+          ],
           "answer": "we got",
           "explanation": "It's high time + subject + past simple."
         },
         {
           "number": 5,
           "sentence": "It's amazing how Jenny acts as though she and Darren ___ serious problems at the moment.",
-          "options": ["aren't having", "weren't having", "hadn't had", "hadn't been having"],
+          "options": [
+            "aren't having",
+            "weren't having",
+            "hadn't had",
+            "hadn't been having"
+          ],
           "answer": "weren't having",
           "explanation": "Hypothetical present comparison (they are having problems)."
         },
         {
           "number": 6,
           "sentence": "___ either of you want some more dessert?",
-          "options": ["Had", "Would", "Did", "Were"],
+          "options": [
+            "Had",
+            "Would",
+            "Did",
+            "Were"
+          ],
           "answer": "Did",
           "explanation": "Past simple used for a polite question."
         },
         {
           "number": 7,
           "sentence": "If you ___ to attend the wedding, would you still have to reply to the invitation?",
-          "options": ["aren't planning", "don't plan", "weren't planning", "hadn't been planning"],
+          "options": [
+            "aren't planning",
+            "don't plan",
+            "weren't planning",
+            "hadn't been planning"
+          ],
           "answer": "weren't planning",
           "explanation": "Hypothetical current/future plan (Second conditional)."
         },
         {
           "number": 8,
           "sentence": "Apparently, Lewis would rather we ___ anything special for his 18th birthday next month.",
-          "options": ["don't organise", "didn't organise", "haven't organised", "aren't going to organise"],
+          "options": [
+            "don't organise",
+            "didn't organise",
+            "haven't organised",
+            "aren't going to organise"
+          ],
           "answer": "didn't organise",
           "explanation": "Would rather + subject + past simple for future preference."
         }
