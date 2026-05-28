@@ -62,23 +62,33 @@ def patch_unit(model, unit_id: int) -> int:
 
     for chunk in chunks:
         prompt = PATCH_PROMPT.format(words_json=json.dumps(chunk, ensure_ascii=False, indent=2))
-        try:
-            resp = model.generate_content(
-                prompt,
-                generation_config=genai.GenerationConfig(
-                    response_mime_type="application/json",
-                    response_schema=PATCH_SCHEMA,
-                    temperature=0.1,
+        for attempt in range(4):
+            try:
+                resp = model.generate_content(
+                    prompt,
+                    generation_config=genai.GenerationConfig(
+                        response_mime_type="application/json",
+                        response_schema=PATCH_SCHEMA,
+                        temperature=0.1,
+                    )
                 )
-            )
-            results = {r["word"]: r["example_vi"] for r in json.loads(resp.text) if r.get("example_vi")}
-            for s in data["vocabulary_sections"]:
-                for w in s.get("words", []):
-                    if w["word"] in results and not w.get("example_vi"):
-                        w["example_vi"] = results[w["word"]]
-                        total_patched += 1
-        except Exception as e:
-            print(f"  Unit {unit_id:02d}: API error — {e}")
+                results = {r["word"]: r["example_vi"] for r in json.loads(resp.text) if r.get("example_vi")}
+                for s in data["vocabulary_sections"]:
+                    for w in s.get("words", []):
+                        if w["word"] in results and not w.get("example_vi"):
+                            w["example_vi"] = results[w["word"]]
+                            total_patched += 1
+                break
+            except Exception as e:
+                msg = str(e)
+                if "429" in msg or "RESOURCE_EXHAUSTED" in msg or "quota" in msg.lower():
+                    wait = 60 * (attempt + 1)
+                    print(f"\n  Rate limit, waiting {wait}s...", end=" ", flush=True)
+                    time.sleep(wait)
+                else:
+                    print(f"  Unit {unit_id:02d}: API error — {e}")
+                    break
+        time.sleep(5)  # small gap between chunks
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -114,8 +124,8 @@ def main():
         print(f"[{i+1}/{len(unit_ids)}] Unit {uid:02d}...", end=" ", flush=True)
         n = patch_unit(model, uid)
         total += n
-        if i < len(unit_ids) - 1 and n > 0:
-            time.sleep(35)
+        if i < len(unit_ids) - 1:
+            time.sleep(10)
 
     rebuild_bundle()
     print(f"\nDone. Total: {total} example_vi added. Bundle rebuilt.")
